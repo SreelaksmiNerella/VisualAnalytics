@@ -1,4 +1,4 @@
-n<!DOCTYPE html>
+<!DOCTYPE html>
 <meta charset="utf-8">
 <head>
 	<script src="http://colorbrewer2.org/export/colorbrewer.js"></script>
@@ -192,11 +192,12 @@ text {
 
  $(document).ready(function() {
  	var places1 =[];var places2 =[];var places3 =[];var places4 =[];var places5 =[];var places6 =[];var places7 =[];
- 	var places8 =[];var places9 =[];
- 	
+ 	var places8 =[];var places9 =[];var places10 =[];var places11 =[];var places12 =[];var places13 =[];var places14=[];  var places15 =[];var places16 =[]; var places17 =[];var places18 =[];
+ 
+  
     $.ajax({
         type: "GET",
-        url: "2000-09-locations.csv",
+        url: "1970-79-locations.csv",
         dataType: "text",
         success: function(data) {processData(data);}
      });
@@ -219,43 +220,102 @@ text {
      			longitude:data[2]
      		}
      	};
-     /*	Armed Assault,Assassination,Bombing,Infrastructure Attack,Hijacking,Barricade Incident,Kidnapping,UnarmedAssaults,Unkown*/
-     if(data[3]=="Armed Assault")
+     /*	
+     **
+
+
+Unknown
+Business
+Educational Institution
+Government 
+Police
+Private Citizens & Property
+Transportation
+Violent Political Party
+Religious Figures/Institutions
+Military
+Telecommunication
+Utilities
+NGO
+Journalists & Media
+Food or Water Supply
+Airports & Aircraft
+Tourists
+     **
+     */
+     if(data[4]=="Unknown")
      {
      	places1.push(mydata);
      	
      }
- 	else if(data[3]=="Assassination")
+ 	else if(data[4]=="Business")
      {
      	places2.push(mydata);
      }
-     else if(data[3]=="Bombing")
+     else if(data[4]=="Educational Institution")
      {
      	places3.push(mydata);
      }
-     else if(data[3]=="Infrastructure Attack")
+     else if(data[4]=="Government")
      {
      	places4.push(mydata);
      }
-     else if(data[3]=="Hijacking")
+     else if(data[4]=="Police")
      {
      	places5.push(mydata);
      }
-     else if(data[3]=="Barricade Incident")
+     else if(data[4]=="Private Citizens & Property")
      {
      	places6.push(mydata);
      }
-     else if(data[3]=="Kidnapping")
+     else if(data[4]=="Transportation")
      {
      	places7.push(mydata);
      }
-     else if(data[3]=="Unarmed Assaults")
+     else if(data[4]=="Violent Political Party")
      {
      	places8.push(mydata);
      }
-     else if(data[3]=="Unkown")
+     
+     else if(data[4]=="Religious Figures/Institutions")
      {
-     	places9.push(mydata);
+      places9.push(mydata);
+     }
+     else if(data[4]=="Military")
+     {
+      places10.push(mydata);
+     }
+     else if(data[4]=="Telecommunication")
+     {
+      places11.push(mydata);
+     }
+     else if(data[4]=="Utilities")
+     {
+      places12.push(mydata);
+     }
+     else if(data[4]=="NGO")
+     {
+      places13.push(mydata);
+     }
+     else if(data[4]=="Journalists & Media")
+     {
+      places14.push(mydata);
+     }
+     else if(data[4]=="Food or Water Supply")
+     {
+      places15.push(mydata);
+     }
+     else if(data[4]=="Airports & Aircraft")
+     {
+      places16.push(mydata);
+     }
+     else if(data[4]=="Tourists")
+     {
+      places17.push(mydata);
+     }
+     else
+     {
+      places18.push(mydata);
      }
      	
       // add.push(String(allTextLines[i]));
@@ -304,7 +364,7 @@ d3.json("test.json", function(error, swiss) {
 						  .enter().append("circle", ".pin")
 
 						  .attr("r", 5)
-						  .style("fill", "red")
+						  .style("fill", "apricot")
     						.style("stroke", "black")
 						  .attr("transform", function(d) {
 							return "translate(" + projection([
@@ -320,7 +380,7 @@ d3.json("test.json", function(error, swiss) {
 						  .data(places2)
 						  .enter().append("circle", ".pin")
 						  .attr("r", 5)
-						  .style("fill", "yellow")
+						  .style("fill", "aqua")
     						.style("stroke", "black")
 						  .attr("transform", function(d) {
 							return "translate(" + projection([
@@ -333,86 +393,6 @@ d3.json("test.json", function(error, swiss) {
 
 							svg.selectAll(".pin")
 						  .data(places3)
-						  .enter().append("circle", ".pin")
-						  .attr("r", 5)
-						  .style("fill", "purple")
-    						.style("stroke", "black")
-						  .attr("transform", function(d) {
-							return "translate(" + projection([
-							  d.location.longitude,
-							  d.location.latitude
-							]) + ")";
-						  })
-						   .on('mouseover', tip.show)
-							.on('click', tip.hide);
-
-
-svg.selectAll(".pin")
-						  .data(places4)
-						  .enter().append("circle", ".pin")
-						  .attr("r", 5)
-						  .style("fill", "green")
-    						.style("stroke", "black")
-						  .attr("transform", function(d) {
-							return "translate(" + projection([
-							  d.location.longitude,
-							  d.location.latitude
-							]) + ")";
-						  })
-						   .on('mouseover', tip.show)
-							.on('click', tip.hide);
-
-
-svg.selectAll(".pin")
-						  .data(places5)
-						  .enter().append("circle", ".pin")
-						  .attr("r", 5)
-						  .style("fill", "blue")
-    						.style("stroke", "black")
-						  .attr("transform", function(d) {
-							return "translate(" + projection([
-							  d.location.longitude,
-							  d.location.latitude
-							]) + ")";
-						  })
-						   .on('mouseover', tip.show)
-							.on('click', tip.hide);
-
-
-svg.selectAll(".pin")
-						  .data(places6)
-						  .enter().append("circle", ".pin")
-						  .attr("r", 5)
-						  .style("fill", "pink")
-    						.style("stroke", "black")
-						  .attr("transform", function(d) {
-							return "translate(" + projection([
-							  d.location.longitude,
-							  d.location.latitude
-							]) + ")";
-						  })
-						   .on('mouseover', tip.show)
-							.on('click', tip.hide);
-
-
-svg.selectAll(".pin")
-						  .data(places7)
-						  .enter().append("circle", ".pin")
-						  .attr("r", 5)
-						  .style("fill", "orange")
-    						.style("stroke", "black")
-						  .attr("transform", function(d) {
-							return "translate(" + projection([
-							  d.location.longitude,
-							  d.location.latitude
-							]) + ")";
-						  })
-						   .on('mouseover', tip.show)
-							.on('click', tip.hide);
-
-
-svg.selectAll(".pin")
-						  .data(places8)
 						  .enter().append("circle", ".pin")
 						  .attr("r", 5)
 						  .style("fill", "black")
@@ -428,7 +408,39 @@ svg.selectAll(".pin")
 
 
 svg.selectAll(".pin")
-						  .data(places9)
+						  .data(places4)
+						  .enter().append("circle", ".pin")
+						  .attr("r", 5)
+						  .style("fill", "blue")
+    						.style("stroke", "black")
+						  .attr("transform", function(d) {
+							return "translate(" + projection([
+							  d.location.longitude,
+							  d.location.latitude
+							]) + ")";
+						  })
+						   .on('mouseover', tip.show)
+							.on('click', tip.hide);
+
+
+svg.selectAll(".pin")
+						  .data(places5)
+						  .enter().append("circle", ".pin")
+						  .attr("r", 5)
+						  .style("fill", "blueviolet")
+    						.style("stroke", "black")
+						  .attr("transform", function(d) {
+							return "translate(" + projection([
+							  d.location.longitude,
+							  d.location.latitude
+							]) + ")";
+						  })
+						   .on('mouseover', tip.show)
+							.on('click', tip.hide);
+
+
+svg.selectAll(".pin")
+						  .data(places6)
 						  .enter().append("circle", ".pin")
 						  .attr("r", 5)
 						  .style("fill", "brown")
@@ -441,6 +453,189 @@ svg.selectAll(".pin")
 						  })
 						   .on('mouseover', tip.show)
 							.on('click', tip.hide);
+
+
+svg.selectAll(".pin")
+						  .data(places7)
+						  .enter().append("circle", ".pin")
+						  .attr("r", 5)
+						  .style("fill", "cyan")
+    						.style("stroke", "black")
+						  .attr("transform", function(d) {
+							return "translate(" + projection([
+							  d.location.longitude,
+							  d.location.latitude
+							]) + ")";
+						  })
+						   .on('mouseover', tip.show)
+							.on('click', tip.hide);
+
+
+svg.selectAll(".pin")
+						  .data(places8)
+						  .enter().append("circle", ".pin")
+						  .attr("r", 5)
+						  .style("fill", "green")
+    						.style("stroke", "black")
+						  .attr("transform", function(d) {
+							return "translate(" + projection([
+							  d.location.longitude,
+							  d.location.latitude
+							]) + ")";
+						  })
+						   .on('mouseover', tip.show)
+							.on('click', tip.hide);
+
+
+svg.selectAll(".pin")
+						  .data(places9)
+						  .enter().append("circle", ".pin")
+						  .attr("r", 5)
+						  .style("fill", "grey")
+    						.style("stroke", "black")
+						  .attr("transform", function(d) {
+							return "translate(" + projection([
+							  d.location.longitude,
+							  d.location.latitude
+							]) + ")";
+						  })
+						   .on('mouseover', tip.show)
+							.on('click', tip.hide);
+
+svg.selectAll(".pin")
+              .data(places10)
+              .enter().append("circle", ".pin")
+              .attr("r", 5)
+              .style("fill", "plum")
+                .style("stroke", "black")
+              .attr("transform", function(d) {
+              return "translate(" + projection([
+                d.location.longitude,
+                d.location.latitude
+              ]) + ")";
+              })
+               .on('mouseover', tip.show)
+              .on('click', tip.hide);
+
+svg.selectAll(".pin")
+              .data(places11)
+              .enter().append("circle", ".pin")
+              .attr("r", 5)
+              .style("fill", "red")
+                .style("stroke", "black")
+              .attr("transform", function(d) {
+              return "translate(" + projection([
+                d.location.longitude,
+                d.location.latitude
+              ]) + ")";
+              })
+               .on('mouseover', tip.show)
+              .on('click', tip.hide);
+
+svg.selectAll(".pin")
+              .data(places12)
+              .enter().append("circle", ".pin")
+              .attr("r", 5)
+              .style("fill", "yellow")
+                .style("stroke", "black")
+              .attr("transform", function(d) {
+              return "translate(" + projection([
+                d.location.longitude,
+                d.location.latitude
+              ]) + ")";
+              })
+               .on('mouseover', tip.show)
+              .on('click', tip.hide);
+
+svg.selectAll(".pin")
+              .data(places13)
+              .enter().append("circle", ".pin")
+              .attr("r", 5)
+              .style("fill", "lavendar")
+                .style("stroke", "black")
+              .attr("transform", function(d) {
+              return "translate(" + projection([
+                d.location.longitude,
+                d.location.latitude
+              ]) + ")";
+              })
+               .on('mouseover', tip.show)
+              .on('click', tip.hide);
+
+svg.selectAll(".pin")
+              .data(places14)
+              .enter().append("circle", ".pin")
+              .attr("r", 5)
+              .style("fill", "chartreuse")
+                .style("stroke", "black")
+              .attr("transform", function(d) {
+              return "translate(" + projection([
+                d.location.longitude,
+                d.location.latitude
+              ]) + ")";
+              })
+               .on('mouseover', tip.show)
+              .on('click', tip.hide);
+
+svg.selectAll(".pin")
+              .data(places15)
+              .enter().append("circle", ".pin")
+              .attr("r", 5)
+              .style("fill", "crimson")
+                .style("stroke", "black")
+              .attr("transform", function(d) {
+              return "translate(" + projection([
+                d.location.longitude,
+                d.location.latitude
+              ]) + ")";
+              })
+               .on('mouseover', tip.show)
+              .on('click', tip.hide);
+
+svg.selectAll(".pin")
+              .data(places16)
+              .enter().append("circle", ".pin")
+              .attr("r", 5)
+              .style("fill", "darkgreen")
+                .style("stroke", "black")
+              .attr("transform", function(d) {
+              return "translate(" + projection([
+                d.location.longitude,
+                d.location.latitude
+              ]) + ")";
+              })
+               .on('mouseover', tip.show)
+              .on('click', tip.hide);
+
+svg.selectAll(".pin")
+              .data(places17)
+              .enter().append("circle", ".pin")
+              .attr("r", 5)
+              .style("fill", "orange")
+                .style("stroke", "black")
+              .attr("transform", function(d) {
+              return "translate(" + projection([
+                d.location.longitude,
+                d.location.latitude
+              ]) + ")";
+              })
+               .on('mouseover', tip.show)
+              .on('click', tip.hide);
+
+svg.selectAll(".pin")
+              .data(places18)
+              .enter().append("circle", ".pin")
+              .attr("r", 5)
+              .style("fill", "pink")
+                .style("stroke", "black")
+              .attr("transform", function(d) {
+              return "translate(" + projection([
+                d.location.longitude,
+                d.location.latitude
+              ]) + ")";
+              })
+               .on('mouseover', tip.show)
+              .on('click', tip.hide);
 
 
 						 	
@@ -459,7 +654,7 @@ var legend = svg.append("g")
   .attr("class", "legend")
   .attr("x", 65)
   .attr("y", 25)
-  .attr("height", 400)
+  .attr("height", 1000)
   .attr("width", 400);
 
 legend.append("rect")
@@ -467,12 +662,12 @@ legend.append("rect")
   .attr("y", 25)
   .attr("width", 40)
   .attr("height", 40)
-  .style("fill", "red");
+  .style("fill", "apricot");
 
   legend.append("text")
   .attr("x",  130)
   .attr("y", 25)
-  .text("Armed Assault");
+  .text("Unknown");
 
 
   legend.append("rect")
@@ -480,85 +675,85 @@ legend.append("rect")
   .attr("y", 65)
   .attr("width", 40)
   .attr("height", 40)
-  .style("fill", "yellow");
+  .style("fill", "aqua");
 
   legend.append("text")
   .attr("x",  130)
   .attr("y", 65)
-  .text("Assassination");
+  .text("Business");
 
 
   legend.append("rect")
   .attr("x",65)
   .attr("y", 105)
-  .attr("width", 40)
-  .attr("height", 40)
-  .style("fill", "purple");
-
-  legend.append("text")
-  .attr("x",  130)
-  .attr("y", 105)
-  .text("Bombing");
-
-  legend.append("rect")
-  .attr("x",65)
-  .attr("y", 145)
-  .attr("width", 40)
-  .attr("height", 40)
-  .style("fill", "green");
-
-  legend.append("text")
-  .attr("x",  130)
-  .attr("y", 145)
-  .text("Infrastructure Attack");
-
-  legend.append("rect")
-  .attr("x",65)
-  .attr("y", 185)
-  .attr("width", 40)
-  .attr("height", 40)
-  .style("fill", "blue");
-
-  legend.append("text")
-  .attr("x",  130)
-  .attr("y", 185)
-  .text("Hijacking");
-
-  legend.append("rect")
-  .attr("x",65)
-  .attr("y", 225)
-  .attr("width", 40)
-  .attr("height", 40)
-  .style("fill", "pink");
-
-  legend.append("text")
-  .attr("x",  130)
-  .attr("y", 225)
-  .text("Barricade Incident");
-
-  legend.append("rect")
-  .attr("x",65)
-  .attr("y", 265)
-  .attr("width", 40)
-  .attr("height", 40)
-  .style("fill", "orange");
-
-  legend.append("text")
-  .attr("x",  130)
-  .attr("y", 265)
-  .text("Kidnapping");
-
-  legend.append("rect")
-  .attr("x",65)
-  .attr("y", 305)
   .attr("width", 40)
   .attr("height", 40)
   .style("fill", "black");
 
   legend.append("text")
   .attr("x",  130)
+  .attr("y", 105)
+  .text("Educational Institution");
+
+  legend.append("rect")
+  .attr("x",65)
+  .attr("y", 145)
+  .attr("width", 40)
+  .attr("height", 40)
+  .style("fill", "blue");
+
+  legend.append("text")
+  .attr("x",  130)
+  .attr("y", 145)
+  .text("Government");
+
+  legend.append("rect")
+  .attr("x",65)
+  .attr("y", 185)
+  .attr("width", 40)
+  .attr("height", 40)
+  .style("fill", "blueviolet");
+
+  legend.append("text")
+  .attr("x",  130)
+  .attr("y", 185)
+  .text("Police");
+
+  legend.append("rect")
+  .attr("x",65)
+  .attr("y", 225)
+  .attr("width", 40)
+  .attr("height", 40)
+  .style("fill", "brown");
+
+  legend.append("text")
+  .attr("x",  130)
+  .attr("y", 225)
+  .text("Private Citizens & Property");
+
+  legend.append("rect")
+  .attr("x",65)
+  .attr("y", 265)
+  .attr("width", 40)
+  .attr("height", 40)
+  .style("fill", "cyan");
+
+  legend.append("text")
+  .attr("x",  130)
+  .attr("y", 265)
+  .text("Transportation");
+
+  legend.append("rect")
+  .attr("x",65)
   .attr("y", 305)
-  .text("Unarmed Assaults");
+  .attr("width", 40)
+  .attr("height", 40)
+  .style("fill", "green");
+
+  legend.append("text")
+  .attr("x",  130)
+  .attr("y", 305)
+  .text("Violent Political Party");
 
 
   legend.append("rect")
@@ -566,12 +761,138 @@ legend.append("rect")
   .attr("y", 345)
   .attr("width", 40)
   .attr("height", 40)
-  .style("fill", "brown");
+  .style("fill", "grey");
 
   legend.append("text")
   .attr("x",  130)
   .attr("y", 345)
-  .text("Unknown");
+  .text("Religious Figures/Institutions");
+
+
+
+  legend.append("rect")
+  .attr("x", 65)
+  .attr("y", 385)
+  .attr("width", 40)
+  .attr("height", 40)
+  .style("fill", "plum");
+
+  legend.append("text")
+  .attr("x",  130)
+  .attr("y", 385)
+  .text("Military");
+
+
+
+  legend.append("rect")
+  .attr("x", 65)
+  .attr("y", 425)
+  .attr("width", 40)
+  .attr("height", 40)
+  .style("fill", "red");
+
+  legend.append("text")
+  .attr("x",  130)
+  .attr("y", 425)
+  .text("Telecommunication");
+
+
+
+  legend.append("rect")
+  .attr("x", 65)
+  .attr("y", 465)
+  .attr("width", 40)
+  .attr("height", 40)
+  .style("fill", "yellow");
+
+  legend.append("text")
+  .attr("x",  130)
+  .attr("y", 465)
+  .text("Utilities");
+
+
+
+  legend.append("rect")
+  .attr("x", 65)
+  .attr("y", 505)
+  .attr("width", 40)
+  .attr("height", 40)
+  .style("fill", "lavendar");
+
+  legend.append("text")
+  .attr("x",  130)
+  .attr("y", 505)
+  .text("NGO");
+
+
+
+  legend.append("rect")
+  .attr("x", 65)
+  .attr("y", 545)
+  .attr("width", 40)
+  .attr("height", 40)
+  .style("fill", "chartreuse");
+
+  legend.append("text")
+  .attr("x",  130)
+  .attr("y", 545)
+  .text("Journalists & Media");
+
+
+
+  legend.append("rect")
+  .attr("x", 65)
+  .attr("y", 585)
+  .attr("width", 40)
+  .attr("height", 40)
+  .style("fill", "crimson");
+
+  legend.append("text")
+  .attr("x",  130)
+  .attr("y", 585)
+  .text("Food or Water Supply");
+
+
+
+  legend.append("rect")
+  .attr("x", 65)
+  .attr("y", 605)
+  .attr("width", 40)
+  .attr("height", 40)
+  .style("fill", "darkgreen");
+
+  legend.append("text")
+  .attr("x",  130)
+  .attr("y", 605)
+  .text("Airports & Aircraft");
+
+
+
+  legend.append("rect")
+  .attr("x", 65)
+  .attr("y", 645)
+  .attr("width", 40)
+  .attr("height", 40)
+  .style("fill", "orange");
+
+  legend.append("text")
+  .attr("x",  130)
+  .attr("y", 645)
+  .text("Tourists");
+
+
+
+  legend.append("rect")
+  .attr("x", 65)
+  .attr("y", 685)
+  .attr("width", 40)
+  .attr("height", 40)
+  .style("fill", "pink");
+
+  legend.append("text")
+  .attr("x",  130)
+  .attr("y", 685)
+  .text("Others");
 
 
 
