@@ -1,0 +1,31 @@
+node,group
+2000,group2
+Business,group1
+Educational Institution,group1
+Government (General),group1
+Journalists & Media,group1
+Military,group1
+Police,group1
+Private Citizens & Property,group1
+Religious Figures/Institutions,group1
+Tourists,group1
+Transportation,group1
+Utilities,group1
+Violent Political Party,group1
+2001,group2
+Airports & Aircraft,group1
+Telecommunication,group1
+Terrorists/Non-State Militia,group1
+Unknown,group1
+2002,group2
+2003,group2
+NGO,group1
+2004,group2
+2005,group2
+2006,group2
+Other,group1
+2007,group2
+2008,group2
+Food or Water Supply,group1
+Maritime,group1
+2009,group2

@@ -1,0 +1,136 @@
+source,target,type,id,value
+2000,Business,Directed,0,4
+2000,Educational Institution,Directed,1,1
+2000,Government (General),Directed,2,28
+2000,Journalists & Media,Directed,3,4
+2000,Military,Directed,4,29
+2000,Police,Directed,5,25
+2000,Private Citizens & Property,Directed,6,59
+2000,Religious Figures/Institutions,Directed,7,14
+2000,Tourists,Directed,8,2
+2000,Transportation,Directed,9,9
+2000,Utilities,Directed,10,2
+2000,Violent Political Party,Directed,11,2
+2001,Airports & Aircraft,Directed,12,1
+2001,Business,Directed,13,5
+2001,Educational Institution,Directed,14,6
+2001,Government (General),Directed,15,39
+2001,Military,Directed,16,32
+2001,Police,Directed,17,46
+2001,Private Citizens & Property,Directed,18,75
+2001,Religious Figures/Institutions,Directed,19,9
+2001,Telecommunication,Directed,20,1
+2001,Terrorists/Non-State Militia,Directed,21,2
+2001,Transportation,Directed,22,14
+2001,Unknown,Directed,23,1
+2001,Utilities,Directed,24,1
+2001,Violent Political Party,Directed,25,2
+2002,Airports & Aircraft,Directed,26,1
+2002,Business,Directed,27,4
+2002,Educational Institution,Directed,28,1
+2002,Government (General),Directed,29,36
+2002,Journalists & Media,Directed,30,4
+2002,Military,Directed,31,35
+2002,Police,Directed,32,27
+2002,Private Citizens & Property,Directed,33,52
+2002,Religious Figures/Institutions,Directed,34,4
+2002,Transportation,Directed,35,19
+2003,Business,Directed,36,9
+2003,Educational Institution,Directed,37,2
+2003,Government (General),Directed,38,34
+2003,Journalists & Media,Directed,39,2
+2003,Military,Directed,40,35
+2003,NGO,Directed,41,1
+2003,Police,Directed,42,34
+2003,Private Citizens & Property,Directed,43,47
+2003,Religious Figures/Institutions,Directed,44,3
+2003,Telecommunication,Directed,45,3
+2003,Tourists,Directed,46,1
+2003,Transportation,Directed,47,16
+2003,Unknown,Directed,48,1
+2003,Utilities,Directed,49,3
+2003,Violent Political Party,Directed,50,5
+2004,Business,Directed,51,3
+2004,Educational Institution,Directed,52,2
+2004,Government (General),Directed,53,18
+2004,Military,Directed,54,17
+2004,Police,Directed,55,22
+2004,Private Citizens & Property,Directed,56,30
+2004,Religious Figures/Institutions,Directed,57,4
+2004,Terrorists/Non-State Militia,Directed,58,1
+2004,Tourists,Directed,59,2
+2004,Transportation,Directed,60,5
+2004,Unknown,Directed,61,1
+2004,Utilities,Directed,62,3
+2005,Business,Directed,63,6
+2005,Educational Institution,Directed,64,4
+2005,Government (General),Directed,65,23
+2005,Military,Directed,66,17
+2005,Police,Directed,67,26
+2005,Private Citizens & Property,Directed,68,46
+2005,Religious Figures/Institutions,Directed,69,1
+2005,Telecommunication,Directed,70,1
+2005,Terrorists/Non-State Militia,Directed,71,2
+2005,Transportation,Directed,72,11
+2005,Utilities,Directed,73,8
+2006,Business,Directed,74,2
+2006,Educational Institution,Directed,75,1
+2006,Government (General),Directed,76,15
+2006,Journalists & Media,Directed,77,1
+2006,Military,Directed,78,14
+2006,Other,Directed,79,1
+2006,Police,Directed,80,42
+2006,Private Citizens & Property,Directed,81,49
+2006,Religious Figures/Institutions,Directed,82,5
+2006,Telecommunication,Directed,83,1
+2006,Tourists,Directed,84,5
+2006,Transportation,Directed,85,14
+2006,Unknown,Directed,86,2
+2006,Utilities,Directed,87,13
+2006,Violent Political Party,Directed,88,1
+2007,Business,Directed,89,10
+2007,Educational Institution,Directed,90,1
+2007,Government (General),Directed,91,19
+2007,Military,Directed,92,10
+2007,Police,Directed,93,33
+2007,Private Citizens & Property,Directed,94,59
+2007,Religious Figures/Institutions,Directed,95,2
+2007,Terrorists/Non-State Militia,Directed,96,2
+2007,Transportation,Directed,97,12
+2007,Unknown,Directed,98,1
+2007,Utilities,Directed,99,3
+2007,Violent Political Party,Directed,100,2
+2008,Business,Directed,101,48
+2008,Educational Institution,Directed,102,9
+2008,Food or Water Supply,Directed,103,1
+2008,Government (General),Directed,104,81
+2008,Journalists & Media,Directed,105,2
+2008,Maritime,Directed,106,1
+2008,Military,Directed,107,11
+2008,NGO,Directed,108,4
+2008,Other,Directed,109,3
+2008,Police,Directed,110,56
+2008,Private Citizens & Property,Directed,111,190
+2008,Religious Figures/Institutions,Directed,112,6
+2008,Telecommunication,Directed,113,8
+2008,Terrorists/Non-State Militia,Directed,114,37
+2008,Tourists,Directed,115,1
+2008,Transportation,Directed,116,38
+2008,Unknown,Directed,117,10
+2008,Utilities,Directed,118,4
+2008,Violent Political Party,Directed,119,7
+2009,Business,Directed,120,47
+2009,Educational Institution,Directed,121,27
+2009,Government (General),Directed,122,134
+2009,Journalists & Media,Directed,123,2
+2009,Military,Directed,124,13
+2009,NGO,Directed,125,1
+2009,Other,Directed,126,1
+2009,Police,Directed,127,125
+2009,Private Citizens & Property,Directed,128,186
+2009,Religious Figures/Institutions,Directed,129,3
+2009,Telecommunication,Directed,130,22
+2009,Terrorists/Non-State Militia,Directed,131,20
+2009,Tourists,Directed,132,1
+2009,Transportation,Directed,133,63
+2009,Unknown,Directed,134,1
