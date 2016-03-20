@@ -191,12 +191,11 @@ text {
 
 
  $(document).ready(function() {
- 	var places1 =[];var places2 =[];var places3 =[];var places4 =[];var places5 =[];var places6 =[];var places7 =[];
- 	var places8 =[];
- 	
+ 	var places = [];
+  
     $.ajax({
         type: "GET",
-        url: "2010-14-locations.csv",
+        url: "Max-Attack-Gname-City.csv",
         dataType: "text",
         success: function(data) {processData(data);}
      });
@@ -210,54 +209,15 @@ text {
     for (var i=0; i<allTextLines.length; i++) 
     {
         var data = allTextLines[i].split(',');
-        if(data[1]!="Unknown" && data[2]!="Unknown")
-     	{
-     		var mydata ={
-     		name :String(data[0]),
+       var mydata ={
+     		name :String(data[1]),
      		location: {
-     			latitude:data[1],
-     			longitude:data[2]
+     			latitude:data[3],
+     			longitude:data[4]
      		}
      	};
-     /*	Armed Assault,Assassination,Bombing,Infrastructure Attack,Hijacking,Barricade Incident,Kidnapping,UnarmedAssaults,Unkown*/
-     if(data[3]=="Armed Assault")
-     {
-     	places1.push(mydata);
      	
-     }
- 	else if(data[3]=="Assassination")
-     {
-     	places2.push(mydata);
-     }
-     else if(data[3]=="Bombing")
-     {
-     	places3.push(mydata);
-     }
-     else if(data[3]=="Infrastructure Attack")
-     {
-     	places4.push(mydata);
-     }
-     else if(data[3]=="Hijacking")
-     {
-     	places5.push(mydata);
-     }
-     else if(data[3]=="Barricade Incident")
-     {
-     	places6.push(mydata);
-     }
-     else if(data[3]=="Kidnapping")
-     {
-     	places7.push(mydata);
-     }
-     else if(data[3]=="Unarmed Assaults")
-     {
-     	places8.push(mydata);
-     }
-    
-     	
-      // add.push(String(allTextLines[i]));
-       //console.log(places);
-   }
+    places.push(mydata);
     }
 
 
@@ -296,10 +256,9 @@ d3.json("test.json", function(error, swiss) {
 						svg.call(tip);
 
 //
-						svg.selectAll(".pin")
-						  .data(places1)
+							svg.selectAll(".pin")
+						  .data(places)
 						  .enter().append("circle", ".pin")
-
 						  .attr("r", 5)
 						  .style("fill", "red")
     						.style("stroke", "black")
@@ -310,119 +269,9 @@ d3.json("test.json", function(error, swiss) {
 							]) + ")";
 						  })
 						   .on('mouseover', tip.show)
-							.on('click', tip.hide);
-
-
-							svg.selectAll(".pin")
-						  .data(places2)
-						  .enter().append("circle", ".pin")
-						  .attr("r", 5)
-						  .style("fill", "yellow")
-    						.style("stroke", "black")
-						  .attr("transform", function(d) {
-							return "translate(" + projection([
-							  d.location.longitude,
-							  d.location.latitude
-							]) + ")";
-						  })
-						   .on('mouseover', tip.show)
 							.on('click', tip.hide);		
 
-							svg.selectAll(".pin")
-						  .data(places3)
-						  .enter().append("circle", ".pin")
-						  .attr("r", 5)
-						  .style("fill", "purple")
-    						.style("stroke", "black")
-						  .attr("transform", function(d) {
-							return "translate(" + projection([
-							  d.location.longitude,
-							  d.location.latitude
-							]) + ")";
-						  })
-						   .on('mouseover', tip.show)
-							.on('click', tip.hide);
-
-
-svg.selectAll(".pin")
-						  .data(places4)
-						  .enter().append("circle", ".pin")
-						  .attr("r", 5)
-						  .style("fill", "green")
-    						.style("stroke", "black")
-						  .attr("transform", function(d) {
-							return "translate(" + projection([
-							  d.location.longitude,
-							  d.location.latitude
-							]) + ")";
-						  })
-						   .on('mouseover', tip.show)
-							.on('click', tip.hide);
-
-
-svg.selectAll(".pin")
-						  .data(places5)
-						  .enter().append("circle", ".pin")
-						  .attr("r", 5)
-						  .style("fill", "blue")
-    						.style("stroke", "black")
-						  .attr("transform", function(d) {
-							return "translate(" + projection([
-							  d.location.longitude,
-							  d.location.latitude
-							]) + ")";
-						  })
-						   .on('mouseover', tip.show)
-							.on('click', tip.hide);
-
-
-svg.selectAll(".pin")
-						  .data(places6)
-						  .enter().append("circle", ".pin")
-						  .attr("r", 5)
-						  .style("fill", "pink")
-    						.style("stroke", "black")
-						  .attr("transform", function(d) {
-							return "translate(" + projection([
-							  d.location.longitude,
-							  d.location.latitude
-							]) + ")";
-						  })
-						   .on('mouseover', tip.show)
-							.on('click', tip.hide);
-
-
-svg.selectAll(".pin")
-						  .data(places7)
-						  .enter().append("circle", ".pin")
-						  .attr("r", 5)
-						  .style("fill", "orange")
-    						.style("stroke", "black")
-						  .attr("transform", function(d) {
-							return "translate(" + projection([
-							  d.location.longitude,
-							  d.location.latitude
-							]) + ")";
-						  })
-						   .on('mouseover', tip.show)
-							.on('click', tip.hide);
-
-
-svg.selectAll(".pin")
-						  .data(places8)
-						  .enter().append("circle", ".pin")
-						  .attr("r", 5)
-						  .style("fill", "black")
-    						.style("stroke", "black")
-						  .attr("transform", function(d) {
-							return "translate(" + projection([
-							  d.location.longitude,
-							  d.location.latitude
-							]) + ")";
-						  })
-						   .on('mouseover', tip.show)
-							.on('click', tip.hide);
-
+							
 				//var projection = d3.geo.mercator().scale(900).translate([-600,700]);
 				var path= d3.geo.path().projection(projection);
 
@@ -431,113 +280,9 @@ svg.selectAll(".pin")
 					.attr("class", "area")
 				 .attr("fill","steelblue");
 
-				 
+	
 
-var legend = svg.append("g")
-  .attr("class", "legend")
-  .attr("x", 65)
-  .attr("y", 25)
-  .attr("height", 400)
-  .attr("width", 400);
-
-legend.append("rect")
-  .attr("x",65)
-  .attr("y", 25)
-  .attr("width", 40)
-  .attr("height", 40)
-  .style("fill", "red");
-
-  legend.append("text")
-  .attr("x",  150)
-  .attr("y", 35)
-  .text("Armed Assault");
-
-
-  legend.append("rect")
-  .attr("x",65)
-  .attr("y", 65)
-  .attr("width", 40)
-  .attr("height", 40)
-  .style("fill", "yellow");
-
-  legend.append("text")
-  .attr("x",  150)
-  .attr("y", 75)
-  .text("Assassination");
-
-
-  legend.append("rect")
-  .attr("x",65)
-  .attr("y", 105)
-  .attr("width", 40)
-  .attr("height", 40)
-  .style("fill", "purple");
-
-  legend.append("text")
-  .attr("x",  150)
-  .attr("y", 115)
-  .text("Bombing");
-
-  legend.append("rect")
-  .attr("x",65)
-  .attr("y", 145)
-  .attr("width", 40)
-  .attr("height", 40)
-  .style("fill", "green");
-
-  legend.append("text")
-  .attr("x",  150)
-  .attr("y", 155)
-  .text("Infrastructure Attack");
-
-  legend.append("rect")
-  .attr("x",65)
-  .attr("y", 185)
-  .attr("width", 40)
-  .attr("height", 40)
-  .style("fill", "blue");
-
-  legend.append("text")
-  .attr("x",  150)
-  .attr("y", 195)
-  .text("Hijacking");
-
-  legend.append("rect")
-  .attr("x",65)
-  .attr("y", 225)
-  .attr("width", 40)
-  .attr("height", 40)
-  .style("fill", "pink");
-
-  legend.append("text")
-  .attr("x",  150)
-  .attr("y", 235)
-  .text("Barricade Incident");
-
-  legend.append("rect")
-  .attr("x",65)
-  .attr("y", 265)
-  .attr("width", 40)
-  .attr("height", 40)
-  .style("fill", "orange");
-
-  legend.append("text")
-  .attr("x",  150)
-  .attr("y", 275)
-  .text("Kidnapping");
-
-  legend.append("rect")
-  .attr("x",65)
-  .attr("y", 305)
-  .attr("width", 40)
-  .attr("height", 40)
-  .style("fill", "black");
-
-  legend.append("text")
-  .attr("x",  150)
-  .attr("y", 315)
-  .text("Unarmed Assaults");
-				
+						
 });
 
 }

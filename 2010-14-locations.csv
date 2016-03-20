@@ -46,9 +46,7 @@ Patamda,22.906096,86.386833,Armed Assault,Private Citizens & Property
 Dantewada,18.896863,81.345442,Bombing,Police
 Yaripora Kulgam,33.533546,74.920877,Armed Assault,Private Citizens & Property
 Midnapore,22.430889,87.321491,Armed Assault,Violent Political Party
-,15.9129,79.739987,Infrastructure Attack,Transportation
 Sundargarh,22.124003,84.043175,Kidnapping,Private Citizens & Property
-,24.663717,93.906269,Kidnapping,Journalists & Media
 Imphal,24.817011,93.936844,Armed Assault,Private Citizens & Property
 Bankura,23.232415,87.078604,Armed Assault,Police
 Puruliya,23.332078,86.365208,Armed Assault,Police
@@ -78,7 +76,6 @@ Hailakandi,24.681102,92.563805,Kidnapping,Government
 Pune,18.52043,73.856744,Bombing,Business
 Midnapore,22.430889,87.321491,Bombing,Police
 East singhbhum,22.486676,86.499655,Kidnapping,Government
-Hailakandi,24.681102,92.563805,Unknown,Private Citizens & Property
 Jamui,24.919515,86.224718,Armed Assault,Private Citizens & Property
 Koraput,18.813487,82.712333,Bombing,Telecommunication
 Thoubal,24.644924,93.99929,Bombing,Government
@@ -99,7 +96,6 @@ Imphal,24.817011,93.936844,Armed Assault,Private Citizens & Property
 Gumla,23.04413,84.537945,Armed Assault,Business
 Puruliya,23.332078,86.365208,Bombing,Business
 Banka,24.887418,86.919838,Armed Assault,Private Citizens & Property
-Thoubal,24.644924,93.99929,Unknown,Government
 Puruliya,23.332078,86.365208,Armed Assault,Violent Political Party
 Munger,25.374756,86.473525,Armed Assault,Private Citizens & Property
 Bankura,23.232415,87.078604,Kidnapping,Educational Institution
@@ -113,7 +109,6 @@ Jamui,24.919515,86.224718,Bombing,Police
 Buxar,25.56471,83.977748,Infrastructure Attack,Business
 Gaya,24.795452,84.999431,Infrastructure Attack,Business
 Midnapore,22.430889,87.321491,Armed Assault,Violent Political Party
-,24.663717,93.906269,Unknown,Educational Institution
 Midnapore,22.430889,87.321491,Infrastructure Attack,Violent Political Party
 Khammam,17.247253,80.151445,Armed Assault,Private Citizens & Property
 Jamui,24.919515,86.224718,Bombing,Transportation
@@ -144,7 +139,6 @@ Latehar,23.746322,84.50911,Bombing,Transportation
 Gajapati,19.191222,84.185712,Armed Assault,Police
 Saran,25.709973,73.837495,Infrastructure Attack,Police
 Midnapore,22.430889,87.321491,Kidnapping,Violent Political Party
-Latehar,23.746322,84.50911,Armed Assault,Unknown
 Giridih,24.182139,86.286951,Armed Assault,Police
 Malkangiri,18.343586,81.882528,Armed Assault,Private Citizens & Property
 Midnapore,22.430889,87.321491,Infrastructure Attack,Government
@@ -173,7 +167,6 @@ Kaimur,24.908055,83.532339,Bombing,Private Citizens & Property
 Kaimur,24.908055,83.532339,Bombing,Business
 Gadchiroli,20.184871,79.994796,Armed Assault,Private Citizens & Property
 Mayurbhanj,22.008698,86.418731,Kidnapping,Business
-Midnapore,22.430889,87.321491,Unknown,Private Citizens & Property
 Jamui,24.919515,86.224718,Kidnapping,Government
 Jamui,24.919515,86.224718,Kidnapping,Private Citizens & Property
 Bokaro,23.669296,86.151112,Armed Assault,Private Citizens & Property
@@ -224,11 +217,8 @@ Midnapore,22.430889,87.321491,Kidnapping,Private Citizens & Property
 Bijapur,16.830171,75.710031,Armed Assault,Private Citizens & Property
 Doda,33.14575,75.548049,Bombing,Private Citizens & Property
 East singhbhum,22.486676,86.499655,Armed Assault,Private Citizens & Property
-Simdega,22.615114,84.495999,Unknown,Violent Political Party
-,26.158435,94.562443,Infrastructure Attack,Business
 Lalgarh,27.519994,73.910179,Armed Assault,Private Citizens & Property
 Lalgarh,27.519994,73.910179,Armed Assault,Government
-Midnapore,22.430889,87.321491,Kidnapping,Unknown
 Khammam,17.247253,80.151445,Armed Assault,Private Citizens & Property
 Saran,25.709973,73.837495,Infrastructure Attack,Transportation
 Muzaffarpur,26.120888,85.36472,Bombing,Transportation
@@ -255,7 +245,6 @@ Midnapore,22.430889,87.321491,Kidnapping,Private Citizens & Property
 Raj Nandgaon,21.097103,81.030222,Kidnapping,Private Citizens & Property
 Malkangiri,18.343586,81.882528,Armed Assault,Police
 Dantewada,18.896863,81.345442,Bombing,Transportation
-Kupwara,34.431923,74.123996,Unknown,Terrorists/Non-State Militia
 Simdega,22.615114,84.495999,Armed Assault,Government
 Gaya,24.795452,84.999431,Bombing,Transportation
 Senapati,25.267728,94.021019,Bombing,Transportation
@@ -265,7 +254,6 @@ Midnapore,22.430889,87.321491,Bombing,Police
 Midnapore,22.430889,87.321491,Kidnapping,Government
 Rayagada,19.171209,83.416323,Bombing,Government
 Sheohar,26.514587,85.294231,Infrastructure Attack,Private Citizens & Property
-Bankura,23.232415,87.078604,Unknown,Private Citizens & Property
 Midnapore,22.430889,87.321491,Armed Assault,Transportation
 Midnapore,22.430889,87.321491,Kidnapping,Private Citizens & Property
 Bijapur,16.830171,75.710031,Kidnapping,Private Citizens & Property
@@ -282,7 +270,6 @@ Midnapore,22.430889,87.321491,Kidnapping,Private Citizens & Property
 Gadchiroli,20.184871,79.994796,Armed Assault,Police
 Belpahari,22.632073,86.764262,Armed Assault,Private Citizens & Property
 Palamau,21.958024,78.886385,Bombing,Police
-Midnapore,22.430889,87.321491,Unknown,Transportation
 Malkangiri,18.343586,81.882528,Bombing,Government
 Puruliya,23.332078,86.365208,Armed Assault,Private Citizens & Property
 Senapati,25.267728,94.021019,Infrastructure Attack,Government
@@ -316,7 +303,6 @@ Bastar,19.203677,81.934385,Armed Assault,Private Citizens & Property
 Simdega,22.615114,84.495999,Armed Assault,Terrorists/Non-State Militia
 Garwah,24.154898,83.799562,Kidnapping,Private Citizens & Property
 Narayanpur,26.95179,93.859168,Armed Assault,Police
-,25.096074,85.313119,Kidnapping,Private Citizens & Property
 Khunti,23.07976,85.277421,Kidnapping,Private Citizens & Property
 Bijapur,16.830171,75.710031,Bombing,Police
 Midnapore,22.430889,87.321491,Armed Assault,Police
@@ -404,7 +390,6 @@ Gadchiroli,20.184871,79.994796,Infrastructure Attack,Private Citizens & Property
 Puruliya,23.332078,86.365208,Kidnapping,Private Citizens & Property
 Koraput,18.813487,82.712333,Kidnapping,Private Citizens & Property
 Koraput,18.813487,82.712333,Kidnapping,Private Citizens & Property
-Midnapore,22.430889,87.321491,Unknown,Private Citizens & Property
 Midnapore,22.430889,87.321491,Infrastructure Attack,Private Citizens & Property
 Lakhisarai,25.167361,86.098825,Armed Assault,Police
 Sheohar,26.514587,85.294231,Kidnapping,Government
@@ -442,7 +427,6 @@ Sheohar,26.514587,85.294231,Infrastructure Attack,Transportation
 Dantewada,18.896863,81.345442,Infrastructure Attack,Business
 Gadchiroli,20.184871,79.994796,Kidnapping,Private Citizens & Property
 Gadchiroli,20.184871,79.994796,Kidnapping,Private Citizens & Property
-,20.951666,85.098524,Bombing,Government
 Karimganj,24.864913,92.359153,Armed Assault,Business
 Raj Nandgaon,21.097103,81.030222,Kidnapping,Private Citizens & Property
 Koraput,18.813487,82.712333,Armed Assault,Private Citizens & Property
@@ -450,15 +434,12 @@ Malkangiri,18.343586,81.882528,Kidnapping,Private Citizens & Property
 Kaimur,24.908055,83.532339,Armed Assault,Private Citizens & Property
 New Delhi,28.613939,77.209021,Bombing,Telecommunication
 Imphal,24.817011,93.936844,Bombing,Business
-,21.278657,81.866144,Kidnapping,Police
-Khunti,23.07976,85.277421,Unknown,Private Citizens & Property
 Koraput,18.813487,82.712333,Armed Assault,Private Citizens & Property
 Midnapore,22.430889,87.321491,Armed Assault,Government
 Midnapore,22.430889,87.321491,Bombing,Government
 Jamui,24.919515,86.224718,Armed Assault,Violent Political Party
 Bijapur,16.830171,75.710031,Armed Assault,Business
 Karimnagar,18.438555,79.128841,Kidnapping,Private Citizens & Property
-,22.973423,78.656894,Armed Assault,Police
 Bishenpur,25.60787,82.849254,Bombing,Government
 Midnapore,22.430889,87.321491,Armed Assault,Educational Institution
 Imphal,24.817011,93.936844,Bombing,Government
@@ -507,7 +488,6 @@ Gaya,24.795452,84.999431,Kidnapping,Private Citizens & Property
 Lalgarh,27.519994,73.910179,Bombing,Police
 Bijapur,16.830171,75.710031,Kidnapping,Police
 Bijapur,16.830171,75.710031,Kidnapping,Police
-Khunti,23.07976,85.277421,Unknown,Private Citizens & Property
 Malkangiri,18.343586,81.882528,Bombing,Government
 Puruliya,23.332078,86.365208,Kidnapping,Government
 Bijapur,16.830171,75.710031,Kidnapping,Private Citizens & Property
@@ -542,7 +522,6 @@ Baksa,26.662147,91.357775,Armed Assault,Private Citizens & Property
 Sonitpor,26.673885,92.85771,Armed Assault,Private Citizens & Property
 Sonitpor,26.673885,92.85771,Armed Assault,Private Citizens & Property
 Sonitpor,26.673885,92.85771,Armed Assault,Private Citizens & Property
-Gaya,24.795452,84.999431,Infrastructure Attack,Unknown
 Gaya,24.795452,84.999431,Bombing,Business
 Muzaffarpur,26.120888,85.36472,Bombing,Transportation
 Narayanpur,26.95179,93.859168,Kidnapping,Police
@@ -554,7 +533,6 @@ Aurangabad,19.876165,75.343314,Bombing,Telecommunication
 Gaya,24.795452,84.999431,Infrastructure Attack,Transportation
 Gaya,24.795452,84.999431,Infrastructure Attack,Government
 Kokrajhar,26.401436,90.266699,Armed Assault,Private Citizens & Property
-,23.610181,85.279935,Unarmed Assault,Private Citizens & Property
 Thoubal,24.644924,93.99929,Bombing,Government
 Gaya,24.795452,84.999431,Infrastructure Attack,Private Citizens & Property
 Gaya,24.795452,84.999431,Infrastructure Attack,Private Citizens & Property
@@ -570,7 +548,6 @@ Lalgarh,27.519994,73.910179,Unarmed Assault,Private Citizens & Property
 Koraput,18.813487,82.712333,Bombing,Police
 Garo Hills,25.5,90.333333,Armed Assault,Private Citizens & Property
 Garo Hills,25.5,90.333333,Armed Assault,Private Citizens & Property
-,25.467031,91.366216,Bombing,Utilities
 Ranchi,23.3441,85.309562,Armed Assault,Private Citizens & Property
 Midnapore,22.430889,87.321491,Bombing,Government
 Midnapore,22.430889,87.321491,Bombing,Government
@@ -583,8 +560,6 @@ Midnapore,22.430889,87.321491,Kidnapping,Private Citizens & Property
 Baramulla,34.159515,74.358747,Bombing,Transportation
 Bijapur,16.830171,75.710031,Bombing,Police
 Gadchiroli,20.184871,79.994796,Armed Assault,Private Citizens & Property
-Gadchiroli,20.184871,79.994796,Bombing,Unknown
-Vishakhapatnam,17.686816,83.218482,Bombing,Unknown
 Chandel,24.3262,94.0006,Armed Assault,Private Citizens & Property
 Aurangabad,19.876165,75.343314,Infrastructure Attack,Business
 East Champaran,26.609814,84.856793,Armed Assault,Business
@@ -603,7 +578,6 @@ Warangal,17.968901,79.594054,Infrastructure Attack,Transportation
 Karimnagar,18.438555,79.128841,Armed Assault,Private Citizens & Property
 Karimnagar,18.438555,79.128841,Kidnapping,Private Citizens & Property
 Warangal,17.968901,79.594054,Armed Assault,Private Citizens & Property
-Warangal,17.968901,79.594054,Unknown,Private Citizens & Property
 Keonjhar,21.51512,85.684578,Bombing,Police
 Jehanabad,25.213929,84.989555,Infrastructure Attack,Business
 Begusarai,25.416675,86.129379,Bombing,Transportation
@@ -629,7 +603,6 @@ West Singhbhum,22.365086,85.437557,Armed Assault,Private Citizens & Property
 Chatra,24.206508,84.872428,Bombing,Government
 Simdega,22.615114,84.495999,Armed Assault,Private Citizens & Property
 South Garo Hills,25.330097,90.563609,Kidnapping,Business
-Chandel,24.3262,94.0006,Unknown,Military
 Puruliya,23.332078,86.365208,Armed Assault,Government
 Seraikela Kharsawan,22.856126,86.012157,Armed Assault,Government
 Koraput,18.813487,82.712333,Bombing,Transportation
@@ -638,18 +611,14 @@ Midnapore,22.430889,87.321491,Infrastructure Attack,Private Citizens & Property
 Palamau,21.958024,78.886385,Bombing,Police
 Dantewada,18.896863,81.345442,Armed Assault,Educational Institution
 Gadchiroli,20.184871,79.994796,Assassination,Police
-,19.75148,75.713888,Infrastructure Attack,Government
 Gajapati,19.191222,84.185712,Infrastructure Attack,Business
 Gajapati,19.191222,84.185712,Infrastructure Attack,Telecommunication
-Midnapore,22.430889,87.321491,Bombing,Unknown
 Dantewada,18.896863,81.345442,Bombing,Transportation
 Garhwa,24.154898,83.799562,Infrastructure Attack,Government
 West Singhbhum,22.365086,85.437557,Bombing,Police
 Gadchiroli,20.184871,79.994796,Armed Assault,Private Citizens & Property
-Midnapore,22.430889,87.321491,Unknown,Government
 Puruliya,23.332078,86.365208,Armed Assault,Government
 Beliabera,22.621222,86.893526,Armed Assault,Private Citizens & Property
-Midnapore,22.430889,87.321491,Unknown,Government
 Godda,24.825522,87.213518,Bombing,Police
 Midnapore,22.430889,87.321491,Infrastructure Attack,Private Citizens & Property
 Midnapore,22.430889,87.321491,Infrastructure Attack,Private Citizens & Property
@@ -660,7 +629,6 @@ Gadchiroli,20.184871,79.994796,Armed Assault,Private Citizens & Property
 Gadchiroli,20.184871,79.994796,Infrastructure Attack,Government
 Gadchiroli,20.184871,79.994796,Infrastructure Attack,Government
 Rayagada,19.171209,83.416323,Armed Assault,Police
-Latehar,23.746322,84.50911,Bombing,Unknown
 Kandhamal,20.134204,84.016742,Armed Assault,Private Citizens & Property
 Jajpur,20.834102,86.332606,Bombing,Transportation
 Salbani,22.642257,87.319007,Bombing,Government
@@ -671,13 +639,11 @@ Bishenpur,25.60787,82.849254,Bombing,Transportation
 Midnapore,22.430889,87.321491,Armed Assault,Terrorists/Non-State Militia
 Sundargarh,22.124003,84.043175,Bombing,Transportation
 Gajapati,19.191222,84.185712,Infrastructure Attack,Private Citizens & Property
-Bijapur,16.830171,75.710031,Unknown,Police
 Gadchiroli,20.184871,79.994796,Armed Assault,Police
 Koraput,18.813487,82.712333,Bombing,Government
 Bokaro,23.669296,86.151112,Armed Assault,Private Citizens & Property
 Midnapore,22.430889,87.321491,Infrastructure Attack,Private Citizens & Property
 Gadchiroli,20.184871,79.994796,Bombing,Police
-,22.986757,87.854976,Kidnapping,Government
 Palamau,21.958024,78.886385,Kidnapping,Government
 Midnapore,22.430889,87.321491,Infrastructure Attack,Government
 Gaya,24.795452,84.999431,Bombing,Police
@@ -685,8 +651,6 @@ ganjam,19.387389,85.051541,Infrastructure Attack,Business
 Midnapore,22.430889,87.321491,Bombing,Private Citizens & Property
 Midnapore,22.430889,87.321491,Armed Assault,Private Citizens & Property
 Midnapore,22.430889,87.321491,Kidnapping,Private Citizens & Property
-,20.951666,85.098524,Bombing,Business
-Kanker,20.272713,81.48831,Unknown,Private Citizens & Property
 Imphal,24.817011,93.936844,Bombing,Private Citizens & Property
 Lalgarh,27.519994,73.910179,Kidnapping,Government
 Midnapore,22.430889,87.321491,Armed Assault,Private Citizens & Property
@@ -703,7 +667,6 @@ Dumka,24.285466,87.24193,Armed Assault,Business
 Ranchi,23.3441,85.309562,Kidnapping,Terrorists/Non-State Militia
 Gumla,23.04413,84.537945,Infrastructure Attack,Transportation
 Bokaro,23.669296,86.151112,Bombing,Utilities
-,23.940848,91.988153,Armed Assault,Government
 Imphal,24.817011,93.936844,Bombing,Private Citizens & Property
 Jamui,24.919515,86.224718,Armed Assault,Private Citizens & Property
 Midnapore,22.430889,87.321491,Kidnapping,Private Citizens & Property
@@ -717,11 +680,9 @@ Midnapore,22.430889,87.321491,Armed Assault,Government
 Pulwama,33.981889,75.014382,Armed Assault,Government
 Gadchiroli,20.184871,79.994796,Infrastructure Attack,Business
 Gondia,21.462449,80.220977,Infrastructure Attack,Business
-Kokrajhar,26.401436,90.266699,Unknown,Terrorists/Non-State Militia
 Imphal,24.817011,93.936844,Armed Assault,Police
 Imphal,24.817011,93.936844,Bombing,Government
 Midnapore,22.430889,87.321491,Infrastructure Attack,Business
-Gaya,24.795452,84.999431,Unknown,Police
 Bastar,19.203677,81.934385,Bombing,Police
 Raj Nandgaon,21.097103,81.030222,Armed Assault,Private Citizens & Property
 Bokaro,23.669296,86.151112,Bombing,Transportation
@@ -735,7 +696,6 @@ Muzaffarpur,26.120888,85.36472,Infrastructure Attack,Private Citizens & Property
 Muzaffarpur,26.120888,85.36472,Bombing,Transportation
 Imphal,24.817011,93.936844,Bombing,Government
 Baramulla,34.159515,74.358747,Armed Assault,Business
-Baramulla,34.159515,74.358747,Armed Assault,Unknown
 Shillong,25.578773,91.893254,Bombing,Journalists & Media
 Sundargarh,22.124003,84.043175,Armed Assault,Police
 Midnapore,22.430889,87.321491,Assassination,Government
@@ -745,8 +705,6 @@ Dantewada,18.896863,81.345442,Armed Assault,Police
 Baramulla,34.159515,74.358747,Armed Assault,Government
 Koraput,18.813487,82.712333,Armed Assault,Private Citizens & Property
 Malkangiri,18.343586,81.882528,Kidnapping,Government
-Sundargarh,22.124003,84.043175,Bombing,Unknown
-Sundargarh,22.124003,84.043175,Bombing,Unknown
 Gaya,24.795452,84.999431,Infrastructure Attack,Business
 Gaya,24.795452,84.999431,Bombing,Educational Institution
 Saran,25.709973,73.837495,Bombing,Private Citizens & Property
@@ -759,7 +717,6 @@ Khammam,17.247253,80.151445,Infrastructure Attack,Business
 Midnapore,22.430889,87.321491,Bombing,Government
 Latehar,23.746322,84.50911,Infrastructure Attack,Business
 Rajouri,33.371715,74.315313,Armed Assault,Police
-,24.663717,93.906269,Bombing,Government
 Imphal,24.817011,93.936844,Bombing,Business
 Baramulla,34.159515,74.358747,Armed Assault,Business
 Srinagar,34.125541,74.944258,Bombing,Police
@@ -777,7 +734,6 @@ Dima Hasao,25.3478,93.017571,Bombing,Government
 Muzaffarpur,26.120888,85.36472,Armed Assault,Business
 Khammam,17.247253,80.151445,Armed Assault,Government
 Nowgam,34.026206,74.824394,Bombing,Transportation
-Vishakhapatnam,17.686816,83.218482,Bombing,Unknown
 Imphal,24.817011,93.936844,Bombing,Educational Institution
 Palamau,21.958024,78.886385,Armed Assault,Terrorists/Non-State Militia
 Gadchiroli,20.184871,79.994796,Armed Assault,Private Citizens & Property
@@ -790,7 +746,6 @@ Khunti,23.07976,85.277421,Armed Assault,Police
 Khunti,23.07976,85.277421,Armed Assault,Police
 Gadchiroli,20.184871,79.994796,Armed Assault,Police
 Kokrajhar,26.401436,90.266699,Armed Assault,Military
-Dantewada,18.896863,81.345442,Unknown,Police
 Khunti,23.07976,85.277421,Armed Assault,Police
 Gaya,24.795452,84.999431,Bombing,Telecommunication
 Gaya,24.795452,84.999431,Infrastructure Attack,Telecommunication
@@ -808,7 +763,6 @@ East Garo Hills,25.567169,90.525782,Armed Assault,Police
 Raipur,21.251384,81.629641,Armed Assault,Government
 Raj Nandgaon,21.097103,81.030222,Armed Assault,Private Citizens & Property
 East Champaran,26.609814,84.856793,Infrastructure Attack,Telecommunication
-,11.127123,78.656894,Bombing,Private Citizens & Property
 Midnapore,22.430889,87.321491,Armed Assault,Terrorists/Non-State Militia
 Aurangabad,19.876165,75.343314,Bombing,Educational Institution
 Aurangabad,19.876165,75.343314,Bombing,Educational Institution
@@ -831,20 +785,16 @@ Malkangiri,18.343586,81.882528,Armed Assault,Private Citizens & Property
 Midnapore,22.430889,87.321491,Armed Assault,Educational Institution
 Nalbari,26.444619,91.441053,Bombing,Transportation
 Imphal,24.817011,93.936844,Bombing,Government
-Kokrajhar,26.401436,90.266699,Unknown,Police
 Aurangabad,19.876165,75.343314,Armed Assault,Business
 Imphal,24.817011,93.936844,Armed Assault,Telecommunication
-,24.663717,93.906269,Armed Assault,Government
 Midnapore,22.430889,87.321491,Armed Assault,Government
 Kupwara,34.431923,74.123996,Infrastructure Attack,Government
 Imphal,24.817011,93.936844,Bombing,Government
-Puruliya,23.332078,86.365208,Bombing,Unknown
 Chatra,24.206508,84.872428,Armed Assault,Business
 Imphal,24.817011,93.936844,Armed Assault,Police
 Imphal,24.817011,93.936844,Bombing,Private Citizens & Property
 South Garo Hills,25.330097,90.563609,Armed Assault,Business
 Gumla,23.04413,84.537945,Infrastructure Attack,Business
-Ranchi,23.3441,85.309562,Bombing,Unknown
 Srinagar,34.125541,74.944258,Bombing,Religious Figures/Institutions
 Palamau,21.958024,78.886385,Kidnapping,Educational Institution
 Simdega,22.615114,84.495999,Infrastructure Attack,Business
@@ -862,7 +812,6 @@ Latehar,23.746322,84.50911,Armed Assault,Private Citizens & Property
 Dantewada,18.896863,81.345442,Armed Assault,Military
 East Garo Hills,25.567169,90.525782,Bombing,Business
 Budgam,33.934855,74.640043,Armed Assault,Private Citizens & Property
-Ukhrul,25.095386,94.361652,Unknown,Government
 Khammam,17.247253,80.151445,Bombing,Telecommunication
 Khammam,17.247253,80.151445,Infrastructure Attack,Transportation
 Dantewada,18.896863,81.345442,Infrastructure Attack,Business
@@ -875,13 +824,11 @@ Imphal,24.817011,93.936844,Bombing,Government
 Jamui,24.919515,86.224718,Infrastructure Attack,Telecommunication
 Munger,25.374756,86.473525,Armed Assault,Private Citizens & Property
 Shillong,25.578773,91.893254,Armed Assault,Business
-Nagpur,21.1458,79.088155,Unknown,Violent Political Party
 Imphal,24.817011,93.936844,Bombing,Government
 Malkangiri,18.343586,81.882528,Armed Assault,Government
 Hailakandi,24.681102,92.563805,Kidnapping,Private Citizens & Property
 Jamui,24.919515,86.224718,Armed Assault,Police
 Jamui,24.919515,86.224718,Bombing,Private Citizens & Property
-Nawada,24.891078,85.535472,Bombing,Unknown
 Katihar,25.552048,87.571861,Armed Assault,Private Citizens & Property
 Chandel,24.3262,94.0006,Bombing,Private Citizens & Property
 Thoubal,24.644924,93.99929,Bombing,Government
@@ -889,11 +836,9 @@ Barpeta,26.330421,91.004055,Bombing,Educational Institution
 Malda,25.010841,88.141097,Bombing,Educational Institution
 Khunti,23.07976,85.277421,Armed Assault,Terrorists/Non-State Militia
 Latehar,23.746322,84.50911,Armed Assault,Business
-Palamau,21.958024,78.886385,Unknown,Business
 Asansol,23.673945,86.952395,Bombing,Transportation
 Karbi Anglong,26.186085,93.581269,Armed Assault,Private Citizens & Property
 Ranchi,23.3441,85.309562,Bombing,Private Citizens & Property
-Kolkata (calcutta),22.54026,88.382199,Bombing,Unknown
 Dantewada,18.896863,81.345442,Assassination,Terrorists/Non-State Militia
 Gumla,23.04413,84.537945,Armed Assault,Business
 Rohtas,24.628741,83.920166,Kidnapping,Private Citizens & Property
@@ -907,7 +852,6 @@ Udalguri,26.746018,92.095943,Armed Assault,Violent Political Party
 Muzaffarpur,26.120888,85.36472,Bombing,Police
 Cherthala,9.683637,76.336538,Bombing,Business
 Latehar,23.746322,84.50911,Armed Assault,Police
-Ranchi,23.3441,85.309562,Unknown,Police
 East Garo Hills,25.567169,90.525782,Kidnapping,Business
 Lohardaga,23.440933,84.684522,Bombing,Police
 Imphal,24.817011,93.936844,Bombing,Government
@@ -919,14 +863,9 @@ West Singhbhum,22.365086,85.437557,Armed Assault,Private Citizens & Property
 Malkangiri,18.343586,81.882528,Infrastructure Attack,Police
 Malkangiri,18.343586,81.882528,Infrastructure Attack,Business
 Khammam,17.247253,80.151445,Infrastructure Attack,Business
-Bijapur,16.830171,75.710031,Armed Assault,Unknown
 Dantewada,18.896863,81.345442,Armed Assault,Police
-Dantewada,18.896863,81.345442,Bombing,Unknown
-Dantewada,18.896863,81.345442,Bombing,Unknown
-Dantewada,18.896863,81.345442,Bombing,Unknown
 Dantewada,18.896863,81.345442,Bombing,Private Citizens & Property
 Dantewada,18.896863,81.345442,Bombing,Utilities
-Narayanpur,26.95179,93.859168,Armed Assault,Unknown
 Malkangiri,18.343586,81.882528,Armed Assault,Police
 Palamau,21.958024,78.886385,Infrastructure Attack,Business
 Bastar,19.203677,81.934385,Bombing,Police
@@ -940,7 +879,6 @@ Gadchiroli,20.184871,79.994796,Infrastructure Attack,Private Citizens & Property
 Kalimela,17.836479,81.427212,Armed Assault,Police
 Jamui,24.919515,86.224718,Bombing,Government
 West Chamaparan,27.15431,84.354205,Unarmed Assault,Police
-Gumla,23.04413,84.537945,Unknown,Terrorists/Non-State Militia
 Hazaribag,23.996621,85.369107,Armed Assault,Business
 East Singhbhum,22.486676,86.499655,Armed Assault,Private Citizens & Property
 Warangal,17.968901,79.594054,Armed Assault,Business
@@ -964,15 +902,12 @@ Sundargarh,22.124003,84.043175,Bombing,Transportation
 Gaya,24.795452,84.999431,Kidnapping,Transportation
 Dantewada,18.896863,81.345442,Armed Assault,Private Citizens & Property
 Dantewada,18.896863,81.345442,Infrastructure Attack,Business
-Imphal,24.817011,93.936844,Bombing,Unknown
 Imphal,24.817011,93.936844,Bombing,Government
 Raipur,21.251384,81.629641,Bombing,Police
 Gaya,24.795452,84.999431,Infrastructure Attack,Business
 New Delhi,28.613939,77.209021,Bombing,Government
 Palamau,21.958024,78.886385,Infrastructure Attack,Business
 Kupwara,34.431923,74.123996,Armed Assault,Private Citizens & Property
-Nuapada,20.806018,82.536139,Unknown,Private Citizens & Property
-Nuapada,20.806018,82.536139,Unknown,Private Citizens & Property
 Garhwa,24.154898,83.799562,Infrastructure Attack,Private Citizens & Property
 Rohtas,24.628741,83.920166,Bombing,Educational Institution
 Chatra,24.206508,84.872428,Infrastructure Attack,Business
@@ -988,7 +923,6 @@ Khunti,23.07976,85.277421,Armed Assault,Police
 Gaya,24.795452,84.999431,Kidnapping,Private Citizens & Property
 Gaya,24.795452,84.999431,Kidnapping,Private Citizens & Property
 Gadchiroli,20.184871,79.994796,Kidnapping,Private Citizens & Property
-,26.158435,94.562443,Unknown,Terrorists/Non-State Militia
 Gadchiroli,20.184871,79.994796,Kidnapping,Private Citizens & Property
 Midnapore,22.430889,87.321491,Armed Assault,Private Citizens & Property
 Chatra,24.206508,84.872428,Infrastructure Attack,Educational Institution
@@ -1038,7 +972,6 @@ Sundargarh,22.124003,84.043175,Bombing,Transportation
 Malkangiri,18.343586,81.882528,Kidnapping,Private Citizens & Property
 Balrampur,27.429706,82.176802,Armed Assault,Police
 Mahasamund,21.109132,82.097902,Armed Assault,Police
-Gadchiroli,20.184871,79.994796,Unknown,Private Citizens & Property
 Koraput,18.813487,82.712333,Armed Assault,Police
 Chatra,24.206508,84.872428,Kidnapping,Private Citizens & Property
 Rayagada,19.171209,83.416323,Kidnapping,Government
@@ -1056,7 +989,6 @@ East Champaran,26.609814,84.856793,Armed Assault,Private Citizens & Property
 Palamau,21.958024,78.886385,Armed Assault,Terrorists/Non-State Militia
 Koraput,18.813487,82.712333,Bombing,Military
 Dhalai district,23.846698,91.909924,Kidnapping,Private Citizens & Property
-,21.278657,81.866144,Armed Assault,Government
 Rohtas,24.628741,83.920166,Infrastructure Attack,Private Citizens & Property
 Rohtas,24.628741,83.920166,Bombing,Private Citizens & Property
 Imphal,24.817011,93.936844,Armed Assault,Private Citizens & Property
@@ -1064,7 +996,6 @@ Bijapur,16.830171,75.710031,Armed Assault,Police
 Dantewada,18.896863,81.345442,Armed Assault,Private Citizens & Property
 Imphal,24.817011,93.936844,Bombing,Government
 Koraput,18.813487,82.712333,Armed Assault,Private Citizens & Property
-,31.147131,75.341218,Bombing,Business
 Ukhrul,25.095386,94.361652,Armed Assault,Private Citizens & Property
 Dibrugarh,27.472833,94.911962,Bombing,Educational Institution
 Golaghat,26.523852,93.962337,Kidnapping,Business
@@ -1074,7 +1005,6 @@ Rayagada,19.171209,83.416323,Kidnapping,Private Citizens & Property
 Kokrajhar,26.401436,90.266699,Bombing,Police
 Tinsukia,27.492191,95.346775,Kidnapping,Private Citizens & Property
 Rohtas,24.628741,83.920166,Armed Assault,Private Citizens & Property
-,20.951666,85.098524,Armed Assault,Government
 Kandhamal,20.134204,84.016742,Kidnapping,Private Citizens & Property
 Kokrajhar,26.401436,90.266699,Infrastructure Attack,Transportation
 Kokrajhar,26.401436,90.266699,Infrastructure Attack,Transportation
@@ -1084,9 +1014,6 @@ Imphal,24.817011,93.936844,Bombing,Private Citizens & Property
 West Singhbhum,22.365086,85.437557,Armed Assault,Police
 Jamui,24.919515,86.224718,Bombing,Private Citizens & Property
 Jamui,24.919515,86.224718,Bombing,Private Citizens & Property
-Bijapur,16.830171,75.710031,Unknown,Private Citizens & Property
-Bijapur,16.830171,75.710031,Unknown,Private Citizens & Property
-Bijapur,16.830171,75.710031,Unknown,Private Citizens & Property
 West Singhbhum,22.365086,85.437557,Infrastructure Attack,Business
 Kandhamal,20.134204,84.016742,Armed Assault,Private Citizens & Property
 Gumla,23.04413,84.537945,Infrastructure Attack,Transportation
@@ -1103,7 +1030,6 @@ Imphal,24.817011,93.936844,Bombing,Private Citizens & Property
 Dhubri,26.020698,89.974346,Armed Assault,Private Citizens & Property
 Thoubal,24.644924,93.99929,Bombing,Transportation
 Gaya,24.795452,84.999431,Kidnapping,Private Citizens & Property
-,20.951666,85.098524,Kidnapping,Private Citizens & Property
 Goalpara,26.164134,90.625154,Bombing,Transportation
 Malkangiri,18.343586,81.882528,Armed Assault,Police
 Karbi Anglong,26.186085,93.581269,Armed Assault,Terrorists/Non-State Militia
@@ -1112,22 +1038,18 @@ Gadchiroli,20.184871,79.994796,Bombing,Private Citizens & Property
 Narayanpur,26.95179,93.859168,Armed Assault,Police
 Bishenpur,25.60787,82.849254,Bombing,Private Citizens & Property
 South Garo Hills,25.330097,90.563609,Armed Assault,Private Citizens & Property
-,25.467031,91.366216,Bombing,Government
-,25.467031,91.366216,Armed Assault,Business
 Vishakhapatnam,17.686816,83.218482,Kidnapping,Government
 Imphal,24.817011,93.936844,Bombing,Private Citizens & Property
 Thoubal,24.644924,93.99929,Bombing,Government
 Midnapore,22.430889,87.321491,Armed Assault,Government
 Midnapore,22.430889,87.321491,Armed Assault,Government
 Khammam,17.247253,80.151445,Armed Assault,Police
-Bijapur,16.830171,75.710031,Unknown,Military
 Seraikela Kharsawan,22.856126,86.012157,Armed Assault,Educational Institution
 Ranchi,23.3441,85.309562,Armed Assault,Private Citizens & Property
 Ukhrul,25.095386,94.361652,Kidnapping,Government
 Senapati,25.267728,94.021019,Infrastructure Attack,Business
 East Garo Hills,25.567169,90.525782,Armed Assault,Police
 Midnapore,22.430889,87.321491,Armed Assault,Private Citizens & Property
-Dantewada,18.896863,81.345442,Unknown,Government
 Baramulla,34.159515,74.358747,Armed Assault,Police
 Medinipur,22.430889,87.321491,Armed Assault,Government
 Raj Nandgaon,21.097103,81.030222,Armed Assault,Business
@@ -1136,7 +1058,6 @@ Bokaro,23.669296,86.151112,Bombing,Transportation
 Imphal,24.817011,93.936844,Bombing,Business
 Udalguri,26.746018,92.095943,Armed Assault,Government
 Baramulla,34.159515,74.358747,Armed Assault,Private Citizens & Property
-,26.158435,94.562443,Kidnapping,Government
 Raipur,21.251384,81.629641,Bombing,Police
 Palamau,21.958024,78.886385,Kidnapping,Private Citizens & Property
 Nalbari,26.444619,91.441053,Bombing,Police
@@ -1151,7 +1072,6 @@ Karbi Anglong,26.186085,93.581269,Kidnapping,Government
 New Delhi,28.613939,77.209021,Bombing,Government
 West Garo Hills,25.567937,90.224466,Kidnapping,Government
 West Garo Hills,25.567937,90.224466,Kidnapping,Government
-,26.200604,92.937574,Armed Assault,Business
 Imphal,24.817011,93.936844,Bombing,Private Citizens & Property
 East Garo Hills,25.567169,90.525782,Bombing,Police
 Imphal,24.817011,93.936844,Bombing,Private Citizens & Property
@@ -1160,8 +1080,6 @@ Bijapur,16.830171,75.710031,Kidnapping,Government
 Imphal,24.817011,93.936844,Bombing,Government
 Belpahari,22.632073,86.764262,Unarmed Assault,Private Citizens & Property
 Malkangiri,18.343586,81.882528,Infrastructure Attack,Business
-Dhubri,26.020698,89.974346,Bombing,Unknown
-Bijapur,16.830171,75.710031,Unknown,Police
 Agra,27.17667,78.008075,Bombing,Business
 Gadchiroli,20.184871,79.994796,Kidnapping,Private Citizens & Property
 Gadchiroli,20.184871,79.994796,Kidnapping,Private Citizens & Property
@@ -1174,7 +1092,6 @@ Thoubal,24.644924,93.99929,Bombing,Private Citizens & Property
 Nabarangpur,19.228143,82.54699,Armed Assault,Government
 Midnapore,22.430889,87.321491,Armed Assault,Private Citizens & Property
 Dantewada,18.896863,81.345442,Bombing,Transportation
-Bokaro,23.669296,86.151112,Unknown,Military
 South Garo Hills,25.330097,90.563609,Armed Assault,Police
 Koraput,18.813487,82.712333,Armed Assault,Private Citizens & Property
 Vishakhapatnam,17.686816,83.218482,Armed Assault,Government
@@ -1187,9 +1104,7 @@ Gadchiroli,20.184871,79.994796,Bombing,Police
 Salbani,22.642257,87.319007,Bombing,Private Citizens & Property
 Midnapore,22.430889,87.321491,Kidnapping,Government
 Gadchiroli,20.184871,79.994796,Kidnapping,Private Citizens & Property
-Latehar,23.746322,84.50911,Unknown,Private Citizens & Property
 Bastar,19.203677,81.934385,Bombing,Military
-Tamenglong,24.987934,93.495292,Unknown,Terrorists/Non-State Militia
 Narayanpur,26.95179,93.859168,Armed Assault,Police
 Latehar,23.746322,84.50911,Armed Assault,Private Citizens & Property
 West Garo Hills,25.567937,90.224466,Kidnapping,Police
@@ -1198,13 +1113,10 @@ North Cachar Hills,25.3478,93.017571,Infrastructure Attack,Private Citizens & Pr
 West Singhbhum,22.365086,85.437557,Armed Assault,Private Citizens & Property
 Ukhrul,25.095386,94.361652,Bombing,Military
 Seraikela Kharsawan,22.856126,86.012157,Kidnapping,Private Citizens & Property
-Tamenglong,24.987934,93.495292,Unknown,Terrorists/Non-State Militia
 Bishenpur,25.60787,82.849254,Bombing,Government
 East Garo Hills,25.567169,90.525782,Armed Assault,Police
 Midnapore,22.430889,87.321491,Armed Assault,Police
 Koraput,18.813487,82.712333,Armed Assault,Private Citizens & Property
-Bastar,19.203677,81.934385,Unknown,Police
-,23.164543,92.937574,Kidnapping,Private Citizens & Property
 Keonjhar,21.51512,85.684578,Bombing,Military
 Koraput,18.813487,82.712333,Kidnapping,Private Citizens & Property
 Karbi Anglong,26.186085,93.581269,Armed Assault,Government
@@ -1232,20 +1144,12 @@ Deomali,27.193505,95.469917,Kidnapping,Private Citizens & Property
 Karigaon,25.356667,82.391289,Kidnapping,Private Citizens & Property
 Lumding,25.751627,93.172876,Bombing,Transportation
 Ghatbera,23.185159,86.213309,Kidnapping,Private Citizens & Property
-Unknown,25.444544,83.691587,Bombing,Private Citizens & Property
-Masangdihi,Unknown,Unknown,Armed Assault,Government
-Perivalli,Unknown,Unknown,Kidnapping,Private Citizens & Property
-Kapoorkukri,Unknown,Unknown,Assassination,Government
 Valajangi,18.47559,82.427391,Infrastructure Attack,Business
 Moran,27.182391,94.917569,Armed Assault,Private Citizens & Property
 Cone village,27.992424,-82.398535,Bombing,Police
 Dhangai,31.966558,74.855099,Infrastructure Attack,Educational Institution
-Hahesarhi,Unknown,Unknown,Infrastructure Attack,Educational Institution
 Koide,25.38582,94.188498,Bombing,Government
 Khuripani,20.894141,83.190354,Armed Assault,Government
-Unknown,25.444544,83.691587,Armed Assault,Private Citizens & Property
-Unknown,25.444544,83.691587,Armed Assault,Educational Institution
-Grahampur Bazar,Unknown,Unknown,Armed Assault,Private Citizens & Property
 Bhubanpalli,18.025378,81.598025,Armed Assault,Private Citizens & Property
 Latehar,23.746322,84.50911,Bombing,Police
 Bharuamunda,20.27764,85.794852,Kidnapping,Government
@@ -1255,14 +1159,10 @@ Naidkhai,34.246008,74.566937,Armed Assault,Military
 Tral,33.934218,75.113672,Assassination,Government
 Sarnadih,25.376166,83.02271,Infrastructure Attack,Business
 Vairagadh,20.434782,80.086378,Infrastructure Attack,Government
-Kampumanapakala,Unknown,Unknown,Kidnapping,Private Citizens & Property
-Chandauli,25.260456,83.266267,Unknown,Telecommunication
-Unknown,25.444544,83.691587,Kidnapping,Utilities
 Imphal,24.817011,93.936844,Bombing,Private Citizens & Property
 Karkel,17.706857,74.844865,Assassination,Private Citizens & Property
 Rimrangpara,25.372744,90.037094,Armed Assault,Police
 Srinagar,34.125541,74.944258,Assassination,Government
-Kalia Attala,Unknown,Unknown,Infrastructure Attack,Telecommunication
 Latehar,23.746322,84.50911,Bombing,Government
 Bokaro,23.669296,86.151112,Bombing,Transportation
 Palamu,24.128611,84.185712,Bombing,Government
@@ -1270,35 +1170,24 @@ Latehar,23.746322,84.50911,Bombing,Transportation
 Arauri,26.130048,85.764101,Infrastructure Attack,Private Citizens & Property
 Tandwa,23.856274,85.030624,Armed Assault,Police
 Bargarh,21.342584,83.624201,Infrastructure Attack,Private Citizens & Property
-Unknown,25.444544,83.691587,Infrastructure Attack,Telecommunication
 Bodari,23.178033,81.422404,Bombing,Educational Institution
 Hariharganj,24.542199,84.279232,Armed Assault,Police
 Ramban,25.751488,83.365582,Infrastructure Attack,Telecommunication
 Amrapara,24.519673,87.571717,Bombing,Police
 Maduaha,26.389394,85.202357,Infrastructure Attack,Telecommunication
-Unknown,25.444544,83.691587,Bombing,Transportation
 Bijehara,33.786899,75.099576,Bombing,Military
-Bataloka,Unknown,Unknown,Unarmed Assault,Private Citizens & Property
 Jagun,27.380363,95.897038,Armed Assault,Private Citizens & Property
-Mokkampatti,Unknown,Unknown,Bombing,Transportation
 Wokha,26.091035,94.258974,Bombing,Government
 Thoubal,24.644924,93.99929,Bombing,Government
 Imphal East,24.780654,93.967437,Bombing,Government
 Lakkavarapupet,18.02343,83.15552,Bombing,Military
-Unknown,25.444544,83.691587,Armed Assault,Police
 Saraikela,22.702335,85.927899,Infrastructure Attack,Private Citizens & Property
 Srinagar,34.125541,74.944258,Assassination,Government
-Unknown,25.444544,83.691587,Bombing,Transportation
 Asurabandha,20.89142,85.783323,Bombing,Telecommunication
 Gajalbadi,33.817232,75.139545,Infrastructure Attack,Telecommunication
 Alubaka,18.231047,80.704808,Infrastructure Attack,Business
 Kangpokpi,25.15192,93.969963,Armed Assault,Government
-Sarkanta,Unknown,Unknown,Bombing,Educational Institution
-Unknown,25.444544,83.691587,Bombing,Government
-Unknown,25.444544,83.691587,Armed Assault,Police
-Unknown,25.444544,83.691587,Infrastructure Attack,Business
 Kokrajhar,26.401436,90.266699,Kidnapping,Private Citizens & Property
-Unknown,25.444544,83.691587,Armed Assault,Private Citizens & Property
 Sitamarhi,26.595248,85.480839,Infrastructure Attack,Business
 Parta,12.962321,80.174764,Infrastructure Attack,Business
 Geedam,18.973896,81.399096,Bombing,Police
@@ -1307,7 +1196,6 @@ Tinsukia,27.492191,95.346775,Bombing,Private Citizens & Property
 Baragada,20.648141,85.996848,Infrastructure Attack,Telecommunication
 Gauripur,26.091634,89.965522,Bombing,Private Citizens & Property
 Srirampur,23.403339,88.338505,Bombing,Private Citizens & Property
-Badarpanga,Unknown,Unknown,Bombing,Police
 Kozhikode,11.258753,75.78041,Bombing,Government
 Sopore,34.286763,74.462401,Armed Assault,Police
 Sopore,34.297023,74.478958,Armed Assault,Police
@@ -1329,7 +1217,6 @@ Natun Haza,25.472491,93.084919,Kidnapping,Business
 Imphal,24.806299,93.948197,Bombing,Private Citizens & Property
 Naharup,24.760803,93.964945,Bombing,Private Citizens & Property
 Jhoukhonom,24.35,93.7,Armed Assault,Military
-East Garo Hills district,25.755953,90.677305,Unknown,Private Citizens & Property
 Garhwa,24.173149,83.808662,Bombing,Police
 Garhwa,24.173149,83.808662,Kidnapping,Private Citizens & Property
 Williamnagar,25.495444,90.616793,Armed Assault,Private Citizens & Property
@@ -1346,7 +1233,6 @@ Thangmeiband,24.82004,93.934295,Bombing,Government
 Azad Gunj,34.21166,74.346106,Bombing,Military
 Konkan,24.992846,93.996921,Armed Assault,Police
 Chandel,24.328989,93.986769,Armed Assault,Government
-Namtaolong,24.743562,93.419645,Unknown,Private Citizens & Property
 Imphal,24.806299,93.948197,Bombing,Government
 Sawombung,24.870494,94.013572,Bombing,Government
 Imphal,24.806299,93.948197,Bombing,Government
@@ -1355,8 +1241,6 @@ Bokkingre,25.49546,90.61682,Infrastructure Attack,Private Citizens & Property
 Khangabok,24.616199,94.007696,Bombing,Private Citizens & Property
 Chingai,25.311849,94.496743,Kidnapping,Private Citizens & Property
 Chetag,23.846121,84.816828,Bombing,Police
-Ghagara,22.576173,86.641996,Bombing,Unknown
-Kaniyaaluka,22.480441,86.514666,Bombing,Unknown
 Awapalli,18.588779,80.770576,Armed Assault,Business
 Qoimoh,33.714452,75.081289,Assassination,Government
 Pollampalli,18.183122,81.41186,Bombing,Police
@@ -1364,7 +1248,6 @@ Bokkingre,25.49546,90.61682,Infrastructure Attack,Private Citizens & Property
 Patung,22.37955,85.39837,Armed Assault,Military
 Janiguda,18.204167,82.343889,Bombing,Military
 Malkangiri,18.33892,81.942155,Armed Assault,Food or Water Supply
-Unknown,21.278657,81.866144,Bombing,Unknown
 New Delhi,28.632744,77.219676,Bombing,Government (Diplomatic)
 Srinnagar,34.083619,74.797306,Bombing,Police
 Betul,21.994316,78.110828,Assassination,Government
@@ -1377,14 +1260,11 @@ Kokrajhar,26.401599,90.266765,Kidnapping,Educational Institution
 Latehar,23.744186,84.504429,Bombing,Police
 Jisugittam,25.32656,90.563989,Bombing,Police
 Rajabagan,25.998206,91.801107,Infrastructure Attack,Private Citizens & Property
-Thunku,23.076901,85.280578,Unknown,Private Citizens & Property
 Bansamawe,25.61684,90.531203,Armed Assault,Police
-Nadapuram,11.686459,75.652812,Bombing,Unknown
 Mathamangalam,12.134717,75.297579,Bombing,Private Citizens & Property
 Sandarpuram,10.95739,76.971507,Infrastructure Attack,Violent Political Party
 Guwahati,26.147043,91.735509,Bombing,Private Citizens & Property
 Ramdapara,25.564932,90.225271,Armed Assault,Police
-New Delhi,28.635308,77.22496,Bombing,Unknown
 Mithapur,25.595528,85.136268,Bombing,Transportation
 Arengdo,25.853894,90.945418,Armed Assault,Military
 Imphal East,24.780654,93.967437,Bombing,Private Citizens & Property
@@ -1404,7 +1284,6 @@ Daringbadi,19.907671,84.12182,Kidnapping,Tourists
 Imphal East,24.780654,93.967437,Bombing,Military
 Srinigar,34.08352,74.797838,Bombing,Police
 Srinigar,34.08352,74.797838,Assassination,Government
-Srinigar,34.08352,74.797838,Unknown,Religious Figures/Institutions
 Patrapali,21.177289,83.567061,Kidnapping,Business
 Malkangiri,18.364195,81.892418,Bombing,Government
 Imphal,24.806291,93.948303,Kidnapping,Government
@@ -1434,7 +1313,6 @@ Gasuapara,25.194722,90.345,Kidnapping,Business
 Lokaichar,25.376892,89.869963,Bombing,Private Citizens & Property
 Rongbong Ghat,25.76544,93.158504,Kidnapping,Business
 Hyderpora,34.048248,74.783444,Bombing,Police
-Tamulpur,26.624522,91.571755,Bombing,Unknown
 Numaligarh,26.587648,93.747699,Bombing,Business
 Sukma,18.390961,81.662323,Armed Assault,Police
 Kanker,20.271944,81.493056,Bombing,Police
@@ -1469,7 +1347,6 @@ Chokpot,25.318662,90.440804,Bombing,Police
 Philobari,27.555834,95.693136,Bombing,Business
 Todgatta,19.715202,80.588744,Assassination,Government
 Thoubal,24.65233,93.990834,Bombing,Government
-Rangia,26.439842,91.612949,Bombing,Unknown
 Madurai,9.925201,78.119775,Bombing,Religious Figures/Institutions
 Bacheli,18.700958,81.24913,Armed Assault,Police
 Shillong,25.578773,91.893254,Bombing,Private Citizens & Property
@@ -1498,12 +1375,9 @@ Posotia,22.447033,85.254824,Bombing,Transportation
 Imphal East,24.780654,93.967437,Bombing,Military
 Sangli,16.854884,74.56357,Infrastructure Attack,Government
 Jambulghata,20.54912,79.456337,Kidnapping,Police
-Unknown,18.390844,81.662323,Kidnapping,Violent Political Party
 Chhota Nagra,22.239795,85.305001,Armed Assault,Private Citizens & Property
-Unknown,21.458804,80.197419,Bombing,Military
 Gurpa,24.562287,85.296656,Bombing,Transportation
 Chindgarh,18.522484,81.755294,Bombing,Police
-Tellapur,17.46642,78.285342,Bombing,Unknown
 Sonari,27.022515,95.020846,Bombing,Utilities
 Kondagaon,19.6,81.6667,Armed Assault,Government
 Srinagar,34.08352,74.797838,Bombing,Military
@@ -1524,21 +1398,16 @@ Pipili,20.111801,85.835287,Armed Assault,Private Citizens & Property
 Bijapur,18.8,80.8167,Bombing,Police
 Kareili,25.427402,81.818337,Bombing,Private Citizens & Property
 Hanumantpur,19.357915,83.50702,Kidnapping,Government
-Lekhepal,27.5667,80.6833,Bombing,Unknown
 Kurushnar,19.577501,81.346371,Bombing,Police
 Kondapur,17.4721,78.344397,Bombing,Government
 Philobari,27.558732,95.687642,Bombing,Private Citizens & Property
 Medak's Tellapur,18.000842,79.588367,Bombing,Transportation
 Kanaguda,18.363526,81.895253,Bombing,Police
-Jaranga,23.01643,85.566452,Bombing,Unknown
-Goalpara district,26.177349,90.624687,Bombing,Unknown
 Chilpara,25.330097,90.563609,Armed Assault,Police
 Rainawari,34.09809,74.822932,Armed Assault,Police
-Unknown,25.964443,85.272247,Bombing,Transportation
 Arrah,25.558029,84.66748,Assassination,Terrorists/Non-State Militia
 Imphal,24.806299,93.948197,Bombing,Government
 Bhanpuri,21.091089,80.931236,Bombing,Police
-Latehar district,23.743805,84.504337,Bombing,Unknown
 Vishroo,33.768445,74.819283,Assassination,Government
 Najafgarh,28.606951,76.990486,Assassination,Government
 Bhagalpur,25.24003,86.984512,Kidnapping,Private Citizens & Property
@@ -1554,22 +1423,7 @@ Allahabad,25.435801,81.846311,Bombing,Private Citizens & Property
 Thoubal,24.652315,93.990822,Bombing,Educational Institution
 Kalyan Nagar,13.024523,77.640726,Armed Assault,Private Citizens & Property
 Gaffabal,33.666494,75.013278,Armed Assault,Government
-Danapur,25.635556,85.040833,Bombing,Unknown
-Unknown,20.237556,84.270018,Infrastructure Attack,Government
-Unknown,20.237556,84.270018,Infrastructure Attack,Government
-Unknown,20.237556,84.270018,Infrastructure Attack,Government
-Unknown,20.237556,84.270018,Infrastructure Attack,Government
-Unknown,20.237556,84.270018,Infrastructure Attack,Government
-Unknown,20.237556,84.270018,Infrastructure Attack,Government
-Unknown,20.237556,84.270018,Infrastructure Attack,Government
-Unknown,20.237556,84.270018,Infrastructure Attack,Government
-Unknown,20.237556,84.270018,Infrastructure Attack,Government
-Unknown,20.237556,84.270018,Infrastructure Attack,Government
-Unknown,20.237556,84.270018,Infrastructure Attack,Government
-Unknown,20.237556,84.270018,Infrastructure Attack,Government
-Unknown,20.237556,84.270018,Infrastructure Attack,Government
 Golawand,19.62801,81.81928,Armed Assault,Police
-Bhagalpur,25.24003,86.984512,Bombing,Unknown
 Dumaria,24.442973,84.394202,Bombing,Police
 Kirandul,18.633644,81.25739,Hostage Taking (Barricade Incident),Transportation
 Manja,25.968244,93.437215,Kidnapping,Business
@@ -1613,7 +1467,6 @@ Sita Khunjao,24.663717,93.906269,Armed Assault,Military
 Khariaguda,19.177486,84.460582,Armed Assault,Police
 Bishenpur,24.628864,93.761286,Bombing,Business
 Imphal,24.823158,93.942264,Bombing,Government
-Golla Damodarpalli,19.607672,84.658701,Unknown,Journalists & Media
 Sita Hill,24.434843,94.20707,Armed Assault,Military
 Kohima,25.67035,94.109515,Assassination,Government
 Kadalbal,15.317278,75.713888,Armed Assault,Military
@@ -1622,12 +1475,10 @@ Avarampalayam,11.03526,76.995034,Infrastructure Attack,Private Citizens & Proper
 Balimela,18.225234,82.06208,Infrastructure Attack,Business
 Sagolmang Mamang leikai,24.95,94.0333,Bombing,Government
 Laishram leikai,24.799202,93.97091,Bombing,Government
-Goreswar,26.532855,91.72955,Bombing,Unknown
 Daliam,23.674553,86.19925,Bombing,Police
 Bhanga,24.85,92.483333,Assassination,Private Citizens & Property
 Bodocheka,19.357915,83.50702,Infrastructure Attack,Business
 Sopore,34.28751,74.462463,Bombing,Police
-Binihal and Qazigund,33.505475,75.207038,Bombing,Unknown
 Sanaguchibhata,20.7167,83.4833,Armed Assault,Private Citizens & Property
 Rasong,25.445057,91.927915,Bombing,Business
 Bodocheka,19.357915,83.50702,Infrastructure Attack,Business
@@ -1656,7 +1507,6 @@ Thoubal district,24.613936,94.01262,Bombing,Private Citizens & Property
 Podia,17.862768,81.407293,Armed Assault,Police
 Bijbehara,33.797161,75.090141,Bombing,Tourists
 Podia,17.862542,81.406964,Armed Assault,Police
-Chandwa,23.677186,84.739392,Bombing,Unknown
 Dabinggre,25.853265,90.645103,Armed Assault,Police
 Onakkunu,12.172242,75.194651,Infrastructure Attack,Police
 Pancharatna,26.198747,90.578817,Bombing,Military
@@ -1667,7 +1517,6 @@ Pune,18.52043,73.856744,Bombing,Private Citizens & Property
 Pune,18.52043,73.856744,Bombing,Business
 Pune,18.52043,73.856744,Bombing,Transportation
 Pune,18.52043,73.856744,Bombing,Business
-Pune,18.52043,73.856744,Bombing,Unknown
 Channapora Bridge,34.025014,74.809009,Bombing,Police
 Bhashikhong,24.759291,93.949328,Bombing,Private Citizens & Property
 Nagari Malpora,34.475713,74.263437,Bombing,Government
@@ -1678,12 +1527,10 @@ Panki,24.036117,84.477797,Bombing,Police
 Madurai,9.925201,78.119775,Bombing,Private Citizens & Property
 Seraikela Kharsawan district,22.856126,86.012157,Bombing,Police
 Narayanpur,19.714948,81.245587,Bombing,Police
-Kulgam,33.645127,75.0185,Bombing,Unknown
 Ghari,24.774214,93.905712,Bombing,Private Citizens & Property
 Dantewada,18.9,81.35,Bombing,Police
 Raxaul,26.983264,84.849996,Bombing,Private Citizens & Property
 Jholaro,20.633077,82.062313,Kidnapping,Educational Institution
-Goalpara,26.177349,90.624687,Bombing,Unknown
 Rajpeta,18.527957,80.886276,Bombing,Police
 Dantewada,18.9,81.35,Armed Assault,Police
 Pattan,34.16047,74.555116,Bombing,Police
@@ -1693,16 +1540,11 @@ Sibsagar,26.9833,94.6333,Bombing,Police
 Batamaloo,34.069935,74.793683,Armed Assault,Police
 Malkangiri,18.363526,81.895253,Bombing,Military
 Thongju Part II,24.757947,93.939557,Bombing,Private Citizens & Property
-Hadmamund,18.638763,81.444647,Bombing,Unknown
 Bhuliabandh,21.3333,83.6167,Armed Assault,Police
-Chirang,26.537295,90.693251,Unknown,Private Citizens & Property
-Padmabil,26.440797,89.969872,Bombing,Unknown
-Puthimari Nagaon,24.196876,91.833052,Bombing,Unknown
 Sukma,18.390961,81.662323,Infrastructure Attack,Business
 Thoubal,24.65233,93.990834,Bombing,Private Citizens & Property
 Imphal,24.780654,93.967437,Bombing,Private Citizens & Property
 Imphal,24.817544,93.916458,Bombing,Private Citizens & Property
-Etapalli,20.182405,80.003183,Bombing,Unknown
 Majdia,26.615196,91.523101,Bombing,Religious Figures/Institutions
 Makarpur,25.039974,84.982404,Armed Assault,Private Citizens & Property
 Lamlai,24.8699,94.050809,Bombing,Police
@@ -1712,8 +1554,6 @@ Wangjing,24.6,94.0333,Bombing,Utilities
 Tambda,19.662351,80.234692,Armed Assault,Private Citizens & Property
 Kalimela,17.838008,81.428585,Bombing,Military
 Nongren,24.853942,94.079128,Bombing,Government
-Unknown,24.66355,93.906269,Bombing,Government
-Unknown,24.66355,93.906269,Unknown,Government
 Ghatshila,22.571359,86.488679,Bombing,Police
 Churachandpur,24.35,93.7,Bombing,Government
 Nongren,24.853942,94.079128,Bombing,Private Citizens & Property
@@ -1723,17 +1563,13 @@ Gulab Bagh,33.924756,75.083174,Armed Assault,Government
 Malkangiri,18.363526,81.895253,Armed Assault,Government
 Imphal,24.778552,93.934128,Bombing,Government
 Chokpot,25.318662,90.440804,Kidnapping,Business
-Dantewada district,18.799718,81.339569,Bombing,Unknown
-Tikler,18.143935,80.886748,Bombing,Unknown
 Potamunda,18.855598,82.736167,Bombing,Military
 Nongpok Keithelmanbi,24.589906,94.008256,Bombing,Military
 Lamshang,24.837826,93.876985,Bombing,Private Citizens & Property
 Yairipok,24.68226,94.046121,Bombing,Private Citizens & Property
-Bhamragad,19.414671,80.589902,Bombing,Unknown
 West Singhbhum district,22.462537,85.520024,Bombing,Police
 Kumbi,24.432459,93.804188,Bombing,Military
 Doom Dooma,27.565428,95.558731,Bombing,Police
-Kandhamal district,20.134204,84.016742,Bombing,Unknown
 Imphal,24.806299,93.948197,Bombing,Military
 Guwahati,26.147221,91.735653,Bombing,Police
 Sopore,34.28751,74.462463,Armed Assault,Police
@@ -1764,9 +1600,7 @@ Kamu Maring,24.73202,94.078674,Bombing,Police
 Sibsagar,26.9833,94.6333,Bombing,Private Citizens & Property
 Imphal,24.806299,93.948197,Bombing,Military
 Imphal,24.806299,93.948197,Bombing,Military
-Moidangpok,24.77149,93.816204,Bombing,Unknown
 Balimela,18.225234,82.06208,Kidnapping,Private Citizens & Property
-Umrangso,25.513546,92.73509,Bombing,Unknown
 Howrah,22.560438,88.050979,Bombing,Private Citizens & Property
 Bhatiapar,26.954513,94.564641,Bombing,Transportation
 Gossaigaon,26.442223,89.979972,Bombing,Transportation
@@ -1789,10 +1623,7 @@ Sopore,34.287003,74.462295,Bombing,Police
 Khudengthabi,24.303754,94.254486,Bombing,Police
 Haflong,25.17661,93.012733,Armed Assault,Transportation
 Churachandpur,24.353369,93.699361,Armed Assault,Military
-Imphal,24.806291,93.948303,Bombing,Unknown
-Qazigund,33.623547,75.145328,Bombing,Unknown
 Khammam,17.5,80.333333,Kidnapping,Private Citizens & Property
-Haflong,25.17661,93.012733,Bombing,Unknown
 Haflong,25.17661,93.012733,Bombing,Private Citizens & Property
 Imphal West,24.817544,93.916458,Armed Assault,Educational Institution
 Shillong,25.578721,91.893201,Infrastructure Attack,Educational Institution
@@ -1800,11 +1631,8 @@ Dornapal,18.155242,81.508894,Bombing,Military
 Khumbong,24.772817,93.828127,Bombing,Military
 Haflong,25.17661,93.012733,Bombing,Private Citizens & Property
 Imphal,24.806291,93.948303,Bombing,Military
-Luwangsangbam,24.869261,93.922141,Bombing,Unknown
-Luwangsangbam,24.869261,93.922141,Bombing,Unknown
 Alipurduar,26.49184,89.526855,Bombing,Transportation
 Thoubal,24.65233,93.990834,Bombing,Military
-Imphal East,24.780654,93.967437,Bombing,Unknown
 Hunterganj,24.436667,84.813611,Bombing,Police
 Imphal East,24.780654,93.967437,Bombing,Government
 Imphal West,24.817544,93.916458,Bombing,Military
@@ -1833,21 +1661,16 @@ Kalimela,18.363526,81.895253,Armed Assault,Business
 Naihati,22.902678,88.416893,Bombing,Private Citizens & Property
 Udalguri,26.746018,92.095943,Bombing,Private Citizens & Property
 Malkangiri,18.363526,81.895253,Bombing,Military
-Dalagra,33.300847,74.314609,Bombing,Unknown
 Avaniyapuram,9.877102,78.113679,Armed Assault,Private Citizens & Property
 Soni,25.157568,84.42409,Bombing,Police
-Thiruparankundram,9.876793,78.06953,Bombing,Unknown
 Rengali,21.637221,84.044454,Armed Assault,Private Citizens & Property
 Thoubal district,24.589906,94.008256,Bombing,Military
 West Garo Hills district,25.567937,90.224466,Bombing,Military
 Kalimunda,20.515545,84.118266,Infrastructure Attack,Business
-Mathiya,26.353568,83.552696,Bombing,Unknown
 Akash Nagar,18.671206,81.19628,Armed Assault,Police
 Bijapur district,18.800412,80.815393,Kidnapping,Police
-Koilibeda,19.963308,80.994045,Bombing,Unknown
 Imphal,24.806299,93.948197,Bombing,Military
 Thoubal district,24.589906,94.008256,Bombing,Military
-Wangbal,24.614177,94.028231,Bombing,Unknown
 Latehar district,23.755579,84.354205,Bombing,Police
 Faraspal,18.939291,81.267797,Assassination,Private Citizens & Property
 Williamnagar,25.508549,90.619114,Armed Assault,Police
@@ -1876,10 +1699,8 @@ Khongjom,24.556679,94.031248,Bombing,Military
 Imphal,24.806299,93.948197,Bombing,Military
 Dasmantpur,19.044766,82.919769,Armed Assault,Private Citizens & Property
 Khonthoujam,24.765277,93.849116,Bombing,Military
-Unknown,24.663717,93.906269,Bombing,Unknown
 Haflong,25.176525,93.012704,Armed Assault,Police
 Imphal,24.806299,93.948197,Bombing,Educational Institution
-Sugnu,24.293794,93.877609,Bombing,Unknown
 Rongrenggiri,25.541805,90.578986,Armed Assault,Government
 Usuruia,22.210076,85.247011,Infrastructure Attack,Business
 Pukhri Mapal,24.663832,93.900495,Bombing,Private Citizens & Property
@@ -1892,8 +1713,6 @@ Tral,33.934218,75.113672,Bombing,Military
 Jemini,24.405289,87.301613,Infrastructure Attack,Business
 Ringreygittim,25.571117,90.222955,Bombing,Government
 Gadchirol,20.181843,80.006844,Armed Assault,Police
-Gadchirol,20.181843,80.006844,Bombing,Unknown
-Qazigund,33.623547,75.145328,Bombing,Unknown
 Kanker,20.271944,81.493056,Armed Assault,Private Citizens & Property
 Bijapur,18.8,80.8167,Assassination,Terrorists/Non-State Militia
 Bijapur district,18.8,80.8167,Kidnapping,Terrorists/Non-State Militia
@@ -1903,7 +1722,6 @@ Morena,26.50134,77.993376,Bombing,Transportation
 Goilkera,22.50757,85.376916,Infrastructure Attack,Business
 Korbok,23.399772,91.752547,Kidnapping,Private Citizens & Property
 Kothilwa,26.266514,84.047162,Bombing,Military
-Hailakandi,24.682906,92.56418,Bombing,Unknown
 Imphal East,24.780654,93.967437,Bombing,Police
 Imphal West,24.817544,93.916458,Bombing,Government
 Gumia,23.801324,85.838262,Bombing,Police
@@ -1913,50 +1731,37 @@ Chandil,22.952885,86.059532,Armed Assault,Police
 Kalyansinghpur,19.508955,83.308104,Bombing,Police
 Kongkan,24.809954,94.529357,Armed Assault,Private Citizens & Property
 Kasthiniya,24.72438,84.859543,Kidnapping,Private Citizens & Property
-Unknown,26.95635,70.800476,Bombing,Private Citizens & Property
-Unknown,27.532629,95.638275,Bombing,Business
-Unknown,24.235695,94.067459,Bombing,Military
 Dabnahi,20.633748,82.060976,Bombing,Police
 Dabnahi,20.633427,82.060804,Bombing,Police
-Unknown,23.753925,84.352813,Armed Assault,Police
 Amuatikar,23.730198,84.296522,Armed Assault,Police
 Amuatikar,23.730198,84.296522,Bombing,Private Citizens & Property
 Menda,20.244804,80.282929,Bombing,Police
 Parnashala,17.927194,80.905927,Armed Assault,Police
 Kharjan,27.366355,95.587821,Bombing,Private Citizens & Property
-Rajouri,33.371323,74.314514,Bombing,Unknown
 Ledo,27.293422,95.736874,Kidnapping,Business
 Begundihi,24.224424,88.247252,Bombing,Private Citizens & Property
 Goripora,34.358352,74.433482,Assassination,Government
 Hardshiva,34.374612,74.449661,Assassination,Government
-Gulab Singh Bowli,17.365773,78.46136,Bombing,Unknown
-Unknown,24.151766,84.858978,Bombing,Police
 Satbarwa,23.926562,84.256204,Armed Assault,Police
 Menda,20.244683,80.282758,Infrastructure Attack,Business
 Moreh,24.253988,94.294342,Bombing,Government
 Temelwada,18.394275,81.662636,Armed Assault,Police
-Unknown,18.900196,81.349797,Armed Assault,Military
 Dimapur,25.906174,93.726372,Bombing,Business
 Jamnijara,23.943821,85.790076,Bombing,Police
 Namtola,26.959247,95.057552,Bombing,Police
 Darbha,18.860321,81.867528,Armed Assault,Police
 Kanpur,26.450441,80.333376,Bombing,Transportation
 Kakopathar,27.649168,95.669435,Bombing,Police
-Unknown,24.602075,92.379684,Bombing,Police
 Mangaldai,26.436608,92.028079,Bombing,Police
 Koilamati,26.358151,93.77723,Armed Assault,Police
-Goreswar,26.527761,91.723431,Bombing,Unknown
-Langjing,24.768148,93.893488,Bombing,Unknown
 Kalimela,17.837685,81.429027,Bombing,Military
 Imphal,24.797665,93.93855,Bombing,Military
 Imphal,24.795247,93.936516,Bombing,Transportation
 Imphal,24.803497,93.949712,Bombing,Educational Institution
 Heingang,24.840217,93.94666,Bombing,Business
 Manhe Mahugaon,23.420959,84.577897,Infrastructure Attack,Government
-Unknown,27.002855,94.641294,Bombing,Unknown
 Badildih,24.773331,86.068756,Kidnapping,Business
 Jaleshwar,26.042941,90.205815,Bombing,Government
-Gaurnagar,26.014752,90.216673,Bombing,Unknown
 Jaleshwar,26.040011,90.205772,Bombing,Educational Institution
 Moriakichi Bazar,26.108587,90.642271,Bombing,Private Citizens & Property
 Porahita,26.108587,90.645232,Bombing,Private Citizens & Property
@@ -1970,13 +1775,11 @@ West Mamoroni,27.432499,95.491177,Bombing,Utilities
 Badapada,18.472689,82.31917,Assassination,Government
 Narnaund,29.219602,76.144153,Armed Assault,Journalists & Media
 Dainadubi,25.907054,90.772892,Bombing,Government
-Lalgarh,22.583333,87.05,Bombing,Unknown
 Williamnagar,25.49546,90.61682,Armed Assault,Police
 Goabari,26.491155,90.169195,Bombing,Transportation
 Goh,19.876165,75.343314,Armed Assault,Business
 Dantewada district,18.9,81.35,Infrastructure Attack,Business
 Bhendatungri,23.755579,84.354205,Armed Assault,Police
-Unknown,24.663717,93.906269,Bombing,Military
 Patpani,20.736369,82.496925,Armed Assault,Educational Institution
 Chigitchakgre,25.323197,90.178907,Armed Assault,Police
 Chunar,25.104857,82.867763,Bombing,Transportation
@@ -2008,8 +1811,6 @@ Hyderabad,17.368783,78.524671,Bombing,Private Citizens & Property
 Hyderabad,17.368783,78.524671,Bombing,Private Citizens & Property
 Majhaulia,24.609254,84.655825,Bombing,Police
 Kalantra,34.170873,74.472836,Armed Assault,Government
-Unknown,34.197037,74.379394,Armed Assault,Government
-Sopore,34.289032,74.46062,Unknown,Police
 Aurangabad district,24.74839,84.376663,Hostage Taking (Barricade Incident),Business
 Bijapur district,18.8,80.8167,Armed Assault,Police
 Amaluma,25.915696,94.432894,Kidnapping,Government
@@ -2021,13 +1822,11 @@ Phek district,25.663422,94.47032,Bombing,Police
 Saranda area,22.485398,85.51519,Bombing,Police
 Dantewada district,18.796464,81.339941,Bombing,Police
 Somwarpet,12.625172,75.849907,Armed Assault,Transportation
-Patana,20.190708,86.340555,Bombing,Unknown
 Handwara,34.397548,74.283081,Armed Assault,Police
 Makhan,24.982403,93.869984,Bombing,Educational Institution
 West Singhbhum district,22.466878,85.51712,Bombing,Military
 Imphal,24.793173,93.939307,Bombing,Private Citizens & Property
 Srinagar,34.122748,74.822874,Bombing,Police
-Yelamanda,13.798115,79.043748,Bombing,Unknown
 Nathnagar,25.241202,86.928535,Bombing,Business
 Tangmarg,34.06105,74.424376,Armed Assault,Terrorists/Non-State Militia
 Kotmara,21.570012,83.040197,Unarmed Assault,Private Citizens & Property
@@ -2041,14 +1840,12 @@ Manmaru,22.7429,85.335867,Armed Assault,Private Citizens & Property
 Sukma district,18.390961,81.662323,Kidnapping,Police
 Monshang,24.34303,94.199338,Bombing,Military
 Manmaru,22.743335,85.335567,Armed Assault,Police
-Unknown,22.258652,71.19238,Bombing,Business
 Sopore,34.287432,74.462385,Armed Assault,Private Citizens & Property
 Mumbai,19.075984,72.877656,Unarmed Assault,Private Citizens & Property
 Srinagar,34.083658,74.797368,Armed Assault,Military
 Thoubal district,24.618163,94.012987,Bombing,Military
 Karimati,24.035711,84.477637,Infrastructure Attack,Private Citizens & Property
 Sopore,34.284523,74.463576,Armed Assault,Police
-Imphal,24.809486,93.935452,Bombing,Unknown
 Kupwara,34.468392,74.19073,Armed Assault,Government
 Imam Sahib,33.744415,74.910597,Armed Assault,Police
 Nathnagar,25.241823,86.928449,Bombing,Business
@@ -2065,21 +1862,17 @@ Pamed,18.196037,80.97773,Armed Assault,Police
 Patsoi,24.787064,93.856353,Bombing,Military
 Litan,24.941732,94.21312,Bombing,Police
 Tumnoupokpi,25.038664,93.954688,Kidnapping,Private Citizens & Property
-Maruthayil,12.008135,75.481079,Bombing,Unknown
 Latehar,23.743805,84.504337,Bombing,Transportation
 Wabgai leirak,24.663717,93.906269,Bombing,Military
-Koirengei,24.863986,93.924739,Bombing,Unknown
 Ekara,25.750755,85.256077,Bombing,Transportation
 Chegro,24.028161,86.025524,Bombing,Transportation
 Jamui,24.92326,86.220238,Bombing,Utilities
 Aurangabad district,24.74839,84.376663,Infrastructure Attack,Telecommunication
-Unknown,23.35,85.33,Bombing,Government
 Gumla,23.04917,84.541669,Bombing,Government
 Chainpur,23.135398,84.247839,Armed Assault,Police
 Kulpora,33.668562,75.050893,Assassination,Government
 Gaya district,24.721344,84.856793,Bombing,Police
 Khangabok,24.616199,94.007696,Bombing,Military
-Unknown,24.663717,93.906269,Kidnapping,Police
 Kupwara,34.3,74.27,Bombing,Military
 Bigha,24.656056,84.435647,Bombing,Police
 Bigha,24.656056,84.435647,Bombing,Police
@@ -2113,8 +1906,6 @@ Wageasi,25.820599,90.787053,Armed Assault,Police
 Hygam,34.242779,74.503012,Armed Assault,Police
 Imphal,24.807149,93.949504,Assassination,Government
 Kanker district,20.207901,81.251883,Armed Assault,Police
-Unknown,23.614329,85.230102,Assassination,Journalists & Media
-Goalpara district,26.086907,90.715275,Bombing,Unknown
 Sopore,34.287148,74.461527,Assassination,Government
 Srinagar,34.030469,74.822459,Armed Assault,Police
 Yairipok,24.66644,94.065957,Bombing,Military
@@ -2123,7 +1914,6 @@ Kawad,18.899466,81.533132,Assassination,Violent Political Party
 Srinagar,34.11287,74.746764,Bombing,Government
 Kuiva Kazo,24.931276,94.476471,Assassination,Government
 Pungdongbam,24.869384,94.036696,Bombing,Educational Institution
-Seijang,24.885969,94.096331,Bombing,Unknown
 Villupuram,12.111837,79.557037,Bombing,Transportation
 Mahupadar,18.606524,81.969846,Assassination,Government
 Tiruvannamalai,12.229803,79.073725,Infrastructure Attack,Business
@@ -2131,7 +1921,6 @@ Chingmeirong,24.830175,93.943216,Bombing,Business
 Annasagaram,12.117397,78.162915,Infrastructure Attack,Government
 Thoubal,24.662306,93.981485,Assassination,Government
 Kurumbatti,12.103849,78.488639,Infrastructure Attack,Government
-Lenjua,24.152633,84.856793,Bombing,Unknown
 Munger,25.374352,86.490026,Bombing,Private Citizens & Property
 Munger,25.374352,86.490026,Bombing,Private Citizens & Property
 Bijni,26.497699,90.699932,Bombing,Private Citizens & Property
@@ -2143,11 +1932,9 @@ Pulwama,33.871983,74.896874,Armed Assault,Police
 Lassipora,33.947385,74.552528,Armed Assault,Religious Figures/Institutions
 Bengtol,26.638214,90.476225,Kidnapping,Business
 Marenga,19.143321,81.576095,Armed Assault,Telecommunication
-Handwara,34.397548,74.283081,Bombing,Unknown
 Temelwada,18.25939,81.303929,Armed Assault,Police
 Bijapur,18.8,80.8167,Kidnapping,Terrorists/Non-State Militia
 Rajnandgaon,21.097103,81.030222,Infrastructure Attack,Business
-Khumriyal,34.47292,74.250212,Bombing,Unknown
 Heirok Part I,24.581927,94.084879,Bombing,Military
 Minpa,18.23679,81.183095,Armed Assault,Police
 Machil,34.481376,74.17097,Armed Assault,Military
@@ -2173,10 +1960,8 @@ Anantnag,33.732555,75.160375,Bombing,Police
 Ukhrul district,25.093554,94.361766,Bombing,Police
 New Delhi,28.633952,77.224159,Assassination,Government
 Anantnag,33.734119,75.160375,Bombing,Military
-Unknown,25.61046,85.141667,Bombing,Violent Political Party
 Nengsawakse,25.860614,90.515141,Infrastructure Attack,Transportation
 Rajpora,33.822873,74.853637,Armed Assault,Military
-Rajnandgaon,21.096473,81.031703,Unknown,Police
 Karbi Anglong district,26.574348,93.170587,Kidnapping,Business
 Bardhaman district,23.23243,87.863731,Assassination,Government
 Neloura,33.883527,74.92321,Armed Assault,Police
@@ -2192,7 +1977,6 @@ Nerli,18.718325,81.266205,Bombing,Police
 Keshkal,20.073063,81.591589,Armed Assault,Police
 Srinagar,34.083658,74.797368,Armed Assault,Police
 Purnapani,23.84879,85.607772,Bombing,Police
-Unknown,25.330575,90.564184,Armed Assault,Business
 Narayanpur district,19.711445,81.248846,Armed Assault,Police
 Muzaffarpur,26.124155,85.364771,Assassination,Business
 Gazole,25.210859,88.192384,Bombing,Transportation
@@ -2229,7 +2013,6 @@ Bodh Gaya,24.695102,84.991275,Bombing,Religious Figures/Institutions
 Bodh Gaya,24.695102,84.991275,Bombing,Religious Figures/Institutions
 Bodh Gaya,24.695102,84.991275,Bombing,Religious Figures/Institutions
 Bodh Gaya,24.695102,84.991275,Bombing,Other
-Bodh Gaya,24.697714,84.98713,Bombing,Unknown
 Kanga Gali,33.755459,74.082499,Bombing,Military
 Kanga Gali,33.778434,74.080954,Bombing,Military
 Imphal,24.806827,93.930561,Bombing,Business
@@ -2238,11 +2021,9 @@ Narbal,34.114008,74.667292,Bombing,Police
 Uri,34.086854,74.03295,Armed Assault,Military
 Aigejang,24.957269,94.114759,Armed Assault,Military
 Behiang,24.006973,93.557786,Bombing,Military
-T Minou,24.348854,94.052215,Bombing,Unknown
 Bhopal,23.259933,77.412615,Armed Assault,Journalists & Media
 Dhanora,20.271723,80.309482,Armed Assault,Police
 Handwara,34.397597,74.282506,Kidnapping,Police
-Sundargarh,22.1167,84.0333,Bombing,Unknown
 Jamuria,23.705523,87.0766,Bombing,Private Citizens & Property
 Mangalkote,23.527005,87.898936,Bombing,Government
 Gorna,18.684729,80.989242,Armed Assault,Police
@@ -2282,7 +2063,6 @@ Khunti district,23.023638,85.189404,Armed Assault,Private Citizens & Property
 Srinagar,34.084316,74.774923,Armed Assault,Religious Figures/Institutions
 Imphal,24.806299,93.948197,Bombing,Government
 Muzaffarpur,26.120888,85.36472,Assassination,Violent Political Party
-Kondagaon,19.6,81.6667,Bombing,Unknown
 Palamu district,24.129604,84.185606,Kidnapping,Business
 Guwahati,26.179222,91.753346,Bombing,Police
 Chawmanu,23.851459,91.992718,Kidnapping,Private Citizens & Property
@@ -2295,7 +2075,6 @@ Chatra,24.204235,84.870937,Bombing,Business
 Chushul,33.602895,78.656086,Bombing,Military
 Kudhwan,24.988548,84.454436,Bombing,Police
 Khoibu,24.529594,94.204109,Bombing,Military
-Poonch,33.774655,74.093469,Unknown,Military
 Nengkhra,25.501158,90.690783,Bombing,Police
 Karbi Anglong district,25.765367,93.158504,Armed Assault,Police
 Dimapur,25.906267,93.72759,Bombing,Business
@@ -2310,14 +2089,12 @@ Dimapur,25.904939,93.729118,Bombing,Business
 Rongcheck Akong,25.567169,90.525782,Armed Assault,Private Citizens & Property
 Nadia district,23.470805,88.546629,Assassination,Private Citizens & Property
 Imphal,24.797836,93.941691,Bombing,Private Citizens & Property
-Udalguri district,26.761552,92.065322,Bombing,Unknown
 Chapaguri,26.505565,90.549396,Bombing,Police
 Dumagon,26.634189,90.381898,Bombing,Transportation
 Batabori,26.416163,92.301414,Bombing,Business
 Kokrajhar district,26.583189,90.19664,Bombing,Transportation
 Kokrajhar,26.401436,90.266699,Bombing,Government
 Bongaigaon,26.472724,90.558044,Bombing,Private Citizens & Property
-Unknown,24.663717,93.906269,Bombing,Private Citizens & Property
 Imphal,24.776646,93.950864,Bombing,Private Citizens & Property
 T. Minou,24.214121,94.26765,Bombing,Military
 Imphal,24.849665,93.934295,Bombing,Business
@@ -2344,15 +2121,12 @@ Imphal,24.8033,93.937162,Bombing,Government
 Sopore,34.287361,74.462658,Bombing,Police
 Shilong,25.41847,91.743622,Armed Assault,Police
 Khoupum,24.654662,93.447772,Kidnapping,Government
-Koraput,18.815236,82.712102,Bombing,Unknown
-Khudengthabi,24.303754,94.254486,Bombing,Unknown
 Yairipok,24.652472,94.069144,Bombing,Educational Institution
 West Singhbhum district,22.462537,85.520024,Bombing,Police
 Hakajang,23.482377,84.361768,Kidnapping,Private Citizens & Property
 Bongyang,24.411534,94.059016,Bombing,Police
 Garo Hills district,25.500422,90.333492,Bombing,Private Citizens & Property
 Ukhrul,25.096637,94.36173,Bombing,Private Citizens & Property
-Burgum,19.122463,81.521931,Unknown,Government
 Gagran,33.709414,74.840204,Armed Assault,Police
 Pulwama,33.870986,74.892318,Bombing,Police
 Shamli district,29.449923,77.310803,Armed Assault,Religious Figures/Institutions
@@ -2364,14 +2138,12 @@ Imphal,24.852796,94.011154,Bombing,Military
 Imphal,24.812914,93.949528,Bombing,Private Citizens & Property
 Ukhrul,25.094138,94.360642,Assassination,Private Citizens & Property
 Shopian district,33.716344,74.862843,Armed Assault,Private Citizens & Property
-Imphal,24.806518,93.948442,Bombing,Unknown
 Gaya,24.786423,84.984341,Armed Assault,Police
 Garobadha,25.587814,90.023332,Armed Assault,Private Citizens & Property
 Mariwada,18.8,80.8167,Armed Assault,Police
 Amarut,24.505096,84.897175,Armed Assault,Police
 Hyderpora,34.049246,74.783235,Armed Assault,Military
 Bailadilla,18.69544,81.221995,Infrastructure Attack,Business
-Imphal,24.811668,93.948498,Bombing,Unknown
 Bandua,23.90216,84.601235,Kidnapping,Private Citizens & Property
 Chuku,23.924486,84.600809,Kidnapping,Private Citizens & Property
 Parasi,24.947464,86.173797,Bombing,Government
@@ -2379,8 +2151,6 @@ Jamui,24.925516,86.220846,Armed Assault,Military
 Charduar,26.85788,92.76675,Kidnapping,Private Citizens & Property
 Khan Nagar,15.387448,76.038466,Armed Assault,Business
 Srinagar,34.092473,74.795494,Armed Assault,Police
-Imphal,24.812914,93.949528,Bombing,Unknown
-Imphal,24.812914,93.949528,Bombing,Unknown
 Ukhrul,25.094304,94.360688,Bombing,Government
 Pulwama district,33.883072,74.920877,Armed Assault,Police
 Kathua,32.371698,75.522909,Hijacking,Police
@@ -2399,7 +2169,6 @@ Kolkata,22.572646,88.363895,Bombing,Private Citizens & Property
 Mawlai,25.607095,91.883918,Infrastructure Attack,Business
 Sopore,34.28751,74.462463,Armed Assault,Police
 Kambiron,24.727274,93.372704,Bombing,Transportation
-Hazaribagh,24.136728,84.185057,Unknown,Private Citizens & Property
 Shillong,25.578773,91.893254,Infrastructure Attack,Business
 East Garo Hills district,25.567637,90.527143,Bombing,Police
 Kultali,22.986757,87.854976,Assassination,Violent Political Party
@@ -2410,7 +2179,6 @@ Imphal,24.806299,93.948197,Bombing,Government
 Koil,33.878233,74.948546,Armed Assault,Police
 Soura,34.138625,74.799533,Bombing,Police
 Ukhrul district,25.095386,94.361652,Bombing,Military
-Senapati district,25.320331,94.151376,Unknown,Private Citizens & Property
 Bishuram Basti,24.460601,92.548358,Kidnapping,Private Citizens & Property
 Gadchiroli district,20.183268,80.003335,Bombing,Police
 Pathara,24.734336,84.47239,Bombing,Government
@@ -2422,8 +2190,6 @@ Imphal,24.806299,93.948197,Assassination,Government
 Nampisha,24.723562,94.486557,Bombing,Military
 Gumla,23.0474,84.54207,Armed Assault,Private Citizens & Property
 Thamnapokpi,24.508812,93.760016,Bombing,Military
-Dudhnoi,25.981707,90.780976,Bombing,Unknown
-Dudhnoi,25.981707,90.780976,Bombing,Unknown
 Jalukbari,26.144035,91.642013,Bombing,Transportation
 Jhiliguda,19.1774,83.583695,Assassination,Government
 Bhowraguri,26.640171,90.617802,Armed Assault,Private Citizens & Property
@@ -2457,9 +2223,7 @@ Gendabari,25.972012,90.547671,Armed Assault,Private Citizens & Property
 Latehar district,23.755182,84.355559,Bombing,Military
 Gasuapara,25.224232,90.376999,Armed Assault,Police
 Pallel,24.450089,94.026125,Bombing,Private Citizens & Property
-Khunti district,23.050671,85.201507,Unknown,Violent Political Party
 Awantipora,33.917783,75.017736,Armed Assault,Police
-Sukma district,18.391134,81.659273,Bombing,Unknown
 Dhanbad district,23.805921,86.415512,Infrastructure Attack,Business
 Imphal,24.82004,93.934295,Bombing,Private Citizens & Property
 Imphal,24.806993,93.941978,Bombing,Tourists
@@ -2468,25 +2232,20 @@ Bagli,25.56796,91.296179,Armed Assault,Military
 Chintapalle,17.866667,82.35,Kidnapping,Private Citizens & Property
 Kudler,13.659395,75.951134,Infrastructure Attack,Private Citizens & Property
 Ganjemar,18.773716,81.331329,Bombing,Government
-Kanker district,20.261553,81.460083,Bombing,Unknown
 Rajnandgaon district,21.097103,81.030222,Bombing,Police
 Amkola,24.519961,85.140453,Assassination,Terrorists/Non-State Militia
 Gudabeda,19.913683,80.987427,Bombing,Government
 Mangnar,18.850754,81.30418,Bombing,Government
 Narayanpur district,19.739481,81.25753,Bombing,Police
 South Garo Hills district,25.330097,90.563609,Kidnapping,Business
-Dudhnoi,25.982552,90.77989,Bombing,Unknown
 Lakhipur,24.8,93.0167,Infrastructure Attack,Government
 Antagarh,20.093521,81.162048,Bombing,Police
 Nayanar,19.901394,81.567869,Armed Assault,Police
-Bijapur,18.8,80.8167,Bombing,Unknown
 Narayanpur district,19.723535,81.242411,Bombing,Government
 Tebronggre,25.649879,90.260223,Kidnapping,Private Citizens & Property
 Kohka Meta,19.680193,81.052495,Bombing,Government
-Durgapur,23.522126,87.308636,Unknown,Government
 Kanker district,20.261553,81.460083,Bombing,Government
 Dantewada district,18.784117,81.347837,Bombing,Government
-Koilibeda,19.964072,80.99712,Unknown,Government
 Bijapur district,18.813693,80.834286,Armed Assault,Police
 Sukma district,18.391134,81.659273,Bombing,Military
 Dornapal,18.154986,81.50867,Armed Assault,Police
@@ -2508,28 +2267,23 @@ Nawadih,24.072249,83.833874,Assassination,Government
 Hailakandi district,24.543376,92.654357,Kidnapping,Business
 Kamakhya,26.166108,91.706694,Bombing,Transportation
 Kokrajhar district,26.698999,90.373106,Bombing,Private Citizens & Property
-Bijni,26.497231,90.699507,Bombing,Unknown
 West Garo Hills district,25.567937,90.224466,Kidnapping,Government
 Madurai,9.925201,78.119775,Bombing,Private Citizens & Property
 Boldak Ading,25.513493,90.203908,Kidnapping,Private Citizens & Property
 Howrah,22.578194,88.325958,Bombing,Government
 Chirang district,26.525265,90.439346,Kidnapping,Private Citizens & Property
-Ghagwal,32.511155,75.210425,Bombing,Unknown
 Ukhrul,25.094537,94.361898,Bombing,Transportation
 Damparengpui,23.719245,92.414696,Kidnapping,Private Citizens & Property
 Thethaitangar,22.496235,84.508502,Armed Assault,Private Citizens & Property
 Kannur district,11.884486,75.386413,Bombing,Police
-Kanker district,20.207901,81.251883,Bombing,Unknown
 Imphal,24.799552,93.931046,Bombing,Military
 Bongaigaon,26.473723,90.559524,Bombing,Business
 Bijni,26.497231,90.700108,Kidnapping,Private Citizens & Property
 Bishenpur,24.628864,93.761286,Bombing,Private Citizens & Property
 Simdega district,22.6,84.6,Armed Assault,Private Citizens & Property
 Chiripar,24.82012,92.938836,Bombing,Transportation
-Narayanpur district,19.739481,81.25753,Bombing,Unknown
 Dumka district,24.316127,87.261257,Armed Assault,Police
 Bijapur district,18.810605,80.825703,Bombing,Police
-Chintalnar,18.339939,81.183983,Bombing,Unknown
 Viswema,25.561454,94.144979,Kidnapping,Transportation
 Chauliaganj,20.457997,85.90937,Bombing,Business
 Sunabeda,20.531315,82.480691,Armed Assault,Police
@@ -2560,7 +2314,6 @@ Latehar district,23.756444,84.355734,Bombing,Police
 Chirang district,26.538662,90.693912,Armed Assault,Military
 Chasingre,25.55757,90.227984,Armed Assault,Business
 Chasingre,25.55757,90.227984,Armed Assault,Police
-Pathargittim,25.330097,90.563609,Unknown,Police
 Ramaguda,18.355422,81.833743,Kidnapping,Private Citizens & Property
 Biliguda,17.940918,81.531387,Armed Assault,Private Citizens & Property
 Gasupara,25.224232,90.376999,Kidnapping,Private Citizens & Property
@@ -2576,8 +2329,6 @@ Dibrugarh,27.472833,94.911962,Bombing,Private Citizens & Property
 Simdega,22.610968,84.502431,Bombing,Business
 Palamu district,24.128611,84.185712,Infrastructure Attack,Private Citizens & Property
 Revora,15.651387,73.85052,Unarmed Assault,Government
-Gumla district,23.192002,84.522219,Unknown,Private Citizens & Property
-Unknown,23.46391,85.456342,Bombing,Business
 Rayagada district,19.188299,83.439735,Infrastructure Attack,Business
 Jiribam,24.80189,93.12336,Kidnapping,Private Citizens & Property
 Kamshet,18.759738,73.596658,Assassination,Private Citizens & Property
@@ -2607,8 +2358,6 @@ Balichanda,26.054672,93.047333,Infrastructure Attack,Private Citizens & Property
 Katihar district,25.53754,87.566093,Bombing,Transportation
 Kalia Atal,18.7017,82.222665,Bombing,Telecommunication
 Khaira,24.441407,84.394995,Infrastructure Attack,Business
-Singjamei,24.782772,93.943216,Bombing,Unknown
-Imphal,24.812291,93.947471,Bombing,Unknown
 Dikadla,29.230103,77.070837,Assassination,Government
 Supalu,18.07404,81.750951,Kidnapping,Religious Figures/Institutions
 Matda,18.793435,80.817976,Kidnapping,Police
@@ -2654,11 +2403,9 @@ Dadsara,33.903583,75.085673,Armed Assault,Military
 Rangkala,24.764974,86.338915,Kidnapping,Private Citizens & Property
 Tuieo,24.28202,86.091399,Bombing,Police
 Melaghar,23.497254,91.331257,Bombing,Private Citizens & Property
-Garampani,25.490738,92.626845,Bombing,Unknown
 Dhekiajuli,26.701586,92.477843,Bombing,Business
 Senapati district,25.2661,94.020793,Kidnapping,Business
 Moirang,24.5,93.7667,Bombing,Police
-Kangvai,24.433396,93.721297,Bombing,Unknown
 Kechala,18.740279,82.642942,Kidnapping,Educational Institution
 Navkania,24.190713,85.909885,Kidnapping,Government
 Torbung,24.429735,93.719394,Bombing,Military
@@ -2717,7 +2464,6 @@ Kurshipar,21.201097,79.609217,Infrastructure Attack,Government
 Imphal West district,24.789228,93.871093,Armed Assault,Journalists & Media
 Madurai,9.925059,78.119289,Infrastructure Attack,Private Citizens & Property
 Mandu,23.855894,85.441654,Kidnapping,Business
-Khadgaon,22.12871,82.993543,Bombing,Unknown
 Imphal,24.823529,93.947761,Bombing,Government
 Manewara,19.830445,80.448937,Kidnapping,Private Citizens & Property
 Aizawl,23.732869,92.717129,Bombing,Private Citizens & Property
@@ -2728,9 +2474,6 @@ Amas,24.626284,84.656242,Armed Assault,Police
 Andro,24.752444,94.043655,Assassination,Government
 Gasbari,26.487264,91.730175,Bombing,Private Citizens & Property
 Darpora,34.513452,74.415458,Armed Assault,Military
-Khengjang,24.349208,93.676876,Bombing,Unknown
-Imphal,24.7745,93.950315,Bombing,Unknown
-Vishakhapatnam,17.695381,83.241493,Unknown,Government
 Hazaribagh,23.9833,85.35,Kidnapping,Business
 Chennai,13.052414,80.250825,Armed Assault,Private Citizens & Property
 Langthabal Kunja,24.739465,93.933621,Bombing,Military
@@ -2738,7 +2481,6 @@ Kuakonda,18.727104,81.440785,Bombing,Police
 Kuthegaon,19.63943,79.474748,Kidnapping,Private Citizens & Property
 Simdega district,22.610439,84.499465,Armed Assault,Private Citizens & Property
 Hedri,19.586765,80.344397,Armed Assault,Police
-Mazbat,26.171477,91.768053,Unknown,Military
 Pulwama,33.871517,74.89955,Armed Assault,Police
 Pampore,34.008265,74.923072,Armed Assault,Police
 Langthabal,24.731813,93.908526,Bombing,Private Citizens & Property
@@ -2750,37 +2492,28 @@ Barhi,24.3,85.42,Assassination,Private Citizens & Property
 Tupul,24.737702,93.464666,Armed Assault,Police
 Tral,33.934169,75.113593,Armed Assault,Police
 Managiri,9.928878,78.146361,Bombing,Government
-Jorasimar,24.3679,86.507763,Unknown,Private Citizens & Property
 Sukma,18.39186,81.657827,Bombing,Police
 Sita,24.446043,94.222084,Bombing,Military
 Khurai,24.802269,93.961353,Bombing,Private Citizens & Property
 Tummala,17.769831,81.310141,Kidnapping,Private Citizens & Property
 Moirang,24.498915,93.76814,Bombing,Government
-Pratappur,24.295329,84.635275,Bombing,Unknown
 Navinagar,24.606633,84.128879,Kidnapping,Business
-Palamau district,24.038749,84.475716,Bombing,Unknown
 Kulnung Khunou,24.956087,93.50119,Kidnapping,Business
 Agarpara,22.681352,88.385709,Assassination,Private Citizens & Property
 Madurai,9.923854,78.1249,Bombing,Religious Figures/Institutions
 Ahiapur,26.120888,85.36472,Hostage Taking (Barricade Incident),Business
 Bochahan,25.563769,85.739491,Armed Assault,Government
-Unknown,20.593684,78.962879,Kidnapping,Business
 Badlapur,19.162708,73.239371,Assassination,Private Citizens & Property
-Giridih district,24.180082,86.306879,Bombing,Unknown
 Navakaniya,23.964132,86.207035,Hostage Taking (Barricade Incident),Educational Institution
 Bandgaon,22.864679,85.325553,Assassination,Government
-Jhargram,22.455017,86.997477,Bombing,Unknown
 Khunti,23.075626,85.278974,Armed Assault,Police
 Nekhavaya,18.635071,81.732214,Infrastructure Attack,Business
 Tral,33.932498,75.113628,Armed Assault,Military
 Murhu,22.97266,85.28099,Bombing,Police
 Mazbat,26.792888,92.290273,Armed Assault,Police
-Maheshduba,22.585214,86.474396,Bombing,Unknown
-Naudeeha Bazaar,24.376103,84.296139,Bombing,Unknown
 Dhurki,24.139169,83.449942,Armed Assault,Police
 Majhowlia,26.798926,84.620829,Bombing,Telecommunication
 Dumaria,24.443128,84.394695,Bombing,Telecommunication
-Unknown,26.34851,85.428436,Bombing,Transportation
 Kathua district,32.370846,75.327031,Hijacking,Private Citizens & Property
 Kathua,32.403056,75.514649,Armed Assault,Military
 Malkangiri district,18.341072,81.87389,Bombing,Military
@@ -2790,14 +2523,12 @@ Bemina,34.076198,74.768696,Bombing,Military
 Kakapora,33.946834,74.929646,Armed Assault,Police
 Palhalan,34.183538,74.547621,Armed Assault,Military
 Churachandpur,24.340836,93.697562,Armed Assault,Military
-South Garo Hills district,25.410383,90.57216,Armed Assault,Unknown
 Dantewada district,18.84956,81.3813,Infrastructure Attack,Transportation
 Rongrikkimgre,25.320978,90.439742,Kidnapping,Business
 Williamnagar,25.495031,90.617555,Bombing,Transportation
 Jhargram,22.439546,86.997994,Armed Assault,Police
 Gasuapara,25.224205,90.376971,Kidnapping,Business
 Litan,24.94138,94.212998,Kidnapping,Violent Political Party
-Kondagaon district,19.172111,81.811241,Bombing,Unknown
 Gundijora,22.179249,85.517365,Bombing,Police
 Baleguda,18.208503,82.092247,Kidnapping,Private Citizens & Property
 East Garo Hills district,25.565254,90.526723,Infrastructure Attack,Business
@@ -2806,27 +2537,19 @@ Daundih,21.913018,81.589706,Bombing,Government
 Barabadha,26.360833,89.907222,Armed Assault,Business
 Latehar district,23.68,84.73,Armed Assault,Private Citizens & Property
 Ukhrul,25.094532,94.361199,Infrastructure Attack,Violent Political Party
-Gaya district,24.775486,84.918483,Bombing,Unknown
 Pulwama,33.872037,74.901552,Assassination,Business
 Malkangiri district,18.236935,82.092699,Bombing,Military
 Nambol,24.694024,93.80684,Bombing,Educational Institution
 Chintagufa,18.251161,81.242073,Armed Assault,Police
-Aurangabad district,24.750985,84.374785,Bombing,Unknown
 Ambabhona,21.57793,83.476095,Infrastructure Attack,Business
-Kothi,24.374256,84.523723,Bombing,Unknown
-Malkangiri district,18.33786,82.032109,Bombing,Unknown
 Anantnag,33.731066,75.151476,Armed Assault,Police
 Aurangabad district,24.750985,84.374785,Bombing,Police
-Signu,24.293961,93.877264,Bombing,Unknown
 Kothi,23.337665,82.055566,Armed Assault,Private Citizens & Property
 Dema,23.996528,84.377857,Bombing,Military
 Dema,23.996528,84.377857,Bombing,Military
-Jaggaiahpet,17.171145,82.063684,Bombing,Unknown
 Ambasaramunda,20.862562,84.58407,Bombing,Private Citizens & Property
 Chintagufa,18.249801,81.243315,Armed Assault,Police
 Gangaloor,18.736424,81.039581,Bombing,Police
-Gaya district,24.766644,84.950967,Bombing,Unknown
-Aurangabad,24.750985,84.374785,Bombing,Unknown
 Kutumba,24.614972,84.229462,Bombing,Government
 Jamui district,24.737557,86.300157,Bombing,Government
 Jamui district,24.737557,86.300157,Bombing,Government
@@ -2841,12 +2564,9 @@ Koraput district,18.702482,82.659338,Infrastructure Attack,Government
 Gannavaram,16.542546,80.804687,Infrastructure Attack,Telecommunication
 Lakhipur,24.801571,93.020596,Bombing,Private Citizens & Property
 Munger district,25.192321,86.536618,Bombing,Police
-Lanji,21.509249,80.547686,Bombing,Unknown
 Narotampur,25.180151,86.262119,Bombing,Police
-Unknown,25.593569,85.948484,Bombing,Police
 Nawada district,24.875607,85.50466,Infrastructure Attack,Government
 Nelnar,19.493661,81.214681,Bombing,Government
-Bhansi,18.77203,81.275434,Bombing,Unknown
 Gadiras,18.505819,81.554154,Infrastructure Attack,Government
 Sukma district,18.704361,81.121549,Infrastructure Attack,Government
 Kirandul,18.632839,81.259966,Infrastructure Attack,Government
@@ -2876,18 +2596,13 @@ Malkangiri district,18.33786,82.032109,Kidnapping,Government
 Bijapur district,18.755249,80.816788,Bombing,Government
 Kamanar,18.932863,81.882246,Bombing,Police
 Khunti district,23.063396,85.247154,Assassination,Private Citizens & Property
-Unknown,24.820673,93.987893,Bombing,Government
 Nambol,24.716345,93.834572,Bombing,Educational Institution
 Tiskopi,23.896508,85.697042,Bombing,Military
 Khrew,34.018365,74.998715,Armed Assault,Private Citizens & Property
 Imphal,24.789677,93.954691,Bombing,Business
-Bokaro district,23.727913,86.104956,Bombing,Unknown
 Nawada district,24.875427,85.504655,Armed Assault,Government
 Lakhisarai,25.171909,86.093492,Bombing,Transportation
 Bhejangiwada,18.040568,81.941567,Bombing,Military
-Thanjavur,10.786999,79.137827,Unknown,Violent Political Party
-Kanker district,20.288888,81.242032,Bombing,Unknown
-Kanker district,20.288901,81.242032,Bombing,Unknown
 Khumbong,24.764287,93.828897,Assassination,Government
 Srinagar,34.094041,74.799272,Infrastructure Attack,Government
 Srinagar,34.094041,74.799272,Infrastructure Attack,Government
@@ -2899,9 +2614,7 @@ Bokaro district,23.727918,86.104956,Armed Assault,Police
 Bokaro district,23.727918,86.104956,Bombing,Transportation
 Narayanpur,23.603007,86.15896,Bombing,Educational Institution
 West Singhbhum district,22.355911,85.519466,Bombing,Government
-Gamharia,22.805447,86.109951,Bombing,Unknown
 Giridih district,24.200612,86.269758,Bombing,Police
-Giridih district,24.247923,86.176858,Bombing,Unknown
 Kanker district,20.227824,81.311781,Bombing,Government
 Galudih,23.789137,86.06928,Bombing,Government
 Gomia,23.806834,85.824463,Bombing,Police
@@ -2950,7 +2663,6 @@ Chennai,13.08429,80.27631,Bombing,Transportation
 Narsingbari,26.619112,91.041857,Armed Assault,Private Citizens & Property
 Baska,26.660531,91.358867,Armed Assault,Private Citizens & Property
 Kokrajhar,26.384948,90.276411,Armed Assault,Journalists & Media
-Jagaddal,22.856255,88.406475,Unknown,Private Citizens & Property
 Chokpot,25.32384,90.419408,Armed Assault,Police
 Balapara,26.258028,91.127389,Armed Assault,Private Citizens & Property
 Nayan Guri,26.654859,90.989237,Armed Assault,Private Citizens & Property
@@ -2962,22 +2674,18 @@ Kaurgaon,19.116238,81.246483,Kidnapping,Government
 Kiyam Siphai,24.64978,93.953334,Bombing,Business
 Berhampur,19.309178,84.793692,Bombing,Government
 Hussainabad,24.533599,84.000216,Assassination,Government
-Tangdhar,34.399646,73.862489,Bombing,Unknown
 Watargam,34.319167,74.373056,Bombing,Government
 Hussaina Raghav,25.67921,85.354835,Bombing,Government
 Sopore,34.298738,74.470161,Armed Assault,Police
-Sopore,34.298738,74.470161,Unknown,Military
 Jalandhar,31.352751,75.58428,Bombing,Private Citizens & Property
 Wazirganj,24.802175,85.243784,Infrastructure Attack,Business
 Baramulla,34.205141,74.349494,Bombing,Police
 Palhalan,34.181429,74.549258,Bombing,Government
-Jammalamadugu,14.854553,78.379195,Unknown,Police
 Paderu,18.0833,82.6667,Infrastructure Attack,Government
 Taper,34.189123,74.533236,Bombing,Government
 Shopian,33.717025,74.8362,Armed Assault,Government
 Hyderabad,17.396624,78.491816,Bombing,Private Citizens & Property
 Ghatshila,22.587339,86.474391,Infrastructure Attack,Business
-Unknown,26.200604,92.937574,Infrastructure Attack,Business
 Wanpoh,33.729618,75.108563,Assassination,Government
 Kurri,20.322527,81.215531,Bombing,Private Citizens & Property
 Malkhed,17.191148,77.166556,Bombing,Transportation
@@ -2988,7 +2696,6 @@ Mumuri,19.960998,80.147584,Bombing,Police
 Kolkata,22.585276,88.351217,Bombing,Government
 Kolkata,22.584584,88.351874,Bombing,Government
 Bashirhat,22.65909,88.863432,Armed Assault,Private Citizens & Property
-Imphal,24.820028,93.950122,Bombing,Unknown
 Imphal,24.789417,93.924015,Bombing,Government
 Malkangiri district,18.343586,81.882528,Bombing,Military
 Taikhang,24.596055,93.36823,Armed Assault,Military
@@ -3009,9 +2716,7 @@ Aheri,19.414199,80.007962,Armed Assault,Private Citizens & Property
 Bandlapalli,14.714739,77.810281,Bombing,Private Citizens & Property
 Sandeshkhali,22.356709,88.881991,Armed Assault,Violent Political Party
 Sandeshkhali,22.363882,88.878679,Armed Assault,Violent Political Party
-Khour,32.601778,74.809414,Bombing,Unknown
 Bikrampur,22.338542,86.178146,Assassination,Journalists & Media
-Daji Badimagre,25.396733,90.475623,Unknown,Private Citizens & Property
 Bijapur district,18.797297,80.813178,Armed Assault,Police
 Kambesu,19.280713,83.584336,Infrastructure Attack,Business
 Kusumaguda,19.042651,83.717257,Infrastructure Attack,Business
@@ -3023,13 +2728,11 @@ Belgaon,20.327651,80.454063,Armed Assault,Private Citizens & Property
 Senapati district,25.273753,94.027276,Kidnapping,Private Citizens & Property
 Bijapur district,18.846484,80.745099,Armed Assault,Private Citizens & Property
 Jekabari,25.563479,89.890889,Kidnapping,Private Citizens & Property
-Bijapur,18.79771,80.812864,Bombing,Unknown
 Khunti district,23.07,85.28,Armed Assault,Private Citizens & Property
 Sikarpie,19.169589,83.416369,Armed Assault,Business
 Sangaiprou Mamang leikai,24.784277,93.915948,Bombing,Educational Institution
 Imphal,24.830114,93.950694,Bombing,Government
 Goera Rongat,25.341993,90.480937,Armed Assault,Private Citizens & Property
-West Singhbhum district,22.191213,85.368427,Bombing,Unknown
 Kupwara district,34.431923,74.123996,Armed Assault,Military
 Adavali,19.210846,73.133624,Armed Assault,Government
 Rimthiyam,26.183789,93.591514,Assassination,Police
@@ -3071,7 +2774,6 @@ Poonch district,33.764588,74.086833,Bombing,Military
 Tankuapada,18.809919,82.720464,Kidnapping,Private Citizens & Property
 Mokokchung district,26.322036,94.513463,Bombing,Private Citizens & Property
 Mendhar,33.60502,74.14342,Bombing,Government
-Bitkilsoya,22.139217,85.066017,Bombing,Unknown
 Chhapra,25.783548,84.753144,Bombing,Transportation
 Motihari,26.65,84.916667,Bombing,Transportation
 Dariapur,25.012165,85.19329,Bombing,Private Citizens & Property
@@ -3094,7 +2796,6 @@ Lakhari,25.214671,83.941312,Armed Assault,Police
 Naharjan,26.605271,93.634392,Assassination,Government
 Karanjuguda,17.984938,81.581726,Kidnapping,Private Citizens & Property
 Koila-Moila,26.686599,90.575437,Bombing,Transportation
-Bijni,26.494385,90.701032,Bombing,Unknown
 Sukma district,18.391172,81.659233,Armed Assault,Military
 West Singhbhum district,22.370811,85.4253,Kidnapping,Private Citizens & Property
 Vishakhapatnam district,17.688362,83.22268,Kidnapping,Government
@@ -3110,12 +2811,10 @@ Imphal West district,24.817656,93.938215,Bombing,Educational Institution
 Ukhrul district,25.094431,94.361036,Armed Assault,Government
 Usri,19.600437,81.671272,Kidnapping,Private Citizens & Property
 Qaimoh,33.719493,75.082235,Armed Assault,Private Citizens & Property
-Bandhugaon,18.933317,83.257256,Bombing,Unknown
 Khudwani,33.725507,75.091775,Armed Assault,Terrorists/Non-State Militia
 Tiken Batpora,33.848061,74.869719,Assassination,Private Citizens & Property
 Bajragada,19.841929,84.667527,Bombing,Military
 Banasai,22.745079,85.522548,Armed Assault,Police
-Tousem,25.101289,93.373352,Bombing,Unknown
 Watregittim,25.412671,90.726275,Bombing,Police
 Aurangabad district,24.749849,84.369967,Bombing,Transportation
 Mirganj,26.366837,84.337067,Infrastructure Attack,Telecommunication
@@ -3127,20 +2826,15 @@ Kalimela,17.836152,81.429313,Kidnapping,Government
 Tebronggre,25.649798,90.260372,Bombing,Police
 Bijbehara,33.791836,75.106247,Armed Assault,Police
 Badiliguda,20.200202,83.917307,Kidnapping,Government
-Lohardaga district,23.43,84.68,Unknown,Private Citizens & Property
-Gumla district,23.192002,84.522219,Unknown,Private Citizens & Property
 Chintapalle,17.866309,82.355742,Bombing,Business
 Dasini,18.937891,83.234317,Kidnapping,Private Citizens & Property
 Sopore,34.285858,74.461454,Armed Assault,Police
-Ranbir Singh Pura,32.60598,74.730781,Bombing,Unknown
 West Garo Hills district,25.413979,89.848831,Kidnapping,Educational Institution
 Dimapur district,25.8,93.783333,Kidnapping,Private Citizens & Property
 Bandugan,20.30052,85.822303,Kidnapping,Private Citizens & Property
 Dimapur,25.799767,93.783177,Kidnapping,Business
-Srirampur,26.433372,89.902541,Bombing,Unknown
 Mendipathar,25.915721,90.64388,Kidnapping,Private Citizens & Property
 Ramaram,17.938513,81.133357,Armed Assault,Military
-Maharabi,24.89831,93.878077,Bombing,Unknown
 Darabhaguda,17.857508,81.436294,Bombing,Government
 Dingdinga,26.350556,89.893333,Kidnapping,Educational Institution
 Dima Hasao district,25.3478,93.017571,Kidnapping,Business
@@ -3166,7 +2860,6 @@ Dhanora,19.639548,79.474944,Armed Assault,Police
 Tangdhar,34.400377,73.864189,Armed Assault,Military
 Aurangabad district,24.750091,84.369767,Armed Assault,Police
 Kaliachak,24.860153,88.019166,Bombing,Private Citizens & Property
-Nagaon district,26.350383,92.679591,Bombing,Unknown
 Murtunda,18.79771,80.812864,Armed Assault,Police
 Sonitpur district,26.673885,92.85771,Unarmed Assault,Business
 Arambagh,22.879456,87.781523,Bombing,Violent Political Party
@@ -3180,23 +2873,18 @@ Golaghat district,26.519958,93.969764,Infrastructure Attack,Private Citizens & P
 Golaghat district,26.519958,93.969764,Infrastructure Attack,Private Citizens & Property
 Golaghat district,26.519958,93.969764,Infrastructure Attack,Private Citizens & Property
 Golaghat district,26.519958,93.969764,Infrastructure Attack,Private Citizens & Property
-Churachandpur district,24.342683,93.697754,Bombing,Unknown
 Jadogre,25.329775,90.572156,Kidnapping,Government
 Galandar Pampore,33.990724,74.926926,Armed Assault,Police
 Latehar district,23.755579,84.354205,Bombing,Business
 Kanker district,20.270123,81.489606,Armed Assault,Military
 Malkangiri,18.343586,81.882528,Bombing,Military
 Perambalur,11.2329,78.879868,Bombing,Transportation
-Unknown,33.131307,75.338108,Hijacking,Private Citizens & Property
 Sukma,18.395223,81.656564,Bombing,Police
 Koil,33.878226,74.947168,Armed Assault,Military
 Bandhagaon,18.933296,83.257264,Armed Assault,Police
-Latehar district,23.755579,84.354205,Unknown,Educational Institution
 Bishnupur,24.553737,92.610254,Kidnapping,Private Citizens & Property
 Bishnupur,24.560589,92.607715,Kidnapping,Private Citizens & Property
-Nij Dimou,26.346737,92.693853,Bombing,Unknown
 Pulwama,33.871981,74.898852,Armed Assault,Police
-Kendukona,26.37385,91.643891,Bombing,Unknown
 Hesakocha,22.908351,85.936127,Kidnapping,Private Citizens & Property
 Bijapur district,18.582127,80.693025,Armed Assault,Government
 Mantripukhri,24.851707,93.940833,Bombing,Religious Figures/Institutions
@@ -3209,25 +2897,19 @@ Killamkota,18.083659,82.383191,Kidnapping,Private Citizens & Property
 Ultapani,26.775377,90.303975,Armed Assault,Police
 Sukma district,18.391096,81.659313,Armed Assault,Military
 Baghmundi,23.198102,86.049067,Assassination,Violent Political Party
-Sopore,34.285006,74.467829,Bombing,Unknown
 Lingapur,18.889334,80.320046,Armed Assault,Police
 Keran,32.769095,74.800996,Armed Assault,Military
 Machkund,18.549232,82.476606,Assassination,Police
 Silda Bududih,23.067608,85.2819,Kidnapping,Private Citizens & Property
 Chandel district,24.182749,94.151376,Bombing,Military
 Chibinang,25.866955,90.081609,Kidnapping,Private Citizens & Property
-Tronglaobi,24.473224,93.743475,Bombing,Unknown
 Namkonda,17.836991,81.430939,Kidnapping,Private Citizens & Property
 Oragitok,25.548502,90.326607,Kidnapping,Terrorists/Non-State Militia
 Bijapur district,18.797727,80.812811,Bombing,Police
-Lalgarh,22.58,87.05,Bombing,Unknown
 Anantnag district,33.731014,75.148566,Armed Assault,Police
 Chirang district,26.538662,90.693912,Armed Assault,Military
-Chirang district,26.538662,90.693912,Bombing,Unknown
-Sinpura,23.420195,85.325855,Unknown,Private Citizens & Property
 Tarkura,25.32123,83.759197,Armed Assault,Private Citizens & Property
 Kuku,23.701814,84.337328,Armed Assault,Police
-Gonda,27.133033,81.964568,Bombing,Unknown
 Hatikhali,25.64025,93.101985,Kidnapping,Business
 Karsing,19.437492,81.654191,Bombing,Military
 Ambatikar,23.668386,84.559235,Armed Assault,Police
@@ -3239,7 +2921,6 @@ Devapur-Khoripakar Ghat,26.924762,84.626189,Bombing,Private Citizens & Property
 Gomati district,23.516671,91.637215,Kidnapping,Private Citizens & Property
 Latehar district,23.755579,84.354205,Armed Assault,Police
 Hensala,23.710133,84.466641,Kidnapping,Transportation
-Unknown,24.68211,93.920947,Armed Assault,Police
 Thawaitangkhul,24.934442,94.282709,Armed Assault,Police
 Ranchi,23.369968,85.325012,Bombing,Religious Figures/Institutions
 Kanker district,20.269877,81.489781,Bombing,Government
@@ -3251,7 +2932,6 @@ East Godavari district,17.32125,82.040714,Kidnapping,Violent Political Party
 Siladon,23.239606,85.28324,Infrastructure Attack,Business
 Poonch district,33.771712,74.094631,Bombing,Military
 Dhanora,20.271381,80.308505,Bombing,Police
-Timmapur,18.535134,80.886203,Bombing,Unknown
 Ramgarh district,23.652368,85.56121,Infrastructure Attack,Business
 Ukhrul,25.095998,94.359775,Bombing,Business
 Imphal,24.830852,93.944396,Kidnapping,Private Citizens & Property
@@ -3269,17 +2949,12 @@ Bandgaon,22.864679,85.325553,Armed Assault,Police
 Muire,24.908428,94.247329,Bombing,Military
 Srinagar,34.083295,74.797456,Armed Assault,Police
 Sunki,18.500447,83.048229,Assassination,Private Citizens & Property
-Bandhugam,18.93523,83.255711,Bombing,Unknown
 Ratlam,23.328296,75.03471,Assassination,Private Citizens & Property
-Bhubaneswar,20.294886,85.827138,Bombing,Unknown
-Faraspal,18.940374,81.269901,Bombing,Unknown
 Bijapur district,18.488393,80.942751,Armed Assault,Police
-Erbanpalli,18.2263,81.619948,Unknown,Private Citizens & Property
 Imphal,24.797724,93.935738,Bombing,Religious Figures/Institutions
 Gandachera,23.606882,91.819644,Kidnapping,Private Citizens & Property
 Poonch district,33.770158,74.093163,Bombing,Military
 Malkangiri district,18.166765,81.954187,Armed Assault,Government
-Narki,23.863492,85.827328,Bombing,Unknown
 Kannur,11.874478,75.370366,Bombing,Violent Political Party
 Imphal,24.793794,93.947789,Bombing,Police
 Muirei,24.955438,94.172493,Bombing,Military
@@ -3287,19 +2962,12 @@ Rangapara,26.818575,92.681141,Bombing,Military
 Karbindha,24.4157,87.302856,Infrastructure Attack,Telecommunication
 Karbindha,24.4157,87.302856,Infrastructure Attack,Telecommunication
 Rajivnagar,23.719517,92.29996,Kidnapping,Business
-Balnoi,33.63602,74.032355,Bombing,Unknown
 Majuli,27.002071,94.226231,Kidnapping,Business
 Tippapuram,17.380766,82.054487,Kidnapping,Private Citizens & Property
-Pendri,20.059902,80.447206,Bombing,Unknown
-Aldandi,19.561327,80.271159,Bombing,Unknown
 Rafiabad,34.29283,74.389366,Bombing,Military
 Sukma district,18.391062,81.65924,Kidnapping,Police
-Yelchil,19.49813,80.158059,Bombing,Unknown
-Veeravaram,17.051377,82.222717,Unknown,Private Citizens & Property
-Kokrajhar district,26.402512,90.270948,Unknown,Terrorists/Non-State Militia
 Bokaro district,23.670093,86.149144,Bombing,Transportation
 Chittarpur,23.574668,85.651084,Bombing,Transportation
-Baksa district,26.661823,91.363446,Unknown,Police
 Sibida,19.890014,84.981394,Kidnapping,Government
 Kondagaon district,19.60001,81.67,Bombing,Military
 Gandachera,23.606882,91.819644,Armed Assault,Military
@@ -3337,11 +3005,8 @@ Gumla district,23.19096,84.525476,Armed Assault,Military
 Pedapadu,19.358012,83.721242,Infrastructure Attack,Business
 Kalamabad,32.745356,74.918458,Bombing,Police
 Thanjavur,10.786999,79.137827,Infrastructure Attack,Private Citizens & Property
-Khunti,23.005816,85.174133,Bombing,Unknown
-Amrui,34.43188,74.125979,Bombing,Unknown
 Dogri Pora,33.851843,75.043033,Armed Assault,Government
 Dhalbhumgarh,22.507376,86.556346,Armed Assault,Government
-Dhekiajuli,26.699627,92.499654,Bombing,Unknown
 Parsurampara,23.788136,91.734445,Armed Assault,Business
 Kambiron,24.729574,93.373934,Bombing,Military
 Bijapur district,18.800732,80.810861,Bombing,Police
@@ -3370,14 +3035,12 @@ Rajgarh,27.182106,95.110638,Bombing,Private Citizens & Property
 Gelmol,24.480416,93.739064,Bombing,Military
 Guwahati,26.143915,91.736793,Bombing,Transportation
 Sukma district,18.245426,81.318408,Bombing,Military
-Bishenpur district,24.630087,93.765587,Bombing,Unknown
 Naid Khai,34.247287,74.555116,Bombing,Government
 Nowpora,34.09521,74.636791,Bombing,Government
 Chatra,24.203992,84.871258,Bombing,Government
 Rai,23.683161,85.05354,Armed Assault,Military
 Langol Games,24.827734,93.902714,Armed Assault,Government
 Arnia,32.519224,74.799533,Armed Assault,Military
-Maharabi lamkhai,24.853466,93.935374,Bombing,Unknown
 Lakhimpur,27.197586,94.151157,Armed Assault,Business
 Bordumsa,27.514186,95.877672,Bombing,Private Citizens & Property
 Bijapur district,18.800732,80.810861,Armed Assault,Police
@@ -3385,7 +3048,6 @@ Senapati district,25.32168,94.151624,Bombing,Government
 Poonch district,33.751985,74.101461,Bombing,Military
 Srinagar,34.085256,74.797656,Bombing,Police
 Thoubal district,24.658042,93.980085,Bombing,Military
-Moirang,24.5,93.77,Bombing,Unknown
 Shopian,33.718616,74.835798,Assassination,Government
 Dantewada district,18.84563,81.383933,Armed Assault,Government
 Bollonggre Apal,25.792697,90.474076,Armed Assault,Private Citizens & Property
@@ -3393,7 +3055,6 @@ Rajouri district,33.371651,74.315235,Bombing,Military
 Shopian district,33.71704,74.836048,Armed Assault,Government
 New Delhi,28.687023,77.317725,Infrastructure Attack,Religious Figures/Institutions
 Chintagufa,18.404645,81.588419,Armed Assault,Police
-Bhagalpur district,25.250079,86.999562,Bombing,Unknown
 Bhagalpur district,25.250079,86.999562,Bombing,Business
 Labdanguri,26.613814,90.951185,Kidnapping,Private Citizens & Property
 Parganas district,21.877911,87.290428,Bombing,Police
@@ -3415,13 +3076,9 @@ Tral,33.92554,75.116181,Bombing,Government
 Srinagar,34.093665,74.787832,Armed Assault,Government
 Chargi,23.598803,85.826789,Bombing,Military
 Gangalur,18.7554,81.028554,Armed Assault,Police
-Phaikon,25.132314,94.077733,Bombing,Unknown
 Gulmarg,34.047272,74.385853,Armed Assault,Government
 Rajdhanwar,24.412127,85.981335,Armed Assault,Military
-Unknown,21.278657,81.866144,Kidnapping,Private Citizens & Property
 Anantnag,33.731089,75.148569,Bombing,Police
-Shopian district,33.717113,74.83596,Bombing,Unknown
-Unknown,20.951667,85.098523,Kidnapping,Private Citizens & Property
 Imphal,24.780654,93.967437,Bombing,Military
 Sopore,34.283079,74.470922,Assassination,Government
 Siliguri district,26.705383,88.431226,Unarmed Assault,Private Citizens & Property
@@ -3435,13 +3092,10 @@ Lilong,24.696348,93.933658,Bombing,Military
 Amrapara,24.519514,87.571586,Armed Assault,Police
 Bomia,34.364525,74.389854,Assassination,Government
 Moreh,24.251211,94.301359,Bombing,Military
-Bongaigaon district,26.479752,90.55992,Bombing,Unknown
 Imphal,24.816254,93.937481,Bombing,Business
 Suangphuh,23.977274,93.530822,Armed Assault,Military
 Hiangtam,24.032927,93.569967,Bombing,Military
 Patgaon,26.568191,90.218604,Bombing,Business
-Gossaigaon,26.437063,89.976679,Bombing,Unknown
-Sonarpur,26.406104,90.274128,Bombing,Unknown
 Ishuapur,26.02991,84.79613,Armed Assault,Police
 Bongaigaon,26.478903,90.556607,Kidnapping,Private Citizens & Property
 Mukkali,11.063347,76.541261,Infrastructure Attack,Police
@@ -3453,7 +3107,6 @@ Sonitpur district,26.673885,92.857711,Armed Assault,Private Citizens & Property
 Pakhiriguri,26.38669,90.702219,Armed Assault,Private Citizens & Property
 Shantipur Ultapani,26.200604,92.937574,Armed Assault,Private Citizens & Property
 Sonitpur district,26.673885,92.85771,Armed Assault,Private Citizens & Property
-Unknown,24.663717,93.906269,Bombing,Military
 Lambari,26.846675,92.255756,Armed Assault,Private Citizens & Property
 Imphal,24.819979,93.949983,Bombing,Military
 Mariani,26.65153,94.328155,Kidnapping,Business
@@ -3461,7 +3114,6 @@ Itkhori,24.297477,85.162195,Armed Assault,Police
 Bijni,26.494385,90.701032,Bombing,Police
 Imphal,24.808457,93.924102,Bombing,Business
 Bengaluru,12.97179,77.594498,Bombing,Business
-Tamenglong,24.987934,93.495292,Bombing,Unknown
 Pega,17.790019,81.207122,Kidnapping,Private Citizens & Property
 Umrangso,25.513432,92.737062,Kidnapping,Business
 Satyanarayanapuram,18.01717,80.866837,Bombing,Telecommunication

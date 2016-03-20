@@ -191,13 +191,13 @@ text {
 
 
  $(document).ready(function() {
- 	var places1 =[];var places2 =[];var places3 =[];var places4 =[];var places5 =[];var places6 =[];var places7 =[];
+ 	var places2 =[];var places3 =[];var places4 =[];var places5 =[];var places6 =[];var places7 =[];
  	var places8 =[];var places9 =[];var places10 =[];var places11 =[];var places12 =[];var places13 =[];var places14=[];  var places15 =[];var places16 =[]; var places17 =[];var places18 =[];
  
   
     $.ajax({
         type: "GET",
-        url: "1970-79-locations.csv",
+        url: "2010-14-locations.csv",
         dataType: "text",
         success: function(data) {processData(data);}
      });
@@ -211,8 +211,7 @@ text {
     for (var i=0; i<allTextLines.length; i++) 
     {
         var data = allTextLines[i].split(',');
-        if(data[1]!="Unknown" && data[2]!="Unknown")
-     	{
+       
      		var mydata ={
      		name :String(data[0]),
      		location: {
@@ -243,12 +242,7 @@ Airports & Aircraft
 Tourists
      **
      */
-     if(data[4]=="Unknown")
-     {
-     	places1.push(mydata);
-     	
-     }
- 	else if(data[4]=="Business")
+     if(data[4]=="Business")
      {
      	places2.push(mydata);
      }
@@ -320,7 +314,7 @@ Tourists
      	
       // add.push(String(allTextLines[i]));
        //console.log(places);
-   }
+   
     }
 
 
@@ -359,23 +353,6 @@ d3.json("test.json", function(error, swiss) {
 						svg.call(tip);
 
 //
-						svg.selectAll(".pin")
-						  .data(places1)
-						  .enter().append("circle", ".pin")
-
-						  .attr("r", 5)
-						  .style("fill", "apricot")
-    						.style("stroke", "black")
-						  .attr("transform", function(d) {
-							return "translate(" + projection([
-							  d.location.longitude,
-							  d.location.latitude
-							]) + ")";
-						  })
-						   .on('mouseover', tip.show)
-							.on('click', tip.hide);
-
-
 							svg.selectAll(".pin")
 						  .data(places2)
 						  .enter().append("circle", ".pin")
@@ -395,7 +372,7 @@ d3.json("test.json", function(error, swiss) {
 						  .data(places3)
 						  .enter().append("circle", ".pin")
 						  .attr("r", 5)
-						  .style("fill", "black")
+						  .style("fill", "chocolate")
     						.style("stroke", "black")
 						  .attr("transform", function(d) {
 							return "translate(" + projection([
@@ -443,7 +420,7 @@ svg.selectAll(".pin")
 						  .data(places6)
 						  .enter().append("circle", ".pin")
 						  .attr("r", 5)
-						  .style("fill", "brown")
+						  .style("fill", "apricot")
     						.style("stroke", "black")
 						  .attr("transform", function(d) {
 							return "translate(" + projection([
@@ -626,7 +603,7 @@ svg.selectAll(".pin")
               .data(places18)
               .enter().append("circle", ".pin")
               .attr("r", 5)
-              .style("fill", "pink")
+              .style("fill", "salmon")
                 .style("stroke", "black")
               .attr("transform", function(d) {
               return "translate(" + projection([
@@ -657,17 +634,6 @@ var legend = svg.append("g")
   .attr("height", 1000)
   .attr("width", 400);
 
-legend.append("rect")
-  .attr("x",65)
-  .attr("y", 25)
-  .attr("width", 40)
-  .attr("height", 40)
-  .style("fill", "apricot");
-
-  legend.append("text")
-  .attr("x",  130)
-  .attr("y", 25)
-  .text("Unknown");
 
 
   legend.append("rect")
@@ -678,8 +644,8 @@ legend.append("rect")
   .style("fill", "aqua");
 
   legend.append("text")
-  .attr("x",  130)
-  .attr("y", 65)
+  .attr("x",  150)
+  .attr("y", 85)
   .text("Business");
 
 
@@ -688,11 +654,11 @@ legend.append("rect")
   .attr("y", 105)
   .attr("width", 40)
   .attr("height", 40)
-  .style("fill", "black");
+  .style("fill", "chocolate");
 
   legend.append("text")
-  .attr("x",  130)
-  .attr("y", 105)
+  .attr("x",  150)
+  .attr("y", 125)
   .text("Educational Institution");
 
   legend.append("rect")
@@ -703,8 +669,8 @@ legend.append("rect")
   .style("fill", "blue");
 
   legend.append("text")
-  .attr("x",  130)
-  .attr("y", 145)
+  .attr("x",  150)
+  .attr("y", 165)
   .text("Government");
 
   legend.append("rect")
@@ -715,8 +681,8 @@ legend.append("rect")
   .style("fill", "blueviolet");
 
   legend.append("text")
-  .attr("x",  130)
-  .attr("y", 185)
+  .attr("x",  150)
+  .attr("y", 205)
   .text("Police");
 
   legend.append("rect")
@@ -724,11 +690,11 @@ legend.append("rect")
   .attr("y", 225)
   .attr("width", 40)
   .attr("height", 40)
-  .style("fill", "brown");
+  .style("fill", "apricot");
 
   legend.append("text")
-  .attr("x",  130)
-  .attr("y", 225)
+  .attr("x",  150)
+  .attr("y", 245)
   .text("Private Citizens & Property");
 
   legend.append("rect")
@@ -739,8 +705,8 @@ legend.append("rect")
   .style("fill", "cyan");
 
   legend.append("text")
-  .attr("x",  130)
-  .attr("y", 265)
+  .attr("x",  150)
+  .attr("y", 285)
   .text("Transportation");
 
   legend.append("rect")
@@ -751,8 +717,8 @@ legend.append("rect")
   .style("fill", "green");
 
   legend.append("text")
-  .attr("x",  130)
-  .attr("y", 305)
+  .attr("x",  150)
+  .attr("y", 325)
   .text("Violent Political Party");
 
 
@@ -764,8 +730,8 @@ legend.append("rect")
   .style("fill", "grey");
 
   legend.append("text")
-  .attr("x",  130)
-  .attr("y", 345)
+  .attr("x",  150)
+  .attr("y", 365)
   .text("Religious Figures/Institutions");
 
 
@@ -778,8 +744,8 @@ legend.append("rect")
   .style("fill", "plum");
 
   legend.append("text")
-  .attr("x",  130)
-  .attr("y", 385)
+  .attr("x",  150)
+  .attr("y", 405)
   .text("Military");
 
 
@@ -792,8 +758,8 @@ legend.append("rect")
   .style("fill", "red");
 
   legend.append("text")
-  .attr("x",  130)
-  .attr("y", 425)
+  .attr("x",  150)
+  .attr("y", 445)
   .text("Telecommunication");
 
 
@@ -806,8 +772,8 @@ legend.append("rect")
   .style("fill", "yellow");
 
   legend.append("text")
-  .attr("x",  130)
-  .attr("y", 465)
+  .attr("x",  150)
+  .attr("y", 485)
   .text("Utilities");
 
 
@@ -820,8 +786,8 @@ legend.append("rect")
   .style("fill", "lavendar");
 
   legend.append("text")
-  .attr("x",  130)
-  .attr("y", 505)
+  .attr("x",  150)
+  .attr("y", 525)
   .text("NGO");
 
 
@@ -834,8 +800,8 @@ legend.append("rect")
   .style("fill", "chartreuse");
 
   legend.append("text")
-  .attr("x",  130)
-  .attr("y", 545)
+  .attr("x",  150)
+  .attr("y", 565)
   .text("Journalists & Media");
 
 
@@ -848,50 +814,50 @@ legend.append("rect")
   .style("fill", "crimson");
 
   legend.append("text")
-  .attr("x",  130)
-  .attr("y", 585)
+  .attr("x",  150)
+  .attr("y", 605)
   .text("Food or Water Supply");
 
 
 
   legend.append("rect")
   .attr("x", 65)
-  .attr("y", 605)
+  .attr("y", 625)
   .attr("width", 40)
   .attr("height", 40)
   .style("fill", "darkgreen");
 
   legend.append("text")
-  .attr("x",  130)
-  .attr("y", 605)
+  .attr("x",  150)
+  .attr("y", 645)
   .text("Airports & Aircraft");
 
 
 
   legend.append("rect")
   .attr("x", 65)
-  .attr("y", 645)
+  .attr("y", 665)
   .attr("width", 40)
   .attr("height", 40)
   .style("fill", "orange");
 
   legend.append("text")
-  .attr("x",  130)
-  .attr("y", 645)
+  .attr("x",  150)
+  .attr("y", 685)
   .text("Tourists");
 
 
 
   legend.append("rect")
   .attr("x", 65)
-  .attr("y", 685)
+  .attr("y", 705)
   .attr("width", 40)
   .attr("height", 40)
-  .style("fill", "pink");
+  .style("fill", "salmon");
 
   legend.append("text")
-  .attr("x",  130)
-  .attr("y", 685)
+  .attr("x",  150)
+  .attr("y", 725)
   .text("Others");
 
 
