@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <title>Donut Chart - Centered Labels</title>
+
+  
+  <style>
+  #chartdiv {
+  width: 100%;
+  height: 500px;
+  font-size: 11px;
+}
+
+.amcharts-pie-slice {
+  transform: scale(1);
+  transform-origin: 50% 50%;
+  transition-duration: 0.3s;
+  transition: all .3s ease-out;
+  -webkit-transition: all .3s ease-out;
+  -moz-transition: all .3s ease-out;
+  -o-transition: all .3s ease-out;
+  cursor: pointer;
+  box-shadow: 0 0 30px 0 #000;
+}
+
+.amcharts-pie-slice:hover {
+  transform: scale(1.1);
+  filter: url(#shadow);
+}             
+  </style>
+  
+  <script src="https://www.amcharts.com/lib/3/amcharts.js"></script>
+<script src="https://www.amcharts.com/lib/3/pie.js"></script>
+<script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+  <script type="text/javascript">
+  var chart = AmCharts.makeChart("chartdiv", {
+  "type": "pie",
+  "startDuration": 0,
+   "theme": "light",
+  "addClassNames": true,
+  "legend":{
+    "position":"right",
+    "marginRight":100,
+    "autoMargins":false
+  },
+  "innerRadius": "30%",
+  "defs": {
+    "filter": [{
+      "id": "shadow",
+      "width": "200%",
+      "height": "200%",
+      "feOffset": {
+        "result": "offOut",
+        "in": "SourceAlpha",
+        "dx": 0,
+        "dy": 0
+      },
+      "feGaussianBlur": {
+        "result": "blurOut",
+        "in": "offOut",
+        "stdDeviation": 5
+      },
+      "feBlend": {
+        "in": "SourceGraphic",
+        "in2": "blurOut",
+        "mode": "normal"
+      }
+    }]
+  },
+  "dataProvider": [{"name":"Amritsar","value":37},
+{"name":"Anantnag","value":17},
+{"name":"Assam","value":13},
+{"name":"Assam State","value":30},
+{"name":"Barpeta District","value":17},
+{"name":"Bihar State","value":16},
+{"name":"Bombay","value":25},
+{"name":"Chandigarh","value":14},
+{"name":"Coimbatore","value":17},
+{"name":"Delhi","value":17},
+{"name":"Guwahati","value":14},
+{"name":"J + K","value":18},
+{"name":"Jammu","value":22},
+{"name":"Jammu and Kashmir State","value":15},
+{"name":"Kokraghar D., Assam","value":20},
+{"name":"Ludhiana","value":39},
+{"name":"Madras","value":11},
+{"name":"New Delhi","value":56},
+{"name":"Punjab State","value":13},
+{"name":"Sangrur","value":13},
+{"name":"Srinagar","value":77},
+{"name":"Srinagar, J+K","value":14},
+{"name":"Srinajar","value":27},
+{"name":"Srinigar","value":168}],
+  "valueField": "value",
+  "titleField": "name",
+  "export": {
+    "enabled": true
+  }
+});
+
+chart.addListener("init", handleInit);
+
+chart.addListener("rollOverSlice", function(e) {
+  handleRollOver(e);
+});
+
+function handleInit(){
+  chart.legend.addListener("rollOverItem", handleRollOver);
+}
+
+function handleRollOver(e){
+  var wedge = e.dataItem.wedge.node;
+  wedge.parentNode.appendChild(wedge);  
+}
+  </script>
+  </head>
+  <body>
+
+<div id="chartdiv"></div>                           
+  
+  </body>
+</html>

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <title>Donut Chart - Centered Labels</title>
+
+  
+  <style>
+  #chartdiv {
+  width: 100%;
+  height: 500px;
+  font-size: 11px;
+}
+
+.amcharts-pie-slice {
+  transform: scale(1);
+  transform-origin: 50% 50%;
+  transition-duration: 0.3s;
+  transition: all .3s ease-out;
+  -webkit-transition: all .3s ease-out;
+  -moz-transition: all .3s ease-out;
+  -o-transition: all .3s ease-out;
+  cursor: pointer;
+  box-shadow: 0 0 30px 0 #000;
+}
+
+.amcharts-pie-slice:hover {
+  transform: scale(1.1);
+  filter: url(#shadow);
+}             
+  </style>
+  
+  <script src="https://www.amcharts.com/lib/3/amcharts.js"></script>
+<script src="https://www.amcharts.com/lib/3/pie.js"></script>
+<script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+  <script type="text/javascript">
+  var chart = AmCharts.makeChart("chartdiv", {
+  "type": "pie",
+  "startDuration": 0,
+   "theme": "light",
+  "addClassNames": true,
+  "legend":{
+    "position":"right",
+    "marginRight":100,
+    "autoMargins":false
+  },
+  "innerRadius": "30%",
+  "defs": {
+    "filter": [{
+      "id": "shadow",
+      "width": "200%",
+      "height": "200%",
+      "feOffset": {
+        "result": "offOut",
+        "in": "SourceAlpha",
+        "dx": 0,
+        "dy": 0
+      },
+      "feGaussianBlur": {
+        "result": "blurOut",
+        "in": "offOut",
+        "stdDeviation": 5
+      },
+      "feBlend": {
+        "in": "SourceGraphic",
+        "in2": "blurOut",
+        "mode": "normal"
+      }
+    }]
+  },
+  "dataProvider": [{"name":"Srinagar","value":185},
+{"name":"Unknown","value":133},
+{"name":"Imphal","value":120},
+{"name":"Midnapore","value":66},
+{"name":"Guwahati","value":51},
+{"name":"North Cachar Hills","value":41},
+{"name":"Malkangiri","value":38},
+{"name":"Gaya","value":31},
+{"name":"New Delhi","value":30},
+{"name":"Jammu","value":28},
+{"name":"Surat","value":28},
+{"name":"Doda","value":27},
+{"name":"Dantewada","value":26},
+{"name":"Anantnag","value":25},
+{"name":"Dimapur","value":23},
+{"name":"Karbi Anglong","value":23},
+{"name":"Bijapur","value":22},
+{"name":"Latehar","value":20},
+{"name":"Aurangabad","value":19},
+{"name":"Chatra","value":19},
+{"name":"Palamau","value":19},
+{"name":"Pulwama","value":19},
+{"name":"Mumbai","value":18},
+{"name":"Gadchiroli","value":15},
+{"name":"Kokrajhar","value":14},
+{"name":"Kupwara","value":14},
+{"name":"Lalgarh","value":14},
+{"name":"Sopore","value":14},
+{"name":"Bishenpur","value":13},
+{"name":"Ranchi","value":13},
+{"name":"Giridih","value":12},
+{"name":"Koraput","value":12},
+{"name":"Poonch","value":12},
+{"name":"Puruliya","value":12},
+{"name":"Shopian","value":12},
+{"name":"Sundargarh","value":12},
+{"name":"Baramulla","value":11},
+{"name":"Bongaigaon","value":11}],
+  "valueField": "value",
+  "titleField": "name",
+  "export": {
+    "enabled": true
+  }
+});
+
+chart.addListener("init", handleInit);
+
+chart.addListener("rollOverSlice", function(e) {
+  handleRollOver(e);
+});
+
+function handleInit(){
+  chart.legend.addListener("rollOverItem", handleRollOver);
+}
+
+function handleRollOver(e){
+  var wedge = e.dataItem.wedge.node;
+  wedge.parentNode.appendChild(wedge);  
+}
+  </script>
+  </head>
+  <body>
+
+<div id="chartdiv"></div>                           
+  
+  </body>
+</html>

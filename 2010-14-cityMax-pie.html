@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<title>Donut Chart - Centered Labels</title>
+
+	
+	<style>
+	#chartdiv {
+  width: 100%;
+  height: 500px;
+  font-size: 11px;
+}
+
+.amcharts-pie-slice {
+  transform: scale(1);
+  transform-origin: 50% 50%;
+  transition-duration: 0.3s;
+  transition: all .3s ease-out;
+  -webkit-transition: all .3s ease-out;
+  -moz-transition: all .3s ease-out;
+  -o-transition: all .3s ease-out;
+  cursor: pointer;
+  box-shadow: 0 0 30px 0 #000;
+}
+
+.amcharts-pie-slice:hover {
+  transform: scale(1.1);
+  filter: url(#shadow);
+}							
+	</style>
+  
+  <script src="https://www.amcharts.com/lib/3/amcharts.js"></script>
+<script src="https://www.amcharts.com/lib/3/pie.js"></script>
+<script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+  <script type="text/javascript">
+  var chart = AmCharts.makeChart("chartdiv", {
+  "type": "pie",
+  "startDuration": 0,
+   "theme": "light",
+  "addClassNames": true,
+  "legend":{
+   	"position":"right",
+    "marginRight":100,
+    "autoMargins":false
+  },
+  "innerRadius": "30%",
+  "defs": {
+    "filter": [{
+      "id": "shadow",
+      "width": "200%",
+      "height": "200%",
+      "feOffset": {
+        "result": "offOut",
+        "in": "SourceAlpha",
+        "dx": 0,
+        "dy": 0
+      },
+      "feGaussianBlur": {
+        "result": "blurOut",
+        "in": "offOut",
+        "stdDeviation": 5
+      },
+      "feBlend": {
+        "in": "SourceGraphic",
+        "in2": "blurOut",
+        "mode": "normal"
+      }
+    }]
+  },
+  "dataProvider": [{"name":"Imphal","value":178},
+{"name":"Midnapore","value":134},
+{"name":"Unknown","value":60},
+{"name":"Dantewada","value":58},
+{"name":"Malkangiri","value":50},
+{"name":"Gadchiroli","value":49},
+{"name":"Gaya","value":49},
+{"name":"Bijapur","value":44},
+{"name":"Koraput","value":40},
+{"name":"Srinagar","value":37},
+{"name":"Jamui","value":33},
+{"name":"Sopore","value":33},
+{"name":"Latehar","value":28},
+{"name":"Palamau","value":23},
+{"name":"Khunti","value":22},
+{"name":"Puruliya","value":21},
+{"name":"Sundargarh","value":20},
+{"name":"Chatra","value":19},
+{"name":"Thoubal","value":19},
+{"name":"Aurangabad","value":17},
+{"name":"Narayanpur","value":16},
+{"name":"Bijapur district","value":15},
+{"name":"Bokaro","value":15},
+{"name":"Gumla","value":15},
+{"name":"Khammam","value":15},
+{"name":"Sukma district","value":15},
+{"name":"Ukhrul","value":15},
+{"name":"Baramulla","value":14},
+{"name":"East singhbhum","value":14},
+{"name":"Kokrajhar","value":14},
+{"name":"Lalgarh","value":14},
+{"name":"Latehar district","value":14},
+{"name":"Tral","value":13},
+{"name":"East Garo Hills","value":12},
+{"name":"Imphal East","value":12},
+{"name":"Malkangiri district","value":12},
+{"name":"Ranchi","value":12},
+{"name":"Balichanda","value":11},
+{"name":"Muzaffarpur","value":11},
+{"name":"Patna","value":11},
+{"name":"Pulwama","value":11},
+{"name":"Rohtas","value":11}],
+  "valueField": "value",
+  "titleField": "name",
+  "export": {
+    "enabled": true
+  }
+});
+
+chart.addListener("init", handleInit);
+
+chart.addListener("rollOverSlice", function(e) {
+  handleRollOver(e);
+});
+
+function handleInit(){
+  chart.legend.addListener("rollOverItem", handleRollOver);
+}
+
+function handleRollOver(e){
+  var wedge = e.dataItem.wedge.node;
+  wedge.parentNode.appendChild(wedge);  
+}
+  </script>
+  </head>
+  <body>
+
+<div id="chartdiv"></div>														
+	
+  </body>
+</html>
