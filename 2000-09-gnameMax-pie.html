@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <title>Donut Chart - Centered Labels</title>
+
+  
+  <style>
+  #chartdiv {
+  width: 100%;
+  height: 500px;
+  font-size: 11px;
+}
+
+.amcharts-pie-slice {
+  transform: scale(1);
+  transform-origin: 50% 50%;
+  transition-duration: 0.3s;
+  transition: all .3s ease-out;
+  -webkit-transition: all .3s ease-out;
+  -moz-transition: all .3s ease-out;
+  -o-transition: all .3s ease-out;
+  cursor: pointer;
+  box-shadow: 0 0 30px 0 #000;
+}
+
+.amcharts-pie-slice:hover {
+  transform: scale(1.1);
+  filter: url(#shadow);
+}             
+  </style>
+  
+  <script src="https://www.amcharts.com/lib/3/amcharts.js"></script>
+<script src="https://www.amcharts.com/lib/3/pie.js"></script>
+<script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+  <script type="text/javascript">
+  var chart = AmCharts.makeChart("chartdiv", {
+  "type": "pie",
+  "startDuration": 0,
+   "theme": "light",
+  "addClassNames": true,
+  "legend":{
+    "position":"right",
+    "marginRight":100,
+    "autoMargins":false
+  },
+  "innerRadius": "30%",
+  "defs": {
+    "filter": [{
+      "id": "shadow",
+      "width": "200%",
+      "height": "200%",
+      "feOffset": {
+        "result": "offOut",
+        "in": "SourceAlpha",
+        "dx": 0,
+        "dy": 0
+      },
+      "feGaussianBlur": {
+        "result": "blurOut",
+        "in": "offOut",
+        "stdDeviation": 5
+      },
+      "feBlend": {
+        "in": "SourceGraphic",
+        "in2": "blurOut",
+        "mode": "normal"
+      }
+    }]
+  },
+  "dataProvider": [{"gname":"Unknown","value":1004},
+{"gname":"Communist Party of India - Maoist (CPI-Maoist)","value":542},
+{"gname":"United Liberation Front of Assam (ULFA)","value":179},
+{"gname":"Lashkar-e-Taiba (LeT)","value":88},
+{"gname":"Other","value":80},
+{"gname":"Hizbul Mujahideen (HM)","value":61},
+{"gname":"People's War Group (PWG)","value":57},
+{"gname":"National Democratic Front of Bodoland (NDFB)","value":44},
+{"gname":"National Liberation Front of Tripura (NLFT)","value":37},
+{"gname":"Naxalites","value":33},
+{"gname":"Militants","value":26},
+{"gname":"National Socialist Council of Nagaland-Isak-Muivah (NSCN-IM)","value":23},
+{"gname":"Maoist Communist Center (MCC)","value":22},
+{"gname":"Dima Halao Daoga (DHD)","value":19},
+{"gname":"Kangleipak Communist Party (KCP)","value":18},
+{"gname":"Maoists","value":18},
+{"gname":"Jaish-e-Mohammad (JeM)","value":18},
+{"gname":"Karbi Longri North Cachar Liberation Front (KLNLF)","value":15},
+{"gname":"Black Widows","value":12},
+{"gname":"National Socialist Council of Nagaland-Khaplang (NSCN-K)","value":12},
+{"gname":"Muslim Militants","value":12},
+{"gname":"United Jihad Council","value":1},
+{"gname":"Harakat ul-Mujahidin (HuM)","value":1},
+{"gname":"Guerrillas","value":1},
+{"gname":"People's Liberation Front of India","value":1},
+{"gname":"Communist Party of India- Marxist","value":1},
+{"gname":"United Kuki Liberation Front (UKLF) - India","value":1},
+{"gname":"Bhumi Uchched Pratirodh Committee (BUPC)","value":1},
+{"gname":"Praveen Dalam","value":1},
+{"gname":"Babbar Khalsa International (BKI)","value":1},
+{"gname":"Al-Shuda Brigade","value":1},
+{"gname":"All Kamatapur Liberation Force","value":1},
+{"gname":"All India Anna Dravida Munetra Kazgan Party","value":1},
+{"gname":"Al-Hamas Mujahideen","value":1},
+{"gname":"Al-Fajr","value":1},
+{"gname":"Akhilesh Singh Gang","value":1},
+{"gname":"Bodo People’s Front (BPF)","value":1},
+{"gname":"Tehrik-e-Galba Islam","value":1},
+{"gname":"Rebels","value":1},
+{"gname":"National People’s Party (Rashtriya Janata Dal - RJD)","value":1},
+{"gname":"Separatists","value":1},
+{"gname":"Tamil Nadu Liberation Army","value":1},
+{"gname":"Naga People’s Council (NPC)","value":1},
+{"gname":"Naga People","value":1},
+{"gname":"Hmar People's Convention-Democracy (HPC-D)","value":1},
+{"gname":"Tehrik al-Mojahedin","value":1},
+{"gname":"Islamic Fateh","value":1},
+{"gname":"Achik National Volunteer Council (ANVC)","value":1},
+{"gname":"United Democratic Terai Liberation Front (UDTLF)","value":1},
+{"gname":"Kashmiri Militants","value":1},
+{"gname":"Kashmir Freedom Force","value":1},
+{"gname":"Karbi Tribe","value":1},
+{"gname":"Porattom","value":1},
+{"gname":"Ranbir Sena","value":1},
+{"gname":"Muslims","value":1}],
+  "valueField": "value",
+  "titleField": "gname",
+  "export": {
+    "enabled": true
+  }
+});
+
+chart.addListener("init", handleInit);
+
+chart.addListener("rollOverSlice", function(e) {
+  handleRollOver(e);
+});
+
+function handleInit(){
+  chart.legend.addListener("rollOverItem", handleRollOver);
+}
+
+function handleRollOver(e){
+  var wedge = e.dataItem.wedge.node;
+  wedge.parentNode.appendChild(wedge);  
+}
+  </script>
+  </head>
+  <body>
+
+<div id="chartdiv"></div>                           
+  
+  </body>
+</html>

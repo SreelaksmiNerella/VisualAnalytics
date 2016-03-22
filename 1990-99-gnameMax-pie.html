@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <title>Donut Chart - Centered Labels</title>
+
+  
+  <style>
+  #chartdiv {
+  width: 100%;
+  height: 500px;
+  font-size: 11px;
+}
+
+.amcharts-pie-slice {
+  transform: scale(1);
+  transform-origin: 50% 50%;
+  transition-duration: 0.3s;
+  transition: all .3s ease-out;
+  -webkit-transition: all .3s ease-out;
+  -moz-transition: all .3s ease-out;
+  -o-transition: all .3s ease-out;
+  cursor: pointer;
+  box-shadow: 0 0 30px 0 #000;
+}
+
+.amcharts-pie-slice:hover {
+  transform: scale(1.1);
+  filter: url(#shadow);
+}             
+  </style>
+  
+  <script src="https://www.amcharts.com/lib/3/amcharts.js"></script>
+<script src="https://www.amcharts.com/lib/3/pie.js"></script>
+<script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+  <script type="text/javascript">
+  var chart = AmCharts.makeChart("chartdiv", {
+  "type": "pie",
+  "startDuration": 0,
+   "theme": "light",
+  "addClassNames": true,
+  "legend":{
+    "position":"right",
+    "marginRight":100,
+    "autoMargins":false
+  },
+  "innerRadius": "30%",
+  "defs": {
+    "filter": [{
+      "id": "shadow",
+      "width": "200%",
+      "height": "200%",
+      "feOffset": {
+        "result": "offOut",
+        "in": "SourceAlpha",
+        "dx": 0,
+        "dy": 0
+      },
+      "feGaussianBlur": {
+        "result": "blurOut",
+        "in": "offOut",
+        "stdDeviation": 5
+      },
+      "feBlend": {
+        "in": "SourceGraphic",
+        "in2": "blurOut",
+        "mode": "normal"
+      }
+    }]
+  },
+  "dataProvider": [{"gname":"Unknown","value":647},
+{"gname":"Sikh Extremists","value":289},
+{"gname":"Muslim Separatists","value":113},
+{"gname":"Kashmiri Militants","value":74},
+{"gname":"Muslim Militants","value":66},
+{"gname":"United Liberation Front of Assam (ULFA)","value":51},
+{"gname":"Jammu and Kashmir Liberation Front","value":49},
+{"gname":"Bodo Militants","value":43},
+{"gname":"Separatists","value":40},
+{"gname":"People's War Group (PWG)","value":37},
+{"gname":"National Democratic Front of Bodoland (NDFB)","value":23},
+{"gname":"Tribal Group","value":23},
+{"gname":"Naxalites","value":22},
+{"gname":"Hizbul Mujahideen (HM)","value":20},
+{"gname":"National Socialist Council of Nagaland","value":14},
+{"gname":"Other","value":14},
+{"gname":"National Liberation Front of Tripura (NLFT)","value":13},
+{"gname":"Al Ummah","value":12},
+{"gname":"Naga People","value":12},
+{"gname":"Harkat ul Ansar","value":11}],
+  "valueField": "value",
+  "titleField": "gname",
+  "export": {
+    "enabled": true
+  }
+});
+
+chart.addListener("init", handleInit);
+
+chart.addListener("rollOverSlice", function(e) {
+  handleRollOver(e);
+});
+
+function handleInit(){
+  chart.legend.addListener("rollOverItem", handleRollOver);
+}
+
+function handleRollOver(e){
+  var wedge = e.dataItem.wedge.node;
+  wedge.parentNode.appendChild(wedge);  
+}
+  </script>
+  </head>
+  <body>
+
+<div id="chartdiv"></div>                           
+  
+  </body>
+</html>
