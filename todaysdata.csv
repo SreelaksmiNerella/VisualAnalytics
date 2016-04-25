@@ -1,0 +1,1405 @@
+gname,attacktype1_txt,city
+naxalites,assassination,Srinagar
+naxalites,assassination,Guwahati
+naxalites,assassination,Sukma district
+naxalites,assassination,Rai
+naxalites,assassination,Anantnag
+naxalites,assassination,New Delhi
+naxalites,assassination,Tral
+naxalites,assassination,Bengaluru
+naxalites,assassination,Roro
+naxalites,assassination,Sonitpur district
+naxalites,assassination,Sopore
+naxalites,assassination,Parganas district
+naxalites,assassination,Gaya district
+naxalites,hijacking,Srinagar
+naxalites,hijacking,Guwahati
+naxalites,hijacking,Sukma district
+naxalites,hijacking,Rai
+naxalites,hijacking,Anantnag
+naxalites,hijacking,New Delhi
+naxalites,hijacking,Tral
+naxalites,hijacking,Bengaluru
+naxalites,hijacking,Roro
+naxalites,hijacking,Sonitpur district
+naxalites,hijacking,Sopore
+naxalites,hijacking,Parganas district
+naxalites,hijacking,Gaya district
+naxalites,kidnapping,Srinagar
+naxalites,kidnapping,Guwahati
+naxalites,kidnapping,Sukma district
+naxalites,kidnapping,Rai
+naxalites,kidnapping,Anantnag
+naxalites,kidnapping,New Delhi
+naxalites,kidnapping,Tral
+naxalites,kidnapping,Bengaluru
+naxalites,kidnapping,Roro
+naxalites,kidnapping,Sonitpur district
+naxalites,kidnapping,Sopore
+naxalites,kidnapping,Parganas district
+naxalites,kidnapping,Gaya district
+naxalites,bombing,Srinagar
+naxalites,bombing,Guwahati
+naxalites,bombing,Sukma district
+naxalites,bombing,Rai
+naxalites,bombing,Anantnag
+naxalites,bombing,New Delhi
+naxalites,bombing,Tral
+naxalites,bombing,Bengaluru
+naxalites,bombing,Roro
+naxalites,bombing,Sonitpur district
+naxalites,bombing,Sopore
+naxalites,bombing,Parganas district
+naxalites,bombing,Gaya district
+insurgents,assassination,Srinagar
+insurgents,assassination,Guwahati
+insurgents,assassination,Sukma district
+insurgents,assassination,Rai
+insurgents,assassination,Anantnag
+insurgents,assassination,New Delhi
+insurgents,assassination,Tral
+insurgents,assassination,Bengaluru
+insurgents,assassination,Roro
+insurgents,assassination,Sonitpur district
+insurgents,assassination,Sopore
+insurgents,assassination,Parganas district
+insurgents,assassination,Gaya district
+insurgents,hijacking,Srinagar
+insurgents,hijacking,Guwahati
+insurgents,hijacking,Sukma district
+insurgents,hijacking,Rai
+insurgents,hijacking,Anantnag
+insurgents,hijacking,New Delhi
+insurgents,hijacking,Tral
+insurgents,hijacking,Bengaluru
+insurgents,hijacking,Roro
+insurgents,hijacking,Sonitpur district
+insurgents,hijacking,Sopore
+insurgents,hijacking,Parganas district
+insurgents,hijacking,Gaya district
+insurgents,kidnapping,Srinagar
+insurgents,kidnapping,Guwahati
+insurgents,kidnapping,Sukma district
+insurgents,kidnapping,Rai
+insurgents,kidnapping,Anantnag
+insurgents,kidnapping,New Delhi
+insurgents,kidnapping,Tral
+insurgents,kidnapping,Bengaluru
+insurgents,kidnapping,Roro
+insurgents,kidnapping,Sonitpur district
+insurgents,kidnapping,Sopore
+insurgents,kidnapping,Parganas district
+insurgents,kidnapping,Gaya district
+insurgents,bombing,Srinagar
+insurgents,bombing,Guwahati
+insurgents,bombing,Sukma district
+insurgents,bombing,Rai
+insurgents,bombing,Anantnag
+insurgents,bombing,New Delhi
+insurgents,bombing,Tral
+insurgents,bombing,Bengaluru
+insurgents,bombing,Roro
+insurgents,bombing,Sonitpur district
+insurgents,bombing,Sopore
+insurgents,bombing,Parganas district
+insurgents,bombing,Gaya district
+youths,assassination,Srinagar
+youths,assassination,Guwahati
+youths,assassination,Sukma district
+youths,assassination,Rai
+youths,assassination,Anantnag
+youths,assassination,New Delhi
+youths,assassination,Tral
+youths,assassination,Bengaluru
+youths,assassination,Roro
+youths,assassination,Sonitpur district
+youths,assassination,Sopore
+youths,assassination,Parganas district
+youths,assassination,Gaya district
+youths,hijacking,Srinagar
+youths,hijacking,Guwahati
+youths,hijacking,Sukma district
+youths,hijacking,Rai
+youths,hijacking,Anantnag
+youths,hijacking,New Delhi
+youths,hijacking,Tral
+youths,hijacking,Bengaluru
+youths,hijacking,Roro
+youths,hijacking,Sonitpur district
+youths,hijacking,Sopore
+youths,hijacking,Parganas district
+youths,hijacking,Gaya district
+youths,kidnapping,Srinagar
+youths,kidnapping,Guwahati
+youths,kidnapping,Sukma district
+youths,kidnapping,Rai
+youths,kidnapping,Anantnag
+youths,kidnapping,New Delhi
+youths,kidnapping,Tral
+youths,kidnapping,Bengaluru
+youths,kidnapping,Roro
+youths,kidnapping,Sonitpur district
+youths,kidnapping,Sopore
+youths,kidnapping,Parganas district
+youths,kidnapping,Gaya district
+youths,bombing,Srinagar
+youths,bombing,Guwahati
+youths,bombing,Sukma district
+youths,bombing,Rai
+youths,bombing,Anantnag
+youths,bombing,New Delhi
+youths,bombing,Tral
+youths,bombing,Bengaluru
+youths,bombing,Roro
+youths,bombing,Sonitpur district
+youths,bombing,Sopore
+youths,bombing,Parganas district
+youths,bombing,Gaya district
+people's liberation army,assassination,Srinagar
+people's liberation army,assassination,Guwahati
+people's liberation army,assassination,Sukma district
+people's liberation army,assassination,Rai
+people's liberation army,assassination,Anantnag
+people's liberation army,assassination,New Delhi
+people's liberation army,assassination,Tral
+people's liberation army,assassination,Bengaluru
+people's liberation army,assassination,Roro
+people's liberation army,assassination,Sonitpur district
+people's liberation army,assassination,Sopore
+people's liberation army,assassination,Parganas district
+people's liberation army,assassination,Gaya district
+people's liberation army,hijacking,Srinagar
+people's liberation army,hijacking,Guwahati
+people's liberation army,hijacking,Sukma district
+people's liberation army,hijacking,Rai
+people's liberation army,hijacking,Anantnag
+people's liberation army,hijacking,New Delhi
+people's liberation army,hijacking,Tral
+people's liberation army,hijacking,Bengaluru
+people's liberation army,hijacking,Roro
+people's liberation army,hijacking,Sonitpur district
+people's liberation army,hijacking,Sopore
+people's liberation army,hijacking,Parganas district
+people's liberation army,hijacking,Gaya district
+people's liberation army,kidnapping,Srinagar
+people's liberation army,kidnapping,Guwahati
+people's liberation army,kidnapping,Sukma district
+people's liberation army,kidnapping,Rai
+people's liberation army,kidnapping,Anantnag
+people's liberation army,kidnapping,New Delhi
+people's liberation army,kidnapping,Tral
+people's liberation army,kidnapping,Bengaluru
+people's liberation army,kidnapping,Roro
+people's liberation army,kidnapping,Sonitpur district
+people's liberation army,kidnapping,Sopore
+people's liberation army,kidnapping,Parganas district
+people's liberation army,kidnapping,Gaya district
+people's liberation army,bombing,Srinagar
+people's liberation army,bombing,Guwahati
+people's liberation army,bombing,Sukma district
+people's liberation army,bombing,Rai
+people's liberation army,bombing,Anantnag
+people's liberation army,bombing,New Delhi
+people's liberation army,bombing,Tral
+people's liberation army,bombing,Bengaluru
+people's liberation army,bombing,Roro
+people's liberation army,bombing,Sonitpur district
+people's liberation army,bombing,Sopore
+people's liberation army,bombing,Parganas district
+people's liberation army,bombing,Gaya district
+national socialist council of nagaland,assassination,Srinagar
+national socialist council of nagaland,assassination,Guwahati
+national socialist council of nagaland,assassination,Sukma district
+national socialist council of nagaland,assassination,Rai
+national socialist council of nagaland,assassination,Anantnag
+national socialist council of nagaland,assassination,New Delhi
+national socialist council of nagaland,assassination,Tral
+national socialist council of nagaland,assassination,Bengaluru
+national socialist council of nagaland,assassination,Roro
+national socialist council of nagaland,assassination,Sonitpur district
+national socialist council of nagaland,assassination,Sopore
+national socialist council of nagaland,assassination,Parganas district
+national socialist council of nagaland,assassination,Gaya district
+national socialist council of nagaland,hijacking,Srinagar
+national socialist council of nagaland,hijacking,Guwahati
+national socialist council of nagaland,hijacking,Sukma district
+national socialist council of nagaland,hijacking,Rai
+national socialist council of nagaland,hijacking,Anantnag
+national socialist council of nagaland,hijacking,New Delhi
+national socialist council of nagaland,hijacking,Tral
+national socialist council of nagaland,hijacking,Bengaluru
+national socialist council of nagaland,hijacking,Roro
+national socialist council of nagaland,hijacking,Sonitpur district
+national socialist council of nagaland,hijacking,Sopore
+national socialist council of nagaland,hijacking,Parganas district
+national socialist council of nagaland,hijacking,Gaya district
+national socialist council of nagaland,kidnapping,Srinagar
+national socialist council of nagaland,kidnapping,Guwahati
+national socialist council of nagaland,kidnapping,Sukma district
+national socialist council of nagaland,kidnapping,Rai
+national socialist council of nagaland,kidnapping,Anantnag
+national socialist council of nagaland,kidnapping,New Delhi
+national socialist council of nagaland,kidnapping,Tral
+national socialist council of nagaland,kidnapping,Bengaluru
+national socialist council of nagaland,kidnapping,Roro
+national socialist council of nagaland,kidnapping,Sonitpur district
+national socialist council of nagaland,kidnapping,Sopore
+national socialist council of nagaland,kidnapping,Parganas district
+national socialist council of nagaland,kidnapping,Gaya district
+national socialist council of nagaland,bombing,Srinagar
+national socialist council of nagaland,bombing,Guwahati
+national socialist council of nagaland,bombing,Sukma district
+national socialist council of nagaland,bombing,Rai
+national socialist council of nagaland,bombing,Anantnag
+national socialist council of nagaland,bombing,New Delhi
+national socialist council of nagaland,bombing,Tral
+national socialist council of nagaland,bombing,Bengaluru
+national socialist council of nagaland,bombing,Roro
+national socialist council of nagaland,bombing,Sonitpur district
+national socialist council of nagaland,bombing,Sopore
+national socialist council of nagaland,bombing,Parganas district
+national socialist council of nagaland,bombing,Gaya district
+separatists,assassination,Srinagar
+separatists,assassination,Guwahati
+separatists,assassination,Sukma district
+separatists,assassination,Rai
+separatists,assassination,Anantnag
+separatists,assassination,New Delhi
+separatists,assassination,Tral
+separatists,assassination,Bengaluru
+separatists,assassination,Roro
+separatists,assassination,Sonitpur district
+separatists,assassination,Sopore
+separatists,assassination,Parganas district
+separatists,assassination,Gaya district
+separatists,hijacking,Srinagar
+separatists,hijacking,Guwahati
+separatists,hijacking,Sukma district
+separatists,hijacking,Rai
+separatists,hijacking,Anantnag
+separatists,hijacking,New Delhi
+separatists,hijacking,Tral
+separatists,hijacking,Bengaluru
+separatists,hijacking,Roro
+separatists,hijacking,Sonitpur district
+separatists,hijacking,Sopore
+separatists,hijacking,Parganas district
+separatists,hijacking,Gaya district
+separatists,kidnapping,Srinagar
+separatists,kidnapping,Guwahati
+separatists,kidnapping,Sukma district
+separatists,kidnapping,Rai
+separatists,kidnapping,Anantnag
+separatists,kidnapping,New Delhi
+separatists,kidnapping,Tral
+separatists,kidnapping,Bengaluru
+separatists,kidnapping,Roro
+separatists,kidnapping,Sonitpur district
+separatists,kidnapping,Sopore
+separatists,kidnapping,Parganas district
+separatists,kidnapping,Gaya district
+separatists,bombing,Srinagar
+separatists,bombing,Guwahati
+separatists,bombing,Sukma district
+separatists,bombing,Rai
+separatists,bombing,Anantnag
+separatists,bombing,New Delhi
+separatists,bombing,Tral
+separatists,bombing,Bengaluru
+separatists,bombing,Roro
+separatists,bombing,Sonitpur district
+separatists,bombing,Sopore
+separatists,bombing,Parganas district
+separatists,bombing,Gaya district
+dissident,assassination,Srinagar
+dissident,assassination,Guwahati
+dissident,assassination,Sukma district
+dissident,assassination,Rai
+dissident,assassination,Anantnag
+dissident,assassination,New Delhi
+dissident,assassination,Tral
+dissident,assassination,Bengaluru
+dissident,assassination,Roro
+dissident,assassination,Sonitpur district
+dissident,assassination,Sopore
+dissident,assassination,Parganas district
+dissident,assassination,Gaya district
+dissident,hijacking,Srinagar
+dissident,hijacking,Guwahati
+dissident,hijacking,Sukma district
+dissident,hijacking,Rai
+dissident,hijacking,Anantnag
+dissident,hijacking,New Delhi
+dissident,hijacking,Tral
+dissident,hijacking,Bengaluru
+dissident,hijacking,Roro
+dissident,hijacking,Sonitpur district
+dissident,hijacking,Sopore
+dissident,hijacking,Parganas district
+dissident,hijacking,Gaya district
+dissident,kidnapping,Srinagar
+dissident,kidnapping,Guwahati
+dissident,kidnapping,Sukma district
+dissident,kidnapping,Rai
+dissident,kidnapping,Anantnag
+dissident,kidnapping,New Delhi
+dissident,kidnapping,Tral
+dissident,kidnapping,Bengaluru
+dissident,kidnapping,Roro
+dissident,kidnapping,Sonitpur district
+dissident,kidnapping,Sopore
+dissident,kidnapping,Parganas district
+dissident,kidnapping,Gaya district
+dissident,bombing,Srinagar
+dissident,bombing,Guwahati
+dissident,bombing,Sukma district
+dissident,bombing,Rai
+dissident,bombing,Anantnag
+dissident,bombing,New Delhi
+dissident,bombing,Tral
+dissident,bombing,Bengaluru
+dissident,bombing,Roro
+dissident,bombing,Sonitpur district
+dissident,bombing,Sopore
+dissident,bombing,Parganas district
+dissident,bombing,Gaya district
+secessionists,assassination,Srinagar
+secessionists,assassination,Guwahati
+secessionists,assassination,Sukma district
+secessionists,assassination,Rai
+secessionists,assassination,Anantnag
+secessionists,assassination,New Delhi
+secessionists,assassination,Tral
+secessionists,assassination,Bengaluru
+secessionists,assassination,Roro
+secessionists,assassination,Sonitpur district
+secessionists,assassination,Sopore
+secessionists,assassination,Parganas district
+secessionists,assassination,Gaya district
+secessionists,hijacking,Srinagar
+secessionists,hijacking,Guwahati
+secessionists,hijacking,Sukma district
+secessionists,hijacking,Rai
+secessionists,hijacking,Anantnag
+secessionists,hijacking,New Delhi
+secessionists,hijacking,Tral
+secessionists,hijacking,Bengaluru
+secessionists,hijacking,Roro
+secessionists,hijacking,Sonitpur district
+secessionists,hijacking,Sopore
+secessionists,hijacking,Parganas district
+secessionists,hijacking,Gaya district
+secessionists,kidnapping,Srinagar
+secessionists,kidnapping,Guwahati
+secessionists,kidnapping,Sukma district
+secessionists,kidnapping,Rai
+secessionists,kidnapping,Anantnag
+secessionists,kidnapping,New Delhi
+secessionists,kidnapping,Tral
+secessionists,kidnapping,Bengaluru
+secessionists,kidnapping,Roro
+secessionists,kidnapping,Sonitpur district
+secessionists,kidnapping,Sopore
+secessionists,kidnapping,Parganas district
+secessionists,kidnapping,Gaya district
+secessionists,bombing,Srinagar
+secessionists,bombing,Guwahati
+secessionists,bombing,Sukma district
+secessionists,bombing,Rai
+secessionists,bombing,Anantnag
+secessionists,bombing,New Delhi
+secessionists,bombing,Tral
+secessionists,bombing,Bengaluru
+secessionists,bombing,Roro
+secessionists,bombing,Sonitpur district
+secessionists,bombing,Sopore
+secessionists,bombing,Parganas district
+secessionists,bombing,Gaya district
+muslim separatists,assassination,Srinagar
+muslim separatists,assassination,Guwahati
+muslim separatists,assassination,Sukma district
+muslim separatists,assassination,Rai
+muslim separatists,assassination,Anantnag
+muslim separatists,assassination,New Delhi
+muslim separatists,assassination,Tral
+muslim separatists,assassination,Bengaluru
+muslim separatists,assassination,Roro
+muslim separatists,assassination,Sonitpur district
+muslim separatists,assassination,Sopore
+muslim separatists,assassination,Parganas district
+muslim separatists,assassination,Gaya district
+muslim separatists,hijacking,Srinagar
+muslim separatists,hijacking,Guwahati
+muslim separatists,hijacking,Sukma district
+muslim separatists,hijacking,Rai
+muslim separatists,hijacking,Anantnag
+muslim separatists,hijacking,New Delhi
+muslim separatists,hijacking,Tral
+muslim separatists,hijacking,Bengaluru
+muslim separatists,hijacking,Roro
+muslim separatists,hijacking,Sonitpur district
+muslim separatists,hijacking,Sopore
+muslim separatists,hijacking,Parganas district
+muslim separatists,hijacking,Gaya district
+muslim separatists,kidnapping,Srinagar
+muslim separatists,kidnapping,Guwahati
+muslim separatists,kidnapping,Sukma district
+muslim separatists,kidnapping,Rai
+muslim separatists,kidnapping,Anantnag
+muslim separatists,kidnapping,New Delhi
+muslim separatists,kidnapping,Tral
+muslim separatists,kidnapping,Bengaluru
+muslim separatists,kidnapping,Roro
+muslim separatists,kidnapping,Sonitpur district
+muslim separatists,kidnapping,Sopore
+muslim separatists,kidnapping,Parganas district
+muslim separatists,kidnapping,Gaya district
+muslim separatists,bombing,Srinagar
+muslim separatists,bombing,Guwahati
+muslim separatists,bombing,Sukma district
+muslim separatists,bombing,Rai
+muslim separatists,bombing,Anantnag
+muslim separatists,bombing,New Delhi
+muslim separatists,bombing,Tral
+muslim separatists,bombing,Bengaluru
+muslim separatists,bombing,Roro
+muslim separatists,bombing,Sonitpur district
+muslim separatists,bombing,Sopore
+muslim separatists,bombing,Parganas district
+muslim separatists,bombing,Gaya district
+gunmen,assassination,Srinagar
+gunmen,assassination,Guwahati
+gunmen,assassination,Sukma district
+gunmen,assassination,Rai
+gunmen,assassination,Anantnag
+gunmen,assassination,New Delhi
+gunmen,assassination,Tral
+gunmen,assassination,Bengaluru
+gunmen,assassination,Roro
+gunmen,assassination,Sonitpur district
+gunmen,assassination,Sopore
+gunmen,assassination,Parganas district
+gunmen,assassination,Gaya district
+gunmen,hijacking,Srinagar
+gunmen,hijacking,Guwahati
+gunmen,hijacking,Sukma district
+gunmen,hijacking,Rai
+gunmen,hijacking,Anantnag
+gunmen,hijacking,New Delhi
+gunmen,hijacking,Tral
+gunmen,hijacking,Bengaluru
+gunmen,hijacking,Roro
+gunmen,hijacking,Sonitpur district
+gunmen,hijacking,Sopore
+gunmen,hijacking,Parganas district
+gunmen,hijacking,Gaya district
+gunmen,kidnapping,Srinagar
+gunmen,kidnapping,Guwahati
+gunmen,kidnapping,Sukma district
+gunmen,kidnapping,Rai
+gunmen,kidnapping,Anantnag
+gunmen,kidnapping,New Delhi
+gunmen,kidnapping,Tral
+gunmen,kidnapping,Bengaluru
+gunmen,kidnapping,Roro
+gunmen,kidnapping,Sonitpur district
+gunmen,kidnapping,Sopore
+gunmen,kidnapping,Parganas district
+gunmen,kidnapping,Gaya district
+gunmen,bombing,Srinagar
+gunmen,bombing,Guwahati
+gunmen,bombing,Sukma district
+gunmen,bombing,Rai
+gunmen,bombing,Anantnag
+gunmen,bombing,New Delhi
+gunmen,bombing,Tral
+gunmen,bombing,Bengaluru
+gunmen,bombing,Roro
+gunmen,bombing,Sonitpur district
+gunmen,bombing,Sopore
+gunmen,bombing,Parganas district
+gunmen,bombing,Gaya district
+extremists,assassination,Srinagar
+extremists,assassination,Guwahati
+extremists,assassination,Sukma district
+extremists,assassination,Rai
+extremists,assassination,Anantnag
+extremists,assassination,New Delhi
+extremists,assassination,Tral
+extremists,assassination,Bengaluru
+extremists,assassination,Roro
+extremists,assassination,Sonitpur district
+extremists,assassination,Sopore
+extremists,assassination,Parganas district
+extremists,assassination,Gaya district
+extremists,hijacking,Srinagar
+extremists,hijacking,Guwahati
+extremists,hijacking,Sukma district
+extremists,hijacking,Rai
+extremists,hijacking,Anantnag
+extremists,hijacking,New Delhi
+extremists,hijacking,Tral
+extremists,hijacking,Bengaluru
+extremists,hijacking,Roro
+extremists,hijacking,Sonitpur district
+extremists,hijacking,Sopore
+extremists,hijacking,Parganas district
+extremists,hijacking,Gaya district
+extremists,kidnapping,Srinagar
+extremists,kidnapping,Guwahati
+extremists,kidnapping,Sukma district
+extremists,kidnapping,Rai
+extremists,kidnapping,Anantnag
+extremists,kidnapping,New Delhi
+extremists,kidnapping,Tral
+extremists,kidnapping,Bengaluru
+extremists,kidnapping,Roro
+extremists,kidnapping,Sonitpur district
+extremists,kidnapping,Sopore
+extremists,kidnapping,Parganas district
+extremists,kidnapping,Gaya district
+extremists,bombing,Srinagar
+extremists,bombing,Guwahati
+extremists,bombing,Sukma district
+extremists,bombing,Rai
+extremists,bombing,Anantnag
+extremists,bombing,New Delhi
+extremists,bombing,Tral
+extremists,bombing,Bengaluru
+extremists,bombing,Roro
+extremists,bombing,Sonitpur district
+extremists,bombing,Sopore
+extremists,bombing,Parganas district
+extremists,bombing,Gaya district
+japanese red army,assassination,Srinagar
+japanese red army,assassination,Guwahati
+japanese red army,assassination,Sukma district
+japanese red army,assassination,Rai
+japanese red army,assassination,Anantnag
+japanese red army,assassination,New Delhi
+japanese red army,assassination,Tral
+japanese red army,assassination,Bengaluru
+japanese red army,assassination,Roro
+japanese red army,assassination,Sonitpur district
+japanese red army,assassination,Sopore
+japanese red army,assassination,Parganas district
+japanese red army,assassination,Gaya district
+japanese red army,hijacking,Srinagar
+japanese red army,hijacking,Guwahati
+japanese red army,hijacking,Sukma district
+japanese red army,hijacking,Rai
+japanese red army,hijacking,Anantnag
+japanese red army,hijacking,New Delhi
+japanese red army,hijacking,Tral
+japanese red army,hijacking,Bengaluru
+japanese red army,hijacking,Roro
+japanese red army,hijacking,Sonitpur district
+japanese red army,hijacking,Sopore
+japanese red army,hijacking,Parganas district
+japanese red army,hijacking,Gaya district
+japanese red army,kidnapping,Srinagar
+japanese red army,kidnapping,Guwahati
+japanese red army,kidnapping,Sukma district
+japanese red army,kidnapping,Rai
+japanese red army,kidnapping,Anantnag
+japanese red army,kidnapping,New Delhi
+japanese red army,kidnapping,Tral
+japanese red army,kidnapping,Bengaluru
+japanese red army,kidnapping,Roro
+japanese red army,kidnapping,Sonitpur district
+japanese red army,kidnapping,Sopore
+japanese red army,kidnapping,Parganas district
+japanese red army,kidnapping,Gaya district
+japanese red army,bombing,Srinagar
+japanese red army,bombing,Guwahati
+japanese red army,bombing,Sukma district
+japanese red army,bombing,Rai
+japanese red army,bombing,Anantnag
+japanese red army,bombing,New Delhi
+japanese red army,bombing,Tral
+japanese red army,bombing,Bengaluru
+japanese red army,bombing,Roro
+japanese red army,bombing,Sonitpur district
+japanese red army,bombing,Sopore
+japanese red army,bombing,Parganas district
+japanese red army,bombing,Gaya district
+pattali makkal katchi,assassination,Srinagar
+pattali makkal katchi,assassination,Guwahati
+pattali makkal katchi,assassination,Sukma district
+pattali makkal katchi,assassination,Rai
+pattali makkal katchi,assassination,Anantnag
+pattali makkal katchi,assassination,New Delhi
+pattali makkal katchi,assassination,Tral
+pattali makkal katchi,assassination,Bengaluru
+pattali makkal katchi,assassination,Roro
+pattali makkal katchi,assassination,Sonitpur district
+pattali makkal katchi,assassination,Sopore
+pattali makkal katchi,assassination,Parganas district
+pattali makkal katchi,assassination,Gaya district
+pattali makkal katchi,hijacking,Srinagar
+pattali makkal katchi,hijacking,Guwahati
+pattali makkal katchi,hijacking,Sukma district
+pattali makkal katchi,hijacking,Rai
+pattali makkal katchi,hijacking,Anantnag
+pattali makkal katchi,hijacking,New Delhi
+pattali makkal katchi,hijacking,Tral
+pattali makkal katchi,hijacking,Bengaluru
+pattali makkal katchi,hijacking,Roro
+pattali makkal katchi,hijacking,Sonitpur district
+pattali makkal katchi,hijacking,Sopore
+pattali makkal katchi,hijacking,Parganas district
+pattali makkal katchi,hijacking,Gaya district
+pattali makkal katchi,kidnapping,Srinagar
+pattali makkal katchi,kidnapping,Guwahati
+pattali makkal katchi,kidnapping,Sukma district
+pattali makkal katchi,kidnapping,Rai
+pattali makkal katchi,kidnapping,Anantnag
+pattali makkal katchi,kidnapping,New Delhi
+pattali makkal katchi,kidnapping,Tral
+pattali makkal katchi,kidnapping,Bengaluru
+pattali makkal katchi,kidnapping,Roro
+pattali makkal katchi,kidnapping,Sonitpur district
+pattali makkal katchi,kidnapping,Sopore
+pattali makkal katchi,kidnapping,Parganas district
+pattali makkal katchi,kidnapping,Gaya district
+pattali makkal katchi,bombing,Srinagar
+pattali makkal katchi,bombing,Guwahati
+pattali makkal katchi,bombing,Sukma district
+pattali makkal katchi,bombing,Rai
+pattali makkal katchi,bombing,Anantnag
+pattali makkal katchi,bombing,New Delhi
+pattali makkal katchi,bombing,Tral
+pattali makkal katchi,bombing,Bengaluru
+pattali makkal katchi,bombing,Roro
+pattali makkal katchi,bombing,Sonitpur district
+pattali makkal katchi,bombing,Sopore
+pattali makkal katchi,bombing,Parganas district
+pattali makkal katchi,bombing,Gaya district
+hizbul mujahideen,assassination,Srinagar
+hizbul mujahideen,assassination,Guwahati
+hizbul mujahideen,assassination,Sukma district
+hizbul mujahideen,assassination,Rai
+hizbul mujahideen,assassination,Anantnag
+hizbul mujahideen,assassination,New Delhi
+hizbul mujahideen,assassination,Tral
+hizbul mujahideen,assassination,Bengaluru
+hizbul mujahideen,assassination,Roro
+hizbul mujahideen,assassination,Sonitpur district
+hizbul mujahideen,assassination,Sopore
+hizbul mujahideen,assassination,Parganas district
+hizbul mujahideen,assassination,Gaya district
+hizbul mujahideen,hijacking,Srinagar
+hizbul mujahideen,hijacking,Guwahati
+hizbul mujahideen,hijacking,Sukma district
+hizbul mujahideen,hijacking,Rai
+hizbul mujahideen,hijacking,Anantnag
+hizbul mujahideen,hijacking,New Delhi
+hizbul mujahideen,hijacking,Tral
+hizbul mujahideen,hijacking,Bengaluru
+hizbul mujahideen,hijacking,Roro
+hizbul mujahideen,hijacking,Sonitpur district
+hizbul mujahideen,hijacking,Sopore
+hizbul mujahideen,hijacking,Parganas district
+hizbul mujahideen,hijacking,Gaya district
+hizbul mujahideen,kidnapping,Srinagar
+hizbul mujahideen,kidnapping,Guwahati
+hizbul mujahideen,kidnapping,Sukma district
+hizbul mujahideen,kidnapping,Rai
+hizbul mujahideen,kidnapping,Anantnag
+hizbul mujahideen,kidnapping,New Delhi
+hizbul mujahideen,kidnapping,Tral
+hizbul mujahideen,kidnapping,Bengaluru
+hizbul mujahideen,kidnapping,Roro
+hizbul mujahideen,kidnapping,Sonitpur district
+hizbul mujahideen,kidnapping,Sopore
+hizbul mujahideen,kidnapping,Parganas district
+hizbul mujahideen,kidnapping,Gaya district
+hizbul mujahideen,bombing,Srinagar
+hizbul mujahideen,bombing,Guwahati
+hizbul mujahideen,bombing,Sukma district
+hizbul mujahideen,bombing,Rai
+hizbul mujahideen,bombing,Anantnag
+hizbul mujahideen,bombing,New Delhi
+hizbul mujahideen,bombing,Tral
+hizbul mujahideen,bombing,Bengaluru
+hizbul mujahideen,bombing,Roro
+hizbul mujahideen,bombing,Sonitpur district
+hizbul mujahideen,bombing,Sopore
+hizbul mujahideen,bombing,Parganas district
+hizbul mujahideen,bombing,Gaya district
+muslim rebels,assassination,Srinagar
+muslim rebels,assassination,Guwahati
+muslim rebels,assassination,Sukma district
+muslim rebels,assassination,Rai
+muslim rebels,assassination,Anantnag
+muslim rebels,assassination,New Delhi
+muslim rebels,assassination,Tral
+muslim rebels,assassination,Bengaluru
+muslim rebels,assassination,Roro
+muslim rebels,assassination,Sonitpur district
+muslim rebels,assassination,Sopore
+muslim rebels,assassination,Parganas district
+muslim rebels,assassination,Gaya district
+muslim rebels,hijacking,Srinagar
+muslim rebels,hijacking,Guwahati
+muslim rebels,hijacking,Sukma district
+muslim rebels,hijacking,Rai
+muslim rebels,hijacking,Anantnag
+muslim rebels,hijacking,New Delhi
+muslim rebels,hijacking,Tral
+muslim rebels,hijacking,Bengaluru
+muslim rebels,hijacking,Roro
+muslim rebels,hijacking,Sonitpur district
+muslim rebels,hijacking,Sopore
+muslim rebels,hijacking,Parganas district
+muslim rebels,hijacking,Gaya district
+muslim rebels,kidnapping,Srinagar
+muslim rebels,kidnapping,Guwahati
+muslim rebels,kidnapping,Sukma district
+muslim rebels,kidnapping,Rai
+muslim rebels,kidnapping,Anantnag
+muslim rebels,kidnapping,New Delhi
+muslim rebels,kidnapping,Tral
+muslim rebels,kidnapping,Bengaluru
+muslim rebels,kidnapping,Roro
+muslim rebels,kidnapping,Sonitpur district
+muslim rebels,kidnapping,Sopore
+muslim rebels,kidnapping,Parganas district
+muslim rebels,kidnapping,Gaya district
+muslim rebels,bombing,Srinagar
+muslim rebels,bombing,Guwahati
+muslim rebels,bombing,Sukma district
+muslim rebels,bombing,Rai
+muslim rebels,bombing,Anantnag
+muslim rebels,bombing,New Delhi
+muslim rebels,bombing,Tral
+muslim rebels,bombing,Bengaluru
+muslim rebels,bombing,Roro
+muslim rebels,bombing,Sonitpur district
+muslim rebels,bombing,Sopore
+muslim rebels,bombing,Parganas district
+muslim rebels,bombing,Gaya district
+communist party of india,assassination,Srinagar
+communist party of india,assassination,Guwahati
+communist party of india,assassination,Sukma district
+communist party of india,assassination,Rai
+communist party of india,assassination,Anantnag
+communist party of india,assassination,New Delhi
+communist party of india,assassination,Tral
+communist party of india,assassination,Bengaluru
+communist party of india,assassination,Roro
+communist party of india,assassination,Sonitpur district
+communist party of india,assassination,Sopore
+communist party of india,assassination,Parganas district
+communist party of india,assassination,Gaya district
+communist party of india,hijacking,Srinagar
+communist party of india,hijacking,Guwahati
+communist party of india,hijacking,Sukma district
+communist party of india,hijacking,Rai
+communist party of india,hijacking,Anantnag
+communist party of india,hijacking,New Delhi
+communist party of india,hijacking,Tral
+communist party of india,hijacking,Bengaluru
+communist party of india,hijacking,Roro
+communist party of india,hijacking,Sonitpur district
+communist party of india,hijacking,Sopore
+communist party of india,hijacking,Parganas district
+communist party of india,hijacking,Gaya district
+communist party of india,kidnapping,Srinagar
+communist party of india,kidnapping,Guwahati
+communist party of india,kidnapping,Sukma district
+communist party of india,kidnapping,Rai
+communist party of india,kidnapping,Anantnag
+communist party of india,kidnapping,New Delhi
+communist party of india,kidnapping,Tral
+communist party of india,kidnapping,Bengaluru
+communist party of india,kidnapping,Roro
+communist party of india,kidnapping,Sonitpur district
+communist party of india,kidnapping,Sopore
+communist party of india,kidnapping,Parganas district
+communist party of india,kidnapping,Gaya district
+communist party of india,bombing,Srinagar
+communist party of india,bombing,Guwahati
+communist party of india,bombing,Sukma district
+communist party of india,bombing,Rai
+communist party of india,bombing,Anantnag
+communist party of india,bombing,New Delhi
+communist party of india,bombing,Tral
+communist party of india,bombing,Bengaluru
+communist party of india,bombing,Roro
+communist party of india,bombing,Sonitpur district
+communist party of india,bombing,Sopore
+communist party of india,bombing,Parganas district
+communist party of india,bombing,Gaya district
+terrorists,assassination,Srinagar
+terrorists,assassination,Guwahati
+terrorists,assassination,Sukma district
+terrorists,assassination,Rai
+terrorists,assassination,Anantnag
+terrorists,assassination,New Delhi
+terrorists,assassination,Tral
+terrorists,assassination,Bengaluru
+terrorists,assassination,Roro
+terrorists,assassination,Sonitpur district
+terrorists,assassination,Sopore
+terrorists,assassination,Parganas district
+terrorists,assassination,Gaya district
+terrorists,hijacking,Srinagar
+terrorists,hijacking,Guwahati
+terrorists,hijacking,Sukma district
+terrorists,hijacking,Rai
+terrorists,hijacking,Anantnag
+terrorists,hijacking,New Delhi
+terrorists,hijacking,Tral
+terrorists,hijacking,Bengaluru
+terrorists,hijacking,Roro
+terrorists,hijacking,Sonitpur district
+terrorists,hijacking,Sopore
+terrorists,hijacking,Parganas district
+terrorists,hijacking,Gaya district
+terrorists,kidnapping,Srinagar
+terrorists,kidnapping,Guwahati
+terrorists,kidnapping,Sukma district
+terrorists,kidnapping,Rai
+terrorists,kidnapping,Anantnag
+terrorists,kidnapping,New Delhi
+terrorists,kidnapping,Tral
+terrorists,kidnapping,Bengaluru
+terrorists,kidnapping,Roro
+terrorists,kidnapping,Sonitpur district
+terrorists,kidnapping,Sopore
+terrorists,kidnapping,Parganas district
+terrorists,kidnapping,Gaya district
+terrorists,bombing,Srinagar
+terrorists,bombing,Guwahati
+terrorists,bombing,Sukma district
+terrorists,bombing,Rai
+terrorists,bombing,Anantnag
+terrorists,bombing,New Delhi
+terrorists,bombing,Tral
+terrorists,bombing,Bengaluru
+terrorists,bombing,Roro
+terrorists,bombing,Sonitpur district
+terrorists,bombing,Sopore
+terrorists,bombing,Parganas district
+terrorists,bombing,Gaya district
+muslims,assassination,Srinagar
+muslims,assassination,Guwahati
+muslims,assassination,Sukma district
+muslims,assassination,Rai
+muslims,assassination,Anantnag
+muslims,assassination,New Delhi
+muslims,assassination,Tral
+muslims,assassination,Bengaluru
+muslims,assassination,Roro
+muslims,assassination,Sonitpur district
+muslims,assassination,Sopore
+muslims,assassination,Parganas district
+muslims,assassination,Gaya district
+muslims,hijacking,Srinagar
+muslims,hijacking,Guwahati
+muslims,hijacking,Sukma district
+muslims,hijacking,Rai
+muslims,hijacking,Anantnag
+muslims,hijacking,New Delhi
+muslims,hijacking,Tral
+muslims,hijacking,Bengaluru
+muslims,hijacking,Roro
+muslims,hijacking,Sonitpur district
+muslims,hijacking,Sopore
+muslims,hijacking,Parganas district
+muslims,hijacking,Gaya district
+muslims,kidnapping,Srinagar
+muslims,kidnapping,Guwahati
+muslims,kidnapping,Sukma district
+muslims,kidnapping,Rai
+muslims,kidnapping,Anantnag
+muslims,kidnapping,New Delhi
+muslims,kidnapping,Tral
+muslims,kidnapping,Bengaluru
+muslims,kidnapping,Roro
+muslims,kidnapping,Sonitpur district
+muslims,kidnapping,Sopore
+muslims,kidnapping,Parganas district
+muslims,kidnapping,Gaya district
+muslims,bombing,Srinagar
+muslims,bombing,Guwahati
+muslims,bombing,Sukma district
+muslims,bombing,Rai
+muslims,bombing,Anantnag
+muslims,bombing,New Delhi
+muslims,bombing,Tral
+muslims,bombing,Bengaluru
+muslims,bombing,Roro
+muslims,bombing,Sonitpur district
+muslims,bombing,Sopore
+muslims,bombing,Parganas district
+muslims,bombing,Gaya district
+bandits,assassination,Srinagar
+bandits,assassination,Guwahati
+bandits,assassination,Sukma district
+bandits,assassination,Rai
+bandits,assassination,Anantnag
+bandits,assassination,New Delhi
+bandits,assassination,Tral
+bandits,assassination,Bengaluru
+bandits,assassination,Roro
+bandits,assassination,Sonitpur district
+bandits,assassination,Sopore
+bandits,assassination,Parganas district
+bandits,assassination,Gaya district
+bandits,hijacking,Srinagar
+bandits,hijacking,Guwahati
+bandits,hijacking,Sukma district
+bandits,hijacking,Rai
+bandits,hijacking,Anantnag
+bandits,hijacking,New Delhi
+bandits,hijacking,Tral
+bandits,hijacking,Bengaluru
+bandits,hijacking,Roro
+bandits,hijacking,Sonitpur district
+bandits,hijacking,Sopore
+bandits,hijacking,Parganas district
+bandits,hijacking,Gaya district
+bandits,kidnapping,Srinagar
+bandits,kidnapping,Guwahati
+bandits,kidnapping,Sukma district
+bandits,kidnapping,Rai
+bandits,kidnapping,Anantnag
+bandits,kidnapping,New Delhi
+bandits,kidnapping,Tral
+bandits,kidnapping,Bengaluru
+bandits,kidnapping,Roro
+bandits,kidnapping,Sonitpur district
+bandits,kidnapping,Sopore
+bandits,kidnapping,Parganas district
+bandits,kidnapping,Gaya district
+bandits,bombing,Srinagar
+bandits,bombing,Guwahati
+bandits,bombing,Sukma district
+bandits,bombing,Rai
+bandits,bombing,Anantnag
+bandits,bombing,New Delhi
+bandits,bombing,Tral
+bandits,bombing,Bengaluru
+bandits,bombing,Roro
+bandits,bombing,Sonitpur district
+bandits,bombing,Sopore
+bandits,bombing,Parganas district
+bandits,bombing,Gaya district
+indian mujahideen,assassination,Srinagar
+indian mujahideen,assassination,Guwahati
+indian mujahideen,assassination,Sukma district
+indian mujahideen,assassination,Rai
+indian mujahideen,assassination,Anantnag
+indian mujahideen,assassination,New Delhi
+indian mujahideen,assassination,Tral
+indian mujahideen,assassination,Bengaluru
+indian mujahideen,assassination,Roro
+indian mujahideen,assassination,Sonitpur district
+indian mujahideen,assassination,Sopore
+indian mujahideen,assassination,Parganas district
+indian mujahideen,assassination,Gaya district
+indian mujahideen,hijacking,Srinagar
+indian mujahideen,hijacking,Guwahati
+indian mujahideen,hijacking,Sukma district
+indian mujahideen,hijacking,Rai
+indian mujahideen,hijacking,Anantnag
+indian mujahideen,hijacking,New Delhi
+indian mujahideen,hijacking,Tral
+indian mujahideen,hijacking,Bengaluru
+indian mujahideen,hijacking,Roro
+indian mujahideen,hijacking,Sonitpur district
+indian mujahideen,hijacking,Sopore
+indian mujahideen,hijacking,Parganas district
+indian mujahideen,hijacking,Gaya district
+indian mujahideen,kidnapping,Srinagar
+indian mujahideen,kidnapping,Guwahati
+indian mujahideen,kidnapping,Sukma district
+indian mujahideen,kidnapping,Rai
+indian mujahideen,kidnapping,Anantnag
+indian mujahideen,kidnapping,New Delhi
+indian mujahideen,kidnapping,Tral
+indian mujahideen,kidnapping,Bengaluru
+indian mujahideen,kidnapping,Roro
+indian mujahideen,kidnapping,Sonitpur district
+indian mujahideen,kidnapping,Sopore
+indian mujahideen,kidnapping,Parganas district
+indian mujahideen,kidnapping,Gaya district
+indian mujahideen,bombing,Srinagar
+indian mujahideen,bombing,Guwahati
+indian mujahideen,bombing,Sukma district
+indian mujahideen,bombing,Rai
+indian mujahideen,bombing,Anantnag
+indian mujahideen,bombing,New Delhi
+indian mujahideen,bombing,Tral
+indian mujahideen,bombing,Bengaluru
+indian mujahideen,bombing,Roro
+indian mujahideen,bombing,Sonitpur district
+indian mujahideen,bombing,Sopore
+indian mujahideen,bombing,Parganas district
+indian mujahideen,bombing,Gaya district
+black widows,assassination,Srinagar
+black widows,assassination,Guwahati
+black widows,assassination,Sukma district
+black widows,assassination,Rai
+black widows,assassination,Anantnag
+black widows,assassination,New Delhi
+black widows,assassination,Tral
+black widows,assassination,Bengaluru
+black widows,assassination,Roro
+black widows,assassination,Sonitpur district
+black widows,assassination,Sopore
+black widows,assassination,Parganas district
+black widows,assassination,Gaya district
+black widows,hijacking,Srinagar
+black widows,hijacking,Guwahati
+black widows,hijacking,Sukma district
+black widows,hijacking,Rai
+black widows,hijacking,Anantnag
+black widows,hijacking,New Delhi
+black widows,hijacking,Tral
+black widows,hijacking,Bengaluru
+black widows,hijacking,Roro
+black widows,hijacking,Sonitpur district
+black widows,hijacking,Sopore
+black widows,hijacking,Parganas district
+black widows,hijacking,Gaya district
+black widows,kidnapping,Srinagar
+black widows,kidnapping,Guwahati
+black widows,kidnapping,Sukma district
+black widows,kidnapping,Rai
+black widows,kidnapping,Anantnag
+black widows,kidnapping,New Delhi
+black widows,kidnapping,Tral
+black widows,kidnapping,Bengaluru
+black widows,kidnapping,Roro
+black widows,kidnapping,Sonitpur district
+black widows,kidnapping,Sopore
+black widows,kidnapping,Parganas district
+black widows,kidnapping,Gaya district
+black widows,bombing,Srinagar
+black widows,bombing,Guwahati
+black widows,bombing,Sukma district
+black widows,bombing,Rai
+black widows,bombing,Anantnag
+black widows,bombing,New Delhi
+black widows,bombing,Tral
+black widows,bombing,Bengaluru
+black widows,bombing,Roro
+black widows,bombing,Sonitpur district
+black widows,bombing,Sopore
+black widows,bombing,Parganas district
+black widows,bombing,Gaya district
+national democratic front of bodoland,assassination,Srinagar
+national democratic front of bodoland,assassination,Guwahati
+national democratic front of bodoland,assassination,Sukma district
+national democratic front of bodoland,assassination,Rai
+national democratic front of bodoland,assassination,Anantnag
+national democratic front of bodoland,assassination,New Delhi
+national democratic front of bodoland,assassination,Tral
+national democratic front of bodoland,assassination,Bengaluru
+national democratic front of bodoland,assassination,Roro
+national democratic front of bodoland,assassination,Sonitpur district
+national democratic front of bodoland,assassination,Sopore
+national democratic front of bodoland,assassination,Parganas district
+national democratic front of bodoland,assassination,Gaya district
+national democratic front of bodoland,hijacking,Srinagar
+national democratic front of bodoland,hijacking,Guwahati
+national democratic front of bodoland,hijacking,Sukma district
+national democratic front of bodoland,hijacking,Rai
+national democratic front of bodoland,hijacking,Anantnag
+national democratic front of bodoland,hijacking,New Delhi
+national democratic front of bodoland,hijacking,Tral
+national democratic front of bodoland,hijacking,Bengaluru
+national democratic front of bodoland,hijacking,Roro
+national democratic front of bodoland,hijacking,Sonitpur district
+national democratic front of bodoland,hijacking,Sopore
+national democratic front of bodoland,hijacking,Parganas district
+national democratic front of bodoland,hijacking,Gaya district
+national democratic front of bodoland,kidnapping,Srinagar
+national democratic front of bodoland,kidnapping,Guwahati
+national democratic front of bodoland,kidnapping,Sukma district
+national democratic front of bodoland,kidnapping,Rai
+national democratic front of bodoland,kidnapping,Anantnag
+national democratic front of bodoland,kidnapping,New Delhi
+national democratic front of bodoland,kidnapping,Tral
+national democratic front of bodoland,kidnapping,Bengaluru
+national democratic front of bodoland,kidnapping,Roro
+national democratic front of bodoland,kidnapping,Sonitpur district
+national democratic front of bodoland,kidnapping,Sopore
+national democratic front of bodoland,kidnapping,Parganas district
+national democratic front of bodoland,kidnapping,Gaya district
+national democratic front of bodoland,bombing,Srinagar
+national democratic front of bodoland,bombing,Guwahati
+national democratic front of bodoland,bombing,Sukma district
+national democratic front of bodoland,bombing,Rai
+national democratic front of bodoland,bombing,Anantnag
+national democratic front of bodoland,bombing,New Delhi
+national democratic front of bodoland,bombing,Tral
+national democratic front of bodoland,bombing,Bengaluru
+national democratic front of bodoland,bombing,Roro
+national democratic front of bodoland,bombing,Sonitpur district
+national democratic front of bodoland,bombing,Sopore
+national democratic front of bodoland,bombing,Parganas district
+national democratic front of bodoland,bombing,Gaya district
+al fajr,assassination,Srinagar
+al fajr,assassination,Guwahati
+al fajr,assassination,Sukma district
+al fajr,assassination,Rai
+al fajr,assassination,Anantnag
+al fajr,assassination,New Delhi
+al fajr,assassination,Tral
+al fajr,assassination,Bengaluru
+al fajr,assassination,Roro
+al fajr,assassination,Sonitpur district
+al fajr,assassination,Sopore
+al fajr,assassination,Parganas district
+al fajr,assassination,Gaya district
+al fajr,hijacking,Srinagar
+al fajr,hijacking,Guwahati
+al fajr,hijacking,Sukma district
+al fajr,hijacking,Rai
+al fajr,hijacking,Anantnag
+al fajr,hijacking,New Delhi
+al fajr,hijacking,Tral
+al fajr,hijacking,Bengaluru
+al fajr,hijacking,Roro
+al fajr,hijacking,Sonitpur district
+al fajr,hijacking,Sopore
+al fajr,hijacking,Parganas district
+al fajr,hijacking,Gaya district
+al fajr,kidnapping,Srinagar
+al fajr,kidnapping,Guwahati
+al fajr,kidnapping,Sukma district
+al fajr,kidnapping,Rai
+al fajr,kidnapping,Anantnag
+al fajr,kidnapping,New Delhi
+al fajr,kidnapping,Tral
+al fajr,kidnapping,Bengaluru
+al fajr,kidnapping,Roro
+al fajr,kidnapping,Sonitpur district
+al fajr,kidnapping,Sopore
+al fajr,kidnapping,Parganas district
+al fajr,kidnapping,Gaya district
+al fajr,bombing,Srinagar
+al fajr,bombing,Guwahati
+al fajr,bombing,Sukma district
+al fajr,bombing,Rai
+al fajr,bombing,Anantnag
+al fajr,bombing,New Delhi
+al fajr,bombing,Tral
+al fajr,bombing,Bengaluru
+al fajr,bombing,Roro
+al fajr,bombing,Sonitpur district
+al fajr,bombing,Sopore
+al fajr,bombing,Parganas district
+al fajr,bombing,Gaya district
+maoists,assassination,Srinagar
+maoists,assassination,Guwahati
+maoists,assassination,Sukma district
+maoists,assassination,Rai
+maoists,assassination,Anantnag
+maoists,assassination,New Delhi
+maoists,assassination,Tral
+maoists,assassination,Bengaluru
+maoists,assassination,Roro
+maoists,assassination,Sonitpur district
+maoists,assassination,Sopore
+maoists,assassination,Parganas district
+maoists,assassination,Gaya district
+maoists,hijacking,Srinagar
+maoists,hijacking,Guwahati
+maoists,hijacking,Sukma district
+maoists,hijacking,Rai
+maoists,hijacking,Anantnag
+maoists,hijacking,New Delhi
+maoists,hijacking,Tral
+maoists,hijacking,Bengaluru
+maoists,hijacking,Roro
+maoists,hijacking,Sonitpur district
+maoists,hijacking,Sopore
+maoists,hijacking,Parganas district
+maoists,hijacking,Gaya district
+maoists,kidnapping,Srinagar
+maoists,kidnapping,Guwahati
+maoists,kidnapping,Sukma district
+maoists,kidnapping,Rai
+maoists,kidnapping,Anantnag
+maoists,kidnapping,New Delhi
+maoists,kidnapping,Tral
+maoists,kidnapping,Bengaluru
+maoists,kidnapping,Roro
+maoists,kidnapping,Sonitpur district
+maoists,kidnapping,Sopore
+maoists,kidnapping,Parganas district
+maoists,kidnapping,Gaya district
+maoists,bombing,Srinagar
+maoists,bombing,Guwahati
+maoists,bombing,Sukma district
+maoists,bombing,Rai
+maoists,bombing,Anantnag
+maoists,bombing,New Delhi
+maoists,bombing,Tral
+maoists,bombing,Bengaluru
+maoists,bombing,Roro
+maoists,bombing,Sonitpur district
+maoists,bombing,Sopore
+maoists,bombing,Parganas district
+maoists,bombing,Gaya district
+muslim militants,assassination,Srinagar
+muslim militants,assassination,Guwahati
+muslim militants,assassination,Sukma district
+muslim militants,assassination,Rai
+muslim militants,assassination,Anantnag
+muslim militants,assassination,New Delhi
+muslim militants,assassination,Tral
+muslim militants,assassination,Bengaluru
+muslim militants,assassination,Roro
+muslim militants,assassination,Sonitpur district
+muslim militants,assassination,Sopore
+muslim militants,assassination,Parganas district
+muslim militants,assassination,Gaya district
+muslim militants,hijacking,Srinagar
+muslim militants,hijacking,Guwahati
+muslim militants,hijacking,Sukma district
+muslim militants,hijacking,Rai
+muslim militants,hijacking,Anantnag
+muslim militants,hijacking,New Delhi
+muslim militants,hijacking,Tral
+muslim militants,hijacking,Bengaluru
+muslim militants,hijacking,Roro
+muslim militants,hijacking,Sonitpur district
+muslim militants,hijacking,Sopore
+muslim militants,hijacking,Parganas district
+muslim militants,hijacking,Gaya district
+muslim militants,kidnapping,Srinagar
+muslim militants,kidnapping,Guwahati
+muslim militants,kidnapping,Sukma district
+muslim militants,kidnapping,Rai
+muslim militants,kidnapping,Anantnag
+muslim militants,kidnapping,New Delhi
+muslim militants,kidnapping,Tral
+muslim militants,kidnapping,Bengaluru
+muslim militants,kidnapping,Roro
+muslim militants,kidnapping,Sonitpur district
+muslim militants,kidnapping,Sopore
+muslim militants,kidnapping,Parganas district
+muslim militants,kidnapping,Gaya district
+muslim militants,bombing,Srinagar
+muslim militants,bombing,Guwahati
+muslim militants,bombing,Sukma district
+muslim militants,bombing,Rai
+muslim militants,bombing,Anantnag
+muslim militants,bombing,New Delhi
+muslim militants,bombing,Tral
+muslim militants,bombing,Bengaluru
+muslim militants,bombing,Roro
+muslim militants,bombing,Sonitpur district
+muslim militants,bombing,Sopore
+muslim militants,bombing,Parganas district
+muslim militants,bombing,Gaya district
+palestinians,assassination,Srinagar
+palestinians,assassination,Guwahati
+palestinians,assassination,Sukma district
+palestinians,assassination,Rai
+palestinians,assassination,Anantnag
+palestinians,assassination,New Delhi
+palestinians,assassination,Tral
+palestinians,assassination,Bengaluru
+palestinians,assassination,Roro
+palestinians,assassination,Sonitpur district
+palestinians,assassination,Sopore
+palestinians,assassination,Parganas district
+palestinians,assassination,Gaya district
+palestinians,hijacking,Srinagar
+palestinians,hijacking,Guwahati
+palestinians,hijacking,Sukma district
+palestinians,hijacking,Rai
+palestinians,hijacking,Anantnag
+palestinians,hijacking,New Delhi
+palestinians,hijacking,Tral
+palestinians,hijacking,Bengaluru
+palestinians,hijacking,Roro
+palestinians,hijacking,Sonitpur district
+palestinians,hijacking,Sopore
+palestinians,hijacking,Parganas district
+palestinians,hijacking,Gaya district
+palestinians,kidnapping,Srinagar
+palestinians,kidnapping,Guwahati
+palestinians,kidnapping,Sukma district
+palestinians,kidnapping,Rai
+palestinians,kidnapping,Anantnag
+palestinians,kidnapping,New Delhi
+palestinians,kidnapping,Tral
+palestinians,kidnapping,Bengaluru
+palestinians,kidnapping,Roro
+palestinians,kidnapping,Sonitpur district
+palestinians,kidnapping,Sopore
+palestinians,kidnapping,Parganas district
+palestinians,kidnapping,Gaya district
+palestinians,bombing,Srinagar
+palestinians,bombing,Guwahati
+palestinians,bombing,Sukma district
+palestinians,bombing,Rai
+palestinians,bombing,Anantnag
+palestinians,bombing,New Delhi
+palestinians,bombing,Tral
+palestinians,bombing,Bengaluru
+palestinians,bombing,Roro
+palestinians,bombing,Sonitpur district
+palestinians,bombing,Sopore
+palestinians,bombing,Parganas district
+palestinians,bombing,Gaya district
+militants,assassination,Srinagar
+militants,assassination,Guwahati
+militants,assassination,Sukma district
+militants,assassination,Rai
+militants,assassination,Anantnag
+militants,assassination,New Delhi
+militants,assassination,Tral
+militants,assassination,Bengaluru
+militants,assassination,Roro
+militants,assassination,Sonitpur district
+militants,assassination,Sopore
+militants,assassination,Parganas district
+militants,assassination,Gaya district
+militants,hijacking,Srinagar
+militants,hijacking,Guwahati
+militants,hijacking,Sukma district
+militants,hijacking,Rai
+militants,hijacking,Anantnag
+militants,hijacking,New Delhi
+militants,hijacking,Tral
+militants,hijacking,Bengaluru
+militants,hijacking,Roro
+militants,hijacking,Sonitpur district
+militants,hijacking,Sopore
+militants,hijacking,Parganas district
+militants,hijacking,Gaya district
+militants,kidnapping,Srinagar
+militants,kidnapping,Guwahati
+militants,kidnapping,Sukma district
+militants,kidnapping,Rai
+militants,kidnapping,Anantnag
+militants,kidnapping,New Delhi
+militants,kidnapping,Tral
+militants,kidnapping,Bengaluru
+militants,kidnapping,Roro
+militants,kidnapping,Sonitpur district
+militants,kidnapping,Sopore
+militants,kidnapping,Parganas district
+militants,kidnapping,Gaya district
+militants,bombing,Srinagar
+militants,bombing,Guwahati
+militants,bombing,Sukma district
+militants,bombing,Rai
+militants,bombing,Anantnag
+militants,bombing,New Delhi
+militants,bombing,Tral
+militants,bombing,Bengaluru
+militants,bombing,Roro
+militants,bombing,Sonitpur district
+militants,bombing,Sopore
+militants,bombing,Parganas district
+militants,bombing,Gaya district

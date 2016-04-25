@@ -1,0 +1,1352 @@
+source,target,value
+Unknown,Business,3
+Unknown,Educational Institution,1
+Unknown,Government (General),10
+Unknown,Police,3
+Unknown,Private Citizens & Property,11
+Unknown,Terrorists/Non-State Militia,3
+Unknown,Transportation,3
+Unknown,Violent Political Party,1
+Abhapalli,Transportation,1
+Abhayapuri,Police,1
+Achabal,Private Citizens & Property,1
+Agartala,Business,1
+Agartala,Government (General),2
+Agartala,Private Citizens & Property,4
+Agartala,Religious Figures/Institutions,1
+Agartala,Transportation,1
+Ahem Sharief,Private Citizens & Property,1
+Ahilya Ghat,Religious Figures/Institutions,1
+Ahmedabad,Government (General),2
+Ahmedabad,Transportation,6
+Aishmuqam,Private Citizens & Property,1
+Ajamnagar,Government (General),1
+Ajas,Military,1
+Ajmer,Private Citizens & Property,1
+Alipur Duar,Government (General),1
+Allahabad,Private Citizens & Property,1
+Ampara,Police,1
+Amritsar,Private Citizens & Property,2
+Amroh,Private Citizens & Property,1
+Anand,Transportation,1
+Anantnag,Government (General),4
+Anantnag,Military,2
+Anantnag,Police,12
+Anantnag,Private Citizens & Property,6
+Anantnag,Violent Political Party,1
+Anantnag (District),Police,1
+Anantnag (District),Private Citizens & Property,2
+Anantnag District,Government (General),1
+Anantnang (District),Government (General),1
+Anchidora,Military,1
+Angarala,Military,1
+Angul District,Private Citizens & Property,1
+Arigam,Military,1
+Arwal,Private Citizens & Property,1
+Arwal,Telecommunication,1
+Arwani,Government (General),1
+Asansol,Government (General),1
+Asansol,Private Citizens & Property,1
+Asarfi,Private Citizens & Property,1
+Ashmuqam,Government (General),1
+Ashmuqam,Police,1
+Ashoknagar,Private Citizens & Property,1
+Ashpeer,Military,1
+Asifabad,Government (General),1
+Assam,Transportation,2
+Atharobolla,Private Citizens & Property,1
+Athgaon,Private Citizens & Property,1
+Atmakur,Business,1
+Aurangabad,Business,1
+Aurangabad,Educational Institution,1
+Aurangabad,Government (General),4
+Aurangabad,Private Citizens & Property,4
+Aurangabad,Telecommunication,4
+Aurangabad,Transportation,5
+Avantipore,Government (General),1
+Avantipura,Military,1
+Avantipura,Private Citizens & Property,1
+Awantipora,Military,1
+Awantipora,Police,3
+Awantipora,Transportation,1
+Ayhtmulla,Government (General),1
+Ayodhya,Religious Figures/Institutions,1
+Azadgunj Chowk,Police,1
+Bachay,Police,1
+Badambagh,Military,1
+Badami Bagh,Military,1
+Badampura,Military,1
+Badaniapara,Utilities,1
+Badarpur,Transportation,1
+Badgom,Police,1
+Badrama Village,Police,1
+Baghber,Private Citizens & Property,1
+Baghmara,Transportation,1
+Bahajan,Government (General),1
+Baira,Transportation,1
+Baksa,NGO,1
+Baksa,Private Citizens & Property,2
+Baksa,Terrorists/Non-State Militia,3
+Baksa,Violent Political Party,1
+Balhama Panzala,Private Citizens & Property,1
+Balipora,Military,1
+Balmakote,Private Citizens & Property,1
+Balrampur,Police,1
+Balrampur,Private Citizens & Property,1
+Balrampur,Telecommunication,1
+Baltal,Private Citizens & Property,1
+Bampu,Military,1
+Bamungopha,Police,1
+Bandipora,Government (General),1
+Bandipora,Military,2
+Bandipora,Police,2
+Bandipora,Private Citizens & Property,1
+Bandipora town,Private Citizens & Property,1
+Bandipore,Government (General),1
+Bandlamudi,Police,1
+Bandwan,Military,1
+Bangalore,Business,3
+Bangalore,Educational Institution,1
+Bangalore,Military,1
+Bangalore,Private Citizens & Property,1
+Bangalore,Transportation,1
+Bangalore,Unknown,3
+Banhihal,Government (General),1
+Banihal,Police,1
+Banihal,Private Citizens & Property,1
+Banihati,Private Citizens & Property,1
+Banipora,Government (General),1
+Banka,Educational Institution,1
+Banka,Private Citizens & Property,1
+Bankura,Government (General),1
+Bankura,Police,1
+Bankura,Private Citizens & Property,1
+Baqubah,Government (General),2
+Baqubah,Military,1
+Baqubah,Unknown,1
+Barama,Private Citizens & Property,1
+Baramula,Government (General),2
+Baramula,Military,1
+Baramula,Police,1
+Baramula,Private Citizens & Property,4
+Baramula District,Private Citizens & Property,1
+Baramulla,Business,1
+Baramulla,Government (General),2
+Baramulla,Military,4
+Baramulla,Private Citizens & Property,4
+Baramulla District,Government (General),2
+Baramulla District,Military,1
+Baramulla District,Police,1
+Baramullah,Military,1
+Barasat,Private Citizens & Property,1
+Bardhaman,Government (General),1
+Bardiha,Military,1
+Barginia,Transportation,1
+Barpeta,Government (General),1
+Barpeta,Private Citizens & Property,4
+Basantgarh,Military,1
+Basantgarh,Private Citizens & Property,1
+Baska,Police,1
+Bastar,Government (General),2
+Bastar,Police,2
+Bastar,Private Citizens & Property,6
+Batamaloo,Business,1
+Batamaloo,Police,1
+Bathian,Government (General),1
+Batmalloo,Transportation,1
+Batmaloo,Police,1
+Batpora,Private Citizens & Property,1
+Batpora,Terrorists/Non-State Militia,1
+Bayyaram,Government (General),1
+Beerwah,Private Citizens & Property,2
+Bela,Private Citizens & Property,2
+Belacoba,Transportation,1
+Belbari,Government (General),1
+Belbari,Private Citizens & Property,1
+Belpahari,Government (General),1
+Belpahari,Violent Political Party,1
+Beltapara,Private Citizens & Property,1
+Beltu,Private Citizens & Property,1
+Bemina,Private Citizens & Property,1
+Bermo,Police,1
+Bhairamgarh,Unknown,1
+Bhairavkunda,Military,1
+Bharwari,Police,1
+Bhatinda,Transportation,1
+Bhojpur,Private Citizens & Property,2
+Bhubaneswar,Government (General),1
+Bhumka Maligaon,Private Citizens & Property,1
+Biajarpur,Private Citizens & Property,1
+Bihar,Police,1
+Bijapur,Government (General),1
+Bijapur,Police,14
+Bijapur,Private Citizens & Property,4
+Bijapur,Terrorists/Non-State Militia,2
+Bijapur,Utilities,1
+Bijapur District,Private Citizens & Property,1
+Bijbehara,Government (General),1
+Bijbehara,Military,1
+Bijbehara,Police,2
+Bijbehara,Private Citizens & Property,1
+Bijbehara,Unknown,1
+Bijbehra,Military,1
+Bijbiara,Government (General),1
+Bijbiara,Private Citizens & Property,1
+Bilai,Business,1
+Bilaspur,Government (General),1
+Binnaguri,Transportation,1
+Bipu,Private Citizens & Property,1
+Birbhum,Private Citizens & Property,1
+Bishenpur,Government (General),7
+Bishenpur,Police,2
+Bishenpur,Private Citizens & Property,2
+Bishenpur,Terrorists/Non-State Militia,1
+Bishenpur,Transportation,1
+Bishnupur,Private Citizens & Property,1
+Bishnupur-Sankuchi village,Private Citizens & Property,1
+Bishram Ganj,Private Citizens & Property,1
+Bismile,Utilities,1
+Boda,Private Citizens & Property,1
+Bodhanam,Government (General),1
+Bogoribari,Private Citizens & Property,1
+Bogribari,Private Citizens & Property,1
+Bogund,Private Citizens & Property,1
+Bokajan,Government (General),1
+Bokaro,Business,1
+Bokaro,Police,1
+Bokaro,Private Citizens & Property,2
+Bokaro Thermal,Police,1
+Boko,Private Citizens & Property,1
+Bokulani,Utilities,1
+Bongaigaon,Business,3
+Bongaigaon,Government (General),1
+Bongaigaon,Military,1
+Bongaigaon,Police,1
+Bongaigaon,Private Citizens & Property,5
+Bongaigaon District,Police,1
+Bonkoot,Private Citizens & Property,1
+Bordumsa,Police,1
+Borhat,Utilities,1
+Borkhola,Military,1
+Borlangpha,Police,1
+Boroholdi,Private Citizens & Property,1
+Bragam,Government (General),1
+Brahmanpalli,Business,1
+Brahmchak,Violent Political Party,1
+Budgam,Government (General),2
+Budgam,Private Citizens & Property,2
+Budgam,Religious Figures/Institutions,1
+Budgam District,Educational Institution,1
+Budgam District,Government (General),1
+Budgam District,Military,1
+Budgam District,Police,1
+Budgam District,Utilities,1
+Bun Doda,Military,1
+Bundagam,Private Citizens & Property,1
+Burdwan,Government (General),1
+Burdwan district,Government (General),1
+Bustar,Police,1
+Butibari,Utilities,1
+Cachar,Business,1
+Chabilapur,Police,1
+Chadhata,Police,1
+Chadisinghpoora,Private Citizens & Property,1
+Chadoura,Military,1
+Chaibasa,Police,1
+Chak Mohd Yar,Private Citizens & Property,1
+Chakka,Private Citizens & Property,1
+Champahaur,Private Citizens & Property,1
+Chandawa,Police,1
+Chandel,Military,3
+Chandil,Police,1
+Chandipur,Business,1
+Chandrathakurpara village,Private Citizens & Property,1
+Changsari,Business,1
+Channapora,Journalists & Media,1
+Chaplingcherra,Military,2
+Charar-i-Sharif,Government (General),1
+Charsing Village,Private Citizens & Property,1
+Charura,Police,1
+Chatra,Business,1
+Chatra,Educational Institution,8
+Chatra,Police,1
+Chatra,Private Citizens & Property,5
+Chatra,Terrorists/Non-State Militia,3
+Chatra,Transportation,1
+Chatroo,Government (General),1
+Chelma,Transportation,1
+Cherli,Private Citizens & Property,1
+Chilkhari,Private Citizens & Property,1
+Chintagudam,Transportation,1
+Chirang,Government (General),1
+Chirang,Private Citizens & Property,2
+Chirji,Private Citizens & Property,1
+Chittavas,Private Citizens & Property,1
+Chukkapur,Telecommunication,1
+Chunti Mohalla,Private Citizens & Property,1
+Churanchandpur,Government (General),2
+Churanchandpur,Private Citizens & Property,1
+Churanchandpur,Terrorists/Non-State Militia,1
+Churchu,Police,1
+Chursoo,Military,1
+Cuddalore,Government (General),1
+Cuddalore,Transportation,1
+Dachepalli Mandal,Government (General),1
+Dadgiri,Private Citizens & Property,1
+Dailongjhar,Private Citizens & Property,1
+Dal Lake,Police,1
+Dalina,Private Citizens & Property,1
+Damanjodi,Business,1
+Damhalhanjipora,Government (General),1
+Damhal-Hanjipora,Government (General),1
+Dangerpora,Government (General),1
+Dangiwachi,Military,2
+Dangu Pir,Military,1
+Dantewada,Business,1
+Dantewada,Educational Institution,1
+Dantewada,Government (General),3
+Dantewada,NGO,1
+Dantewada,Police,11
+Dantewada,Private Citizens & Property,5
+Dantewada,Transportation,2
+Dantewada,Utilities,2
+Dantewada ((District)),Military,1
+Dantewara,Police,1
+Dantewara,Private Citizens & Property,2
+Dantewara,Transportation,1
+Dardpora,Private Citizens & Property,2
+Dardpora,Religious Figures/Institutions,1
+Dardsun Kupwara,Private Citizens & Property,1
+Darhal,Military,1
+Darhar,Military,1
+Darrang,Government (General),1
+Darrang,Police,1
+Dasligaon,Business,1
+Debatangi,Private Citizens & Property,1
+Deewana,Transportation,1
+Deogarh,Private Citizens & Property,1
+Dhamtari,Government (General),1
+Dhamtari,Police,3
+Dhanbad,Food or Water Supply,1
+Dhanbad,Police,3
+Dhanbad,Private Citizens & Property,2
+Dhanbad,Transportation,3
+Dhandbad,Government (General),1
+Dhansirighat,Private Citizens & Property,1
+Dharmari,Private Citizens & Property,1
+Dhekiagula,Private Citizens & Property,1
+Dhekiajuli,Private Citizens & Property,1
+Dhemaji,Business,1
+Dhemaji,Educational Institution,1
+Dhemaji,Government (General),1
+Dhoob,Private Citizens & Property,1
+Dhubri,Business,1
+Dhubri,Educational Institution,1
+Dhubri,Police,2
+Dhubri,Private Citizens & Property,2
+Dhurai Sambrai,Violent Political Party,1
+Dibrugarh,Private Citizens & Property,2
+Dibrugarh,Transportation,1
+Digboi,Private Citizens & Property,1
+Digboi,Utilities,1
+Digdol,Military,1
+Diklam,Private Citizens & Property,1
+Dillai,Police,1
+Dimapur,Business,1
+Dimapur,Government (General),1
+Dimapur,Private Citizens & Property,6
+Dimapur,Terrorists/Non-State Militia,13
+Dimapur,Transportation,1
+Dimapur,Violent Political Party,1
+Dindigul,Violent Political Party,1
+Diphu,Government (General),1
+Diphu,Private Citizens & Property,2
+Diphu,Terrorists/Non-State Militia,1
+Diphu,Transportation,1
+Dispur,Private Citizens & Property,1
+Doda,Business,1
+Doda,Government (General),4
+Doda,Military,3
+Doda,Police,4
+Doda,Private Citizens & Property,10
+Doda,Religious Figures/Institutions,2
+Doda,Transportation,2
+Doda,Unknown,1
+Doda (District),Police,1
+Doda (District),Private Citizens & Property,1
+Doda District,Government (General),1
+Doda District,Military,1
+Doda District,Police,2
+Dodasanpai,Private Citizens & Property,1
+Dodi,Private Citizens & Property,1
+Dohni,Government (General),1
+Dokmoka,Private Citizens & Property,1
+Doldoli,Business,1
+Doodooma,Private Citizens & Property,1
+Doomdooma,Police,1
+Doru,Private Citizens & Property,1
+Drahteng-Prang,Military,1
+Dudansaballa,Private Citizens & Property,1
+Duderhama,Government (General),1
+Duliajan,Utilities,1
+Dumariyan,Violent Political Party,1
+Dumka,Police,1
+Durg,Police,1
+Durga Puja,Private Citizens & Property,1
+Durmunah,Private Citizens & Property,1
+East Champaran,Business,1
+East Champaran,Government (General),1
+East Champaran,Private Citizens & Property,1
+East Godavari,Police,1
+East Godavari,Private Citizens & Property,1
+East singhbhum,Educational Institution,1
+East Singhbhum,Government (General),1
+East singhbhum,Police,2
+East Singhbhum,Private Citizens & Property,1
+Ernakulam,Government (General),1
+Erode,Transportation,1
+Errabore,Government (General),1
+Eturunagaram,Police,1
+Faizabad,Government (General),1
+Fazlabad,Military,1
+Fimnacherra,Private Citizens & Property,1
+Frisal,Military,1
+Frisal Kulgam,Government (General),1
+Frisal Kulgam,Violent Political Party,1
+Frislan,Military,1
+Frislan-Pahalgam,Government (General),1
+Fukkumari,Private Citizens & Property,1
+Gadchiroli,Government (General),9
+Gadchiroli,Police,4
+Gadchiroli,Private Citizens & Property,2
+Gagarsulla,Military,1
+Gaibas,Military,1
+Gaichta-Dudsunbala,Military,1
+Gainad,Police,1
+Gajanur,Private Citizens & Property,1
+Gajapati,Government (General),1
+Gajapati,Police,1
+Gajapati,Transportation,1
+Gambirpur,Government (General),1
+Gandarbal,Private Citizens & Property,1
+Gandhinagar,Religious Figures/Institutions,1
+Gandoh,Private Citizens & Property,2
+Gangalur,Government (General),1
+Gargaon,Government (General),1
+Garoora,Private Citizens & Property,1
+Garwah,Educational Institution,1
+Garwah,Government (General),1
+Garwah,Police,2
+Garwah,Private Citizens & Property,2
+Gathalpadar,Military,1
+Gauripar,Business,1
+Gauripur,Private Citizens & Property,2
+Gaurisagar,Business,1
+Gawahati,Business,1
+Gaya,Business,2
+Gaya,Educational Institution,2
+Gaya,Government (General),7
+Gaya,Police,4
+Gaya,Private Citizens & Property,3
+Gaya,Telecommunication,7
+Gaya,Terrorists/Non-State Militia,2
+Gaya,Transportation,3
+Gaya,Violent Political Party,1
+Gelapukhuri,Private Citizens & Property,1
+Ghanpur,Government (General),1
+Ghat,Government (General),1
+Ghatkesar,Government (General),1
+Ghaziabad,Government (General),1
+Ghaziabad,Transportation,1
+Ghodagaon,Private Citizens & Property,1
+Giridih,Educational Institution,2
+Giridih,Government (General),1
+Giridih,Police,1
+Giridih,Private Citizens & Property,4
+Giridih,Terrorists/Non-State Militia,1
+Giridih,Transportation,3
+Goalpara,Business,2
+Goalpara,Police,1
+Goalpara,Private Citizens & Property,1
+Goalpara,Transportation,1
+Godda,Transportation,1
+Gokulnagar,Government (General),1
+Gokulnagar,Private Citizens & Property,2
+Gomanda,Transportation,1
+Goon Dhar,Private Citizens & Property,1
+Gopalganj,Government (General),1
+Gorakhpur,Private Citizens & Property,1
+Gori,Government (General),1
+Goriwan,Private Citizens & Property,1
+Gossaigaon,Business,1
+Gossaigaon,Transportation,1
+Gounthal,Government (General),1
+Govindpur,Police,1
+Grat Mode,Transportation,1
+Gul,Police,1
+Gulmarg,Tourists,1
+Gumia,Government (General),1
+Gumla,Business,2
+Gumla,Military,1
+Gumla,Private Citizens & Property,4
+Gumla,Terrorists/Non-State Militia,1
+Guntur,Police,1
+Guntur,Religious Figures/Institutions,1
+Gurdan,Military,1
+Guwahati,Business,1
+Guwahati,Government (General),6
+Guwahati,Military,1
+Guwahati,Police,7
+Guwahati,Private Citizens & Property,30
+Guwahati,Transportation,6
+Habba Kadal,Police,1
+Habback,Transportation,1
+Haflong,Private Citizens & Property,4
+Hailakandi,Government (General),1
+Hailakandi,Private Citizens & Property,1
+Hajan Township,Government (General),1
+Hajn,Private Citizens & Property,1
+Hajo,Private Citizens & Property,1
+Halewara,Police,1
+Halfong,Transportation,1
+Hallian,Police,1
+Handawar,Police,1
+Handwara,Educational Institution,1
+Handwara,Government (General),1
+Hangalpawa,Transportation,1
+Hardumadam,Terrorists/Non-State Militia,1
+Hari,Private Citizens & Property,1
+Haribandi,Private Citizens & Property,1
+Hari-Bhudda,Military,1
+Hasker,Private Citizens & Property,1
+Hathikhali,Private Citizens & Property,1
+Hawraghat,Military,1
+Hazaribag,Educational Institution,1
+Hazaribag,Government (General),1
+Hazaribag,Police,2
+Hazaribag,Private Citizens & Property,1
+Hazrapara,Private Citizens & Property,1
+Hiranagar,Transportation,1
+Hiroli,Government (General),1
+Howrah,Private Citizens & Property,3
+Howrah,Violent Political Party,1
+Hubbi,Private Citizens & Property,1
+Hubli,Government (General),1
+Hubli,Religious Figures/Institutions,1
+Hyderabad,Government (General),2
+Hyderabad,Police,1
+Hyderabad,Private Citizens & Property,1
+Hyderabad,Religious Figures/Institutions,2
+Hyderabad,Tourists,1
+Hyderpora,Military,1
+Ichum Lairembi,Police,1
+Imphal,Business,18
+Imphal,Educational Institution,5
+Imphal,Government (General),38
+Imphal,Journalists & Media,5
+Imphal,Military,6
+Imphal,NGO,1
+Imphal,Police,8
+Imphal,Private Citizens & Property,35
+Imphal,Religious Figures/Institutions,1
+Imphal,Telecommunication,1
+Imphal,Transportation,1
+Imphal,Violent Political Party,1
+Imphal West District,Government (General),1
+Indeh,Private Citizens & Property,1
+Indh,Police,1
+Iptagura,Private Citizens & Property,1
+Iqbal Nagar,Police,1
+Isaipet,Telecommunication,1
+Ishber,Military,1
+Itanagar,Government (General),1
+Jagpura,Police,1
+Jagra,Private Citizens & Property,1
+Jaintia,Private Citizens & Property,1
+Jaintia,Religious Figures/Institutions,1
+Jaktial,Government (General),1
+Jalabela,Private Citizens & Property,1
+Jalandhar,Religious Figures/Institutions,1
+Jalna,Unknown,1
+Jalpaiguri,Educational Institution,1
+Jalpaiguri,Private Citizens & Property,3
+Jamalsan,Private Citizens & Property,1
+Jammu,Government (General),3
+Jammu,Military,4
+Jammu,Police,4
+Jammu,Private Citizens & Property,9
+Jammu,Religious Figures/Institutions,3
+Jammu,Transportation,4
+Jammu,Utilities,1
+Jampui,Government (General),1
+Jampuijala,Government (General),1
+Jamsalan,Private Citizens & Property,1
+Jamshedpur,Private Citizens & Property,1
+Jamslam,Military,1
+Jamui,Business,1
+Jamui,Educational Institution,1
+Jamui,Government (General),1
+Jamui,Police,2
+Jamui,Private Citizens & Property,1
+Jamui,Transportation,3
+Janbazpora,Educational Institution,1
+Jaunpur,Transportation,1
+Jehanabad,Business,1
+Jehanabad,Private Citizens & Property,1
+Jirania,Private Citizens & Property,1
+Jirania,Religious Figures/Institutions,1
+Jobat,Religious Figures/Institutions,1
+Jonai,Police,1
+Jorhat,Terrorists/Non-State Militia,1
+Jullundur,Transportation,1
+Kachnara,Military,1
+Kachumuqam,Government (General),1
+Kagajnagar,Police,1
+Kahleel,Police,1
+Kailasahar Subdivision,Private Citizens & Property,1
+Kakogam,Private Citizens & Property,1
+Kakotibari,Utilities,1
+Kalaroos,Private Citizens & Property,1
+Kalimela,Police,1
+Kalimpong,Private Citizens & Property,1
+Kaller-Katal,Private Citizens & Property,1
+Kaloosa,Educational Institution,1
+Kaluchak,Military,1
+Kamakhya-Guri,Transportation,1
+Kamareddy,Government (General),1
+Kamrup,Police,1
+Kamrup,Private Citizens & Property,4
+Kamrup,Transportation,2
+Kamrup,Utilities,1
+Kanchanpur,Military,1
+Kanchkir village,Police,2
+Kandhamal,Other,3
+Kandhamal,Police,2
+Kandhamal,Private Citizens & Property,4
+Kandhamal,Religious Figures/Institutions,1
+Kandi,Government (General),1
+Kangan,Government (General),1
+Kangan,Police,1
+Kangan,Private Citizens & Property,1
+Kanihama,Private Citizens & Property,1
+Kanker,Government (General),2
+Kanker,Police,5
+Kanker,Private Citizens & Property,2
+Kanker,Telecommunication,1
+Kannur,Violent Political Party,2
+Kantakobrapara,Military,1
+Kanthol,Private Citizens & Property,1
+Kanthpora Sogam,Military,1
+Karachi,Transportation,1
+Karampeda,Transportation,1
+Karan Nagar,Police,1
+Karbi Anglong,Government (General),5
+Karbi Anglong,Police,1
+Karbi Anglong,Private Citizens & Property,8
+Karbi Anglong,Religious Figures/Institutions,1
+Karbi Anglong,Terrorists/Non-State Militia,2
+Karbi Anglong,Transportation,4
+Karbi Anglong,Unknown,2
+Karimnagar,Police,1
+Karimnagar,Terrorists/Non-State Militia,1
+Karimnagar,Transportation,1
+Karnal District,Government (General),1
+Karpi,Private Citizens & Property,1
+Kashmir,Military,1
+Kashmir,Police,3
+Kashmir,Private Citizens & Property,2
+Kathalguri,Utilities,1
+Kathua,Police,2
+Kathua (District),Military,1
+Katra,Private Citizens & Property,1
+Keonjhar,NGO,2
+Keonjhar,Police,1
+Keonjhar,Private Citizens & Property,3
+Keshpur,Government (General),1
+Keshwan Kishtwar,Government (General),1
+Khagaria,Private Citizens & Property,1
+Khammam,Private Citizens & Property,3
+Khannabal,Military,1
+Kharagpur,Police,1
+Kharout,Private Citizens & Property,1
+Khejuri,Violent Political Party,1
+Kheora,Religious Figures/Institutions,1
+Khiram,Private Citizens & Property,1
+Khoiphuta,Private Citizens & Property,1
+Khowja,Government (General),1
+Khrew,Government (General),1
+Khrew,Police,1
+Khudwani,Military,1
+Khudwani Puhroo,Government (General),1
+Khunti,Police,5
+Khunti,Private Citizens & Property,2
+Kishtwar,Private Citizens & Property,6
+Kishtwar,Terrorists/Non-State Militia,1
+Kohima,Private Citizens & Property,1
+Kohima,Terrorists/Non-State Militia,5
+Kokernag,Government (General),1
+Kokernag,Military,1
+Kokrajhar,Business,2
+Kokrajhar,Government (General),1
+Kokrajhar,Journalists & Media,1
+Kokrajhar,Police,1
+Kokrajhar,Private Citizens & Property,5
+Kokrajhar,Terrorists/Non-State Militia,3
+Kokrajhar,Violent Political Party,1
+Kokrajhar District,Private Citizens & Property,1
+Kokrajhar district,Terrorists/Non-State Militia,1
+Kolkata,Educational Institution,1
+Konibal,Government (General),1
+Koram,Government (General),1
+Koraput,Government (General),2
+Koraput,Police,4
+Koraput,Private Citizens & Property,3
+Koraput,Telecommunication,3
+Kot Budhan,Private Citizens & Property,1
+Kotalpakur,Transportation,1
+Kotdhara,Private Citizens & Property,1
+Kothur,Government (General),1
+Kotranaka,Private Citizens & Property,1
+Kotrapal,Private Citizens & Property,1
+Krishnaghati,Government (General),1
+Krusan-Lalpora,Police,1
+Kud,Military,1
+Kudhar Naka Bunjwah,Government (General),1
+Kudur,Police,1
+Kulangam,Police,1
+Kulgam,Government (General),1
+Kulgam,Military,2
+Kulgam,Police,1
+Kulgam,Private Citizens & Property,3
+Kulgam,Transportation,2
+Kulgam,Violent Political Party,1
+Kuligaon,Private Citizens & Property,1
+Kulipora,Government (General),1
+Kumarpara,Religious Figures/Institutions,1
+Kumrighata,Private Citizens & Property,1
+Kundlakunta,Government (General),1
+Kuntwar,Private Citizens & Property,1
+Kunwarpur,Utilities,1
+Kunzar-Tangmarg,Government (General),1
+Kunzer,Government (General),1
+Kupwara,Government (General),2
+Kupwara,Military,5
+Kupwara,Police,3
+Kupwara,Private Citizens & Property,3
+Kupwara,Transportation,1
+Kupwara (District),Military,1
+Kupwara District,Government (General),2
+Kupwara district,Private Citizens & Property,1
+Kwakta Awang Leikal,Private Citizens & Property,1
+Ladakh,Other,1
+Ladakh,Religious Figures/Institutions,1
+Lakhimpur,Private Citizens & Property,1
+Lakhimpur District,Private Citizens & Property,1
+Lakhinagar,Transportation,1
+Lakhisarai,Police,1
+Lal Chowk,Government (General),1
+Lalchowk,Business,1
+Lalgarh,Business,1
+Lalgarh,Government (General),4
+Lalgarh,Police,6
+Lalgarh,Violent Political Party,3
+Lalpora,Private Citizens & Property,1
+Lalpura,Police,1
+Langting Hathikhali,Police,1
+Lapri,Military,1
+Larnu,Government (General),1
+Lasana,Police,1
+Lasana,Private Citizens & Property,1
+Lasjan,Police,1
+Lassana,Private Citizens & Property,1
+Latehar,Business,1
+Latehar,Educational Institution,2
+Latehar,Government (General),2
+Latehar,Military,1
+Latehar,Police,5
+Latehar,Private Citizens & Property,5
+Latehar,Telecommunication,1
+Latehar,Terrorists/Non-State Militia,1
+Latehar,Transportation,2
+Latina,Government (General),1
+Laxmipur,Private Citizens & Property,1
+Laxmipur Diara,Private Citizens & Property,1
+Lazbal,Private Citizens & Property,1
+Lengdenpokse,Private Citizens & Property,1
+Lohardaga,Educational Institution,1
+Lohardaga,Government (General),1
+Lokchao,Military,1
+Lolab,Police,1
+Longlai Hasnu,Government (General),1
+Lower Mata,Private Citizens & Property,1
+Lucknow,Government (General),2
+Luddar,Private Citizens & Property,1
+Ludhiana,Business,1
+Ludhiana,Transportation,1
+Lurgam,Private Citizens & Property,1
+Machilipatnam,Religious Figures/Institutions,1
+Madhepura,Government (General),1
+Madhopur,Private Citizens & Property,1
+Madimalla,Violent Political Party,1
+Magam,Business,1
+Magam,Government (General),1
+Magam,Military,1
+Magam,Transportation,1
+Mahadev,Police,1
+Maheshpur,Private Citizens & Property,1
+Mahmara,Utilities,1
+Mahore Tehsil,Private Citizens & Property,1
+Mahur,Private Citizens & Property,1
+Maibong,Private Citizens & Property,1
+Majra Bambal,Private Citizens & Property,1
+Majuli Bargora,Police,1
+Makri Jhoda,Private Citizens & Property,1
+Makum,Business,1
+Malachamlan,Private Citizens & Property,1
+Maladhara,Police,1
+Malegaon,Business,1
+Malegaon,Private Citizens & Property,1
+Malikpora,Private Citizens & Property,1
+Malkangiri,Business,5
+Malkangiri,Government (General),5
+Malkangiri,Police,7
+Malkangiri,Private Citizens & Property,12
+Malkangiri,Telecommunication,7
+Malkangiri,Transportation,1
+Malkangiri,Utilities,1
+Malwani,Private Citizens & Property,1
+Manasbal,Military,1
+Manda,Military,1
+Mandai,Violent Political Party,1
+Mandipore,Government (General),1
+Mangaldai,Terrorists/Non-State Militia,1
+Manikonta,Private Citizens & Property,1
+Manipore,Government (General),1
+Manipur,Military,2
+Maniwaz-Kakipora,Private Citizens & Property,1
+Manja,Private Citizens & Property,1
+Manjakot,Military,1
+Manjapu,Police,1
+Manu,Private Citizens & Property,1
+Maphou,NGO,1
+Margao,Private Citizens & Property,1
+Marrdmalli,Police,1
+Masiri,Private Citizens & Property,1
+Matan,Educational Institution,1
+Matribugh,Military,1
+Mattan,Government (General),1
+Matu,Police,1
+Mayurbhanj,Government (General),2
+Mayurbhanj,Police,1
+Mayurbhanj,Private Citizens & Property,1
+Mayurbhanj,Violent Political Party,1
+Mazhama,Private Citizens & Property,1
+Medinipur,Government (General),5
+Midnapore,Business,2
+Midnapore,Government (General),22
+Midnapore,Police,9
+Midnapore,Private Citizens & Property,20
+Midnapore,Terrorists/Non-State Militia,2
+Midnapore,Transportation,2
+Midnapore,Violent Political Party,9
+Mirhama,Government (General),1
+Mirjapur,Terrorists/Non-State Militia,1
+Modasa,Private Citizens & Property,1
+Mohmangad,Private Citizens & Property,1
+Mohorcherra,Private Citizens & Property,1
+Moirangpural,Military,1
+Mola,Police,1
+More Bachia,Private Citizens & Property,1
+Moreh,Business,1
+Moreh,Government (General),1
+Moreh,Military,1
+Moreh,Private Citizens & Property,1
+Motihari,Government (General),1
+Motu,Police,1
+Mukinda,Transportation,1
+Muktapur,Police,1
+Mumbai,Airports & Aircraft,1
+Mumbai,Business,3
+Mumbai,Police,2
+Mumbai,Private Citizens & Property,3
+Mumbai,Religious Figures/Institutions,3
+Mumbai,Transportation,6
+Munger,Business,2
+Munger,Government (General),1
+Munger,Police,1
+Munger,Private Citizens & Property,2
+Munger,Transportation,3
+Munger Division,Police,1
+Mupa,Transportation,1
+Murkongselek,Police,1
+Murshidabad,Government (General),2
+Murshidabad,Private Citizens & Property,1
+Muzaffarabad,Religious Figures/Institutions,1
+Muzaffarnagar,Religious Figures/Institutions,1
+Muzaffarpur,Government (General),1
+Muzaffarpur,Police,1
+Muzaffarpur,Religious Figures/Institutions,1
+Nachala,Private Citizens & Property,1
+Nadda,Transportation,1
+Nadi Marg,Private Citizens & Property,1
+Nadia,Government (General),1
+Nagaon,Business,1
+Nagaon,Police,1
+Nagaon,Private Citizens & Property,1
+Nagaon,Transportation,1
+Nagma,Government (General),1
+Nagpur,Religious Figures/Institutions,1
+Nagshereen,Government (General),1
+Naholia,Private Citizens & Property,1
+Nalbari,Business,1
+Nalbari,Police,1
+Nalbari,Private Citizens & Property,1
+Nalbari,Transportation,2
+Nalgonda,Police,1
+Nalifapara,Business,1
+Nallalalam,Religious Figures/Institutions,1
+Nandigram,Terrorists/Non-State Militia,1
+Nandiyal,Private Citizens & Property,1
+Narayanpur,Government (General),1
+Narayanpur,Police,3
+Narayanpur,Private Citizens & Property,1
+Narayanpur,Utilities,1
+Narengi,Utilities,3
+Narkopi,Private Citizens & Property,1
+Naseem Bagh,Military,1
+Nashla,Private Citizens & Property,1
+Nasrullahpora,Private Citizens & Property,1
+Nasu,Military,1
+Naudal,Transportation,1
+Nawada,Government (General),1
+Nawada,Transportation,1
+Nayagarh District,Police,1
+Neel,Private Citizens & Property,1
+Nemallipuri,Police,1
+Nepal Tilla,Private Citizens & Property,1
+New Dehli,Private Citizens & Property,2
+New Dehli,Transportation,1
+New Delhi,Business,4
+New Delhi,Government (General),3
+New Delhi,Military,2
+New Delhi,Police,2
+New Delhi,Private Citizens & Property,14
+New Delhi,Religious Figures/Institutions,1
+New Delhi,Terrorists/Non-State Militia,1
+New Delhi,Transportation,3
+New Heaven,Military,1
+Nirala Kalkot,Private Citizens & Property,1
+Nongdam Tangkhul,Private Citizens & Property,1
+Nooranad,Religious Figures/Institutions,1
+Noorbagh,Private Citizens & Property,1
+North Cachar District,Transportation,1
+North Cachar Hills,Business,4
+North Cachar Hills,Educational Institution,1
+North Cachar Hills,Government (General),2
+North Cachar Hills,Military,3
+North Cachar Hills,Police,3
+North Cachar Hills,Private Citizens & Property,15
+North Cachar Hills,Terrorists/Non-State Militia,1
+North Cachar Hills,Transportation,12
+North Cachar Hills District,Transportation,1
+North Tripura,Private Citizens & Property,1
+Nowgam,Military,1
+Nowshera,Private Citizens & Property,1
+Odsa,Private Citizens & Property,1
+Ogaad,Police,1
+Old Baramulla,Private Citizens & Property,1
+Ongole,Police,1
+Ongole,Religious Figures/Institutions,1
+Paarl,Private Citizens & Property,1
+Pahalgam,Private Citizens & Property,3
+Pahalgam,Tourists,1
+Paharpur,Private Citizens & Property,1
+Pahlgam,Transportation,1
+Pahloo,Private Citizens & Property,1
+Pakharpora,Police,1
+Palamau,Business,1
+Palamau,Educational Institution,2
+Palamau,Government (General),3
+Palamau,Police,3
+Palamau,Private Citizens & Property,4
+Palamau,Telecommunication,2
+Palamau,Terrorists/Non-State Militia,2
+Palamau,Transportation,2
+Palhalan,Government (General),1
+Palpora,Police,1
+Pampore,Government (General),1
+Pampore,Police,2
+Pamrod,Private Citizens & Property,1
+Panar,Private Citizens & Property,1
+Panbazar,Police,1
+Panzan,Private Citizens & Property,1
+Paraiya,Police,1
+Parmot,Government (General),1
+Patamda,Government (General),1
+Patan,Government (General),2
+Patan,Military,1
+Patan,Private Citizens & Property,1
+Pathan Mohalla,Government (General),1
+Pathankot,Military,1
+Pathie,Private Citizens & Property,1
+Patna,Private Citizens & Property,1
+Patrada,Private Citizens & Property,1
+Pattan,Government (General),1
+Pattapani,Private Citizens & Property,1
+Patton,Police,1
+Peda Vadlapadu,Business,1
+Peddaktnta,Business,1
+Peddaktnta,Private Citizens & Property,1
+Phek,Military,1
+Phek,Private Citizens & Property,1
+Pileru,Business,1
+Pipra,Transportation,1
+Pondugula,Transportation,1
+Poonch,Business,1
+Poonch,Military,2
+Poonch,Police,2
+Poonch,Private Citizens & Property,7
+Poonch District,Private Citizens & Property,2
+Porbandar,Maritime,1
+Poteru,Government (General),1
+Prechu,Government (General),1
+Puhroo,Police,1
+Pulwama,Educational Institution,2
+Pulwama,Government (General),5
+Pulwama,Military,2
+Pulwama,Police,6
+Pulwama,Private Citizens & Property,4
+Pulwama ((District)),Private Citizens & Property,2
+Pulwama (District),Government (General),1
+Pulwama (District),Police,1
+Pulwama (District),Private Citizens & Property,2
+Pulwama District,Private Citizens & Property,1
+Punch,Transportation,1
+Punch District,Police,1
+Purilia district,Private Citizens & Property,1
+Purna,Religious Figures/Institutions,1
+Puruliya,Business,1
+Puruliya,Government (General),4
+Puruliya,Police,1
+Puruliya,Private Citizens & Property,3
+Puruliya,Transportation,2
+Puruliya,Violent Political Party,1
+Qazigund,Military,1
+Qazigund,Private Citizens & Property,2
+Qazigund,Transportation,1
+Rafiabad,Military,1
+Rai Sehot,Business,1
+Raibaga,Private Citizens & Property,1
+Raipur,Police,1
+Raj Nandgaon,Government (General),2
+Raj Nandgaon,Police,3
+Raj Nandgaon,Private Citizens & Property,1
+Rajauri,Business,1
+Rajauri,Private Citizens & Property,5
+Rajauri,Terrorists/Non-State Militia,1
+Rajauri,Transportation,1
+Rajouri,Business,2
+Rajouri,Government (General),1
+Rajouri,Military,2
+Rajouri,Private Citizens & Property,4
+Rajouri,Transportation,1
+Rajouri (District),Military,1
+Rajouri (District),Private Citizens & Property,1
+Rajuri,Private Citizens & Property,1
+Raksamgiri,Private Citizens & Property,1
+Ramanathapuram,Government (General),1
+Ramanthapur,Business,1
+Ramban,Private Citizens & Property,2
+Ramban,Unknown,1
+Rambhadrapur,Transportation,1
+Ramgaon,Private Citizens & Property,1
+Ramgarh,Private Citizens & Property,1
+Rampur,Police,1
+Ramsu,Military,1
+Ramsu,Police,1
+Ranchi,Police,3
+Ranchi,Private Citizens & Property,6
+Ranchi,Transportation,3
+Ranchi,Violent Political Party,1
+Rangiya,Transportation,1
+Rangjuli,Business,1
+Rani Bodli,Police,1
+Ransoo-Naushehra,Private Citizens & Property,1
+Rathinjaihalampara,Private Citizens & Property,1
+Ratnal,Military,1
+Rauzabad,Transportation,1
+Rayagada,Private Citizens & Property,2
+Reasi,Police,1
+Reasi,Private Citizens & Property,3
+Reasi,Unknown,1
+Rishikesh,Transportation,1
+Rohtas,Business,1
+Rohtas,Military,1
+Rohtas,Private Citizens & Property,2
+Rongkuri,Private Citizens & Property,1
+Rongsal,Private Citizens & Property,1
+Rosera,Violent Political Party,1
+Sadiya,Police,1
+Sadiya,Private Citizens & Property,1
+Sadwan,Police,1
+Sagolia,Private Citizens & Property,1
+Sagolmang,Military,1
+Saikul Village,Private Citizens & Property,1
+Sailya,Private Citizens & Property,1
+Sajjar,Private Citizens & Property,1
+Sajroo,Private Citizens & Property,1
+Salbani,Violent Political Party,1
+Salboni,Police,1
+Salohi,Private Citizens & Property,1
+Saluru,Police,1
+Sam Samit,Private Citizens & Property,1
+Samalangsu,Government (General),1
+Samastipur,Government (General),1
+Sambalpur,Police,2
+Sambalpur district,Government (General),1
+Sangaldan,Police,1
+Sangam,Police,1
+Sanglow,Private Citizens & Property,1
+Sangrama,Military,1
+Sangrama,Religious Figures/Institutions,1
+Santarampada,Military,1
+Saraipul,Government (General),1
+Saran,Transportation,1
+Sarju,Government (General),1
+Sarwan,Private Citizens & Property,1
+Sashisangmapara,Private Citizens & Property,1
+Satgaon,Government (General),1
+Satgaon,Private Citizens & Property,1
+Satgharwa,Private Citizens & Property,1
+Satnaur,Transportation,1
+Senapati,Private Citizens & Property,1
+Senapati,Terrorists/Non-State Militia,2
+Senthur,Private Citizens & Property,1
+Seraikela-Kharsawan,Educational Institution,1
+Serapathar,Private Citizens & Property,1
+Seri,Government (General),1
+Shams-ud-din Khan,Private Citizens & Property,1
+Sheendara,Police,1
+Sheeri,Police,1
+Sheikhpora,Government (General),1
+Sheohar,Police,1
+Sheohar,Private Citizens & Property,1
+Sheohar,Telecommunication,1
+Sher Bagh,Police,1
+Sherbibi,Government (General),1
+Sheshnag,Private Citizens & Property,1
+Shopian,Government (General),1
+Shopian,Military,5
+Shopian,Police,2
+Shopian,Private Citizens & Property,2
+Shopian,Religious Figures/Institutions,1
+Shopian,Transportation,1
+Shopiyan,Police,1
+Shopiyan,Private Citizens & Property,1
+Shrotidar,Private Citizens & Property,1
+Shupiyan,Religious Figures/Institutions,1
+Sibasagar,Transportation,1
+Siliguri,Business,1
+Simdega,Business,1
+Simdega,Government (General),1
+Simdega,Transportation,1
+Simuluguri,Private Citizens & Property,1
+Sindhukumar,Transportation,1
+Singhpora,Transportation,1
+Singicherra,Private Citizens & Property,1
+Singjamei,Private Citizens & Property,1
+Singjamei,Transportation,1
+Sirgwari-Keshewan,Private Citizens & Property,1
+Sitamarhi,Transportation,1
+Sivasagar,Police,1
+Sivasagar,Private Citizens & Property,1
+Sodal,Government (General),1
+Sogam,Private Citizens & Property,1
+Soibugh,Police,1
+Sonapah,Government (General),1
+Sonapur,Business,1
+Sonapur,Private Citizens & Property,2
+Sonari,Business,1
+Sonari,Police,2
+Sonari,Private Citizens & Property,1
+Sonari,Utilities,1
+Sonebhadra,Private Citizens & Property,1
+Songsak,Police,1
+Sonitpor,Military,1
+Sonitpor,Private Citizens & Property,4
+Sonmarg,Educational Institution,1
+Sophian,Military,1
+Sopor,Educational Institution,1
+Sopor,Police,1
+Sopor,Private Citizens & Property,1
+Sopore,Government (General),4
+Sopore,Military,4
+Sopore,Police,4
+Sopore,Private Citizens & Property,1
+Sopore,Telecommunication,1
+Sorbung,Private Citizens & Property,1
+Srigeri Pado,Police,1
+Srinagar,Airports & Aircraft,1
+Srinagar,Business,3
+Srinagar,Educational Institution,3
+Srinagar,Government (General),34
+Srinagar,Journalists & Media,7
+Srinagar,Military,35
+Srinagar,Police,52
+Srinagar,Private Citizens & Property,33
+Srinagar,Religious Figures/Institutions,1
+Srinagar,Telecommunication,2
+Srinagar,Tourists,8
+Srinagar,Transportation,5
+Srinagar,Unknown,1
+Srinagar and Baramula,Police,1
+Srinigar,Military,1
+Srinigar,Police,4
+Srirampur checkgate,Private Citizens & Property,1
+Sugnu,Religious Figures/Institutions,1
+Suknachara,Private Citizens & Property,1
+Sukrungbari,Private Citizens & Property,1
+Sumbal,Government (General),1
+Sumbal,Military,1
+Sumblar,Private Citizens & Property,1
+Sundargarh,Government (General),2
+Sundargarh,Police,3
+Sundargarh,Private Citizens & Property,3
+Sundargarh,Transportation,4
+Sundervani,Military,1
+Sunsali,Private Citizens & Property,1
+Surankode,Religious Figures/Institutions,1
+Surankot,Military,1
+Surankote,Police,1
+Surankote,Private Citizens & Property,1
+Surat,Business,5
+Surat,Police,4
+Surat,Private Citizens & Property,18
+Surat,Transportation,1
+Surguja,Police,1
+Surigam,Private Citizens & Property,1
+Swat Valley,Police,1
+T Minou,Military,1
+Tadepalliguden,Religious Figures/Institutions,1
+Tahab,Religious Figures/Institutions,1
+Takia Hail Jageer,Private Citizens & Property,1
+Tamenglong,Business,1
+Tamenglong,Government (General),1
+Tamenglong,Violent Political Party,1
+Tamparsingha,Private Citizens & Property,1
+Tanda,Military,1
+Tangla,Private Citizens & Property,1
+Tangmarg,Private Citizens & Property,2
+Tarahati Kalinzar,Tourists,1
+Tarakunda,Police,1
+Tarigam,Violent Political Party,1
+Tarkhan Majra,Private Citizens & Property,1
+Tarzoo,Private Citizens & Property,1
+Tata Draman area,Police,1
+Tehsil Chowk,Private Citizens & Property,1
+Telerai,Government (General),1
+Tengtha,Private Citizens & Property,1
+Tezpur,Business,1
+Thalubigha,Private Citizens & Property,1
+Thanabulhalampara,Private Citizens & Property,1
+Thanamandi,Military,1
+Thanamandi,Private Citizens & Property,2
+Thane,Business,1
+Thanna Mand,Military,1
+Thanna Mandi,Police,1
+Thingkhangpi,Government (General),1
+Thothapara,Private Citizens & Property,1
+Thoubal,Business,1
+Thoubal,Educational Institution,1
+Thoubal,Government (General),2
+Thoubal,Private Citizens & Property,3
+Thoubal,Terrorists/Non-State Militia,2
+Thoubal,Transportation,1
+Thoubal district,Private Citizens & Property,1
+Tihu,Transportation,1
+Tinsukia,Business,2
+Tinsukia,Military,1
+Tinsukia,Private Citizens & Property,6
+Tinsukia,Terrorists/Non-State Militia,1
+Tirap,Unknown,1
+Tirupati,Government (General),1
+Todi-Poonch,Private Citizens & Property,1
+Tral,Government (General),1
+Tral,Military,2
+Trimbli,Private Citizens & Property,1
+Tripura,Utilities,1
+Trivandrum,Religious Figures/Institutions,1
+Tuinem,Police,1
+Tumalacheruvu,Transportation,1
+Tumkur,Transportation,1
+Udaipur,Violent Political Party,1
+Udalguri,Business,3
+Udalguri,Private Citizens & Property,5
+Udalguri,Violent Political Party,1
+Udhampur,Military,2
+Udhampur,Police,2
+Udhampur,Private Citizens & Property,2
+Udhampur (district),Private Citizens & Property,3
+Udhampur District,Military,1
+Udhan Phera,Private Citizens & Property,1
+Ujjain,Religious Figures/Institutions,1
+Ukhrul,Government (General),2
+Ukhrul,Military,2
+Ukhrul,Private Citizens & Property,1
+Ukhrul,Unknown,1
+Umrangso,Private Citizens & Property,1
+Unkknown,Government (General),1
+Unknown,Business,5
+Unknown,Educational Institution,2
+Unknown,Government (General),20
+Unknown,Journalists & Media,1
+Unknown,Military,8
+Unknown,Other,1
+Unknown,Police,29
+Unknown,Private Citizens & Property,26
+Unknown,Telecommunication,1
+Unknown,Terrorists/Non-State Militia,1
+Unknown,Transportation,20
+Unknown,Unknown,2
+Unknown,Utilities,15
+Unknown,Violent Political Party,2
+Uri,Government (General),1
+Utrosou,Police,1
+Vadodara (baroda),Educational Institution,1
+Vaishali,Private Citizens & Property,1
+Vaishali,Telecommunication,1
+Varanasi,Government (General),1
+Varanasi,Religious Figures/Institutions,1
+Vasco,Religious Figures/Institutions,1
+Veelu,Military,1
+Vidyanagar,Government (General),1
+Visakhapatnam,Private Citizens & Property,2
+Vishakhapatnam,Business,1
+Vishakhapatnam,Government (General),1
+Vizianagaram,Business,1
+Wadi,Religious Figures/Institutions,1
+Wadwal,Military,1
+Wagad,Military,1
+Wanabal,Government (General),1
+Wangjing,Government (General),1
+Wangoi,Government (General),1
+Wangoi,Private Citizens & Property,1
+Warangal,Educational Institution,1
+Warangal,Government (General),3
+Warangal,Violent Political Party,1
+Waripora Tangmarg,Military,1
+Watalpora,Government (General),1
+Wawoora,Police,1
+Waywand,Government (General),1
+Wazirbagh locality,Police,1
+West Singhbhum,Business,1
+West Singhbhum,Police,1
+West Singhbhum,Transportation,3
+West Tripura,Police,1
+West Tripura,Private Citizens & Property,1
+Wokha,Private Citizens & Property,1
+Woodsa,Military,1
+Yairipok,Business,1
+Yairipok,Private Citizens & Property,1
+Yelahanka,Business,1
+Zainakote,Military,1

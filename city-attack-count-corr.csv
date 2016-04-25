@@ -1,0 +1,1190 @@
+source,target,weight
+Unkown,Armed Assault,15
+Unkown,Assassination,1
+Unkown,Bombing/Explosion,9
+Unkown,Facility/Infrastructure Attack,3
+Unkown,Hijacking,1
+Unkown,Hostage Taking (Kidnapping),3
+Unkown,Unknown,3
+Abhapalli,Armed Assault,1
+Abhayapuri,Bombing/Explosion,1
+Achabal,Bombing/Explosion,1
+Agartala,Armed Assault,2
+Agartala,Assassination,1
+Agartala,Bombing/Explosion,5
+Agartala,Hostage Taking (Kidnapping),1
+Ahem Sharief,Assassination,1
+Ahilya Ghat,Bombing/Explosion,1
+Ahmedabad,Armed Assault,1
+Ahmedabad,Bombing/Explosion,7
+Aishmuqam,Hostage Taking (Kidnapping),1
+Ajamnagar,Bombing/Explosion,1
+Ajas,Armed Assault,1
+Ajmer,Bombing/Explosion,1
+Alipur Duar,Armed Assault,1
+Allahabad,Armed Assault,1
+Ampara,Bombing/Explosion,1
+Amritsar,Bombing/Explosion,2
+Amroh,Hostage Taking (Kidnapping),1
+Anand,Bombing/Explosion,1
+Anantnag,Armed Assault,3
+Anantnag,Assassination,2
+Anantnag,Bombing/Explosion,20
+Anantnag (District),Armed Assault,3
+Anantnag District,Assassination,1
+Anantnang (District),Armed Assault,1
+Anchidora,Bombing/Explosion,1
+Angarala,Bombing/Explosion,1
+Angul District,Armed Assault,1
+Arigam,Armed Assault,1
+Arwal,Armed Assault,1
+Arwal,Bombing/Explosion,1
+Arwani,Bombing/Explosion,1
+Asansol,Armed Assault,1
+Asansol,Bombing/Explosion,1
+Asarfi,Armed Assault,1
+Ashmuqam,Armed Assault,1
+Ashmuqam,Bombing/Explosion,1
+Ashoknagar,Armed Assault,1
+Ashpeer,Bombing/Explosion,1
+Asifabad,Bombing/Explosion,1
+Assam,Bombing/Explosion,2
+Atharobolla,Hostage Taking (Kidnapping),1
+Athgaon,Bombing/Explosion,1
+Atmakur,Bombing/Explosion,1
+Aurangabad,Armed Assault,3
+Aurangabad,Assassination,1
+Aurangabad,Bombing/Explosion,13
+Aurangabad,Facility/Infrastructure Attack,2
+Avantipore,Bombing/Explosion,1
+Avantipura,Bombing/Explosion,2
+Awantipora,Armed Assault,2
+Awantipora,Bombing/Explosion,3
+Ayhtmulla,Hostage Taking (Kidnapping),1
+Ayodhya,Facility/Infrastructure Attack,1
+Azadgunj Chowk,Bombing/Explosion,1
+Bachay,Armed Assault,1
+Badambagh,Bombing/Explosion,1
+Badami Bagh,Bombing/Explosion,1
+Badampura,Armed Assault,1
+Badaniapara,Armed Assault,1
+Badarpur,Facility/Infrastructure Attack,1
+Badgom,Bombing/Explosion,1
+Badrama Village,Armed Assault,1
+Baghber,Armed Assault,1
+Baghmara,Bombing/Explosion,1
+Bahajan,Bombing/Explosion,1
+Baira,Bombing/Explosion,1
+Baksa,Armed Assault,7
+Balhama Panzala,Armed Assault,1
+Balipora,Armed Assault,1
+Balmakote,Armed Assault,1
+Balrampur,Armed Assault,1
+Balrampur,Facility/Infrastructure Attack,1
+Balrampur,Unknown,1
+Baltal,Bombing/Explosion,1
+Bampu,Armed Assault,1
+Bamungopha,Bombing/Explosion,1
+Bandipora,Armed Assault,3
+Bandipora,Assassination,1
+Bandipora,Bombing/Explosion,2
+Bandipora town,Bombing/Explosion,1
+Bandipore,Bombing/Explosion,1
+Bandlamudi,Bombing/Explosion,1
+Bandwan,Bombing/Explosion,1
+Bangalore,Armed Assault,1
+Bangalore,Bombing/Explosion,9
+Banhihal,Armed Assault,1
+Banihal,Armed Assault,1
+Banihal,Bombing/Explosion,1
+Banihati,Armed Assault,1
+Banipora,Bombing/Explosion,1
+Banka,Armed Assault,1
+Banka,Bombing/Explosion,1
+Bankura,Armed Assault,1
+Bankura,Assassination,1
+Bankura,Unknown,1
+Baqubah,Armed Assault,1
+Baqubah,Assassination,1
+Baqubah,Bombing/Explosion,2
+Barama,Armed Assault,1
+Baramula,Assassination,2
+Baramula,Bombing/Explosion,5
+Baramula,Hostage Taking (Kidnapping),1
+Baramula District,Armed Assault,1
+Baramulla,Armed Assault,1
+Baramulla,Assassination,2
+Baramulla,Bombing/Explosion,8
+Baramulla District,Armed Assault,3
+Baramulla District,Assassination,1
+Baramullah,Armed Assault,1
+Barasat,Unknown,1
+Bardhaman,Bombing/Explosion,1
+Bardiha,Bombing/Explosion,1
+Barginia,Facility/Infrastructure Attack,1
+Barpeta,Armed Assault,2
+Barpeta,Bombing/Explosion,3
+Basantgarh,Armed Assault,2
+Baska,Armed Assault,1
+Bastar,Armed Assault,6
+Bastar,Assassination,1
+Bastar,Bombing/Explosion,1
+Bastar,Hostage Taking (Kidnapping),1
+Bastar,Unknown,1
+Batamaloo,Armed Assault,1
+Batamaloo,Bombing/Explosion,1
+Bathian,Armed Assault,1
+Batmalloo,Bombing/Explosion,1
+Batmaloo,Armed Assault,1
+Batpora,Bombing/Explosion,2
+Bayyaram,Assassination,1
+Beerwah,Armed Assault,1
+Beerwah,Bombing/Explosion,1
+Bela,Armed Assault,1
+Bela,Bombing/Explosion,1
+Belacoba,Bombing/Explosion,1
+Belbari,Armed Assault,1
+Belbari,Hostage Taking (Kidnapping),1
+Belpahari,Armed Assault,2
+Beltapara,Armed Assault,1
+Beltu,Armed Assault,1
+Bemina,Armed Assault,1
+Bermo,Armed Assault,1
+Bhairamgarh,Bombing/Explosion,1
+Bhairavkunda,Hostage Taking (Kidnapping),1
+Bharwari,Facility/Infrastructure Attack,1
+Bhatinda,Bombing/Explosion,1
+Bhojpur,Armed Assault,1
+Bhojpur,Bombing/Explosion,1
+Bhubaneswar,Bombing/Explosion,1
+Bhumka Maligaon,Armed Assault,1
+Biajarpur,Armed Assault,1
+Bihar,Armed Assault,1
+Bijapur,Armed Assault,9
+Bijapur,Assassination,1
+Bijapur,Bombing/Explosion,5
+Bijapur,Hostage Taking (Kidnapping),4
+Bijapur,Unknown,3
+Bijapur District,Hostage Taking (Kidnapping),1
+Bijbehara,Armed Assault,1
+Bijbehara,Bombing/Explosion,5
+Bijbehra,Bombing/Explosion,1
+Bijbiara,Bombing/Explosion,2
+Bilai,Hostage Taking (Kidnapping),1
+Bilaspur,Assassination,1
+Binnaguri,Bombing/Explosion,1
+Bipu,Bombing/Explosion,1
+Birbhum,Unknown,1
+Bishenpur,Armed Assault,6
+Bishenpur,Bombing/Explosion,5
+Bishenpur,Facility/Infrastructure Attack,2
+Bishnupur,Hostage Taking (Kidnapping),1
+Bishnupur-Sankuchi village,Armed Assault,1
+Bishram Ganj,Bombing/Explosion,1
+Bismile,Bombing/Explosion,1
+Boda,Hostage Taking (Kidnapping),1
+Bodhanam,Hostage Taking (Kidnapping),1
+Bogoribari,Armed Assault,1
+Bogribari,Armed Assault,1
+Bogund,Armed Assault,1
+Bokajan,Hostage Taking (Kidnapping),1
+Bokaro,Armed Assault,1
+Bokaro,Bombing/Explosion,3
+Bokaro Thermal,Bombing/Explosion,1
+Boko,Bombing/Explosion,1
+Bokulani,Bombing/Explosion,1
+Bongaigaon,Armed Assault,3
+Bongaigaon,Bombing/Explosion,8
+Bongaigaon District,Bombing/Explosion,1
+Bonkoot,Hostage Taking (Kidnapping),1
+Bordumsa,Bombing/Explosion,1
+Borhat,Bombing/Explosion,1
+Borkhola,Bombing/Explosion,1
+Borlangpha,Armed Assault,1
+Boroholdi,Armed Assault,1
+Bragam,Armed Assault,1
+Brahmanpalli,Bombing/Explosion,1
+Brahmchak,Armed Assault,1
+Budgam,Armed Assault,1
+Budgam,Assassination,1
+Budgam,Bombing/Explosion,3
+Budgam District,Armed Assault,3
+Budgam District,Bombing/Explosion,2
+Bun Doda,Armed Assault,1
+Bundagam,Armed Assault,1
+Burdwan,Armed Assault,1
+Burdwan district,Armed Assault,1
+Bustar,Bombing/Explosion,1
+Butibari,Bombing/Explosion,1
+Cachar,Armed Assault,1
+Chabilapur,Bombing/Explosion,1
+Chadhata,Bombing/Explosion,1
+Chadisinghpoora,Armed Assault,1
+Chadoura,Bombing/Explosion,1
+Chaibasa,Bombing/Explosion,1
+Chak Mohd Yar,Bombing/Explosion,1
+Chakka,Armed Assault,1
+Champahaur,Armed Assault,1
+Chandawa,Armed Assault,1
+Chandel,Armed Assault,1
+Chandel,Bombing/Explosion,2
+Chandil,Armed Assault,1
+Chandipur,Facility/Infrastructure Attack,1
+Chandrathakurpara village,Armed Assault,1
+Changsari,Bombing/Explosion,1
+Channapora,Assassination,1
+Chaplingcherra,Armed Assault,1
+Chaplingcherra,Bombing/Explosion,1
+Charar-i-Sharif,Bombing/Explosion,1
+Charsing Village,Armed Assault,1
+Charura,Armed Assault,1
+Chatra,Armed Assault,3
+Chatra,Bombing/Explosion,13
+Chatra,Hostage Taking (Kidnapping),2
+Chatra,Unknown,1
+Chatroo,Assassination,1
+Chelma,Bombing/Explosion,1
+Cherli,Armed Assault,1
+Chilkhari,Armed Assault,1
+Chintagudam,Bombing/Explosion,1
+Chirang,Armed Assault,3
+Chirji,Armed Assault,1
+Chittavas,Armed Assault,1
+Chukkapur,Facility/Infrastructure Attack,1
+Chunti Mohalla,Armed Assault,1
+Churanchandpur,Armed Assault,1
+Churanchandpur,Bombing/Explosion,2
+Churanchandpur,Hostage Taking (Kidnapping),1
+Churchu,Bombing/Explosion,1
+Chursoo,Bombing/Explosion,1
+Cuddalore,Armed Assault,1
+Cuddalore,Bombing/Explosion,1
+Dachepalli Mandal,Bombing/Explosion,1
+Dadgiri,Armed Assault,1
+Dailongjhar,Armed Assault,1
+Dal Lake,Armed Assault,1
+Dalina,Bombing/Explosion,1
+Damanjodi,Armed Assault,1
+Damhalhanjipora,Assassination,1
+Damhal-Hanjipora,Bombing/Explosion,1
+Dangerpora,Armed Assault,1
+Dangiwachi,Armed Assault,2
+Dangu Pir,Armed Assault,1
+Dantewada,Armed Assault,9
+Dantewada,Assassination,2
+Dantewada,Bombing/Explosion,10
+Dantewada,Facility/Infrastructure Attack,4
+Dantewada,Unknown,1
+Dantewada ((District)),Bombing/Explosion,1
+Dantewara,Armed Assault,1
+Dantewara,Bombing/Explosion,1
+Dantewara,Facility/Infrastructure Attack,2
+Dardpora,Armed Assault,3
+Dardsun Kupwara,Hostage Taking (Kidnapping),1
+Darhal,Bombing/Explosion,1
+Darhar,Armed Assault,1
+Darrang,Armed Assault,1
+Darrang,Hostage Taking (Kidnapping),1
+Dasligaon,Facility/Infrastructure Attack,1
+Debatangi,Bombing/Explosion,1
+Deewana,Bombing/Explosion,1
+Deogarh,Bombing/Explosion,1
+Dhamtari,Armed Assault,1
+Dhamtari,Bombing/Explosion,2
+Dhamtari,Facility/Infrastructure Attack,1
+Dhanbad,Armed Assault,3
+Dhanbad,Bombing/Explosion,5
+Dhanbad,Hostage Taking (Kidnapping),1
+Dhandbad,Facility/Infrastructure Attack,1
+Dhansirighat,Bombing/Explosion,1
+Dharmari,Armed Assault,1
+Dhekiagula,Bombing/Explosion,1
+Dhekiajuli,Bombing/Explosion,1
+Dhemaji,Armed Assault,1
+Dhemaji,Bombing/Explosion,1
+Dhemaji,Hostage Taking (Kidnapping),1
+Dhoob,Armed Assault,1
+Dhubri,Armed Assault,2
+Dhubri,Bombing/Explosion,3
+Dhubri,Hostage Taking (Kidnapping),1
+Dhurai Sambrai,Armed Assault,1
+Dibrugarh,Assassination,1
+Dibrugarh,Bombing/Explosion,2
+Digboi,Bombing/Explosion,2
+Digdol,Bombing/Explosion,1
+Diklam,Armed Assault,1
+Dillai,Armed Assault,1
+Dimapur,Armed Assault,12
+Dimapur,Bombing/Explosion,1
+Dimapur,Facility/Infrastructure Attack,1
+Dimapur,Hostage Taking (Kidnapping),8
+Dimapur,Unknown,1
+Dindigul,Armed Assault,1
+Diphu,Armed Assault,2
+Diphu,Bombing/Explosion,3
+Dispur,Bombing/Explosion,1
+Doda,Armed Assault,9
+Doda,Assassination,3
+Doda,Bombing/Explosion,14
+Doda,Hostage Taking (Kidnapping),1
+Doda (District),Hostage Taking (Kidnapping),2
+Doda District,Assassination,1
+Doda District,Bombing/Explosion,2
+Doda District,Hostage Taking (Kidnapping),1
+Dodasanpai,Armed Assault,1
+Dodi,Assassination,1
+Dohni,Hostage Taking (Kidnapping),1
+Dokmoka,Bombing/Explosion,1
+Doldoli,Armed Assault,1
+Doodooma,Bombing/Explosion,1
+Doomdooma,Bombing/Explosion,1
+Doru,Bombing/Explosion,1
+Drahteng-Prang,Armed Assault,1
+Dudansaballa,Armed Assault,1
+Duderhama,Assassination,1
+Duliajan,Bombing/Explosion,1
+Dumariyan,Armed Assault,1
+Dumka,Armed Assault,1
+Durg,Bombing/Explosion,1
+Durga Puja,Bombing/Explosion,1
+Durmunah,Armed Assault,1
+East Champaran,Bombing/Explosion,3
+East Godavari,Bombing/Explosion,1
+East Godavari,Hostage Taking (Kidnapping),1
+East singhbhum,Armed Assault,2
+East singhbhum,Bombing/Explosion,3
+Ernakulam,Bombing/Explosion,1
+Erode,Facility/Infrastructure Attack,1
+Errabore,Armed Assault,1
+Eturunagaram,Armed Assault,1
+Faizabad,Bombing/Explosion,1
+Fazlabad,Bombing/Explosion,1
+Fimnacherra,Armed Assault,1
+Frisal,Armed Assault,1
+Frisal Kulgam,Assassination,2
+Frislan,Bombing/Explosion,1
+Frislan-Pahalgam,Armed Assault,1
+Fukkumari,Armed Assault,1
+Gadchiroli,Armed Assault,12
+Gadchiroli,Unknown,3
+Gagarsulla,Bombing/Explosion,1
+Gaibas,Armed Assault,1
+Gaichta-Dudsunbala,Armed Assault,1
+Gainad,Armed Assault,1
+Gajanur,Hostage Taking (Kidnapping),1
+Gajapati,Bombing/Explosion,2
+Gajapati,Facility/Infrastructure Attack,1
+Gambirpur,Assassination,1
+Gandarbal,Unknown,1
+Gandhinagar,Bombing/Explosion,1
+Gandoh,Armed Assault,1
+Gandoh,Hostage Taking (Kidnapping),1
+Gangalur,Armed Assault,1
+Gargaon,Assassination,1
+Garoora,Armed Assault,1
+Garwah,Armed Assault,2
+Garwah,Bombing/Explosion,3
+Garwah,Hostage Taking (Kidnapping),1
+Gathalpadar,Bombing/Explosion,1
+Gauripar,Bombing/Explosion,1
+Gauripur,Bombing/Explosion,2
+Gaurisagar,Bombing/Explosion,1
+Gawahati,Bombing/Explosion,1
+Gaya,Armed Assault,4
+Gaya,Bombing/Explosion,18
+Gaya,Facility/Infrastructure Attack,6
+Gaya,Hostage Taking (Kidnapping),2
+Gaya,Unknown,1
+Gelapukhuri,Armed Assault,1
+Ghanpur,Bombing/Explosion,1
+Ghat,Armed Assault,1
+Ghatkesar,Assassination,1
+Ghaziabad,Assassination,1
+Ghaziabad,Bombing/Explosion,1
+Ghodagaon,Bombing/Explosion,1
+Giridih,Armed Assault,3
+Giridih,Bombing/Explosion,8
+Giridih,Facility/Infrastructure Attack,1
+Goalpara,Armed Assault,3
+Goalpara,Bombing/Explosion,2
+Godda,Bombing/Explosion,1
+Gokulnagar,Assassination,1
+Gokulnagar,Facility/Infrastructure Attack,1
+Gokulnagar,Unknown,1
+Gomanda,Bombing/Explosion,1
+Goon Dhar,Hostage Taking (Kidnapping),1
+Gopalganj,Bombing/Explosion,1
+Gorakhpur,Bombing/Explosion,1
+Gori,Assassination,1
+Goriwan,Bombing/Explosion,1
+Gossaigaon,Bombing/Explosion,2
+Gounthal,Armed Assault,1
+Govindpur,Bombing/Explosion,1
+Grat Mode,Bombing/Explosion,1
+Gul,Armed Assault,1
+Gulmarg,Bombing/Explosion,1
+Gumia,Bombing/Explosion,1
+Gumla,Armed Assault,6
+Gumla,Facility/Infrastructure Attack,1
+Gumla,Hostage Taking (Kidnapping),1
+Guntur,Armed Assault,1
+Guntur,Bombing/Explosion,1
+Gurdan,Armed Assault,1
+Guwahati,Armed Assault,5
+Guwahati,Assassination,1
+Guwahati,Bombing/Explosion,43
+Guwahati,Facility/Infrastructure Attack,1
+Guwahati,Hostage Taking (Kidnapping),1
+Habba Kadal,Bombing/Explosion,1
+Habback,Bombing/Explosion,1
+Haflong,Facility/Infrastructure Attack,4
+Hailakandi,Armed Assault,1
+Hailakandi,Unknown,1
+Hajan Township,Assassination,1
+Hajn,Armed Assault,1
+Hajo,Bombing/Explosion,1
+Halewara,Bombing/Explosion,1
+Halfong,Hostage Taking (Kidnapping),1
+Hallian,Bombing/Explosion,1
+Handawar,Armed Assault,1
+Handwara,Assassination,1
+Handwara,Bombing/Explosion,1
+Hangalpawa,Bombing/Explosion,1
+Hardumadam,Armed Assault,1
+Hari,Assassination,1
+Haribandi,Armed Assault,1
+Hari-Bhudda,Armed Assault,1
+Hasker,Armed Assault,1
+Hathikhali,Armed Assault,1
+Hawraghat,Bombing/Explosion,1
+Hazaribag,Armed Assault,1
+Hazaribag,Bombing/Explosion,1
+Hazaribag,Hostage Taking (Kidnapping),2
+Hazaribag,Unknown,1
+Hazrapara,Armed Assault,1
+Hiranagar,Armed Assault,1
+Hiroli,Armed Assault,1
+Howrah,Bombing/Explosion,2
+Howrah,Facility/Infrastructure Attack,1
+Howrah,Unarmed Assault,1
+Hubbi,Armed Assault,1
+Hubli,Bombing/Explosion,2
+Hyderabad,Armed Assault,1
+Hyderabad,Bombing/Explosion,5
+Hyderabad,Hostage Taking (Kidnapping),1
+Hyderpora,Bombing/Explosion,1
+Ichum Lairembi,Bombing/Explosion,1
+Imphal,Armed Assault,28
+Imphal,Assassination,1
+Imphal,Bombing/Explosion,78
+Imphal,Facility/Infrastructure Attack,2
+Imphal,Hijacking,1
+Imphal,Hostage Taking (Kidnapping),10
+Imphal West District,Bombing/Explosion,1
+Indeh,Armed Assault,1
+Indh,Bombing/Explosion,1
+Iptagura,Armed Assault,1
+Iqbal Nagar,Armed Assault,1
+Isaipet,Facility/Infrastructure Attack,1
+Ishber,Armed Assault,1
+Itanagar,Hostage Taking (Kidnapping),1
+Jagpura,Bombing/Explosion,1
+Jagra,Armed Assault,1
+Jaintia,Bombing/Explosion,1
+Jaintia,Facility/Infrastructure Attack,1
+Jaktial,Assassination,1
+Jalabela,Armed Assault,1
+Jalandhar,Armed Assault,1
+Jalna,Bombing/Explosion,1
+Jalpaiguri,Armed Assault,1
+Jalpaiguri,Bombing/Explosion,2
+Jalpaiguri,Unknown,1
+Jamalsan,Armed Assault,1
+Jammu,Armed Assault,8
+Jammu,Assassination,1
+Jammu,Bombing/Explosion,16
+Jammu,Facility/Infrastructure Attack,1
+Jammu,Hostage Taking (Kidnapping),2
+Jampui,Hostage Taking (Kidnapping),1
+Jampuijala,Assassination,1
+Jamsalan,Armed Assault,1
+Jamshedpur,Facility/Infrastructure Attack,1
+Jamslam,Armed Assault,1
+Jamui,Armed Assault,2
+Jamui,Bombing/Explosion,6
+Jamui,Hostage Taking (Kidnapping),1
+Janbazpora,Bombing/Explosion,1
+Jaunpur,Bombing/Explosion,1
+Jehanabad,Armed Assault,1
+Jehanabad,Facility/Infrastructure Attack,1
+Jirania,Armed Assault,1
+Jirania,Hostage Taking (Kidnapping),1
+Jobat,Unarmed Assault,1
+Jonai,Bombing/Explosion,1
+Jorhat,Armed Assault,1
+Jullundur,Bombing/Explosion,1
+Kachnara,Assassination,1
+Kachumuqam,Assassination,1
+Kagajnagar,Bombing/Explosion,1
+Kahleel,Bombing/Explosion,1
+Kailasahar Subdivision,Hostage Taking (Kidnapping),1
+Kakogam,Armed Assault,1
+Kakotibari,Bombing/Explosion,1
+Kalaroos,Armed Assault,1
+Kalimela,Facility/Infrastructure Attack,1
+Kalimpong,Assassination,1
+Kaller-Katal,Hostage Taking (Kidnapping),1
+Kaloosa,Bombing/Explosion,1
+Kaluchak,Armed Assault,1
+Kamakhya-Guri,Bombing/Explosion,1
+Kamareddy,Bombing/Explosion,1
+Kamrup,Bombing/Explosion,7
+Kamrup,Hostage Taking (Kidnapping),1
+Kanchanpur,Armed Assault,1
+Kanchkir village,Bombing/Explosion,2
+Kandhamal,Armed Assault,4
+Kandhamal,Bombing/Explosion,5
+Kandhamal,Hostage Taking (Kidnapping),1
+Kandi,Armed Assault,1
+Kangan,Assassination,2
+Kangan,Bombing/Explosion,1
+Kanihama,Armed Assault,1
+Kanker,Armed Assault,5
+Kanker,Bombing/Explosion,2
+Kanker,Hostage Taking (Kidnapping),3
+Kannur,Armed Assault,1
+Kannur,Bombing/Explosion,1
+Kantakobrapara,Armed Assault,1
+Kanthol,Armed Assault,1
+Kanthpora Sogam,Hostage Taking (Kidnapping),1
+Karachi,Armed Assault,1
+Karampeda,Bombing/Explosion,1
+Karan Nagar,Armed Assault,1
+Karbi Anglong,Armed Assault,7
+Karbi Anglong,Bombing/Explosion,14
+Karbi Anglong,Unknown,2
+Karimnagar,Armed Assault,2
+Karimnagar,Bombing/Explosion,1
+Karnal District,Bombing/Explosion,1
+Karpi,Armed Assault,1
+Kashmir,Armed Assault,2
+Kashmir,Bombing/Explosion,4
+Kathalguri,Bombing/Explosion,1
+Kathua,Bombing/Explosion,2
+Kathua (District),Armed Assault,1
+Katra,Bombing/Explosion,1
+Keonjhar,Armed Assault,2
+Keonjhar,Assassination,1
+Keonjhar,Facility/Infrastructure Attack,1
+Keonjhar,Unknown,2
+Keshpur,Armed Assault,1
+Keshwan Kishtwar,Armed Assault,1
+Khagaria,Armed Assault,1
+Khammam,Armed Assault,1
+Khammam,Hostage Taking (Kidnapping),2
+Khannabal,Armed Assault,1
+Kharagpur,Bombing/Explosion,1
+Kharout,Armed Assault,1
+Khejuri,Bombing/Explosion,1
+Kheora,Bombing/Explosion,1
+Khiram,Armed Assault,1
+Khoiphuta,Armed Assault,1
+Khowja,Bombing/Explosion,1
+Khrew,Armed Assault,2
+Khudwani,Bombing/Explosion,1
+Khudwani Puhroo,Armed Assault,1
+Khunti,Armed Assault,4
+Khunti,Bombing/Explosion,2
+Khunti,Hostage Taking (Kidnapping),1
+Kishtwar,Armed Assault,5
+Kishtwar,Hostage Taking (Kidnapping),2
+Kohima,Armed Assault,2
+Kohima,Hostage Taking (Kidnapping),4
+Kokernag,Armed Assault,1
+Kokernag,Bombing/Explosion,1
+Kokrajhar,Armed Assault,9
+Kokrajhar,Assassination,1
+Kokrajhar,Bombing/Explosion,1
+Kokrajhar,Hostage Taking (Kidnapping),2
+Kokrajhar,Unknown,1
+Kokrajhar District,Armed Assault,2
+Kolkata,Bombing/Explosion,1
+Konibal,Assassination,1
+Koram,Hostage Taking (Kidnapping),1
+Koraput,Armed Assault,4
+Koraput,Bombing/Explosion,6
+Koraput,Facility/Infrastructure Attack,2
+Kot Budhan,Armed Assault,1
+Kotalpakur,Bombing/Explosion,1
+Kotdhara,Armed Assault,1
+Kothur,Bombing/Explosion,1
+Kotranaka,Hostage Taking (Kidnapping),1
+Kotrapal,Armed Assault,1
+Krishnaghati,Assassination,1
+Krusan-Lalpora,Armed Assault,1
+Kud,Bombing/Explosion,1
+Kudhar Naka Bunjwah,Hostage Taking (Kidnapping),1
+Kudur,Bombing/Explosion,1
+Kulangam,Bombing/Explosion,1
+Kulgam,Armed Assault,3
+Kulgam,Assassination,2
+Kulgam,Bombing/Explosion,5
+Kuligaon,Bombing/Explosion,1
+Kulipora,Assassination,1
+Kumarpara,Bombing/Explosion,1
+Kumrighata,Armed Assault,1
+Kundlakunta,Assassination,1
+Kuntwar,Hostage Taking (Kidnapping),1
+Kunwarpur,Bombing/Explosion,1
+Kunzar-Tangmarg,Assassination,1
+Kunzer,Armed Assault,1
+Kupwara,Armed Assault,4
+Kupwara,Assassination,2
+Kupwara,Bombing/Explosion,6
+Kupwara,Facility/Infrastructure Attack,1
+Kupwara,Hostage Taking (Kidnapping),1
+Kupwara (District),Armed Assault,1
+Kupwara District,Armed Assault,1
+Kupwara District,Assassination,1
+Kupwara district,Hostage Taking (Kidnapping),1
+Kwakta Awang Leikal,Armed Assault,1
+Ladakh,Armed Assault,1
+Ladakh,Bombing/Explosion,1
+Lakhimpur,Facility/Infrastructure Attack,1
+Lakhimpur District,Bombing/Explosion,1
+Lakhinagar,Bombing/Explosion,1
+Lakhisarai,Bombing/Explosion,1
+Lal Chowk,Assassination,1
+Lalchowk,Bombing/Explosion,1
+Lalgarh,Armed Assault,2
+Lalgarh,Bombing/Explosion,3
+Lalgarh,Facility/Infrastructure Attack,5
+Lalgarh,Hostage Taking (Kidnapping),2
+Lalgarh,Unknown,2
+Lalpora,Bombing/Explosion,1
+Lalpura,Bombing/Explosion,1
+Langting Hathikhali,Armed Assault,1
+Lapri,Bombing/Explosion,1
+Larnu,Armed Assault,1
+Lasana,Bombing/Explosion,2
+Lasjan,Bombing/Explosion,1
+Lassana,Bombing/Explosion,1
+Latehar,Armed Assault,3
+Latehar,Bombing/Explosion,7
+Latehar,Facility/Infrastructure Attack,4
+Latehar,Hijacking,1
+Latehar,Hostage Taking (Kidnapping),3
+Latehar,Unknown,2
+Latina,Unknown,1
+Laxmipur,Armed Assault,1
+Laxmipur Diara,Armed Assault,1
+Lazbal,Bombing/Explosion,1
+Lengdenpokse,Armed Assault,1
+Lohardaga,Bombing/Explosion,1
+Lohardaga,Hostage Taking (Kidnapping),1
+Lokchao,Armed Assault,1
+Lolab,Bombing/Explosion,1
+Longlai Hasnu,Armed Assault,1
+Lower Mata,Bombing/Explosion,1
+Lucknow,Bombing/Explosion,2
+Luddar,Hostage Taking (Kidnapping),1
+Ludhiana,Armed Assault,1
+Ludhiana,Bombing/Explosion,1
+Lurgam,Armed Assault,1
+Machilipatnam,Bombing/Explosion,1
+Madhepura,Unarmed Assault,1
+Madhopur,Bombing/Explosion,1
+Madimalla,Assassination,1
+Magam,Armed Assault,1
+Magam,Assassination,1
+Magam,Bombing/Explosion,2
+Mahadev,Bombing/Explosion,1
+Maheshpur,Armed Assault,1
+Mahmara,Bombing/Explosion,1
+Mahore Tehsil,Hostage Taking (Kidnapping),1
+Mahur,Bombing/Explosion,1
+Maibong,Armed Assault,1
+Majra Bambal,Armed Assault,1
+Majuli Bargora,Armed Assault,1
+Makri Jhoda,Armed Assault,1
+Makum,Bombing/Explosion,1
+Malachamlan,Armed Assault,1
+Maladhara,Bombing/Explosion,1
+Malegaon,Bombing/Explosion,2
+Malikpora,Armed Assault,1
+Malkangiri,Armed Assault,10
+Malkangiri,Bombing/Explosion,13
+Malkangiri,Facility/Infrastructure Attack,9
+Malkangiri,Hijacking,1
+Malkangiri,Hostage Taking (Kidnapping),2
+Malkangiri,Unknown,3
+Malwani,Armed Assault,1
+Manasbal,Bombing/Explosion,1
+Manda,Armed Assault,1
+Mandai,Armed Assault,1
+Mandipore,Assassination,1
+Mangaldai,Armed Assault,1
+Manikonta,Armed Assault,1
+Manipore,Assassination,1
+Manipur,Armed Assault,2
+Maniwaz-Kakipora,Armed Assault,1
+Manja,Hostage Taking (Kidnapping),1
+Manjakot,Armed Assault,1
+Manjapu,Bombing/Explosion,1
+Manu,Unknown,1
+Maphou,Hostage Taking (Kidnapping),1
+Margao,Bombing/Explosion,1
+Marrdmalli,Bombing/Explosion,1
+Masiri,Bombing/Explosion,1
+Matan,Bombing/Explosion,1
+Matribugh,Armed Assault,1
+Mattan,Assassination,1
+Matu,Facility/Infrastructure Attack,1
+Mayurbhanj,Armed Assault,3
+Mayurbhanj,Bombing/Explosion,1
+Mayurbhanj,Facility/Infrastructure Attack,1
+Mazhama,Bombing/Explosion,1
+Medinipur,Armed Assault,1
+Medinipur,Assassination,1
+Medinipur,Facility/Infrastructure Attack,3
+Midnapore,Armed Assault,31
+Midnapore,Assassination,2
+Midnapore,Bombing/Explosion,4
+Midnapore,Facility/Infrastructure Attack,10
+Midnapore,Hijacking,1
+Midnapore,Hostage Taking (Kidnapping),15
+Midnapore,Unknown,3
+Mirhama,Bombing/Explosion,1
+Mirjapur,Hostage Taking (Kidnapping),1
+Modasa,Bombing/Explosion,1
+Mohmangad,Armed Assault,1
+Mohorcherra,Armed Assault,1
+Moirangpural,Armed Assault,1
+Mola,Unknown,1
+More Bachia,Hostage Taking (Kidnapping),1
+Moreh,Armed Assault,2
+Moreh,Bombing/Explosion,1
+Moreh,Facility/Infrastructure Attack,1
+Motihari,Bombing/Explosion,1
+Motu,Facility/Infrastructure Attack,1
+Mukinda,Bombing/Explosion,1
+Muktapur,Armed Assault,1
+Mumbai,Armed Assault,3
+Mumbai,Bombing/Explosion,11
+Mumbai,Facility/Infrastructure Attack,1
+Mumbai,Hijacking,1
+Mumbai,Hostage Taking (Kidnapping),1
+Mumbai,Unarmed Assault,1
+Munger,Armed Assault,3
+Munger,Bombing/Explosion,3
+Munger,Facility/Infrastructure Attack,3
+Munger Division,Armed Assault,1
+Mupa,Facility/Infrastructure Attack,1
+Murkongselek,Bombing/Explosion,1
+Murshidabad,Bombing/Explosion,3
+Muzaffarabad,Bombing/Explosion,1
+Muzaffarnagar,Bombing/Explosion,1
+Muzaffarpur,Assassination,1
+Muzaffarpur,Bombing/Explosion,2
+Nachala,Bombing/Explosion,1
+Nadda,Bombing/Explosion,1
+Nadi Marg,Armed Assault,1
+Nadia,Unarmed Assault,1
+Nagaon,Armed Assault,1
+Nagaon,Bombing/Explosion,3
+Nagma,Bombing/Explosion,1
+Nagpur,Armed Assault,1
+Nagshereen,Assassination,1
+Naholia,Armed Assault,1
+Nalbari,Armed Assault,2
+Nalbari,Bombing/Explosion,2
+Nalbari,Hostage Taking (Kidnapping),1
+Nalgonda,Bombing/Explosion,1
+Nalifapara,Hostage Taking (Kidnapping),1
+Nallalalam,Armed Assault,1
+Nandigram,Facility/Infrastructure Attack,1
+Nandiyal,Hostage Taking (Kidnapping),1
+Narayanpur,Armed Assault,2
+Narayanpur,Bombing/Explosion,2
+Narayanpur,Facility/Infrastructure Attack,1
+Narayanpur,Hostage Taking (Kidnapping),1
+Narengi,Bombing/Explosion,3
+Narkopi,Armed Assault,1
+Naseem Bagh,Bombing/Explosion,1
+Nashla,Bombing/Explosion,1
+Nasrullahpora,Armed Assault,1
+Nasu,Armed Assault,1
+Naudal,Hostage Taking (Barricade Incident),1
+Nawada,Bombing/Explosion,2
+Nayagarh District,Armed Assault,1
+Neel,Facility/Infrastructure Attack,1
+Nemallipuri,Bombing/Explosion,1
+Nepal Tilla,Bombing/Explosion,1
+New Dehli,Bombing/Explosion,3
+New Delhi,Armed Assault,2
+New Delhi,Assassination,1
+New Delhi,Bombing/Explosion,26
+New Delhi,Facility/Infrastructure Attack,1
+New Heaven,Armed Assault,1
+Nirala Kalkot,Armed Assault,1
+Nongdam Tangkhul,Armed Assault,1
+Nooranad,Bombing/Explosion,1
+Noorbagh,Bombing/Explosion,1
+North Cachar District,Hostage Taking (Kidnapping),1
+North Cachar Hills,Armed Assault,24
+North Cachar Hills,Bombing/Explosion,3
+North Cachar Hills,Facility/Infrastructure Attack,11
+North Cachar Hills,Hostage Taking (Kidnapping),1
+North Cachar Hills,Unknown,2
+North Cachar Hills District,Armed Assault,1
+North Tripura,Hostage Taking (Kidnapping),1
+Nowgam,Bombing/Explosion,1
+Nowshera,Hostage Taking (Kidnapping),1
+Odsa,Unknown,1
+Ogaad,Armed Assault,1
+Old Baramulla,Bombing/Explosion,1
+Ongole,Bombing/Explosion,2
+Paarl,Armed Assault,1
+Pahalgam,Armed Assault,1
+Pahalgam,Bombing/Explosion,3
+Paharpur,Hostage Taking (Kidnapping),1
+Pahlgam,Bombing/Explosion,1
+Pahloo,Bombing/Explosion,1
+Pakharpora,Bombing/Explosion,1
+Palamau,Armed Assault,5
+Palamau,Bombing/Explosion,11
+Palamau,Hostage Taking (Kidnapping),2
+Palamau,Unknown,1
+Palhalan,Assassination,1
+Palpora,Armed Assault,1
+Pampore,Armed Assault,1
+Pampore,Bombing/Explosion,2
+Pamrod,Armed Assault,1
+Panar,Hostage Taking (Kidnapping),1
+Panbazar,Bombing/Explosion,1
+Panzan,Armed Assault,1
+Paraiya,Armed Assault,1
+Parmot,Assassination,1
+Patamda,Armed Assault,1
+Patan,Armed Assault,2
+Patan,Bombing/Explosion,2
+Pathan Mohalla,Assassination,1
+Pathankot,Armed Assault,1
+Pathie,Armed Assault,1
+Patna,Armed Assault,1
+Patrada,Armed Assault,1
+Pattan,Armed Assault,1
+Pattapani,Bombing/Explosion,1
+Patton,Bombing/Explosion,1
+Peda Vadlapadu,Armed Assault,1
+Peddaktnta,Armed Assault,1
+Peddaktnta,Assassination,1
+Phek,Hostage Taking (Kidnapping),2
+Pileru,Bombing/Explosion,1
+Pipra,Bombing/Explosion,1
+Pondugula,Bombing/Explosion,1
+Poonch,Armed Assault,9
+Poonch,Bombing/Explosion,2
+Poonch,Hostage Taking (Barricade Incident),1
+Poonch District,Armed Assault,2
+Porbandar,Hijacking,1
+Poteru,Bombing/Explosion,1
+Prechu,Bombing/Explosion,1
+Puhroo,Armed Assault,1
+Pulwama,Armed Assault,4
+Pulwama,Assassination,3
+Pulwama,Bombing/Explosion,11
+Pulwama,Hostage Taking (Barricade Incident),1
+Pulwama ((District)),Assassination,2
+Pulwama (District),Armed Assault,1
+Pulwama (District),Assassination,2
+Pulwama (District),Hostage Taking (Kidnapping),1
+Pulwama District,Armed Assault,1
+Punch,Bombing/Explosion,1
+Punch District,Bombing/Explosion,1
+Purilia district,Armed Assault,1
+Purna,Bombing/Explosion,1
+Puruliya,Armed Assault,6
+Puruliya,Bombing/Explosion,5
+Puruliya,Facility/Infrastructure Attack,1
+Qazigund,Armed Assault,1
+Qazigund,Bombing/Explosion,3
+Rafiabad,Armed Assault,1
+Rai Sehot,Armed Assault,1
+Raibaga,Bombing/Explosion,1
+Raipur,Bombing/Explosion,1
+Raj Nandgaon,Armed Assault,4
+Raj Nandgaon,Bombing/Explosion,1
+Raj Nandgaon,Unknown,1
+Rajauri,Armed Assault,3
+Rajauri,Bombing/Explosion,3
+Rajauri,Facility/Infrastructure Attack,1
+Rajauri,Hostage Taking (Kidnapping),1
+Rajouri,Armed Assault,3
+Rajouri,Bombing/Explosion,7
+Rajouri (District),Armed Assault,1
+Rajouri (District),Hostage Taking (Kidnapping),1
+Rajuri,Bombing/Explosion,1
+Raksamgiri,Armed Assault,1
+Ramanathapuram,Unarmed Assault,1
+Ramanthapur,Bombing/Explosion,1
+Ramban,Bombing/Explosion,1
+Ramban,Hostage Taking (Kidnapping),2
+Rambhadrapur,Facility/Infrastructure Attack,1
+Ramgaon,Armed Assault,1
+Ramgarh,Hijacking,1
+Rampur,Armed Assault,1
+Ramsu,Armed Assault,1
+Ramsu,Bombing/Explosion,1
+Ranchi,Armed Assault,7
+Ranchi,Bombing/Explosion,4
+Ranchi,Facility/Infrastructure Attack,1
+Ranchi,Unarmed Assault,1
+Rangiya,Bombing/Explosion,1
+Rangjuli,Armed Assault,1
+Rani Bodli,Armed Assault,1
+Ransoo-Naushehra,Armed Assault,1
+Rathinjaihalampara,Armed Assault,1
+Ratnal,Bombing/Explosion,1
+Rauzabad,Bombing/Explosion,1
+Rayagada,Armed Assault,2
+Reasi,Armed Assault,1
+Reasi,Bombing/Explosion,3
+Reasi,Facility/Infrastructure Attack,1
+Rishikesh,Bombing/Explosion,1
+Rohtas,Armed Assault,2
+Rohtas,Facility/Infrastructure Attack,2
+Rongkuri,Armed Assault,1
+Rongsal,Bombing/Explosion,1
+Rosera,Armed Assault,1
+Sadiya,Armed Assault,1
+Sadiya,Bombing/Explosion,1
+Sadwan,Armed Assault,1
+Sagolia,Bombing/Explosion,1
+Sagolmang,Bombing/Explosion,1
+Saikul Village,Armed Assault,1
+Sailya,Assassination,1
+Sajjar,Armed Assault,1
+Sajroo,Armed Assault,1
+Salbani,Assassination,1
+Salboni,Bombing/Explosion,1
+Salohi,Armed Assault,1
+Saluru,Assassination,1
+Sam Samit,Armed Assault,1
+Samalangsu,Bombing/Explosion,1
+Samastipur,Assassination,1
+Sambalpur,Armed Assault,2
+Sambalpur district,Facility/Infrastructure Attack,1
+Sangaldan,Armed Assault,1
+Sangam,Bombing/Explosion,1
+Sanglow,Armed Assault,1
+Sangrama,Assassination,1
+Sangrama,Bombing/Explosion,1
+Santarampada,Armed Assault,1
+Saraipul,Armed Assault,1
+Saran,Bombing/Explosion,1
+Sarju,Armed Assault,1
+Sarwan,Hostage Taking (Kidnapping),1
+Sashisangmapara,Bombing/Explosion,1
+Satgaon,Armed Assault,2
+Satgharwa,Armed Assault,1
+Satnaur,Bombing/Explosion,1
+Senapati,Hostage Taking (Kidnapping),2
+Senapati,Unknown,1
+Senthur,Bombing/Explosion,1
+Seraikela-Kharsawan,Armed Assault,1
+Serapathar,Armed Assault,1
+Seri,Bombing/Explosion,1
+Shams-ud-din Khan,Armed Assault,1
+Sheendara,Armed Assault,1
+Sheeri,Armed Assault,1
+Sheikhpora,Assassination,1
+Sheohar,Armed Assault,1
+Sheohar,Bombing/Explosion,2
+Sher Bagh,Bombing/Explosion,1
+Sherbibi,Armed Assault,1
+Sheshnag,Armed Assault,1
+Shopian,Armed Assault,4
+Shopian,Bombing/Explosion,7
+Shopian,Hostage Taking (Kidnapping),1
+Shopiyan,Armed Assault,1
+Shopiyan,Bombing/Explosion,1
+Shrotidar,Armed Assault,1
+Shupiyan,Bombing/Explosion,1
+Sibasagar,Bombing/Explosion,1
+Siliguri,Bombing/Explosion,1
+Simdega,Bombing/Explosion,1
+Simdega,Facility/Infrastructure Attack,1
+Simdega,Hostage Taking (Kidnapping),1
+Simuluguri,Armed Assault,1
+Sindhukumar,Hostage Taking (Kidnapping),1
+Singhpora,Bombing/Explosion,1
+Singicherra,Armed Assault,1
+Singjamei,Armed Assault,1
+Singjamei,Hostage Taking (Kidnapping),1
+Sirgwari-Keshewan,Unknown,1
+Sitamarhi,Bombing/Explosion,1
+Sivasagar,Bombing/Explosion,1
+Sivasagar,Unknown,1
+Sodal,Armed Assault,1
+Sogam,Armed Assault,1
+Soibugh,Armed Assault,1
+Sonapah,Assassination,1
+Sonapur,Bombing/Explosion,2
+Sonapur,Hostage Taking (Kidnapping),1
+Sonari,Bombing/Explosion,4
+Sonari,Hostage Taking (Kidnapping),1
+Sonebhadra,Armed Assault,1
+Songsak,Armed Assault,1
+Sonitpor,Assassination,1
+Sonitpor,Bombing/Explosion,1
+Sonitpor,Hostage Taking (Kidnapping),2
+Sonitpor,Unknown,1
+Sonmarg,Unarmed Assault,1
+Sophian,Armed Assault,1
+Sopor,Armed Assault,1
+Sopor,Bombing/Explosion,2
+Sopore,Armed Assault,4
+Sopore,Assassination,3
+Sopore,Bombing/Explosion,7
+Sorbung,Bombing/Explosion,1
+Srigeri Pado,Armed Assault,1
+Srinagar,Armed Assault,47
+Srinagar,Assassination,14
+Srinagar,Bombing/Explosion,117
+Srinagar,Facility/Infrastructure Attack,3
+Srinagar,Hostage Taking (Kidnapping),3
+Srinagar,Unarmed Assault,1
+Srinagar and Baramula,Bombing/Explosion,1
+Srinigar,Armed Assault,1
+Srinigar,Bombing/Explosion,4
+Srirampur checkgate,Bombing/Explosion,1
+Sugnu,Hostage Taking (Kidnapping),1
+Suknachara,Bombing/Explosion,1
+Sukrungbari,Armed Assault,1
+Sumbal,Assassination,1
+Sumbal,Bombing/Explosion,1
+Sumblar,Assassination,1
+Sundargarh,Armed Assault,2
+Sundargarh,Bombing/Explosion,8
+Sundargarh,Facility/Infrastructure Attack,1
+Sundargarh,Unknown,1
+Sundervani,Bombing/Explosion,1
+Sunsali,Bombing/Explosion,1
+Surankode,Armed Assault,1
+Surankot,Armed Assault,1
+Surankote,Armed Assault,1
+Surankote,Facility/Infrastructure Attack,1
+Surat,Bombing/Explosion,28
+Surguja,Bombing/Explosion,1
+Surigam,Armed Assault,1
+Swat Valley,Bombing/Explosion,1
+T Minou,Unknown,1
+Tadepalliguden,Bombing/Explosion,1
+Tahab,Bombing/Explosion,1
+Takia Hail Jageer,Armed Assault,1
+Tamenglong,Armed Assault,1
+Tamenglong,Hostage Taking (Kidnapping),1
+Tamenglong,Unknown,1
+Tamparsingha,Armed Assault,1
+Tanda,Bombing/Explosion,1
+Tangla,Bombing/Explosion,1
+Tangmarg,Armed Assault,1
+Tangmarg,Bombing/Explosion,1
+Tarahati Kalinzar,Armed Assault,1
+Tarakunda,Armed Assault,1
+Tarigam,Assassination,1
+Tarkhan Majra,Bombing/Explosion,1
+Tarzoo,Bombing/Explosion,1
+Tata Draman area,Armed Assault,1
+Tehsil Chowk,Bombing/Explosion,1
+Telerai,Assassination,1
+Tengtha,Armed Assault,1
+Tezpur,Bombing/Explosion,1
+Thalubigha,Armed Assault,1
+Thanabulhalampara,Armed Assault,1
+Thanamandi,Armed Assault,2
+Thanamandi,Bombing/Explosion,1
+Thane,Bombing/Explosion,1
+Thanna Mand,Armed Assault,1
+Thanna Mandi,Armed Assault,1
+Thingkhangpi,Assassination,1
+Thothapara,Armed Assault,1
+Thoubal,Armed Assault,3
+Thoubal,Bombing/Explosion,4
+Thoubal,Facility/Infrastructure Attack,1
+Thoubal,Hijacking,1
+Thoubal,Hostage Taking (Kidnapping),1
+Thoubal district,Armed Assault,1
+Tihu,Bombing/Explosion,1
+Tinsukia,Armed Assault,4
+Tinsukia,Bombing/Explosion,6
+Tirap,Unknown,1
+Tirupati,Bombing/Explosion,1
+Todi-Poonch,Unarmed Assault,1
+Tral,Armed Assault,2
+Tral,Assassination,1
+Trimbli,Armed Assault,1
+Tripura,Facility/Infrastructure Attack,1
+Trivandrum,Armed Assault,1
+Tuinem,Armed Assault,1
+Tumalacheruvu,Bombing/Explosion,1
+Tumkur,Bombing/Explosion,1
+Udaipur,Hostage Taking (Kidnapping),1
+Udalguri,Armed Assault,4
+Udalguri,Bombing/Explosion,2
+Udalguri,Hostage Taking (Kidnapping),3
+Udhampur,Armed Assault,4
+Udhampur,Bombing/Explosion,2
+Udhampur (district),Armed Assault,3
+Udhampur District,Unknown,1
+Udhan Phera,Armed Assault,1
+Ujjain,Armed Assault,1
+Ukhrul,Armed Assault,1
+Ukhrul,Bombing/Explosion,4
+Ukhrul,Unknown,1
+Umrangso,Armed Assault,1
+Unkknown,Armed Assault,1
+Unknown,Armed Assault,38
+Unknown,Assassination,4
+Unknown,Bombing/Explosion,72
+Unknown,Facility/Infrastructure Attack,5
+Unknown,Hostage Taking (Kidnapping),12
+Unknown,Unknown,2
+Uri,Bombing/Explosion,1
+Utrosou,Armed Assault,1
+Vadodara (baroda),Bombing/Explosion,1
+Vaishali,Armed Assault,1
+Vaishali,Bombing/Explosion,1
+Varanasi,Bombing/Explosion,2
+Vasco,Bombing/Explosion,1
+Veelu,Bombing/Explosion,1
+Vidyanagar,Bombing/Explosion,1
+Visakhapatnam,Armed Assault,1
+Visakhapatnam,Facility/Infrastructure Attack,1
+Vishakhapatnam,Armed Assault,1
+Vishakhapatnam,Facility/Infrastructure Attack,1
+Vizianagaram,Bombing/Explosion,1
+Wadi,Bombing/Explosion,1
+Wadwal,Armed Assault,1
+Wagad,Bombing/Explosion,1
+Wanabal,Armed Assault,1
+Wangjing,Armed Assault,1
+Wangoi,Armed Assault,2
+Warangal,Armed Assault,3
+Warangal,Assassination,1
+Warangal,Bombing/Explosion,1
+Waripora Tangmarg,Armed Assault,1
+Watalpora,Assassination,1
+Wawoora,Armed Assault,1
+Waywand,Hostage Taking (Kidnapping),1
+Wazirbagh locality,Armed Assault,1
+West Singhbhum,Armed Assault,1
+West Singhbhum,Bombing/Explosion,4
+West Tripura,Armed Assault,1
+West Tripura,Hostage Taking (Kidnapping),1
+Wokha,Armed Assault,1
+Woodsa,Bombing/Explosion,1
+Yairipok,Bombing/Explosion,2
+Yelahanka,Armed Assault,1
+Zainakote,Bombing/Explosion,1

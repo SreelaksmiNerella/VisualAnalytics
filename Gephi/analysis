@@ -1,0 +1,11 @@
+gname-target
+gname-attacktype
+attacktype-target
+gname-city
+gname-weapon
+
+targettype-city
+year-targettype/city/gname
+
+Centrality Measures:
+Combine gname, gname2 and gname3 make gname-gname2-weight. -Betweeness centralitys

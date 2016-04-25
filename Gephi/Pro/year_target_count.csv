@@ -1,0 +1,138 @@
+Source,Target,Weight
+2000,Business,4
+2000,Educational Institution,1
+2000,Government (General),28
+2000,Journalists & Media,4
+2000,Military,29
+2000,Police,25
+2000,Private Citizens & Property,59
+2000,Religious Figures/Institutions,14
+2000,Tourists,2
+2000,Transportation,9
+2000,Utilities,2
+2000,Violent Political Party,2
+2001,Airports & Aircraft,1
+2001,Business,5
+2001,Educational Institution,6
+2001,Government (General),39
+2001,Military,32
+2001,Police,46
+2001,Private Citizens & Property,75
+2001,Religious Figures/Institutions,9
+2001,Telecommunication,1
+2001,Terrorists/Non-State Militia,2
+2001,Transportation,14
+2001,Unknown,1
+2001,Utilities,1
+2001,Violent Political Party,2
+2002,Airports & Aircraft,1
+2002,Business,4
+2002,Educational Institution,1
+2002,Government (General),36
+2002,Journalists & Media,4
+2002,Military,35
+2002,Police,27
+2002,Private Citizens & Property,52
+2002,Religious Figures/Institutions,4
+2002,Transportation,19
+2003,Business,9
+2003,Educational Institution,2
+2003,Government (General),34
+2003,Journalists & Media,2
+2003,Military,35
+2003,NGO,1
+2003,Police,34
+2003,Private Citizens & Property,47
+2003,Religious Figures/Institutions,3
+2003,Telecommunication,3
+2003,Tourists,1
+2003,Transportation,16
+2003,Unknown,1
+2003,Utilities,3
+2003,Violent Political Party,5
+2004,Business,3
+2004,Educational Institution,2
+2004,Government (General),18
+2004,Military,17
+2004,Police,22
+2004,Private Citizens & Property,30
+2004,Religious Figures/Institutions,4
+2004,Terrorists/Non-State Militia,1
+2004,Tourists,2
+2004,Transportation,5
+2004,Unknown,1
+2004,Utilities,3
+2005,Business,6
+2005,Educational Institution,4
+2005,Government (General),23
+2005,Military,17
+2005,Police,26
+2005,Private Citizens & Property,46
+2005,Religious Figures/Institutions,1
+2005,Telecommunication,1
+2005,Terrorists/Non-State Militia,2
+2005,Transportation,11
+2005,Utilities,8
+2006,Business,2
+2006,Educational Institution,1
+2006,Government (General),15
+2006,Journalists & Media,1
+2006,Military,14
+2006,Other,1
+2006,Police,42
+2006,Private Citizens & Property,49
+2006,Religious Figures/Institutions,5
+2006,Telecommunication,1
+2006,Tourists,5
+2006,Transportation,14
+2006,Unknown,2
+2006,Utilities,13
+2006,Violent Political Party,1
+2007,Business,10
+2007,Educational Institution,1
+2007,Government (General),19
+2007,Military,10
+2007,Police,33
+2007,Private Citizens & Property,59
+2007,Religious Figures/Institutions,2
+2007,Terrorists/Non-State Militia,2
+2007,Transportation,12
+2007,Unknown,1
+2007,Utilities,3
+2007,Violent Political Party,2
+2008,Business,48
+2008,Educational Institution,9
+2008,Food or Water Supply,1
+2008,Government (General),81
+2008,Journalists & Media,2
+2008,Maritime,1
+2008,Military,11
+2008,NGO,4
+2008,Other,3
+2008,Police,56
+2008,Private Citizens & Property,190
+2008,Religious Figures/Institutions,6
+2008,Telecommunication,8
+2008,Terrorists/Non-State Militia,37
+2008,Tourists,1
+2008,Transportation,38
+2008,Unknown,10
+2008,Utilities,4
+2008,Violent Political Party,7
+2009,Business,47
+2009,Educational Institution,27
+2009,Government (General),134
+2009,Journalists & Media,2
+2009,Military,13
+2009,NGO,1
+2009,Other,1
+2009,Police,125
+2009,Private Citizens & Property,186
+2009,Religious Figures/Institutions,3
+2009,Telecommunication,22
+2009,Terrorists/Non-State Militia,20
+2009,Tourists,1
+2009,Transportation,63
+2009,Unknown,1
+2009,Utilities,2
+2009,Violent Political Party,25

@@ -1,0 +1,1791 @@
+eventid,iyear,imonth,iday,country_txt,city,attacktype1_txt,targtype1_txt,weaptype1_txt
+199001010001,1990,1,1,India,Srinigar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199001010002,1990,1,1,India,Safakadal,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199001010003,1990,1,1,India,Batamalu,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199001030001,1990,1,3,India,Palampur Village,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199001050002,1990,1,5,India,Makhu,Armed Assault,Private Citizens & Property,Firearms
+199001050005,1990,1,5,India,Bade village,Assassination,Private Citizens & Property,Firearms
+199001050006,1990,1,5,India,Batala Police District,Assassination,Private Citizens & Property,Firearms
+199001060001,1990,1,6,India,Nahajia,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199001060002,1990,1,6,India,Sopor,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199001070001,1990,1,7,India,New Delhi,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199001070002,1990,1,7,India,Baramula town,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199001080001,1990,1,8,India,Batamalu,Facility/Infrastructure Attack,Educational Institution,Incendiary
+199001080002,1990,1,8,India,Jammu,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199001080003,1990,1,8,India,Anantnag,Facility/Infrastructure Attack,Government (General),Incendiary
+199001080004,1990,1,8,India,Sopor,Facility/Infrastructure Attack,Business,Incendiary
+199001080005,1990,1,8,India,Anantnag,Armed Assault,Police,Firearms
+199001080011,1990,1,8,India,Bhuduwalla,Assassination,Police,Firearms
+199001080012,1990,1,8,India,Bhunduwalla,Assassination,Police,Unknown
+199001080013,1990,1,8,India,Srinigar,Assassination,Police,Firearms
+199001090002,1990,1,9,India,Srinigar,Facility/Infrastructure Attack,Business,Incendiary
+199001090003,1990,1,9,India,Srinigar,Facility/Infrastructure Attack,Government (General),Incendiary
+199001090004,1990,1,9,India,Srinigar,Facility/Infrastructure Attack,Educational Institution,Incendiary
+199001090008,1990,1,9,India,Bherwar,Assassination,Government (General),Firearms
+199001100003,1990,1,10,India,Srinigar,Armed Assault,Police,Firearms
+199001100009,1990,1,10,India,Jullundur,Assassination,Police,Explosives/Bombs/Dynamite
+199001150006,1990,1,15,India,Srinigar,Assassination,Police,Firearms
+199001160014,1990,1,16,India,Srinigar,Assassination,Police,Melee
+199001190002,1990,1,19,India,Bawianwali Balaggan,Armed Assault,Private Citizens & Property,Firearms
+199001200001,1990,1,20,India,Srinigar,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199001240005,1990,1,24,India,Amritsar,Assassination,Violent Political Party,Firearms
+199001250009,1990,1,25,India,Srinigar,Armed Assault,Military,Firearms
+199001300005,1990,1,30,India,Andhra Pradesh State,Hostage Taking (Kidnapping),Government (General),Unknown
+199002010001,1990,2,1,India,Srinigar,Armed Assault,Business,Firearms
+199002040001,1990,2,4,India,Sopore,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199002040002,1990,2,4,India,Sopore,Bombing/Explosion,Educational Institution,Explosives/Bombs/Dynamite
+199002040003,1990,2,4,India,Amritsar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199002040004,1990,2,4,India,Amritsar,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199002040011,1990,2,4,India,Amritsar,Armed Assault,Transportation,Firearms
+199002060001,1990,2,6,India,Haldwani Town,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199002070001,1990,2,7,India,Srinigar,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199002100001,1990,2,10,India,Srinigar,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199002100002,1990,2,10,India,Srinigar,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199002100003,1990,2,10,India,Srinigar,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199002100004,1990,2,10,India,Srinigar,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199002100005,1990,2,10,India,Srinigar,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199002100006,1990,2,10,India,Srinigar,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199002100007,1990,2,10,India,Srinigar,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199002100008,1990,2,10,India,Srinigar,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199002100009,1990,2,10,India,Srinigar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199002110001,1990,2,11,India,Kilor,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199002110004,1990,2,11,India,Wahabpura,Hostage Taking (Kidnapping),Police,Firearms
+199002120008,1990,2,12,India,Srinigar,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199002120009,1990,2,12,India,Batala,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199002120012,1990,2,12,India,Amritsar District,Assassination,Private Citizens & Property,Firearms
+199002120013,1990,2,12,India,Srinigar,Assassination,Police,Firearms
+199002120014,1990,2,12,India,Srinigar,Assassination,Police,Firearms
+199002120015,1990,2,12,India,Srinigar,Assassination,Police,Firearms
+199002120016,1990,2,12,India,Srinigar,Assassination,Police,Firearms
+199002120017,1990,2,12,India,Srinigar,Assassination,Government (General),Firearms
+199002130001,1990,2,13,India,Todarmal,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199002130002,1990,2,13,India,Khair,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199002130005,1990,2,13,India,Karmuwal,Assassination,Private Citizens & Property,Firearms
+199002130006,1990,2,13,India,Badgam District,Assassination,Private Citizens & Property,Melee
+199002130007,1990,2,13,India,Srinigar,Assassination,Journalists & Media,Firearms
+199002150013,1990,2,15,India,Srinigar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199002170003,1990,2,17,India,Srinigar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199002180006,1990,2,18,India,Srinigar,Assassination,Police,Firearms
+199002190004,1990,2,19,India,Nagaland State,Assassination,Government (General),Firearms
+199002220001,1990,2,22,India,Srinigar,Bombing/Explosion,Tourists,Explosives/Bombs/Dynamite
+199002220002,1990,2,22,India,Srinigar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199002220003,1990,2,22,India,Srinigar,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199002260002,1990,2,26,India,Not Stated,Hostage Taking (Kidnapping),Government (General),Firearms
+199002270012,1990,2,27,India,Srinigar,Assassination,Telecommunication,Firearms
+199002280004,1990,2,28,India,Gujarat,Hostage Taking (Kidnapping),Government (General),Firearms
+199002280009,1990,2,28,India,Gujarat,Assassination,Government (General),Firearms
+199003010001,1990,3,1,India,Meerut,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199003010005,1990,3,1,India,Srinigar,Assassination,Government (General),Firearms
+199003050002,1990,3,5,India,Srinigar,Armed Assault,Police,Firearms
+199003070001,1990,3,7,India,Abohar,Bombing/Explosion,Utilities,Explosives/Bombs/Dynamite
+199003070003,1990,3,7,India,Abohar,Bombing/Explosion,Private Citizens & Property,Firearms
+199003070008,1990,3,7,India,Srinigar,Assassination,Private Citizens & Property,Firearms
+199003080007,1990,3,8,India,Tarn Taran,Armed Assault,Transportation,Firearms
+199003080008,1990,3,8,India,Rajoke,Armed Assault,Private Citizens & Property,Firearms
+199003110002,1990,3,11,India,Srinigar,Armed Assault,Police,Firearms
+199003110005,1990,3,11,India,Srinigar,Assassination,Police,Firearms
+199003120004,1990,3,12,India,Srinigar,Assassination,Business,Firearms
+199003130004,1990,3,13,India,Gonpur,Assassination,Government (General),Firearms
+199003130005,1990,3,13,India,Srinigar,Assassination,Police,Firearms
+199003130006,1990,3,13,India,Gauhati,Assassination,Business,Firearms
+199003170003,1990,3,17,India,Anantnag,Hostage Taking (Kidnapping),Police,Firearms
+199003180001,1990,3,18,India,Srinigar,Armed Assault,Police,Firearms
+199003180002,1990,3,18,India,Srinigar,Armed Assault,Police,Firearms
+199003180003,1990,3,18,India,Amritsar,Hostage Taking (Kidnapping),Private Citizens & Property,Firearms
+199003180006,1990,3,18,India,Dalwani Bhai,Assassination,Religious Figures/Institutions,Firearms
+199003180007,1990,3,18,India,Harsha Shinna,Assassination,Government (General),Firearms
+199003180008,1990,3,18,India,Amritsar,Assassination,Private Citizens & Property,Firearms
+199003180009,1990,3,18,India,Anantnag,Assassination,Police,Firearms
+199003190003,1990,3,19,India,New Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199003190008,1990,3,19,India,Dalwandi Bhai,Hostage Taking (Kidnapping),Private Citizens & Property,Firearms
+199003190010,1990,3,19,India,Talwandibhai,Armed Assault,Private Citizens & Property,Firearms
+199003190011,1990,3,19,India,Srinigar,Assassination,Private Citizens & Property,Firearms
+199003200001,1990,3,20,India,Srinigar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199003200002,1990,3,20,India,Chandigarh,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199003200008,1990,3,20,India,Srinigar,Assassination,Government (General),Firearms
+199003200009,1990,3,20,India,Qazigunj Township,Assassination,Private Citizens & Property,Firearms
+199003230008,1990,3,23,India,Srinigar,Hostage Taking (Kidnapping),Government (General),Melee
+199003230015,1990,3,23,India,Keygam,Assassination,Violent Political Party,Firearms
+199003240010,1990,3,24,India,Srinigar,Assassination,Police,Firearms
+199003250005,1990,3,25,India,Anantnag,Assassination,Government (General),Firearms
+199003270012,1990,3,27,India,Srinigar,Assassination,Business,Firearms
+199003270013,1990,3,27,India,Srinigar,Assassination,Private Citizens & Property,Firearms
+199003270014,1990,3,27,India,Srinigar,Assassination,Private Citizens & Property,Firearms
+199003290002,1990,3,29,India,Shahpur Jhajhan,Armed Assault,Police,Firearms
+199004010001,1990,4,1,India,Warangal,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199004020001,1990,4,2,India,Tikana,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199004020006,1990,4,2,India,Targadh,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199004020012,1990,4,2,India,Manawala,Assassination,Transportation,Firearms
+199004030001,1990,4,3,India,Batala,Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199004050001,1990,4,5,India,Panipat,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199004050003,1990,4,5,India,Srinigar,Armed Assault,Police,Firearms
+199004050004,1990,4,5,India,Srinigar,Assassination,Business,Firearms
+199004060006,1990,4,6,India,Srinigar,Hostage Taking (Kidnapping),Business,Firearms
+199004060007,1990,4,6,India,Srinigar,Hostage Taking (Kidnapping),Educational Institution,Firearms
+199004090005,1990,4,9,India,Assam State,Assassination,Business,Firearms
+199004100002,1990,4,10,India,New Delhi,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199004100003,1990,4,10,India,New Delhi,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199004100004,1990,4,10,India,New Delhi,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199004110003,1990,4,11,India,Bombay,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199004120001,1990,4,12,India,Assam State,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199004130001,1990,4,13,India,New Delhi,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199004130002,1990,4,13,India,Sepapani Village,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199004130003,1990,4,13,India,Bijini,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199004130004,1990,4,13,India,Srinagar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199004130005,1990,4,13,India,Srinagar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199004130006,1990,4,13,India,Srinigar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199004140002,1990,4,14,India,Poona,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199004140003,1990,4,14,India,Poona,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199004140006,1990,4,14,India,Srinigar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199004150001,1990,4,15,India,New Delhi,Facility/Infrastructure Attack,Police,Incendiary
+199004160007,1990,4,16,India,Srinigar,Assassination,Police,Firearms
+199004170001,1990,4,17,India,Mathura,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199004180002,1990,4,18,India,Anantnag,Armed Assault,Military,Firearms
+199004180007,1990,4,18,India,Srinigar,Assassination,Private Citizens & Property,Firearms
+199004180008,1990,4,18,India,Jammu Kashmir State,Assassination,Government (General),Unknown
+199004190001,1990,4,19,India,Pathankot,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199004190002,1990,4,19,India,Damkala,Armed Assault,Police,Firearms
+199004190005,1990,4,19,India,Sanga,Assassination,Private Citizens & Property,Firearms
+199004190006,1990,4,19,India,Kansla,Assassination,Private Citizens & Property,Firearms
+199004200001,1990,4,20,India,Calcutta,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199004200002,1990,4,20,India,Batala,Armed Assault,Other,Firearms
+199004250028,1990,4,25,India,Raisinghnagar,Armed Assault,Military,Firearms
+199004250033,1990,4,25,India,Kashmir State,Assassination,Private Citizens & Property,Firearms
+199004250034,1990,4,25,India,Kashmir State,Assassination,Private Citizens & Property,Firearms
+199004250035,1990,4,25,India,Kashmir State,Assassination,Private Citizens & Property,Firearms
+199004250036,1990,4,25,India,Kashmir State,Assassination,Private Citizens & Property,Firearms
+199004280001,1990,4,28,India,Amritsar,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199004280002,1990,4,28,India,New Delhi,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199004280004,1990,4,28,India,Batala,Armed Assault,Military,Firearms
+199004280005,1990,4,28,India,Murki,Unknown,Military,Unknown
+199004300002,1990,4,30,India,Amritsar,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199004300003,1990,4,30,India,Amritsar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199004300004,1990,4,30,India,New Delhi,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199005000002,1990,5,0,India,Punjab State,Assassination,Violent Political Party,Firearms
+199005020023,1990,5,2,India,Srinigar,Assassination,Government (General),Firearms
+199005020024,1990,5,2,India,Anantnag,Assassination,Private Citizens & Property,Firearms
+199005030005,1990,5,3,India,Gurdaspur,Assassination,Private Citizens & Property,Firearms
+199005040003,1990,5,4,India,Srinigar,Armed Assault,Military,Firearms
+199005040004,1990,5,4,India,Srinigar,Armed Assault,Military,Firearms
+199005080012,1990,5,8,India,Jalandhar,Assassination,Private Citizens & Property,Firearms
+199005080013,1990,5,8,India,Muktsar,Assassination,Private Citizens & Property,Firearms
+199005080014,1990,5,8,India,Amritsar,Assassination,Police,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+199005080015,1990,5,8,India,Srinigar,Assassination,Private Citizens & Property,Firearms
+199005080016,1990,5,8,India,Baramulla,Assassination,Private Citizens & Property,Firearms
+199005090001,1990,5,9,India,New Delhi,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199005090002,1990,5,9,India,Amritsan,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199005100006,1990,5,10,India,Pulwama Town,Assassination,Educational Institution,Firearms
+199005100007,1990,5,10,India,Srinigar,Assassination,Private Citizens & Property,Firearms
+199005110005,1990,5,11,India,Kachduro,Assassination,Government (General),Firearms
+199005120002,1990,5,12,India,Jaflan,Armed Assault,Private Citizens & Property,Firearms
+199005140017,1990,5,14,India,Amritsar,Assassination,Government (General),Unknown
+199005150003,1990,5,15,India,Anantnag,Bombing/Explosion,Police,Firearms
+199005210009,1990,5,21,India,Srinigar,Assassination,Religious Figures/Institutions,Firearms
+199005270007,1990,5,27,India,Maloke Village,Armed Assault,Private Citizens & Property,Firearms
+199006040001,1990,6,4,India,Patiala,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199006040002,1990,6,4,India,Patiala,Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199006040010,1990,6,4,India,Chaheru,Armed Assault,Police,Firearms
+199006040011,1990,6,4,India,Ferozepore Dist,Armed Assault,Military,Firearms
+199006040016,1990,6,4,India,Bhatinda Dist.,Assassination,Police,Firearms
+199006040017,1990,6,4,India,Amritsar Dist.,Assassination,Private Citizens & Property,Firearms
+199006040018,1990,6,4,India,Brahmawal Tandi,Assassination,Private Citizens & Property,Firearms
+199006040019,1990,6,4,India,Chandigarh,Assassination,Police,Firearms
+199006050001,1990,6,5,India,Dispur,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199006050002,1990,6,5,India,Ramlal Village,Armed Assault,Police,Firearms
+199006060001,1990,6,6,India,Batala City,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199006060005,1990,6,6,India,Srinigar,Bombing/Explosion,Military,Firearms
+199006070001,1990,6,7,India,Amritsar,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199006070008,1990,6,7,India,Bijbehara,Assassination,Government (General),Firearms
+199006080001,1990,6,8,India,Chandrapurna,Armed Assault,Private Citizens & Property,Firearms
+199006080002,1990,6,8,India,Kalwamora,Armed Assault,Business,Firearms
+199006090006,1990,6,9,India,Jhandoke,Armed Assault,Business,Firearms
+199006090007,1990,6,9,India,Butta,Armed Assault,Police,Firearms
+199006090008,1990,6,9,India,Fattawala,Armed Assault,Police,Firearms
+199006090020,1990,6,9,India,Amritsar Dist.,Assassination,Police,Firearms
+199006090021,1990,6,9,India,Amritsar District,Assassination,Police,Firearms
+199006100001,1990,6,10,India,Barpeta,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199006100007,1990,6,10,India,Srinigar,Hostage Taking (Kidnapping),Police,Firearms
+199006120001,1990,6,12,India,Shahbaajpur,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199006130001,1990,6,13,India,Panligam,Armed Assault,Police,Firearms
+199006130002,1990,6,13,India,Srinigar,Armed Assault,Military,Firearms
+199006180002,1990,6,18,India,Srinigar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199006180003,1990,6,18,India,Srinigar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199006180004,1990,6,18,India,Srinigar,Armed Assault,Police,Firearms
+199006190001,1990,6,19,India,Assam State,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199006190005,1990,6,19,India,Madras,Armed Assault,Violent Political Party,Firearms
+199006190006,1990,6,19,India,Srinigar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199006190011,1990,6,19,India,Srinigar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199006230007,1990,6,23,India,Waripura,Assassination,Private Citizens & Property,Firearms
+199006240007,1990,6,24,India,Dhadhoi,Armed Assault,Transportation,Firearms
+199006250003,1990,6,25,India,Kupwara,Armed Assault,Military,Firearms
+199006280002,1990,6,28,India,Goreshwar,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199006290004,1990,6,29,India,Acchabal,Armed Assault,Military,Firearms
+199006290006,1990,6,29,India,Drusu,Assassination,Private Citizens & Property,Firearms
+199006290007,1990,6,29,India,Srinigar,Assassination,Private Citizens & Property,Firearms
+199006290008,1990,6,29,India,Srinigar,Assassination,Government (General),Firearms
+199006290009,1990,6,29,India,Srinigar,Assassination,Government (General),Firearms
+199007060007,1990,7,6,India,Srinigar,Hostage Taking (Kidnapping),Government (General),Firearms
+199007070002,1990,7,7,India,Srinigar,Armed Assault,Police,Firearms
+199007070011,1990,7,7,India,Ropar District,Assassination,Private Citizens & Property,Firearms
+199007080001,1990,7,8,India,Fatehgarh Churian,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199007100005,1990,7,10,India,Chandigarh,Assassination,Government (General),Firearms
+199007120007,1990,7,12,India,Ferozepore District,Assassination,Police,Firearms
+199007130009,1990,7,13,India,Khajala,Armed Assault,Police,Firearms
+199007140009,1990,7,14,India,Punjab State,Armed Assault,Police,Firearms
+199007140010,1990,7,14,India,Patiala District,Armed Assault,Educational Institution,Firearms
+199007140011,1990,7,14,India,Punjab State,Hostage Taking (Kidnapping),Police,Firearms
+199007140014,1990,7,14,India,Punjab State,Assassination,Police,Firearms
+199007160002,1990,7,16,India,Trunde,Armed Assault,Police,Firearms
+199007160003,1990,7,16,India,Assam State,Hostage Taking (Kidnapping),Business,Firearms
+199007170002,1990,7,17,India,Srinigar,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199007170003,1990,7,17,India,Srinigar,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199007170004,1990,7,17,India,Srinigar,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199007170005,1990,7,17,India,Srinigar,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199007170010,1990,7,17,India,Ruriwala,Armed Assault,Police,Firearms
+199007190002,1990,7,19,India,Jammu,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199007200002,1990,7,20,India,Kathua District,Armed Assault,Police,Firearms
+199007200003,1990,7,20,India,Dera Baba Nanek,Armed Assault,Military,Firearms
+199007200006,1990,7,20,India,Sunan,Assassination,Business,Firearms
+199007200007,1990,7,20,India,Sunan,Assassination,Business,Firearms
+199007210001,1990,7,21,India,Bidar,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199007220008,1990,7,22,India,Karnataka State,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199007230005,1990,7,23,India,Tandra,Armed Assault,Police,Firearms
+199007230006,1990,7,23,India,Kotlarai,Armed Assault,Police,Firearms
+199007230008,1990,7,23,India,Jaintipura,Hostage Taking (Kidnapping),Military,Firearms
+199007230012,1990,7,23,India,Chandigarh,Assassination,Government (General),Firearms
+199007230013,1990,7,23,India,Srinigar,Assassination,Educational Institution,Firearms
+199007230014,1990,7,23,India,Qazi Kund,Assassination,Private Citizens & Property,Firearms
+199007230015,1990,7,23,India,Kupwara,Assassination,Private Citizens & Property,Firearms
+199007230016,1990,7,23,India,Simaluguri,Assassination,Government (General),Firearms
+199007230017,1990,7,23,India,Ferozepur District,Assassination,Private Citizens & Property,Firearms
+199007240006,1990,7,24,India,Bhatinda,Armed Assault,Religious Figures/Institutions,Firearms
+199007260006,1990,7,26,India,Sepore,Armed Assault,Police,Firearms
+199007260007,1990,7,26,India,Narbal,Bombing/Explosion,Telecommunication,Explosives/Bombs/Dynamite
+199007260009,1990,7,26,India,Anantnag,Hostage Taking (Kidnapping),Private Citizens & Property,Firearms
+199007260011,1990,7,26,India,Sumbal,Assassination,Private Citizens & Property,Firearms
+199007260012,1990,7,26,India,Sopore,Assassination,Educational Institution,Firearms
+199007270018,1990,7,27,India,Srinigar,Assassination,Private Citizens & Property,Explosives/Bombs/Dynamite
+199007290007,1990,7,29,India,Lahowal,Assassination,Police,Firearms
+199007300009,1990,7,30,India,Kupwara District,Armed Assault,Police,Firearms
+199008010045,1990,8,1,India,Srinigar,Assassination,Business,Firearms
+199008020003,1990,8,2,India,Buchwind Village,Armed Assault,Police,Firearms
+199008020006,1990,8,2,India,Chabal Village,Assassination,Police,Firearms
+199008050001,1990,8,5,India,Kurukshetra,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199008090002,1990,8,9,India,Srinigar,Hostage Taking (Kidnapping),Business,Firearms
+199008090003,1990,8,9,India,Srinigar,Assassination,Private Citizens & Property,Firearms
+199008090004,1990,8,9,India,Amritsar City,Assassination,Government (General),Firearms
+199008140001,1990,8,14,India,Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199008150001,1990,8,15,India,Punjab State,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199008150002,1990,8,15,India,Delhi,Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199008180004,1990,8,18,India,Patti Town,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199008190009,1990,8,19,India,Amritsar,Hostage Taking (Kidnapping),Private Citizens & Property,Unknown
+199008300011,1990,8,30,India,Anantnag,Assassination,Police,Firearms
+199009040001,1990,9,4,India,Rangiya,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199009100006,1990,9,10,India,Andhra Pradesh,Hostage Taking (Kidnapping),Government (General),Firearms
+199009100007,1990,9,10,India,Andhra Pradesh,Hostage Taking (Kidnapping),Government (General),Firearms
+199009100008,1990,9,10,India,Andhra Pradesh,Hostage Taking (Kidnapping),Government (General),Firearms
+199009110002,1990,9,11,India,Jammu,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199009110006,1990,9,11,India,Kangan,Unknown,Police,Unknown
+199009120002,1990,9,12,India,Valtoha,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199009120005,1990,9,12,India,Raiya,Armed Assault,Transportation,Firearms
+199009120006,1990,9,12,India,Chehata,Unknown,Police,Unknown
+199009120007,1990,9,12,India,Gurdaspur District,Assassination,Private Citizens & Property,Firearms
+199009120008,1990,9,12,India,Mukhivand,Assassination,Private Citizens & Property,Firearms
+199009160009,1990,9,16,India,Ludhiana,Armed Assault,Police,Firearms
+199009190002,1990,9,19,India,Sapore,Armed Assault,Police,Firearms
+199009200001,1990,9,20,India,Bombay,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199009250009,1990,9,25,India,Fatahpur,Assassination,Private Citizens & Property,Firearms
+199009280001,1990,9,28,India,Jullundur,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199009280004,1990,9,28,India,Tarn Taran,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199010000001,1990,10,0,India,Bihar,Facility/Infrastructure Attack,Transportation,Incendiary
+199010040001,1990,10,4,India,Majitua District,Armed Assault,Police,Firearms
+199010060001,1990,10,6,India,Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199010100002,1990,10,10,India,Hyderabad,Armed Assault,Transportation,Incendiary
+199010140001,1990,10,14,India,Srinigar,Facility/Infrastructure Attack,Educational Institution,Incendiary
+199010140002,1990,10,14,India,Srinigar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199010140003,1990,10,14,India,Srinigar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199010140004,1990,10,14,India,Srinigar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199010140005,1990,10,14,India,Srinigar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199010140008,1990,10,14,India,Srinigar,Assassination,Business,Firearms
+199010140009,1990,10,14,India,Srinigar,Assassination,Private Citizens & Property,Firearms
+199010140010,1990,10,14,India,Srinigar,Assassination,Private Citizens & Property,Firearms
+199010160002,1990,10,16,India,Ferozepur,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199010190004,1990,10,19,India,Barsala town,Armed Assault,Business,Firearms
+199010200003,1990,10,20,India,Hanjiwala Pattan,Armed Assault,Police,Firearms
+199010210014,1990,10,21,India,Amritsar,Assassination,Private Citizens & Property,Firearms
+199010250009,1990,10,25,India,Batala,Armed Assault,Military,Firearms
+199010250010,1990,10,25,India,Chandigarh,Armed Assault,Private Citizens & Property,Firearms
+199010250018,1990,10,25,India,Gurdaspur Dist.,Assassination,Private Citizens & Property,Firearms
+199011020005,1990,11,2,India,Kuminkadi,Armed Assault,Military,Firearms
+199011040001,1990,11,4,India,Pathankot,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199011040003,1990,11,4,India,Lohan Village,Armed Assault,Police,Firearms
+199011040004,1990,11,4,India,Ahmadgarh,Armed Assault,Police,Firearms
+199011040007,1990,11,4,India,Gurdaspur,Armed Assault,Private Citizens & Property,Firearms
+199011070002,1990,11,7,India,Srinigar,Armed Assault,Military,Firearms
+199011090003,1990,11,9,India,Amritsar,Hijacking,Transportation,Firearms
+199011100004,1990,11,10,India,Calcutta,Hijacking,Airports & Aircraft,Firearms
+199011100010,1990,11,10,India,Faridkot,Armed Assault,Private Citizens & Property,Firearms
+199011100011,1990,11,10,India,Amritsar District,Assassination,Private Citizens & Property,Firearms
+199011100012,1990,11,10,India,Ferozepur,Assassination,Private Citizens & Property,Firearms
+199011100013,1990,11,10,India,Bhatinda,Assassination,Private Citizens & Property,Firearms
+199011140004,1990,11,14,India,Assam Sttate,Armed Assault,Police,Firearms
+199011150001,1990,11,15,India,Gauhati,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199011170002,1990,11,17,India,Hoshiapur,Assassination,Private Citizens & Property,Firearms
+199011240002,1990,11,24,India,Tarn Taran,Assassination,Police,Explosives/Bombs/Dynamite
+199011240004,1990,11,24,India,Tamil Nadu State,Hostage Taking (Kidnapping),Government (General),Firearms
+199011250001,1990,11,25,India,Sitamarhi,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199011250007,1990,11,25,India,Jullundur,Armed Assault,Private Citizens & Property,Firearms
+199011260001,1990,11,26,India,Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199011260009,1990,11,26,India,Ludhiana,Assassination,Private Citizens & Property,Firearms
+199011270012,1990,11,27,India,Dubli,Armed Assault,Military,Firearms
+199012030002,1990,12,3,India,Gurdaspur District,Assassination,Police,Firearms
+199012030008,1990,12,3,India,Jagraun,Assassination,Government (General),Firearms
+199012040001,1990,12,4,India,Bombay,Armed Assault,Police,Firearms
+199012040004,1990,12,4,India,Warangal District,Hostage Taking (Kidnapping),Government (General),Unknown
+199012040006,1990,12,4,India,Bombay,Assassination,Police,Firearms
+199012040007,1990,12,4,India,Gurdaspur District,Assassination,Police,Firearms
+199012060005,1990,12,6,India,Chandigarh,Assassination,Journalists & Media,Firearms
+199012130004,1990,12,13,India,Srinigar,Armed Assault,Police,Firearms
+199012130012,1990,12,13,India,Ganderbal,Assassination,Government (General),Firearms
+199012270005,1990,12,27,India,Churchak,Assassination,Police,Firearms
+199101070006,1991,1,7,India,Purulia,Armed Assault,Police,Firearms
+199101080008,1991,1,8,India,Ludhiana,Hostage Taking (Kidnapping),Private Citizens & Property,Firearms
+199101110011,1991,1,11,India,Bihar State,Armed Assault,Police,Firearms
+199101120003,1991,1,12,India,Singhpora,Armed Assault,Military,Firearms
+199101170004,1991,1,17,India,Delhi,Bombing/Explosion,Airports & Aircraft,Explosives/Bombs/Dynamite
+199101220006,1991,1,22,India,New Delhi,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199101220007,1991,1,22,India,Delhi,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199101220011,1991,1,22,India,Sangur,Assassination,Government (General),Firearms
+199101260003,1991,1,26,India,Srinigar,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199101260008,1991,1,26,India,Anantnag District,Assassination,Private Citizens & Property,Firearms
+199101260009,1991,1,26,India,Farikot,Assassination,Government (General),Explosives/Bombs/Dynamite
+199101260010,1991,1,26,India,Sopore Town,Armed Assault,Military,Firearms
+199101260011,1991,1,26,India,Srinigar,Armed Assault,Military,Firearms
+199101270002,1991,1,27,India,Delhi,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199101280012,1991,1,28,India,Bhikhowal,Armed Assault,Tourists,Firearms
+199101280013,1991,1,28,India,Meerut,Assassination,Government (General),Firearms
+199101290001,1991,1,29,India,Srinagar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199101290013,1991,1,29,India,Kulgam,Armed Assault,Police,Firearms
+199101290014,1991,1,29,India,Srinigar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199101290015,1991,1,29,India,Bhikowal,Armed Assault,Transportation,Firearms
+199101310013,1991,1,31,India,Churchak Village,Hostage Taking (Kidnapping),Private Citizens & Property,Firearms
+199102020012,1991,2,2,India,Ludhiana,Assassination,Police,Explosives/Bombs/Dynamite
+199102050006,1991,2,5,India,Srinigar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199102050007,1991,2,5,India,Sopore,Armed Assault,Military,Firearms
+199102060047,1991,2,6,India,Sirpur,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199102080002,1991,2,8,India,Lucknow,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199102100008,1991,2,10,India,Kochi town,Unarmed Assault,Government (Diplomatic),Melee
+199102120003,1991,2,12,India,Banur,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199102190002,1991,2,19,India,New Delhi,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199102230004,1991,2,23,India,Srinigar,Bombing/Explosion,Government (Diplomatic),Explosives/Bombs/Dynamite
+199102270016,1991,2,27,India,Srinigar,Hostage Taking (Kidnapping),Government (General),Firearms
+199103150021,1991,3,15,India,Majitha,Armed Assault,Police,Firearms
+199103180005,1991,3,18,India,New Delhi,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199103180006,1991,3,18,India,New Delhi,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199103200002,1991,3,20,India,Ludhiana,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199103200007,1991,3,20,India,Punjab State,Assassination,Government (General),Explosives/Bombs/Dynamite
+199103210011,1991,3,21,India,Hadawadi,Armed Assault,Private Citizens & Property,Firearms
+199103220004,1991,3,22,India,Jammu,Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199103220007,1991,3,22,India,Chandigarh,Armed Assault,Business,Firearms
+199103230001,1991,3,23,India,New Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199103230003,1991,3,23,India,New Delhi,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199103230007,1991,3,23,India,Ludhiana,Assassination,Government (General),Explosives/Bombs/Dynamite
+199103250007,1991,3,25,India,Srinigar,Assassination,Police,Firearms
+199103250008,1991,3,25,India,Kupwara,Assassination,Private Citizens & Property,Firearms
+199103250014,1991,3,25,India,Pulwama,Armed Assault,Police,Firearms
+199103250015,1991,3,25,India,Pampore,Armed Assault,Police,Firearms
+199103250016,1991,3,25,India,Ladakh,Armed Assault,Police,Firearms
+199103310012,1991,3,31,India,Kashmir State,Hostage Taking (Kidnapping),Business,Firearms
+199104020002,1991,4,2,India,Amritsar,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199104020003,1991,4,2,India,Jammu,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199104030007,1991,4,3,India,Amritsar,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199104030008,1991,4,3,India,Jandiala,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199104030009,1991,4,3,India,Amritsar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199104040010,1991,4,4,India,Amritsar District,Armed Assault,Police,Firearms
+199104040011,1991,4,4,India,Badgam District,Armed Assault,Police,Firearms
+199104050002,1991,4,5,India,Mukerian,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199104050026,1991,4,5,India,Ludhiana,Hostage Taking (Kidnapping),Police,Firearms
+199104060002,1991,4,6,India,Sugandh,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199104060005,1991,4,6,India,Srinigar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199104110003,1991,4,11,India,Srinigar,Assassination,Police,Firearms
+199104170002,1991,4,17,India,Calcutta,Armed Assault,Religious Figures/Institutions,Firearms
+199104170003,1991,4,17,India,Samana Town,Armed Assault,Police,Firearms
+199104190004,1991,4,19,India,Bombay,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199104190005,1991,4,19,India,Bombay,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199104190006,1991,4,19,India,Bombay,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199104190007,1991,4,19,India,Kharad,Armed Assault,Police,Firearms
+199104210002,1991,4,21,India,Safaqadal,Armed Assault,Police,Firearms
+199104210003,1991,4,21,India,Churchak,Armed Assault,Police,Firearms
+199104230001,1991,4,23,India,Sririgar,Assassination,Journalists & Media,Firearms
+199104260003,1991,4,26,India,New Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199104260008,1991,4,26,India,Chandigarh,Assassination,Government (General),Firearms
+199104270002,1991,4,27,India,Moga,Assassination,Government (General),Firearms
+199105030003,1991,5,3,India,Amritsar District,Armed Assault,Police,Firearms
+199105030004,1991,5,3,India,Faridkot Dist.,Armed Assault,Police,Firearms
+199105030005,1991,5,3,India,Ferozepore Dist.,Armed Assault,Police,Firearms
+199105030006,1991,5,3,India,Sikandra,Armed Assault,Police,Firearms
+199105040006,1991,5,4,India,Ajarbal,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199105060003,1991,5,6,India,Srinigar,Assassination,Business,Firearms
+199105060004,1991,5,6,India,Sangrur District,Assassination,Violent Political Party,Firearms
+199105070001,1991,5,7,India,Dharampuram,Assassination,Government (General),Firearms
+199105070005,1991,5,7,India,Taran Taran,Armed Assault,Police,Firearms
+199105070006,1991,5,7,India,Jalandhar District,Hostage Taking (Kidnapping),Government (General),Unknown
+199105080012,1991,5,8,India,Longowal Village,Assassination,Government (General),Firearms
+199105100003,1991,5,10,India,Pragpur,Assassination,Government (General),Unknown
+199105110017,1991,5,11,India,Hyderabad,Hostage Taking (Kidnapping),Government (General),Firearms
+199105120004,1991,5,12,India,Orissa State,Assassination,Government (General),Explosives/Bombs/Dynamite
+199105120008,1991,5,12,India,Rampur District,Armed Assault,Government (General),Firearms
+199105150004,1991,5,15,India,Bihar,Assassination,Violent Political Party,Firearms
+199105170010,1991,5,17,India,Amritsar,Assassination,Government (General),Firearms
+199105230002,1991,5,21,India,Sriperumpudur,Assassination,Government (General),Explosives/Bombs/Dynamite
+199105260004,1991,5,26,India,Ropar,Armed Assault,Police,Firearms
+199105260005,1991,5,26,India,Sangma,Armed Assault,Police,Firearms
+199105260006,1991,5,26,India,Jalandhar,Armed Assault,Police,Firearms
+199105280012,1991,5,28,India,Punjab State,Assassination,Government (General),Firearms
+199105280013,1991,5,28,India,Punjab State,Assassination,Government (General),Firearms
+199105300006,1991,5,30,India,Adilabad,Armed Assault,Police,Firearms
+199105300007,1991,5,30,India,East Godavari Forest,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199106030002,1991,6,3,India,Amritsar,Assassination,Government (General),Firearms
+199106030003,1991,6,3,India,Patiala,Assassination,Violent Political Party,Firearms
+199106040007,1991,6,4,India,Hazratbal,Assassination,Government (General),Firearms
+199106060002,1991,6,6,India,Chandigarh city,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199106060003,1991,6,6,India,Chandigarh,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199106060013,1991,6,6,India,Naipura Badgam,Armed Assault,Police,Firearms
+199106070006,1991,6,7,India,Jholian,Assassination,Government (General),Firearms
+199106070007,1991,6,7,India,Ganji Gulabsinghwala,Assassination,Violent Political Party,Firearms
+199106070008,1991,6,7,India,Ludhiana,Assassination,Government (General),Explosives/Bombs/Dynamite
+199106080006,1991,6,8,India,Litran,Assassination,Violent Political Party,Firearms
+199106080009,1991,6,8,India,Kupwara,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199106090016,1991,6,9,India,Baramula,Armed Assault,Police,Firearms
+199106090017,1991,6,9,India,Lapoke,Armed Assault,Police,Firearms
+199106090018,1991,6,9,India,Mogha,Armed Assault,Police,Firearms
+199106100003,1991,6,10,India,Malasian Bajan,Assassination,Government (General),Firearms
+199106100004,1991,6,10,India,Bhatinda District,Assassination,Violent Political Party,Firearms
+199106110009,1991,6,11,India,Nabha,Assassination,Violent Political Party,Firearms
+199106120023,1991,6,12,India,Bhatinda,Assassination,Government (General),Firearms
+199106120027,1991,6,12,India,Mandai,Armed Assault,Government (General),Firearms
+199106120032,1991,6,12,India,Manu,Hostage Taking (Kidnapping),Government (General),Firearms
+199106130006,1991,6,13,India,Goraya,Assassination,Violent Political Party,Firearms
+199106130007,1991,6,13,India,Sasundi,Assassination,Violent Political Party,Firearms
+199106130008,1991,6,13,India,New Delhi,Assassination,Telecommunication,Firearms
+199106140002,1991,6,14,India,Nanngal Labana,Assassination,Government (General),Firearms
+199106150003,1991,6,15,India,Saregara Village,Armed Assault,Private Citizens & Property,Firearms
+199106150004,1991,6,15,India,Kila Raipur,Armed Assault,Transportation,Firearms
+199106150005,1991,6,15,India,Badowal,Armed Assault,Transportation,Firearms
+199106150006,1991,6,15,India,Chilpaka,Armed Assault,Police,Firearms
+199106170015,1991,6,17,India,Chindwara,Assassination,Government (General),Firearms
+199106190008,1991,6,19,India,Pulwama,Armed Assault,Police,Firearms
+199106200001,1991,6,20,India,Srinagar,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199106230002,1991,6,23,India,Amritsar,Assassination,Government (General),Firearms
+199106250001,1991,6,25,India,New Delhi,Bombing/Explosion,Airports & Aircraft,Explosives/Bombs/Dynamite
+199106270005,1991,6,27,India,Srinigar,Hostage Taking (Kidnapping),Tourists,Firearms
+199106280008,1991,6,28,India,Pampore,Hostage Taking (Kidnapping),Business,Firearms
+199106300002,1991,6,30,India,Amritsar,Armed Assault,Government (General),Firearms
+199107010006,1991,7,1,India,Jorhat,Hostage Taking (Kidnapping),Government (General),Firearms
+199107010007,1991,7,1,India,Margherita,Hostage Taking (Kidnapping),Government (General),Firearms
+199107010008,1991,7,1,India,Jorhat,Hostage Taking (Kidnapping),Business,Firearms
+199107010009,1991,7,1,India,Mangaldoi,Hostage Taking (Kidnapping),Government (General),Firearms
+199107010010,1991,7,1,India,Guwahati,Hostage Taking (Kidnapping),Government (General),Firearms
+199107010011,1991,7,1,India,Jammu Kashmir State,Hostage Taking (Kidnapping),Government (General),Firearms
+199107010012,1991,7,1,India,Assam State,Hostage Taking (Kidnapping),Government (General),Firearms
+199107010013,1991,7,1,India,Assam State,Hostage Taking (Kidnapping),Business,Firearms
+199107010014,1991,7,1,India,Assam State,Hostage Taking (Kidnapping),Business,Firearms
+199107010015,1991,7,1,India,Assam State,Hostage Taking (Kidnapping),Business,Firearms
+199107010016,1991,7,1,India,Assam State,Hostage Taking (Kidnapping),Business,Firearms
+199107010017,1991,7,1,India,Assam State,Hostage Taking (Kidnapping),Business,Firearms
+199107010018,1991,7,1,India,Assam State,Hostage Taking (Kidnapping),Business,Firearms
+199107010019,1991,7,1,India,Assam State,Hostage Taking (Kidnapping),Business,Firearms
+199107020002,1991,7,2,India,Dimtal village,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199107040010,1991,7,4,India,Punjab State,Assassination,Government (General),Firearms
+199107060026,1991,7,6,India,Amritsar,Armed Assault,Police,Firearms
+199107060027,1991,7,6,India,Jullundur,Armed Assault,Police,Firearms
+199107060028,1991,7,6,India,Faridkot,Armed Assault,Police,Firearms
+199107060029,1991,7,6,India,Mehnar,Armed Assault,Police,Firearms
+199107100018,1991,7,10,India,Nanded,Armed Assault,Government (General),Firearms
+199107110001,1991,7,11,India,Punjab state,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199107110006,1991,7,11,India,Laipura,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199107110007,1991,7,11,India,Kharacho,Armed Assault,Police,Firearms
+199107110008,1991,7,11,India,Zira,Armed Assault,Police,Firearms
+199107110009,1991,7,11,India,Amritsar City,Armed Assault,Police,Firearms
+199107130016,1991,7,13,India,Bhatinda,Armed Assault,Police,Firearms
+199107130017,1991,7,13,India,Gurdaspur,Armed Assault,Police,Firearms
+199107130018,1991,7,13,India,Ferozepore,Armed Assault,Police,Firearms
+199107130019,1991,7,13,India,Ludhiana,Armed Assault,Police,Firearms
+199107140010,1991,7,14,India,Tapa Town,Hostage Taking (Kidnapping),Private Citizens & Property,Firearms
+199107160008,1991,7,16,India,Chunghrali,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199107160018,1991,7,16,India,Bhatinda,Armed Assault,Police,Firearms
+199107160019,1991,7,16,India,Sitapala,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199107200004,1991,7,20,India,Patiala,Assassination,Government (General),Firearms
+199107200008,1991,7,20,India,Srinigar,Hostage Taking (Kidnapping),Business,Firearms
+199107200009,1991,7,20,India,Andhra Pradesh State,Hostage Taking (Kidnapping),Business,Firearms
+199107230008,1991,7,23,India,Umra Nangal,Assassination,Government (General),Firearms
+199107230015,1991,7,23,India,Faridkot,Armed Assault,Police,Firearms
+199107230016,1991,7,23,India,Amritsar,Armed Assault,Police,Firearms
+199107230017,1991,7,23,India,Ferozepore,Armed Assault,Police,Firearms
+199107240008,1991,7,24,India,Amritsar District,Assassination,Government (General),Firearms
+199107240011,1991,7,24,India,Medak District,Hostage Taking (Kidnapping),Government (General),Firearms
+199107250017,1991,7,25,India,Maman,Armed Assault,Transportation,Firearms
+199107260004,1991,7,26,India,Patiala district,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199107260019,1991,7,26,India,Bihar State,Armed Assault,Government (General),Firearms
+199107270002,1991,7,27,India,Guwahati,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199107270013,1991,7,27,India,Logar Village,Hostage Taking (Kidnapping),Government (General),Firearms
+199107280011,1991,7,28,India,Kashmir Valley,Armed Assault,Military,Firearms
+199107280012,1991,7,28,India,Ganderbal Town,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199107280014,1991,7,28,India,Kupwara District,Hostage Taking (Kidnapping),Government (General),Firearms
+199108010021,1991,8,1,India,Tarn Taran,Hostage Taking (Kidnapping),Police,Firearms
+199108020002,1991,8,2,India,Amritsar,Armed Assault,Police,Firearms
+199108020003,1991,8,2,India,Faridkot,Armed Assault,Police,Firearms
+199108030012,1991,8,3,India,Ludhiana,Assassination,Business,Firearms
+199108030019,1991,8,3,India,Korodpalli,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199108030020,1991,8,3,India,Rupar,Armed Assault,Police,Firearms
+199108030021,1991,8,3,India,Bhatinda,Armed Assault,Police,Firearms
+199108040003,1991,8,4,India,Andhra Pradesh,Facility/Infrastructure Attack,Business,Incendiary
+199108040004,1991,8,4,India,Paidimalgu,Facility/Infrastructure Attack,Business,Incendiary
+199108050010,1991,8,5,India,Batala,Armed Assault,Police,Firearms
+199108050011,1991,8,5,India,Beas,Armed Assault,Police,Firearms
+199108070010,1991,8,7,India,Motipur Village,Armed Assault,Police,Firearms
+199108080004,1991,8,8,India,Jhabbal,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199108080005,1991,8,8,India,Amritsar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199108080006,1991,8,8,India,Amritsar,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199108080013,1991,8,8,India,Tarn Taran,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199108090014,1991,8,9,India,Punch,Armed Assault,Police,Firearms
+199108100015,1991,8,10,India,Tada,Armed Assault,Police,Firearms
+199108100016,1991,8,10,India,Harkiliar,Armed Assault,Police,Firearms
+199108110005,1991,8,11,India,Machchiwala,Armed Assault,Police,Firearms
+199108110006,1991,8,11,India,Dariba,Armed Assault,Police,Firearms
+199108120008,1991,8,12,India,Jammu,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199108130005,1991,8,13,India,Jammu,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199108130015,1991,8,13,India,Kolabari,Assassination,Government (General),Firearms
+199108130021,1991,8,13,India,Srinigar,Hostage Taking (Kidnapping),Business,Firearms
+199108130022,1991,8,13,India,Goalpara,Hostage Taking (Kidnapping),Government (General),Firearms
+199108140002,1991,8,14,India,Chandigargh,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199108140012,1991,8,14,India,Madras,Armed Assault,Journalists & Media,Melee
+199108150006,1991,8,15,India,Assam state,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199108150007,1991,8,15,India,Duliajan,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199108150021,1991,8,15,India,Sapore,Bombing/Explosion,Police,Firearms
+199108160004,1991,8,16,India,Tiruchirappali,Assassination,Government (General),Chemical
+199108160015,1991,8,16,India,Warangal,Hostage Taking (Kidnapping),Government (General),Firearms
+199108190011,1991,8,19,India,Tarn Taran,Armed Assault,Military,Firearms
+199108190012,1991,8,19,India,Kudkapura,Armed Assault,Military,Firearms
+199108190013,1991,8,19,India,New Delhi,Unknown,Government (Diplomatic),Unknown
+199108190014,1991,8,19,India,Jullundur Sadar,Armed Assault,Police,Firearms
+199108200006,1991,8,20,India,Amritsar,Armed Assault,Military,Firearms
+199108200010,1991,8,20,India,Amritsar,Hostage Taking (Kidnapping),Government (General),Firearms
+199108210003,1991,8,21,India,Panipat,Assassination,Violent Political Party,Firearms
+199108220026,1991,8,22,India,Village Nihake,Hostage Taking (Kidnapping),Police,Firearms
+199108260009,1991,8,26,India,Konta Town,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199108290001,1991,8,29,India,Chandigarh,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199108290005,1991,8,29,India,Chandigarh,Assassination,Police,Explosives/Bombs/Dynamite
+199108300003,1991,8,30,India,Jatana,Assassination,Terrorists/Non-State Militia,Firearms
+199109010007,1991,9,1,India,Shingiari Chowk,Armed Assault,Private Citizens & Property,Firearms
+199109010009,1991,9,1,India,Barnala,Armed Assault,Private Citizens & Property,Firearms
+199109020001,1991,9,2,India,Jammu,Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199109030014,1991,9,3,India,Barasat,Unknown,Educational Institution,Unknown
+199109030018,1991,9,3,India,Srinigar,Hostage Taking (Kidnapping),Private Citizens & Property,Unknown
+199109040016,1991,9,4,India,Srinigar,Hostage Taking (Kidnapping),Government (General),Unknown
+199109060011,1991,9,6,India,Ludhiana,Armed Assault,Transportation,Firearms
+199109060012,1991,9,6,India,Ludhiana,Armed Assault,Transportation,Firearms
+199109080004,1991,9,8,India,Guwahati,Assassination,NGO,Firearms
+199109100022,1991,9,10,India,Srinigar,Hostage Taking (Kidnapping),Business,Firearms
+199109140008,1991,9,14,India,Delhi,Hostage Taking (Kidnapping),Business,Unknown
+199109140009,1991,9,14,India,Srinigar,Hostage Taking (Kidnapping),Military,Firearms
+199109180007,1991,9,18,India,Kashmir State,Hostage Taking (Kidnapping),Military,Firearms
+199109190003,1991,9,19,India,Uttar Pradesh,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199109190005,1991,9,19,India,Azamgarh,Assassination,Government (General),Firearms
+199109200005,1991,9,20,India,Varanasi,Assassination,Government (General),Firearms
+199109200009,1991,9,20,India,Pakistan Border,Armed Assault,Military,Firearms
+199109200010,1991,9,20,India,Shopian,Armed Assault,Police,Firearms
+199109210001,1991,9,21,India,Jammu city,Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199109210002,1991,9,21,India,Jammu city,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199109210003,1991,9,21,India,Jammu,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199109230001,1991,9,23,India,Haridwar,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199109230004,1991,9,23,India,Ludhiana District,Assassination,Police,Firearms
+199109230009,1991,9,23,India,Batala,Armed Assault,Transportation,Firearms
+199109230012,1991,9,23,India,Assam State,Hostage Taking (Kidnapping),Government (General),Firearms
+199109250008,1991,9,25,India,Srinigar,Hostage Taking (Kidnapping),Police,Firearms
+199109270003,1991,9,27,India,Amritsar,Assassination,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199109280002,1991,9,28,India,Mizoram,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199109280003,1991,9,28,India,Vanlaiphai,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199110060009,1991,10,6,India,Khilchian Drain,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199110070003,1991,10,7,India,Chandigargh,Armed Assault,Police,Incendiary
+199110070004,1991,10,7,India,Tarn Taran,Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199110080011,1991,10,8,India,Ludhigna,Armed Assault,Police,Firearms
+199110080018,1991,10,8,India,Ferozepur,Armed Assault,Police,Firearms
+199110140012,1991,10,14,India,Srinigar,Hostage Taking (Kidnapping),Business,Firearms
+199110160008,1991,10,16,India,Rudrapur Town,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199110160009,1991,10,16,India,Bajbur,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199110160010,1991,10,16,India,Bajbur,Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199110200001,1991,10,20,India,Jallundhur,Facility/Infrastructure Attack,Business,Incendiary
+199110200002,1991,10,20,India,Ludhiana,Facility/Infrastructure Attack,Business,Incendiary
+199110200003,1991,10,20,India,Ludhiana,Facility/Infrastructure Attack,Business,Incendiary
+199110200004,1991,10,20,India,Ludhiana,Facility/Infrastructure Attack,Business,Incendiary
+199110200005,1991,10,20,India,Ludhiana,Facility/Infrastructure Attack,Business,Incendiary
+199110200006,1991,10,20,India,Ludhiana,Facility/Infrastructure Attack,Business,Incendiary
+199110200007,1991,10,20,India,Ludhiana,Facility/Infrastructure Attack,Business,Incendiary
+199110200008,1991,10,20,India,Ludhiana,Facility/Infrastructure Attack,Business,Incendiary
+199110200009,1991,10,20,India,Ludhiana,Facility/Infrastructure Attack,Business,Incendiary
+199110200010,1991,10,20,India,Ludhiana,Facility/Infrastructure Attack,Business,Incendiary
+199110200011,1991,10,20,India,Ludhiana,Facility/Infrastructure Attack,Business,Incendiary
+199110200012,1991,10,20,India,Ludhiana,Facility/Infrastructure Attack,Business,Incendiary
+199110200013,1991,10,20,India,Ludhiana,Facility/Infrastructure Attack,Business,Incendiary
+199110200014,1991,10,20,India,Ludhiana,Facility/Infrastructure Attack,Business,Incendiary
+199110200015,1991,10,20,India,Ludhiana,Facility/Infrastructure Attack,Business,Incendiary
+199110200016,1991,10,20,India,Faridkot,Facility/Infrastructure Attack,Business,Incendiary
+199110200017,1991,10,20,India,Faridkot,Facility/Infrastructure Attack,Business,Incendiary
+199110200018,1991,10,20,India,Faridkot,Facility/Infrastructure Attack,Business,Incendiary
+199110200019,1991,10,20,India,Sangrur,Facility/Infrastructure Attack,Business,Incendiary
+199110200020,1991,10,20,India,Sangrur,Facility/Infrastructure Attack,Business,Incendiary
+199110200021,1991,10,20,India,Sangrur,Facility/Infrastructure Attack,Business,Incendiary
+199110200022,1991,10,20,India,Sangrur,Facility/Infrastructure Attack,Business,Incendiary
+199110200023,1991,10,20,India,Sangrur,Facility/Infrastructure Attack,Business,Incendiary
+199110200024,1991,10,20,India,Sangrur,Facility/Infrastructure Attack,Business,Incendiary
+199110200025,1991,10,20,India,Sangrur,Facility/Infrastructure Attack,Business,Incendiary
+199110200026,1991,10,20,India,Sangrur,Facility/Infrastructure Attack,Business,Incendiary
+199110200027,1991,10,20,India,Sangrur,Facility/Infrastructure Attack,Business,Incendiary
+199110200028,1991,10,20,India,Sangrur,Facility/Infrastructure Attack,Business,Incendiary
+199110200029,1991,10,20,India,Sangrur,Facility/Infrastructure Attack,Business,Incendiary
+199110200030,1991,10,20,India,Sangrur,Facility/Infrastructure Attack,Business,Incendiary
+199110220023,1991,10,22,India,Punjab State,Hostage Taking (Kidnapping),Private Citizens & Property,Unknown
+199110260030,1991,10,26,India,Mehtiana,Assassination,Government (General),Firearms
+199110310004,1991,10,31,India,Chuslewad,Assassination,Private Citizens & Property,Firearms
+199110310005,1991,10,31,India,Gohalwad,Assassination,Private Citizens & Property,Firearms
+199110310006,1991,10,31,India,Khaberajputan,Assassination,Private Citizens & Property,Firearms
+199110310011,1991,10,31,India,Ayodhya,Facility/Infrastructure Attack,Religious Figures/Institutions,Unknown
+199111010002,1991,11,1,India,Barpeta,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199111020001,1991,11,2,India,Guwahati,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199111020002,1991,11,2,India,Assam State,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199111020011,1991,11,2,India,Assam State,Assassination,Private Citizens & Property,Melee
+199111020019,1991,11,2,India,Kashmir State,Armed Assault,Police,Firearms
+199111020020,1991,11,2,India,Kashmir State,Armed Assault,Police,Firearms
+199111030002,1991,11,3,India,Bombay,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199111040021,1991,11,4,India,Jalandhar,Assassination,Violent Political Party,Firearms
+199111040030,1991,11,4,India,Srinigar,Hostage Taking (Kidnapping),Journalists & Media,Firearms
+199111080001,1991,11,8,India,Kalyan,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199111090007,1991,11,9,India,Sirsa,Armed Assault,Religious Figures/Institutions,Firearms
+199111100002,1991,11,10,India,Pilakhua Town,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199111100009,1991,11,10,India,Perumagauda,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199111120002,1991,11,12,India,Amritsar,Assassination,Educational Institution,Explosives/Bombs/Dynamite
+199111130005,1991,11,13,India,Agartala,Assassination,Violent Political Party,Firearms
+199111130013,1991,11,13,India,Varanasi,Armed Assault,Private Citizens & Property,Firearms
+199111150004,1991,11,15,India,Nandyal District,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199111150039,1991,11,15,India,Amritsar,Assassination,Violent Political Party,Explosives/Bombs/Dynamite
+199111160012,1991,11,16,India,Uttar Pradesh,Armed Assault,Private Citizens & Property,Firearms
+199111160013,1991,11,16,India,Uttar Pradesh,Assassination,Private Citizens & Property,Firearms
+199111210006,1991,11,21,India,Amritsar,Armed Assault,Private Citizens & Property,Firearms
+199112010019,1991,12,1,India,Hajera,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199112050001,1991,12,5,India,Pilibhit,Armed Assault,Private Citizens & Property,Firearms
+199112050002,1991,12,5,India,Tohana,Armed Assault,Private Citizens & Property,Firearms
+199112050003,1991,12,5,India,Pilibhit,Armed Assault,Transportation,Firearms
+199112050004,1991,12,5,India,Lakhimpur Kheri,Armed Assault,Private Citizens & Property,Firearms
+199112050005,1991,12,5,India,Punjab State,Assassination,Business,Firearms
+199112060003,1991,12,6,India,Uttar Pradesh State,Armed Assault,Private Citizens & Property,Firearms
+199112130001,1991,12,13,India,Gurdaspur Dist.,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199112190013,1991,12,19,India,Huzurabad,Unknown,Police,Unknown
+199112190014,1991,12,19,India,Ramavaram,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199112190015,1991,12,19,India,Nagpur,Hostage Taking (Kidnapping),Private Citizens & Property,Firearms
+199112220006,1991,12,22,India,New Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199112230004,1991,12,23,India,Belaganj Village,Assassination,Private Citizens & Property,Firearms
+199112260007,1991,12,26,India,Sohian Town,Armed Assault,Transportation,Firearms
+199112300003,1991,12,30,India,New Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199201060003,1992,1,6,India,Ludhiana,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199201060004,1992,1,6,India,Amritsar,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199201060005,1992,1,6,India,Ludhiana,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199201080013,1992,1,8,India,Kharar,Armed Assault,Business,Firearms
+199201080014,1992,1,8,India,Malerkotla,Armed Assault,Business,Firearms
+199201160013,1992,1,16,India,Srinigar,Hostage Taking (Kidnapping),Private Citizens & Property,Firearms
+199201170004,1992,1,17,India,Samana,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199201180010,1992,1,18,India,Golwar,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199201190010,1992,1,19,India,Srinigar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199201200008,1992,1,20,India,Srinigar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199201210010,1992,1,21,India,Srinigar,Hostage Taking (Kidnapping),Police,Firearms
+199201230007,1992,1,23,India,Jalandhar,Armed Assault,Violent Political Party,Firearms
+199201240006,1992,1,24,India,Srinigar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199201290001,1992,1,29,India,New Delhi,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199202010002,1992,2,1,India,Ambaia,Assassination,Government (General),Firearms
+199202030002,1992,2,3,India,Sangrur,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199202040005,1992,2,4,India,Srinigar,Bombing/Explosion,Journalists & Media,Explosives/Bombs/Dynamite
+199202040013,1992,2,4,India,Sind,Bombing/Explosion,Transportation,Firearms
+199202080014,1992,2,8,India,Batmaloo,Hostage Taking (Kidnapping),Government (General),Firearms
+199202100002,1992,2,10,India,Patiala District,Assassination,Educational Institution,Unknown
+199202100003,1992,2,10,India,Sangrur District,Assassination,Educational Institution,Unknown
+199202100004,1992,2,10,India,Sangrur District,Assassination,Educational Institution,Unknown
+199202100005,1992,2,10,India,Sangrur District,Assassination,Educational Institution,Unknown
+199202100006,1992,2,10,India,Sangrur District,Assassination,Educational Institution,Unknown
+199202100007,1992,2,10,India,Sangrur District,Assassination,Educational Institution,Unknown
+199202100009,1992,2,10,India,Bombay,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199202110001,1992,2,11,India,Amritsar,Assassination,Violent Political Party,Firearms
+199202120007,1992,2,12,India,Bhatinda,Armed Assault,Transportation,Firearms
+199202120008,1992,2,12,India,Lucknow,Unknown,Private Citizens & Property,Unknown
+199202130012,1992,2,13,India,Bara Village,Armed Assault,Private Citizens & Property,Firearms
+199202150006,1992,2,15,India,Ludhiana,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199202160002,1992,2,16,India,Nawapind Shokian,Assassination,Violent Political Party,Firearms
+199202170001,1992,2,17,India,Punjah State,Unknown,Business,Unknown
+199202180018,1992,2,18,India,Srinigar,Bombing/Explosion,Journalists & Media,Explosives/Bombs/Dynamite
+199202180022,1992,2,18,India,Srinigar,Hostage Taking (Kidnapping),Private Citizens & Property,Firearms
+199202190007,1992,2,19,India,Ludhiana,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199202200001,1992,2,20,India,Rue Kalan,Assassination,Private Citizens & Property,Firearms
+199202230005,1992,2,23,India,Srinigar,Armed Assault,Terrorists/Non-State Militia,Firearms
+199202240003,1992,2,24,India,Amritsar,Assassination,Private Citizens & Property,Firearms
+199202250008,1992,2,25,India,Chandigarh,Armed Assault,Business,Firearms
+199203010009,1992,3,1,India,Kamoke Village,Armed Assault,Police,Firearms
+199203010017,1992,3,1,India,Watapura-Bandipura,Hostage Taking (Kidnapping),Government (General),Unknown
+199203030003,1992,3,3,India,Jillan,Assassination,Government (General),Explosives/Bombs/Dynamite
+199203030016,1992,3,3,India,Srinigar,Hostage Taking (Kidnapping),Educational Institution,Firearms
+199203040006,1992,3,4,India,Bombay,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199203040009,1992,3,4,India,Bombay,Armed Assault,Police,Firearms
+199203060013,1992,3,6,India,Srinigar,Hostage Taking (Kidnapping),Government (General),Firearms
+199203070015,1992,3,7,India,Srinigar,Hostage Taking (Kidnapping),Journalists & Media,Firearms
+199203100002,1992,3,10,India,Ghawaden Kothi,Armed Assault,Business,Firearms
+199203110011,1992,3,11,India,New Delhi,Facility/Infrastructure Attack,Government (Diplomatic),Incendiary
+199203130012,1992,3,13,India,Puhroo,Armed Assault,Police,Firearms
+199203140004,1992,3,14,India,Ludhiana,Assassination,Private Citizens & Property,Firearms
+199203140013,1992,3,14,India,Ludhiana,Armed Assault,Business,Firearms
+199203140014,1992,3,14,India,Mogsangei,Armed Assault,Government (General),Firearms
+199203140015,1992,3,14,India,Srinigar,Armed Assault,Police,Firearms
+199203170011,1992,3,17,India,Bareilly,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199203180001,1992,3,18,India,Ludhiana,Armed Assault,Business,Firearms
+199203210009,1992,3,21,India,Ahmedgarh,Armed Assault,Private Citizens & Property,Firearms
+199203270001,1992,3,27,India,Gherimandi,Assassination,Private Citizens & Property,Firearms
+199203290011,1992,3,29,India,Jamshedpur,Bombing/Explosion,Airports & Aircraft,Explosives/Bombs/Dynamite
+199203300018,1992,3,30,India,Srinigar,Bombing/Explosion,Journalists & Media,Explosives/Bombs/Dynamite
+199203310007,1992,3,31,India,Ayodhya,Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199204010002,1992,4,1,India,Ludhiana,Assassination,Police,Explosives/Bombs/Dynamite
+199204020018,1992,4,2,India,Batala,Armed Assault,Military,Firearms
+199204020019,1992,4,2,India,Ludhiana,Armed Assault,Military,Firearms
+199204030001,1992,4,3,India,Amritsar,Assassination,Military,Firearms
+199204040008,1992,4,4,India,Gizzer Village,Armed Assault,Police,Firearms
+199204040009,1992,4,4,India,Bandipore,Armed Assault,Police,Firearms
+199204040011,1992,4,4,India,Guwahati,Hostage Taking (Kidnapping),Business,Firearms
+199204040012,1992,4,4,India,Kupwara,Hostage Taking (Kidnapping),Police,Firearms
+199204080010,1992,4,8,India,Doda,Bombing/Explosion,Police,Firearms
+199204080011,1992,4,8,India,Sopore District,Armed Assault,Military,Firearms
+199204090001,1992,4,9,India,Srinigar,Assassination,Private Citizens & Property,Firearms
+199204130013,1992,4,13,India,Ludhiana,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199204130014,1992,4,13,India,Ludhiana,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199204130021,1992,4,13,India,Sopore,Armed Assault,Police,Firearms
+199204160001,1992,4,16,India,Thuth Dhandari,Armed Assault,Private Citizens & Property,Firearms
+199204160020,1992,4,16,India,Thuth Dhandari,Armed Assault,Military,Firearms
+199204230005,1992,4,23,India,New Delhi,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199204240002,1992,4,24,India,New Delhi,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199204250003,1992,4,25,India,New Delhi,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199204250005,1992,4,25,India,Anantnag,Armed Assault,Police,Firearms
+199204260003,1992,4,26,India,New Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199204260006,1992,4,26,India,Srinigar,Armed Assault,Police,Firearms
+199204260007,1992,4,26,India,Srinigar,Armed Assault,Police,Firearms
+199204260008,1992,4,26,India,Srinigar,Armed Assault,Police,Firearms
+199204260009,1992,4,26,India,Srinigar,Armed Assault,Police,Firearms
+199204260010,1992,4,26,India,Srinigar,Armed Assault,Police,Firearms
+199204260011,1992,4,26,India,Srinigar,Armed Assault,Police,Firearms
+199204260012,1992,4,26,India,Wasoora,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199204260013,1992,4,26,India,Lapur,Armed Assault,Police,Firearms
+199204270002,1992,4,27,India,Baramulla,Assassination,Government (General),Firearms
+199204270007,1992,4,27,India,Pishikash,Armed Assault,Business,Firearms
+199204280001,1992,4,28,India,Pandori Barach,Assassination,Religious Figures/Institutions,Firearms
+199205060002,1992,5,6,India,Delhi,Assassination,Government (Diplomatic),Firearms
+199205060017,1992,5,6,India,Patiala,Armed Assault,Government (General),Firearms
+199205070007,1992,5,7,India,Jalandhar-Amritsar,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199205070013,1992,5,7,India,Karnal District,Armed Assault,Business,Firearms
+199205080014,1992,5,8,India,Nagaland State,Armed Assault,Private Citizens & Property,Firearms
+199205090002,1992,5,9,India,Amritson,Assassination,Government (General),Explosives/Bombs/Dynamite
+199205100002,1992,5,10,India,New Delhi,Assassination,Government (General),Firearms
+199205100015,1992,5,10,India,Bhair Pura,Armed Assault,Private Citizens & Property,Firearms
+199205150011,1992,5,15,India,Srinigar,Armed Assault,Police,Firearms
+199205150012,1992,5,15,India,Srinigar,Armed Assault,Police,Firearms
+199205160009,1992,5,16,India,Baramula Area,Armed Assault,Police,Firearms
+199205160010,1992,5,16,India,New Delhi,Armed Assault,Government (General),Firearms
+199205160011,1992,5,16,India,Kupwara,Armed Assault,Police,Firearms
+199205180001,1992,5,18,India,Kharar,Assassination,Violent Political Party,Firearms
+199205180009,1992,5,18,India,Dharamkut,Armed Assault,Police,Firearms
+199205180014,1992,5,18,India,Patiala,Hostage Taking (Kidnapping),Journalists & Media,Firearms
+199205200014,1992,5,20,India,Rampura,Armed Assault,Police,Firearms
+199205240001,1992,5,24,India,Mansa,Assassination,Business,Firearms
+199205240004,1992,5,24,India,Kunjikulam,Bombing/Explosion,Journalists & Media,Explosives/Bombs/Dynamite
+199205250002,1992,5,25,India,Rampur District,Assassination,Transportation,Firearms
+199205250003,1992,5,25,India,Rampur District,Armed Assault,Private Citizens & Property,Firearms
+199205250004,1992,5,25,India,Rampur District,Assassination,Private Citizens & Property,Firearms
+199205250005,1992,5,25,India,Bilaspur,Assassination,Transportation,Firearms
+199205250010,1992,5,25,India,Sopore,Armed Assault,Police,Firearms
+199205300005,1992,5,30,India,Ludhiana,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199206040003,1992,6,4,India,Madhya Pradesh State,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199206060008,1992,6,6,India,Bombay,Hostage Taking (Kidnapping),Government (General),Unknown
+199206100001,1992,6,10,India,Kalikewal,Armed Assault,Private Citizens & Property,Firearms
+199206160003,1992,6,16,India,Srinigar,Assassination,Business,Firearms
+199206160012,1992,6,16,India,West Bengal,Unknown,Private Citizens & Property,Unknown
+199206230009,1992,6,23,India,Srinigar,Armed Assault,Police,Firearms
+199206250001,1992,6,25,India,Kilariapur,Assassination,Private Citizens & Property,Firearms
+199207060009,1992,7,6,India,Amristar,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199207090001,1992,7,9,India,Srinigar,Assassination,Police,Firearms
+199207090011,1992,7,9,India,Srinigar,Armed Assault,Police,Firearms
+199207130001,1992,7,13,India,Gurbux Nagar,Assassination,Private Citizens & Property,Firearms
+199207160011,1992,7,16,India,Srinigar,Armed Assault,Military,Firearms
+199207190013,1992,7,19,India,Poonthura,Armed Assault,Military,Firearms
+199207200016,1992,7,20,India,Assam State,Armed Assault,Private Citizens & Property,Firearms
+199207200017,1992,7,20,India,Assam State,Armed Assault,Private Citizens & Property,Firearms
+199207200018,1992,7,20,India,Trivandrum,Armed Assault,Private Citizens & Property,Firearms
+199207300005,1992,7,30,India,Srinigar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199208020001,1992,8,2,India,Pilibhut,Armed Assault,Private Citizens & Property,Firearms
+199208020009,1992,8,2,India,Gulmarg,Armed Assault,Military,Firearms
+199208030005,1992,8,3,India,Rae Bareli,Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199208030016,1992,8,3,India,Batala,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199208030021,1992,8,3,India,Jammu State,Hostage Taking (Kidnapping),Business,Firearms
+199208040016,1992,8,4,India,Srinigar,Hostage Taking (Kidnapping),Military,Firearms
+199208050017,1992,8,5,India,Mahur,Armed Assault,Police,Firearms
+199208090001,1992,8,9,India,Barnala,Armed Assault,Police,Firearms
+199208090002,1992,8,9,India,Barnala,Assassination,Police,Firearms
+199208090003,1992,8,9,India,Barnala,Assassination,Police,Firearms
+199208090004,1992,8,9,India,Barnala,Assassination,Police,Firearms
+199208130002,1992,8,13,India,Tarsikha,Assassination,Police,Firearms
+199208130003,1992,8,13,India,Punjab State,Assassination,Police,Firearms
+199208130004,1992,8,13,India,Hoshiapur,Assassination,Police,Firearms
+199208130011,1992,8,13,India,Nagaland (town not stated),Armed Assault,Government (General),Firearms
+199208130013,1992,8,13,India,Bombay,Hostage Taking (Kidnapping),Business,Firearms
+199208200008,1992,8,20,India,Sailen,Armed Assault,Police,Firearms
+199208240001,1992,8,24,India,Gudur,Assassination,Government (General),Firearms
+199208260002,1992,8,26,India,Babural,Assassination,Police,Firearms
+199208260017,1992,8,26,India,Jammu,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199208300006,1992,8,30,India,Kila Shahpur,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199208310001,1992,8,31,India,Srinigar,Assassination,Educational Institution,Firearms
+199208310005,1992,8,31,India,Sandhan,Armed Assault,Police,Firearms
+199208310009,1992,8,31,India,Srinigar,Hostage Taking (Kidnapping),Educational Institution,Unknown
+199209020013,1992,9,2,India,Srinigar,Armed Assault,Military,Firearms
+199209020014,1992,9,2,India,Srinigar,Armed Assault,Military,Firearms
+199209040011,1992,9,4,India,Andhra Pradesh State,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199209100020,1992,9,10,India,Shillong,Armed Assault,Police,Firearms
+199209100021,1992,9,10,India,Aizawl,Unarmed Assault,Business,Other
+199209110014,1992,9,11,India,Sopore,Armed Assault,Military,Firearms
+199209130001,1992,9,13,India,Dadri,Assassination,Government (General),Unknown
+199209150005,1992,9,15,India,Ranchi,Armed Assault,Transportation,Incendiary
+199209150006,1992,9,15,India,Singhbum District,Armed Assault,Transportation,Incendiary
+199209150007,1992,9,15,India,Jamshedpur,Armed Assault,Private Citizens & Property,Incendiary
+199209150011,1992,9,15,India,Srinigar,Armed Assault,Private Citizens & Property,Firearms
+199209160003,1992,9,16,India,Ranchi,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199209170004,1992,9,17,India,Bihar State,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199209190001,1992,9,19,India,Srinigar,Assassination,Military,Firearms
+199209210003,1992,9,21,India,Muzaffarabad *,Assassination,Government (General),Firearms
+199209230001,1992,9,23,India,Uttar Pradesh State,Assassination,Government (General),Firearms
+199209230010,1992,9,23,India,Uttar Pradesh State,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199209240007,1992,9,24,India,Daurpur,Unknown,Military,Unknown
+199209280004,1992,9,28,India,Pathankot,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199210020001,1992,10,2,India,Batakote,Armed Assault,Military,Firearms
+199210040001,1992,10,4,India,Srinigar,Armed Assault,Military,Firearms
+199210040002,1992,10,4,India,Ganganagar,Armed Assault,Police,Firearms
+199210060001,1992,10,6,India,Bihar State,Unknown,Religious Figures/Institutions,Unknown
+199210070002,1992,10,7,India,Tripura State,Armed Assault,Police,Firearms
+199210070008,1992,10,7,India,Digiana,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199210090001,1992,10,9,India,Ratzul,Armed Assault,Police,Firearms
+199210090009,1992,10,9,India,Joshimath,Assassination,Private Citizens & Property,Unknown
+199210100003,1992,10,10,India,Chakakujra,Armed Assault,Police,Firearms
+199210130013,1992,10,13,India,Jullundhur,Assassination,Government (General),Unknown
+199210130023,1992,10,13,India,Assam State,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199210160007,1992,10,16,India,Srinigar,Hostage Taking (Kidnapping),Government (General),Firearms
+199210170004,1992,10,17,India,Panjwar,Assassination,Police,Firearms
+199210200003,1992,10,20,India,Sangam,Armed Assault,Military,Firearms
+199210210002,1992,10,21,India,Assam State,Armed Assault,Business,Firearms
+199210210003,1992,10,21,India,Srinigar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199210210007,1992,10,21,India,Srinigar,Assassination,Police,Firearms
+199210240010,1992,10,24,India,Chintapalli,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199210260004,1992,10,26,India,Srinigar,Armed Assault,Police,Firearms
+199210270004,1992,10,27,India,Donkarayi,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199210270005,1992,10,27,India,Lamphel District,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199210280006,1992,10,28,India,Bandipora,Armed Assault,Police,Firearms
+199210280007,1992,10,28,India,Srinigar,Armed Assault,Police,Firearms
+199210290002,1992,10,29,India,Srinigar,Armed Assault,Police,Firearms
+199210300009,1992,10,30,India,Jagraon,Armed Assault,Private Citizens & Property,Firearms
+199210300010,1992,10,30,India,Payal,Assassination,Private Citizens & Property,Firearms
+199210310003,1992,10,31,India,Jammu,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199211020008,1992,11,2,India,Murshidabad District,Facility/Infrastructure Attack,Government (General),Incendiary
+199211190012,1992,11,19,India,Delhi,Assassination,Government (General),Firearms
+199211210007,1992,11,21,India,Guwahati,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199211210008,1992,11,21,India,Guwahati,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199211220007,1992,11,22,India,Methewal,Assassination,Private Citizens & Property,Firearms
+199211220010,1992,11,22,India,Bilasipara,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199211300002,1992,11,30,India,Srinigar,Armed Assault,Military,Firearms
+199212010002,1992,12,1,India,Karimnagar District,Armed Assault,Police,Firearms
+199212010024,1992,12,1,India,Sidhwan,Armed Assault,Transportation,Firearms
+199212020002,1992,12,2,India,Vijaypur,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199212020003,1992,12,2,India,Bishnah,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199212020004,1992,12,2,India,Gatta Badshah,Armed Assault,Police,Firearms
+199212050001,1992,12,5,India,Srinigar,Assassination,Private Citizens & Property,Firearms
+199212060001,1992,12,6,India,Ayodhya,Unknown,Religious Figures/Institutions,Unknown
+199212070006,1992,12,7,India,Madya Pradesh,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+199212070007,1992,12,7,India,West Bengal,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+199212070017,1992,12,7,India,Jaipur,Unknown,Private Citizens & Property,Unknown
+199212070018,1992,12,7,India,Hyderabad,Armed Assault,Private Citizens & Property,Melee
+199212070019,1992,12,7,India,Gujarat,Armed Assault,Private Citizens & Property,Melee
+199212070020,1992,12,7,India,Bombay,Unarmed Assault,Government (General),Melee
+199212080016,1992,12,8,India,Dobaka,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199212080018,1992,12,8,India,Bombay,Unknown,Government (Diplomatic),Unknown
+199212080019,1992,12,8,India,Bombay,Armed Assault,Private Citizens & Property,Incendiary
+199212090013,1992,12,9,India,Bombay,Unarmed Assault,Government (Diplomatic),Melee
+199212090014,1992,12,9,India,Assam State,Unknown,Private Citizens & Property,Unknown
+199212090015,1992,12,9,India,Bombay,Unarmed Assault,Private Citizens & Property,Melee
+199212160001,1992,12,16,India,Tripura State,Armed Assault,Government (General),Firearms
+199212180002,1992,12,18,India,Bombay,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199212210001,1992,12,21,India,Sipaihar,Hostage Taking (Kidnapping),Business,Firearms
+199212230003,1992,12,23,India,Ahmedabad,Armed Assault,Private Citizens & Property,Melee
+199212310001,1992,12,31,India,Khanna area,Assassination,Private Citizens & Property,Firearms
+199212310003,1992,12,31,India,Bhatghar,Armed Assault,Police,Firearms
+199212310004,1992,12,31,India,Gurdaspur,Armed Assault,Police,Firearms
+199401020006,1994,1,2,India,Kashmir State,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199401090008,1994,1,9,India,Pulwama,Armed Assault,Military,Firearms
+199401130004,1994,1,13,India,Madras,Hijacking,Airports & Aircraft,Fake Weapons
+199401210009,1994,1,21,India,Hardwar,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199401250009,1994,1,25,India,Srinigar,Armed Assault,Police,Firearms
+199401260013,1994,1,26,India,Srinigar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199401270013,1994,1,27,India,Kupwara,Armed Assault,Military,Firearms
+199401300005,1994,1,30,India,Doda,Armed Assault,Government (General),Firearms
+199401300006,1994,1,30,India,New Deli,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199401300007,1994,1,30,India,New Deli,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199402090006,1994,2,9,India,Kanpur,Assassination,Government (General),Incendiary
+199402140010,1994,2,14,India,Assam,Assassination,Business,Firearms
+199402230011,1994,2,23,India,Jammu,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199403180009,1994,3,18,India,Jammu,Assassination,Government (General),Firearms
+199403260010,1994,3,26,India,Srinigar,Armed Assault,Government (General),Firearms
+199403270016,1994,3,27,India,Rajaori,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199403290011,1994,3,29,India,Srinigar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199404040009,1994,4,4,India,Lucknow,Assassination,Government (General),Melee
+199404090019,1994,4,9,India,Mehsana,Bombing/Explosion,Utilities,Explosives/Bombs/Dynamite
+199404140006,1994,4,14,India,Baramulla District,Armed Assault,Military,Firearms
+199404140007,1994,4,14,India,Baramulla,Armed Assault,Military,Firearms
+199404140008,1994,4,14,India,Anantnag district,Armed Assault,Police,Firearms
+199404150003,1994,4,15,India,Ukhrul,Armed Assault,Police,Firearms
+199404300014,1994,4,30,India,Dimapur,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199404300015,1994,4,30,India,Hozeau,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199405070010,1994,5,7,India,Bombay,Assassination,Business,Firearms
+199405080010,1994,5,8,India,Sikkim State,Assassination,Government (General),Explosives/Bombs/Dynamite
+199405080011,1994,5,8,India,Sikkim State,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199405090009,1994,5,9,India,Bairokundu,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199405090010,1994,5,9,India,Udalguri,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199405090011,1994,5,9,India,Varanasi,Assassination,Journalists & Media,Firearms
+199405110009,1994,5,11,India,Gayzing,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199405270010,1994,5,27,India,Assam State,Armed Assault,Private Citizens & Property,Firearms
+199405270015,1994,5,27,India,Assam State,Armed Assault,Private Citizens & Property,Firearms
+199405270016,1994,5,27,India,Assam State,Armed Assault,Private Citizens & Property,Firearms
+199405270017,1994,5,27,India,Assam State,Armed Assault,Private Citizens & Property,Firearms
+199406030009,1994,6,3,India,Srinigar,Armed Assault,Government (General),Firearms
+199406050008,1994,6,5,India,Rajnandgaon,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199406060006,1994,6,6,India,Pahalgam,Hostage Taking (Kidnapping),Tourists,Unknown
+199406200003,1994,6,20,India,Anantnag,Hostage Taking (Kidnapping),Government (General),Firearms
+199406300002,1994,6,30,India,Cuttack,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199407130007,1994,7,13,India,Barpeta District,Unknown,Police,Unknown
+199407140008,1994,7,14,India,Anandabajarin Gobardhan,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199407160006,1994,7,16,India,Jammu,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199407200006,1994,7,20,India,New Dehli,Unknown,Government (Diplomatic),Unknown
+199407200007,1994,7,20,India,New Dehli,Unknown,Military,Unknown
+199407210013,1994,7,21,India,Barpeta District,Armed Assault,Private Citizens & Property,Incendiary
+199407210014,1994,7,21,India,Barpeta District,Armed Assault,Private Citizens & Property,Incendiary
+199407210015,1994,7,21,India,Barpeta District,Armed Assault,Private Citizens & Property,Incendiary
+199407210016,1994,7,21,India,Barpeta District,Armed Assault,Private Citizens & Property,Incendiary
+199407210017,1994,7,21,India,Barpeta District,Armed Assault,Private Citizens & Property,Incendiary
+199407210023,1994,7,21,India,Barpeta District,Armed Assault,Private Citizens & Property,Incendiary
+199407210024,1994,7,21,India,Unknown,Armed Assault,Private Citizens & Property,Melee
+199407210040,1994,7,21,India,Barpeta District,Armed Assault,Private Citizens & Property,Incendiary
+199407210041,1994,7,21,India,Barpeta District,Armed Assault,Private Citizens & Property,Incendiary
+199407210042,1994,7,21,India,Barpeta District,Armed Assault,Private Citizens & Property,Incendiary
+199407210043,1994,7,21,India,Barpeta District,Armed Assault,Private Citizens & Property,Incendiary
+199407210044,1994,7,21,India,Barpeta District,Armed Assault,Private Citizens & Property,Incendiary
+199407210045,1994,7,21,India,Barpeta District,Armed Assault,Private Citizens & Property,Incendiary
+199407210046,1994,7,21,India,Barpeta District,Armed Assault,Private Citizens & Property,Incendiary
+199407210047,1994,7,21,India,Barpeta District,Armed Assault,Private Citizens & Property,Incendiary
+199407210048,1994,7,21,India,Barpeta District,Armed Assault,Private Citizens & Property,Incendiary
+199407220015,1994,7,22,India,"Srinagar, J&K",Assassination,Tourists,Firearms
+199407230012,1994,7,23,India,Jehanabad,Armed Assault,Private Citizens & Property,Incendiary
+199407240008,1994,7,24,India,"Banabari, Assam",Armed Assault,Other,Firearms
+199407300009,1994,7,30,India,Maghya Pradesh State,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199408060004,1994,8,6,India,"Darish Kadal District, Sringar",Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199408160004,1994,8,16,India,Anantnag District,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199408250006,1994,8,25,India,Jammu,Bombing/Explosion,Educational Institution,Explosives/Bombs/Dynamite
+199408250007,1994,8,25,India,Bombay,Assassination,Violent Political Party,Firearms
+199408290011,1994,8,29,India,Kangan,Assassination,Journalists & Media,Firearms
+199409080004,1994,9,8,India,Kanjinag Village,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199409130012,1994,9,13,India,"Doda District, Jammu and Kashmir State",Hijacking,Educational Institution,Firearms
+199409130013,1994,9,13,India,"Damhal Khusipora, Jammu and Kashmir State",Unknown,Police,Unknown
+199409140014,1994,9,14,India,"Sringar, Jammu and Kashmir State",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199409160005,1994,9,16,India,"Bisbehara Town, Jammu and Kashmir State",Unknown,Government (General),Unknown
+199409280009,1994,9,28,India,"Srinagar, Jammu and Kashmir State",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199409290011,1994,9,29,India,Dehli,Hostage Taking (Kidnapping),Tourists,Firearms
+199410110004,1994,10,11,India,"Bangalore, Karnataka State",Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199410110005,1994,10,11,India,"Bangalore, Karnataka State",Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199410150005,1994,10,15,India,Goa,Unknown,Business,Unknown
+199410150006,1994,10,15,India,Davangeri,Unarmed Assault,Private Citizens & Property,Melee
+199410160004,1994,10,16,India,Dehli,Hostage Taking (Kidnapping),Tourists,Firearms
+199410190005,1994,10,19,India,Dehli,Hostage Taking (Kidnapping),Educational Institution,Firearms
+199410200005,1994,10,20,India,Bishnapur,Unknown,Transportation,Unknown
+199410200006,1994,10,20,India,High Security Area of Srinagar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199410200007,1994,10,20,India,Bishnapur,Assassination,Private Citizens & Property,Unknown
+199411060008,1994,11,6,India,Jammu,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199411110012,1994,11,11,India,Sumber Jammu & Kashmir,Unknown,Military,Unknown
+199411230012,1994,11,23,India,"Warangal, Andhra Pradesh",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199411240004,1994,11,24,India,Karimanagar Dist Andhra Predos,Hostage Taking (Kidnapping),Government (General),Unknown
+199411240005,1994,11,24,India,New Delhi,Bombing/Explosion,Educational Institution,Incendiary
+199411270006,1994,11,27,India,Karimnagar Distr Andhra Pradesh,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199411280009,1994,11,28,India,Srinagar-Jammu Highway,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199411280010,1994,11,28,India,NE Manipur State,Assassination,Private Citizens & Property,Melee
+199411290005,1994,11,29,India,Warangel Andhra Pradesh,Assassination,Government (General),Explosives/Bombs/Dynamite
+199411300004,1994,11,30,India,Husoor village,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199412010005,1994,12,1,India,"Andhra, Pradesh State",Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199412040002,1994,12,4,India,Andhra Pradeol State,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199412040003,1994,12,4,India,"Muzaffaeque, Bahar State",Armed Assault,Violent Political Party,Firearms
+199412050008,1994,12,5,India,Muzaffarpur,Assassination,Government (General),Melee
+199412050009,1994,12,5,India,Nizamabad Dist,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199412100002,1994,12,10,India,Parmandal,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199412190002,1994,12,19,India,Tulane,Armed Assault,Police,Firearms
+199412190003,1994,12,19,India,Seinagar,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199412240004,1994,12,24,India,Mankote,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199412240005,1994,12,24,India,Srinagar,Bombing/Explosion,Journalists & Media,Explosives/Bombs/Dynamite
+199501070007,1995,1,7,India,"Imphal, Manipur State",Armed Assault,Police,Firearms
+199501130010,1995,1,13,India,Yanglam Leikai,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199501220007,1995,1,22,India,"Udalguri Area, Assam State",Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199501240010,1995,1,24,India,"U/I Village, Manipur State",Armed Assault,Police,Firearms
+199501260008,1995,1,26,India,"Jammu, Jammu Kashmir State",Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199502040008,1995,2,4,India,"Plantan Village, Jammu",Bombing/Explosion,Utilities,Explosives/Bombs/Dynamite
+199502040009,1995,2,4,India,"Plantan Village, Jammu",Bombing/Explosion,Utilities,Explosives/Bombs/Dynamite
+199502040010,1995,2,4,India,"Plantan Village, Jammu",Bombing/Explosion,Utilities,Explosives/Bombs/Dynamite
+199502040011,1995,2,4,India,"Plantan Village, Jammu",Bombing/Explosion,Utilities,Explosives/Bombs/Dynamite
+199502040012,1995,2,4,India,"Plantan Village, Jammu",Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199502050006,1995,2,5,India,"Manaing Khol District, Manipur State",Armed Assault,Police,Firearms
+199502060008,1995,2,6,India,"Pallanwala Sector, Jammu",Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199502080005,1995,2,8,India,Bihar State,Assassination,Government (General),Unknown
+199502080006,1995,2,8,India,Bihar State,Assassination,Government (General),Unknown
+199502080007,1995,2,8,India,Bihar State,Assassination,Government (General),Firearms
+199502100004,1995,2,10,India,Srinagar,Assassination,Government (General),Firearms
+199502100005,1995,2,10,India,Srinagar,Armed Assault,Military,Firearms
+199502100006,1995,2,10,India,Manipur State,Bombing/Explosion,Government (General),Firearms
+199502110008,1995,2,11,India,"Imphal, Manipur State",Assassination,Violent Political Party,Firearms
+199502110009,1995,2,11,India,Manipur State,Assassination,Government (General),Firearms
+199502150007,1995,2,15,India,Manipur State,Assassination,Government (General),Firearms
+199502150008,1995,2,15,India,"Kupwara, Kashmir",Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199502160006,1995,2,16,India,"Kang Pokpi Constituency, Manipur State",Armed Assault,Police,Firearms
+199502170004,1995,2,17,India,"Jaipur, Rasasthanj State",Hostage Taking (Kidnapping),Government (General),Unknown
+199502200006,1995,2,20,India,"Indore, Madhya Pradesh State",Assassination,Religious Figures/Institutions,Melee
+199502210005,1995,2,21,India,"Duda, Jammu, Kashmir State",Unknown,Military,Unknown
+199502250031,1995,2,25,India,Lailalong,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199502270010,1995,2,27,India,Bihar State,Assassination,Government (General),Unknown
+199502280032,1995,2,28,India,Bihar State,Facility/Infrastructure Attack,Police,Incendiary
+199503010012,1995,3,1,India,"Chatra D., Bihar State",Assassination,Violent Political Party,Firearms
+199503050009,1995,3,5,India,"Kohima, Nugaland S.",Armed Assault,Police,Firearms
+199503060006,1995,3,6,India,Andhra Pradesh S.,Unknown,Private Citizens & Property,Unknown
+199503060007,1995,3,6,India,Bihar State,Unknown,Private Citizens & Property,Unknown
+199503060008,1995,3,6,India,Charar-e-Shariet,Armed Assault,Military,Firearms
+199503100009,1995,3,10,India,Andhra Pradesh S.,Unknown,Private Citizens & Property,Unknown
+199503100010,1995,3,10,India,Andhra Pradesh S.,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199503110010,1995,3,11,India,"Bihar State, Hazaribagh D.",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199503110011,1995,3,11,India,Bihar State,Assassination,Private Citizens & Property,Unknown
+199503110012,1995,3,11,India,Bihar State,Assassination,Private Citizens & Property,Unknown
+199503200012,1995,3,20,India,"Balasore, Orissa S.",Armed Assault,Private Citizens & Property,Firearms
+199503200013,1995,3,20,India,"Uri, J+K State",Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199503240006,1995,3,24,India,"Bishnah, J+K",Bombing/Explosion,Utilities,Explosives/Bombs/Dynamite
+199503240007,1995,3,24,India,"Barwa V, Siwan D, Bihars",Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199503240008,1995,3,24,India,"Siwan City, Bihar S.",Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199503260005,1995,3,26,India,"Ananthapur D, Andhra Pradesh State",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199503310005,1995,3,31,India,"Udalguri, Darrang D., Assam S",Armed Assault,Business,Firearms
+199504020004,1995,4,2,India,Ghaziabad,Unarmed Assault,Religious Figures/Institutions,Melee
+199504070006,1995,4,7,India,Uttar Pradesh State,Armed Assault,Government (General),Firearms
+199504140006,1995,4,14,India,Tamil Nadu State,Assassination,Private Citizens & Property,Melee
+199504140007,1995,4,14,India,Tamil Nadu State,Assassination,Private Citizens & Property,Melee
+199504140008,1995,4,14,India,Tamil Nadu State,Assassination,Private Citizens & Property,Melee
+199504140009,1995,4,14,India,Tamil Nadu State,Assassination,Private Citizens & Property,Melee
+199504140010,1995,4,14,India,Madras,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199504220005,1995,4,22,India,Srinagar,Assassination,Terrorists/Non-State Militia,Firearms
+199504230004,1995,4,23,India,Jammu and Kashmir State,Unknown,Unknown,Unknown
+199505020005,1995,5,2,India,Bishnah,Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199505020006,1995,5,2,India,Jammu,Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199505030005,1995,5,3,India,Assam State,Unknown,Military,Unknown
+199505150049,1995,5,15,India,Srinajar,Unarmed Assault,Police,Melee
+199505150050,1995,5,15,India,Srinajar,Unarmed Assault,Police,Melee
+199505150051,1995,5,15,India,Srinajar,Unarmed Assault,Police,Melee
+199505150052,1995,5,15,India,Srinajar,Unarmed Assault,Police,Melee
+199505150053,1995,5,15,India,Srinajar,Unarmed Assault,Police,Melee
+199505150054,1995,5,15,India,Srinajar,Unarmed Assault,Police,Melee
+199505150055,1995,5,15,India,Srinajar,Unarmed Assault,Police,Melee
+199505150056,1995,5,15,India,Srinajar,Unarmed Assault,Police,Melee
+199505150057,1995,5,15,India,Hazratbul,Unarmed Assault,Police,Melee
+199505150058,1995,5,15,India,Srinajar,Armed Assault,Police,Incendiary
+199505150059,1995,5,15,India,Jammu + Kashmir State,Armed Assault,Private Citizens & Property,Firearms
+199505160009,1995,5,16,India,Sopore,Facility/Infrastructure Attack,Government (General),Incendiary
+199505160010,1995,5,16,India,Bhaderwah,Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199505160011,1995,5,16,India,Srinajar,Unarmed Assault,Unknown,Melee
+199505160024,1995,5,16,India,Srinajar,Unarmed Assault,Unknown,Melee
+199505160025,1995,5,16,India,Srinajar,Unarmed Assault,Unknown,Melee
+199505160026,1995,5,16,India,Srinajar,Unarmed Assault,Unknown,Melee
+199505160027,1995,5,16,India,Srinajar,Unarmed Assault,Unknown,Melee
+199505160028,1995,5,16,India,Srinajar,Unarmed Assault,Unknown,Melee
+199505160029,1995,5,16,India,Srinajar,Unarmed Assault,Unknown,Melee
+199505160030,1995,5,16,India,Srinajar,Unarmed Assault,Unknown,Melee
+199505160031,1995,5,16,India,Srinajar,Unarmed Assault,Unknown,Melee
+199505160032,1995,5,16,India,Srinajar,Unarmed Assault,Unknown,Melee
+199505160033,1995,5,16,India,Srinajar,Unarmed Assault,Unknown,Melee
+199505170003,1995,5,17,India,Jammu and Kashmir State,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505170004,1995,5,17,India,Jammu and Kashmir State,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505170005,1995,5,17,India,Jammu and Kashmir State,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505170006,1995,5,17,India,Jammu and Kashmir State,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505170007,1995,5,17,India,Jammu and Kashmir State,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505170008,1995,5,17,India,Jammu and Kashmir State,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505170009,1995,5,17,India,Jammu and Kashmir State,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505170010,1995,5,17,India,Jammu and Kashmir State,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505170011,1995,5,17,India,Jammu and Kashmir State,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505170012,1995,5,17,India,Jammu and Kashmir State,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180008,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180009,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180010,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180011,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180012,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180013,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180014,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180015,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180016,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180017,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180018,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180019,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180020,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180021,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180022,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180023,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180024,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505180025,1995,5,18,India,J + K,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+199505230020,1995,5,23,India,Charar Sharif,Unknown,Government (General),Unknown
+199505300006,1995,5,30,India,"Anantnaj Dist., J + K S.",Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199506060007,1995,6,6,India,Moreh,Hostage Taking (Kidnapping),Private Citizens & Property,Firearms
+199506120017,1995,6,12,India,Phulpur,Unknown,Terrorists/Non-State Militia,Unknown
+199506160022,1995,6,16,India,Anatang Dist,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199507030014,1995,7,3,India,Madras,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199507030015,1995,7,3,India,Patna,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199507040010,1995,7,4,India,Ladervat J + K,Hostage Taking (Kidnapping),Tourists,Unknown
+199507080010,1995,7,8,India,Zojipel,Hostage Taking (Kidnapping),Tourists,Unknown
+199507100008,1995,7,10,India,Madras,Assassination,Journalists & Media,Explosives/Bombs/Dynamite
+199507110002,1995,7,11,India,Vazhapadi,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199507130045,1995,7,13,India,Hejamara,Unknown,Police,Unknown
+199507170020,1995,7,17,India,Srinagar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199507200012,1995,7,20,India,Jammu,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199507220004,1995,7,22,India,Bhaderwah,Unknown,Military,Unknown
+199507240011,1995,7,24,India,North Cachar District,Armed Assault,Police,Firearms
+199507260021,1995,7,26,India,Jammu,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199507280010,1995,7,28,India,Jarubachen,Hostage Taking (Kidnapping),Business,Unknown
+199508050013,1995,8,5,India,"U/I Village, Doda District",Armed Assault,Military,Firearms
+199508070004,1995,8,7,India,Srinagar,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199508070005,1995,8,7,India,Srinagar,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199508080016,1995,8,8,India,Pahalgam,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199508080017,1995,8,8,India,Pahalgam,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199508080019,1995,8,8,India,Panalgam,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199508080020,1995,8,8,India,Panalgam,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199508090003,1995,8,9,India,Srinagar,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199508100006,1995,8,10,India,Pahalgam,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199508100007,1995,8,10,India,Pahalgam,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199508100008,1995,8,10,India,Srinagar,Armed Assault,Religious Figures/Institutions,Firearms
+199508110002,1995,8,11,India,Sringar,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199508110003,1995,8,11,India,Sringar,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199508110004,1995,8,11,India,Sringar,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199508150002,1995,8,15,India,Jammu,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199508160003,1995,8,16,India,Howrah District *,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199508160004,1995,8,16,India,Calcutta,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199508210005,1995,8,21,India,U/I Village,Hostage Taking (Kidnapping),Private Citizens & Property,Unknown
+199508210006,1995,8,21,India,U/I Village,Hostage Taking (Kidnapping),Private Citizens & Property,Unknown
+199508310006,1995,8,31,India,Chandigarh,Assassination,Government (General),Explosives/Bombs/Dynamite
+199509040054,1995,9,4,India,Srinajar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199509070018,1995,9,7,India,Srinager,Bombing/Explosion,Journalists & Media,Explosives/Bombs/Dynamite
+199509110006,1995,9,11,India,Madras,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199509110007,1995,9,11,India,Madras,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199509130005,1995,9,13,India,"Madora, J + K State",Assassination,Police,Firearms
+199509140004,1995,9,14,India,Srinaga,Armed Assault,Terrorists/Non-State Militia,Firearms
+199509250019,1995,9,25,India,Delhi,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199509250020,1995,9,25,India,Delhi,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199509260003,1995,9,26,India,Delhi,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199509260004,1995,9,26,India,Panipat,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199509290004,1995,9,29,India,Thane,Armed Assault,Transportation,Incendiary
+199509290005,1995,9,29,India,Srinagar,Facility/Infrastructure Attack,Religious Figures/Institutions,Firearms
+199510170038,1995,10,17,India,Srinagar,Assassination,Private Citizens & Property,Unknown
+199510190005,1995,10,19,India,Hapatnar Village,Hijacking,Transportation,Firearms
+199510220005,1995,10,22,India,"Pattan, Kashmir",Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199510290012,1995,10,29,India,Diphu,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199510300015,1995,10,30,India,Srinagar,Bombing/Explosion,Terrorists/Non-State Militia,Explosives/Bombs/Dynamite
+199510310006,1995,10,31,India,Kokrajhar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199511080003,1995,11,8,India,"Sopore, Kashmir",Assassination,Government (General),Firearms
+199511130011,1995,11,13,India,Bombay,Assassination,Airports & Aircraft,Firearms
+199511150008,1995,11,15,India,Pul Dora,Hostage Taking (Kidnapping),Government (General),Firearms
+199511190002,1995,11,19,India,Assam,Armed Assault,Transportation,Firearms
+199511210006,1995,11,21,India,New Delhi,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199511220020,1995,11,22,India,"Jhansi, Uttar Pradesh State",Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199511220021,1995,11,22,India,"Bichru Village, Anantnal, Kashmir",Assassination,Government (General),Firearms
+199511240006,1995,11,24,India,Kashmir,Unknown,Police,Unknown
+199511270006,1995,11,27,India,Konunghamang,Assassination,Police,Explosives/Bombs/Dynamite
+199512010005,1995,12,1,India,Ongole,Assassination,Government (General),Firearms
+199512020003,1995,12,2,India,Nagaland State,Unknown,Police,Unknown
+199512060003,1995,12,6,India,Ludhiana,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199512080003,1995,12,8,India,Srinagar,Hostage Taking (Kidnapping),Journalists & Media,Firearms
+199601030022,1996,1,3,India,New Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199601050017,1996,1,5,India,"Barshala V., J+K",Armed Assault,Private Citizens & Property,Firearms
+199601200012,1996,1,20,India,"Gaya, Bihar S.",Armed Assault,Police,Incendiary
+199601210006,1996,1,21,India,"Desapani V., J+K",Armed Assault,Police,Firearms
+199601240008,1996,1,24,India,"Srinajar, J+K",Assassination,Government (General),Firearms
+199601260004,1996,1,26,India,Jaipur,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199601260005,1996,1,26,India,"Srinajar, J+K",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199601260006,1996,1,26,India,"Imphal, Manipur",Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199601260007,1996,1,26,India,Srinagar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199601300008,1996,1,30,India,Bangelore,Unknown,Business,Unknown
+199602130003,1996,2,13,India,Anantnag,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199602250002,1996,2,25,India,"Srinagar, J+K",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199602250003,1996,2,25,India,"Srinagar, J+K",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199602250004,1996,2,25,India,"Srinagar, J+K",Assassination,Government (General),Firearms
+199602260015,1996,2,26,India,Bhur Tinali,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199602260016,1996,2,26,India,"Imphal, Manipur State",Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199603020003,1996,3,2,India,"Imphal, Manipur State",Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199603020005,1996,3,2,India,Damara,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199603030004,1996,3,3,India,Rajapalayam,Assassination,Private Citizens & Property,Unknown
+199603030006,1996,3,3,India,"Kothkapally, Karimangar Dist, Andhra Pradesh State",Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199603060005,1996,3,6,India,"Srinagar, Kashmir",Bombing/Explosion,Journalists & Media,Explosives/Bombs/Dynamite
+199603090020,1996,3,9,India,"Rajapalayam, Madras State",Assassination,Private Citizens & Property,Melee
+199603090021,1996,3,9,India,"Srinagar, J+K State",Hostage Taking (Kidnapping),NGO,Unknown
+199603110008,1996,3,11,India,"Kokrajhar Dist, Assam State",Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199603180020,1996,3,18,India,Manipur State,Armed Assault,Police,Firearms
+199603200007,1996,3,20,India,"Pulwama, J&K",Hostage Taking (Kidnapping),Journalists & Media,Unknown
+199603240008,1996,3,24,India,Srinagar,Armed Assault,Police,Firearms
+199603250003,1996,3,25,India,"Gorakphur, Uttar Pradesh State",Assassination,Government (General),Explosives/Bombs/Dynamite
+199603260009,1996,3,26,India,"Srinagar, J+K",Facility/Infrastructure Attack,Government (General),Unknown
+199604030009,1996,4,3,India,"Agartala, Tripura",Unknown,Military,Unknown
+199604070005,1996,4,7,India,Kanmaipatti District,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199604070006,1996,4,7,India,Mangapuram District,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199604080018,1996,4,8,India,Rajapalayam,Assassination,Business,Melee
+199604080019,1996,4,8,India,Rajapalayam,Assassination,Transportation,Incendiary
+199604080020,1996,4,8,India,"Pulwama D., J+K",Assassination,Government (General),Firearms
+199604090027,1996,4,9,India,"Tronglow-Kanghphal, Manipur",Armed Assault,Police,Firearms
+199604090028,1996,4,9,India,"Pinjara, J+K",Armed Assault,Government (General),Firearms
+199604100005,1996,4,10,India,"Wathargam, J+K",Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199604100006,1996,4,10,India,"Bhatkal, Karnataka",Assassination,Violent Political Party,Firearms
+199604100007,1996,4,10,India,"Srinagar, J+K",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199604100008,1996,4,10,India,"Srinagar, J+K",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199604120003,1996,4,12,India,"Imphal, Manipur",Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199604120004,1996,4,12,India,"Imphal, Manipur",Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199604120005,1996,4,12,India,"Imphal, Manipur",Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199604120006,1996,4,12,India,"Imphal, Manipur",Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199604120007,1996,4,12,India,"Imphal, Manipur",Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199604150006,1996,4,15,India,"Dayalgam, J+K",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199604150007,1996,4,15,India,"Jammu, J+K",Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199604160011,1996,4,16,India,"Srinagar, J+K",Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199604180006,1996,4,18,India,"Imphal, Manipur",Unknown,Police,Unknown
+199604180007,1996,4,18,India,"Imphal, Manipur",Armed Assault,Military,Firearms
+199604250007,1996,4,25,India,Assam State,Unknown,Government (General),Unknown
+199604250008,1996,4,25,India,"Imphal, Manipur",Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199604270004,1996,4,27,India,"Nandyai, Andhra Pradesh",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199604270005,1996,4,27,India,"Nandyai, Andhra Pradesh",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199604270006,1996,4,27,India,"Modinagar, Uttar Pradesh",Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199604290009,1996,4,29,India,Andhra Pradesh,Armed Assault,Private Citizens & Property,Firearms
+199604290010,1996,4,29,India,Andhra Pradesh,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199604290011,1996,4,29,India,Bombay,Assassination,Government (General),Firearms
+199604300004,1996,4,30,India,Andhra Pradesh,Armed Assault,Private Citizens & Property,Melee
+199605020005,1996,5,2,India,Bihar,Armed Assault,Private Citizens & Property,Firearms
+199605020006,1996,5,2,India,Sikkim,Unknown,Private Citizens & Property,Unknown
+199605020007,1996,5,2,India,Orissa,Unknown,Government (General),Unknown
+199605020008,1996,5,2,India,Orissa,Unknown,Government (General),Unknown
+199605020009,1996,5,2,India,Orissa,Unknown,Government (General),Unknown
+199605020010,1996,5,2,India,Bihar,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199605020011,1996,5,2,India,Andhra Pradesh,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199605050004,1996,5,5,India,Bihar,Armed Assault,Police,Firearms
+199605050006,1996,5,5,India,"Srinagar, J+K",Assassination,Private Citizens & Property,Firearms
+199605060007,1996,5,6,India,"Srinagar, J+K",Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199605060008,1996,5,6,India,Srinagar,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199605060009,1996,5,6,India,Assam,Assassination,Government (General),Firearms
+199605070004,1996,5,7,India,Bihar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199605070005,1996,5,7,India,"Bhojpur, Bihar",Armed Assault,Private Citizens & Property,Firearms
+199605070006,1996,5,7,India,Orissa,Unknown,Government (General),Unknown
+199605120006,1996,5,12,India,"Kowai, Tripura",Armed Assault,Private Citizens & Property,Firearms
+199605160006,1996,5,16,India,Assam,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199605170007,1996,5,17,India,Assam,Assassination,Journalists & Media,Firearms
+199605180006,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180007,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180008,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180009,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180010,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180011,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180012,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180013,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180014,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180015,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180016,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180017,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180018,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180019,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180020,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180021,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180022,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180023,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180024,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605180025,1996,5,18,India,"Kokraghar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605200008,1996,5,20,India,"Kokrajhar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605200009,1996,5,20,India,"Kokrajhar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605200010,1996,5,20,India,"Kokrajhar D., Assam",Armed Assault,Private Citizens & Property,Incendiary
+199605200011,1996,5,20,India,"Srinajan, J+K",Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199605210012,1996,5,21,India,New Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199605220005,1996,5,22,India,"VLC Mahua, Rajasthan",Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199605220006,1996,5,22,India,"Wokha D., Nagaland",Armed Assault,Military,Firearms
+199605220007,1996,5,22,India,Assam,Unknown,Private Citizens & Property,Unknown
+199605220008,1996,5,22,India,Rajasthan,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199605250015,1996,5,25,India,"Docla, J+K",Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199605270006,1996,5,27,India,Srinagar,Armed Assault,Police,Firearms
+199605270007,1996,5,27,India,Srinagar,Armed Assault,Police,Firearms
+199605270008,1996,5,27,India,Srinagar,Armed Assault,Police,Firearms
+199605280011,1996,5,28,India,Srinagar,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199605290007,1996,5,29,India,Srinagar,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199605300014,1996,5,30,India,Srinagar,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199605300015,1996,5,30,India,Srinagar,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199605300016,1996,5,30,India,Srinagar,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199605300017,1996,5,30,India,Calcutta,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199605310010,1996,5,31,India,Calcutta,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199606020008,1996,6,2,India,"Anantnag, J+K",Unarmed Assault,Government (General),Melee
+199606070004,1996,6,7,India,"Srinagar, J+K",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199606290004,1996,6,29,India,"Tujjar-Zaloura, J+K",Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199607050001,1996,7,5,India,"Dimapur, Nagaland",Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199607060004,1996,7,6,India,"Patakota, J+K",Armed Assault,Business,Firearms
+199607080010,1996,7,8,India,"Srinagar, J+K",Hostage Taking (Kidnapping),Journalists & Media,Unknown
+199607090008,1996,7,9,India,"Dimapur, Nageland",Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199607110004,1996,7,11,India,"Rathani Tola V, Bihar S,",Armed Assault,Private Citizens & Property,Firearms
+199607150006,1996,7,15,India,Srinagar,Hostage Taking (Kidnapping),Tourists,Firearms
+199607170011,1996,7,17,India,"Thoubal D., Manipur",Armed Assault,Military,Firearms
+199607190008,1996,7,19,India,"Srinagar, J+K",Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199607290012,1996,7,29,India,"Baramula V., J+K",Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199607290013,1996,7,29,India,"Srinagar, J+K",Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199608010009,1996,8,1,India,"Srinagar, J+K",Hostage Taking (Kidnapping),Journalists & Media,Unknown
+199608020008,1996,8,2,India,"Dhubri, Assam",Armed Assault,Police,Firearms
+199608150016,1996,8,15,India,"Barama, Assam",Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199608170010,1996,8,17,India,"Sibsagar D., Assam",Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199608180005,1996,8,18,India,"Mandideep, Madhya Piadesh",Unarmed Assault,NGO,Melee
+199608180006,1996,8,18,India,"Nayabasti V., Assam",Armed Assault,Police,Firearms
+199608180007,1996,8,18,India,Assam,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199608220005,1996,8,22,India,"Anantnag, J+K",Armed Assault,Private Citizens & Property,Firearms
+199609070010,1996,9,7,India,Baramulla Town,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199609070011,1996,9,7,India,"U/I Location, Jammu and Kashmir State",Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199609070012,1996,9,7,India,"Mard Village, Jammu and Kasamir State",Armed Assault,Police,Firearms
+199609070013,1996,9,7,India,"Tusjar Village, Jammu and Kashmir State",Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199609070014,1996,9,7,India,"Digwar Village, Jammu and Kashmir State",Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199609110006,1996,9,11,India,"Bijbehara Town, Jammu and Kashmir State",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199609120013,1996,9,12,India,"Muran Village, Jammu and Kashmir State",Assassination,Government (General),Explosives/Bombs/Dynamite
+199609130007,1996,9,13,India,"Srinagar, Jammu and Kashmir State",Assassination,Government (General),Firearms
+199609160005,1996,9,16,India,"Anantnag Town, Jammu and Kashmir State",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199609160006,1996,9,16,India,"Anantnag Town, Jammu and Kashmir State",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199609160007,1996,9,16,India,"Anantnag Town, Jammu and Kashmir State",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199609160008,1996,9,16,India,"Anantnag Town, Jammu and Kashmir State",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199609160009,1996,9,16,India,"Anantnag Town, Jammu and Kashmir State",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199609160010,1996,9,16,India,"Dialgam village, Jammu and Kashmir State",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199609180008,1996,9,18,India,Srinagar,Bombing/Explosion,Educational Institution,Explosives/Bombs/Dynamite
+199609190005,1996,9,19,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199609190006,1996,9,19,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199609190007,1996,9,19,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199609190008,1996,9,19,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199609190009,1996,9,19,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199609190010,1996,9,19,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199609190011,1996,9,19,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199609190012,1996,9,19,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199609190013,1996,9,19,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199609190014,1996,9,19,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199609210011,1996,9,21,India,Srinagar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199609230017,1996,9,23,India,Srinagar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199609230018,1996,9,23,India,Kishtwar,Assassination,Government (General),Explosives/Bombs/Dynamite
+199609270010,1996,9,27,India,"Madras, Tamil Nadu State",Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199609300012,1996,9,30,India,Jammu and Kashmir state,Armed Assault,Government (General),Firearms
+199609300013,1996,9,30,India,Jammu and Kashmir state,Armed Assault,Government (General),Firearms
+199609300014,1996,9,30,India,Jammu and Kashmir state,Armed Assault,Government (General),Firearms
+199609300015,1996,9,30,India,Jammu and Kashmir state,Armed Assault,Government (General),Firearms
+199610010005,1996,10,1,India,"Agra, Uttar Pradeshs",Unknown,Private Citizens & Property,Unknown
+199610020009,1996,10,2,India,Bangalore,Unknown,Business,Unknown
+199610030010,1996,10,3,India,"Mazaffarnagar, Pradesh S. Utlar",Unknown,Private Citizens & Property,Unknown
+199610030011,1996,10,3,India,"Mazaffarnagar, Pradesh S. Utlar",Unknown,Private Citizens & Property,Unknown
+199610050008,1996,10,5,India,Srinagar,Assassination,Unknown,Firearms
+199610050009,1996,10,5,India,"Saderkoot V., J+K State",Armed Assault,Private Citizens & Property,Firearms
+199610070009,1996,10,7,India,"Warangal D., Andhra Pradesh",Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199610170005,1996,10,17,India,New Delhi,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199610210006,1996,10,21,India,"Anantang D., J+K",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199610230004,1996,10,23,India,Srinagar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199610250007,1996,10,25,India,Madras,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199610250008,1996,10,25,India,"Baramulla, J+K",Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199610280011,1996,10,28,India,Srinager,Assassination,Police,Firearms
+199610310012,1996,10,31,India,Bangalure,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199611090013,1996,11,9,India,"Jaipur, Rajasthan S.",Assassination,Government (General),Firearms
+199611120008,1996,11,12,India,Srinagar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199611120009,1996,11,12,India,Srinager,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199611150006,1996,11,15,India,Sirpure V. Andhra Pradesh,Armed Assault,Police,Firearms
+199611180006,1996,11,18,India,"Ranaput, Andhra Pradesh",Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199611190006,1996,11,19,India,"Kokrajha-T., Assan",Armed Assault,Unknown,Firearms
+199611190007,1996,11,19,India,"Kokrajhar D., Assam",Armed Assault,Private Citizens & Property,Firearms
+199611260009,1996,11,26,India,"Gossaigaon, Assam",Armed Assault,Private Citizens & Property,Firearms
+199611280010,1996,11,28,India,Srinagar,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199612010015,1996,12,1,India,Srinajar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199612010016,1996,12,1,India,"Ropar D., Punjab",Armed Assault,Violent Political Party,Firearms
+199612020007,1996,12,2,India,"Ambala, Punjab",Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199612040012,1996,12,4,India,"Kulgam, J+K",Bombing/Explosion,Violent Political Party,Explosives/Bombs/Dynamite
+199612050015,1996,12,5,India,Srinajar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199612050016,1996,12,5,India,Srinajar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199612060003,1996,12,6,India,Nalbari D. Assam S.,Bombing/Explosion,Utilities,Explosives/Bombs/Dynamite
+199612060004,1996,12,6,India,Nalbari D. Assam S.,Bombing/Explosion,Utilities,Explosives/Bombs/Dynamite
+199612090029,1996,12,9,India,"Maiamnala, Nagaland",Armed Assault,Transportation,Firearms
+199612130005,1996,12,13,India,"Kalyanpur, Tripura",Armed Assault,Private Citizens & Property,Firearms
+199612130006,1996,12,13,India,"Hazratbul, J+K",Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199612150005,1996,12,15,India,"Senapati D., Manipur",Unknown,Police,Unknown
+199612220006,1996,12,22,India,"Kathalbari, Assam",Armed Assault,Private Citizens & Property,Firearms
+199612250015,1996,12,25,India,"Arai Mila, Najaland",Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199612290006,1996,12,29,India,"Rakhaldubi, Assam",Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199612300005,1996,12,30,India,"Sansapani, Assam",Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199701030001,1997,1,3,India,Srinagar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199701030005,1997,1,3,India,Srinagar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199701040001,1997,1,4,India,Delhi,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199701040013,1997,1,4,India,Delhi,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199701080001,1997,1,8,India,Srinajar,Bombing/Explosion,Journalists & Media,Explosives/Bombs/Dynamite
+199701100001,1997,1,10,India,Karakagudem,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199701100002,1997,1,10,India,Ningthoukom,Armed Assault,Government (General),Firearms
+199701130001,1997,1,13,India,Barama,Armed Assault,Private Citizens & Property,Firearms
+199701140001,1997,1,14,India,Srinagar,Bombing/Explosion,Religious Figures/Institutions,Unknown
+199701160001,1997,1,16,India,Sopore,Armed Assault,Transportation,Firearms
+199701160002,1997,1,16,India,Bombay,Assassination,Private Citizens & Property,Firearms
+199701220001,1997,1,22,India,Rohtak,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199701220002,1997,1,22,India,Rohtak,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199701220003,1997,1,22,India,Assam,Armed Assault,Private Citizens & Property,Firearms
+199701220012,1997,1,22,India,Assam,Armed Assault,Private Citizens & Property,Firearms
+199701220013,1997,1,22,India,Assam,Armed Assault,Private Citizens & Property,Firearms
+199701240001,1997,1,24,India,Srinajar,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199702010001,1997,2,1,India,Panipat,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199702040001,1997,2,4,India,Panjipora,Armed Assault,Private Citizens & Property,Firearms
+199702040002,1997,2,4,India,Kupwara Dist.,Armed Assault,Police,Firearms
+199702110001,1997,2,11,India,Jarul Racha,Armed Assault,Private Citizens & Property,Firearms
+199702110002,1997,2,11,India,Pulwama,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199702160001,1997,2,16,India,Purbarama Chandraghat,Armed Assault,Private Citizens & Property,Firearms
+199702160002,1997,2,16,India,Gorangatilla,Armed Assault,Private Citizens & Property,Firearms
+199702160008,1997,2,16,India,Ganda Basti,Armed Assault,Private Citizens & Property,Firearms
+199702190001,1997,2,19,India,Nowgam,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199702240001,1997,2,24,India,Srinajar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199702250001,1997,2,25,India,New Delhi,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199702250009,1997,2,25,India,New Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199702260001,1997,2,26,India,Bahugund,Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199702270001,1997,2,27,India,New Delhi - Jammu,Hijacking,Airports & Aircraft,Unknown
+199703020001,1997,3,2,India,Anantnag Dist.,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199703030001,1997,3,3,India,Nowpora,Assassination,Government (General),Firearms
+199703030002,1997,3,3,India,Gretabal,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199703110001,1997,3,11,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199703110002,1997,3,11,India,Srinagar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199703140001,1997,3,14,India,Jalandhar,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199703160001,1997,3,16,India,J&K,Armed Assault,Private Citizens & Property,Firearms
+199703160002,1997,3,16,India,Srinagar,Assassination,Journalists & Media,Firearms
+199703170001,1997,3,17,India,J&K,Armed Assault,Police,Firearms
+199703210001,1997,3,21,India,Nizamabad Dist,Assassination,Private Citizens & Property,Firearms
+199703210002,1997,3,21,India,Sangrampur,Armed Assault,Private Citizens & Property,Firearms
+199703230001,1997,3,23,India,Kab,Armed Assault,Private Citizens & Property,Firearms
+199703290009,1997,3,29,India,Kashmir,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199703300001,1997,3,30,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199703300002,1997,3,30,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199703310001,1997,3,31,India,Yacharam,Armed Assault,Police,Firearms
+199704030001,1997,4,3,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199704060001,1997,4,6,India,Pathankot,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199704110001,1997,4,11,India,Srinagar,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199704110002,1997,4,11,India,Shopian,Hijacking,Police,Explosives/Bombs/Dynamite
+199704210001,1997,4,21,India,Ramban,Assassination,Government (General),Firearms
+199704210002,1997,4,21,India,J&K,Hostage Taking (Kidnapping),Government (General),Unknown
+199704240001,1997,4,24,India,Sumbal,Armed Assault,Government (General),Firearms
+199704250001,1997,4,25,India,Warpwh,Armed Assault,Private Citizens & Property,Firearms
+199704300001,1997,4,30,India,Saphermaina,Armed Assault,Military,Firearms
+199705070001,1997,5,7,India,Natunbazar,Armed Assault,Police,Firearms
+199705120001,1997,5,12,India,Dodadib Hills,Armed Assault,Private Citizens & Property,Firearms
+199705160001,1997,5,16,India,Bishenpur D.,Armed Assault,Police,Firearms
+199705170001,1997,5,17,India,Manipur S.,Unknown,Private Citizens & Property,Unknown
+199705170002,1997,5,17,India,Laxmanpur V.,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199705210001,1997,5,21,India,Thoubal D.,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199705210002,1997,5,21,India,Wangehuk,Unknown,Police,Unknown
+199705280001,1997,5,28,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199705280002,1997,5,28,India,Asam S.,Armed Assault,Police,Firearms
+199706030001,1997,6,3,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199706040001,1997,6,4,India,Handwara,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199706060001,1997,6,6,India,Pathankot,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199706070001,1997,6,7,India,Nambol,Unknown,Police,Unknown
+199706080001,1997,6,8,India,Guwahati,Assassination,Government (General),Explosives/Bombs/Dynamite
+199706090001,1997,6,9,India,Raya Morh,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199706100001,1997,6,10,India,Chamanu,Armed Assault,Police,Firearms
+199706150001,1997,6,15,India,Gool Gulab Garh,Armed Assault,Transportation,Firearms
+199706170001,1997,6,17,India,Assam S.,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199706180001,1997,6,18,India,Pulwama,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199706180002,1997,6,18,India,Margooz region,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199706200001,1997,6,20,India,New Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199706200005,1997,6,20,India,New Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199706250001,1997,6,25,India,New Delhi,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199706290001,1997,6,29,India,Srinagar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199706290002,1997,6,29,India,Jaipur,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199706290003,1997,6,29,India,Jaipur,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199706300001,1997,6,30,India,Nagaland S.,Unknown,Military,Unknown
+199707010001,1997,7,1,India,Machareddy,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199707010002,1997,7,1,India,Banihal,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199707020001,1997,7,2,India,Manipur S.,Unknown,Unknown,Unknown
+199707020009,1997,7,2,India,Manipur S,Assassination,Unknown,Unknown
+199707040001,1997,7,4,India,Majuli islands,Hostage Taking (Kidnapping),Government (General),Unknown
+199707050001,1997,7,5,India,Srinagar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199707050002,1997,7,5,India,Sopora,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199707070001,1997,7,7,India,Churachandpur D.,Armed Assault,Private Citizens & Property,Firearms
+199707080001,1997,7,8,India,Assam S.,Unknown,Military,Unknown
+199707080002,1997,7,8,India,Bhatinda,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199707090001,1997,7,9,India,Bhagapurana,Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199707120001,1997,7,12,India,New Delhi,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199707140001,1997,7,14,India,New Delhi,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199707140002,1997,7,14,India,New Delhi,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199707150001,1997,7,15,India,J&K,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199707150002,1997,7,15,India,J&K,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199707160001,1997,7,16,India,Bijbehara,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199707160002,1997,7,16,India,Thanlon,Armed Assault,Private Citizens & Property,Firearms
+199707180001,1997,7,18,India,Hostapur,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199707210001,1997,7,21,India,Noorpura,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199707220001,1997,7,22,India,New Delhi,Hostage Taking (Kidnapping),Business,Firearms
+199707220002,1997,7,22,India,Wokha,Armed Assault,Military,Firearms
+199707280001,1997,7,28,India,Dhandari,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199707310001,1997,7,31,India,Dhumachara,Hostage Taking (Kidnapping),Government (General),Firearms
+199708070001,1997,8,7,India,Nagpur,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199708080001,1997,8,8,India,Andhra Pradesh S.,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199708110001,1997,8,11,India,Barpeta D.,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199708110002,1997,8,11,India,Madras,Bombing/Explosion,Government (Diplomatic),Explosives/Bombs/Dynamite
+199708110003,1997,8,11,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199708110004,1997,8,11,India,Rajouri Kadal,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199708110005,1997,8,11,India,Hatimura,Armed Assault,Private Citizens & Property,Firearms
+199708110006,1997,8,11,India,Rangiya,Armed Assault,Private Citizens & Property,Firearms
+199708110018,1997,8,11,India,Madras,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199708120001,1997,8,12,India,Handwara,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199708130001,1997,8,13,India,Kenduguri,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199708140001,1997,8,14,India,Silanibari,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199708140002,1997,8,14,India,Assan S.,Armed Assault,Unknown,Firearms
+199708140003,1997,8,14,India,Assan S.,Armed Assault,Unknown,Firearms
+199708140004,1997,8,14,India,Assan S.,Armed Assault,Unknown,Firearms
+199708140005,1997,8,14,India,Assan S.,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199708140006,1997,8,14,India,Assam S.,Facility/Infrastructure Attack,Transportation,Incendiary
+199708140007,1997,8,14,India,Teliamura,Unknown,Private Citizens & Property,Unknown
+199708150001,1997,8,15,India,Nageland S.,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199708150002,1997,8,15,India,Nageland S.,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199708230001,1997,8,23,India,Palapora,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199708260001,1997,8,26,India,Palapora,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199708270001,1997,8,27,India,Jaipur,Unknown,Government (General),Unknown
+199708280001,1997,8,28,India,Bombay,Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199708280002,1997,8,28,India,Shopian,Armed Assault,Private Citizens & Property,Firearms
+199708300001,1997,8,30,India,Soupi,Unknown,Private Citizens & Property,Unknown
+199708300002,1997,8,30,India,Soupi,Unknown,Private Citizens & Property,Unknown
+199708300003,1997,8,30,India,Churachandpur D,Armed Assault,Unknown,Firearms
+199709020001,1997,9,2,India,"Khadesin V., Jenanabad D.",Armed Assault,Private Citizens & Property,Firearms
+199709070001,1997,9,7,India,Ankudar,Armed Assault,Violent Political Party,Firearms
+199709230001,1997,9,23,India,Rajouri,Armed Assault,Private Citizens & Property,Firearms
+199709250001,1997,9,25,India,Kalakuchi,Armed Assault,Private Citizens & Property,Firearms
+199710010001,1997,10,1,India,Ghaziabad,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199710010002,1997,10,1,India,Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199710100001,1997,10,10,India,New Delhi,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199710100002,1997,10,10,India,New Delhi,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199710100003,1997,10,10,India,New Delhi,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199710180001,1997,10,18,India,New Delhi,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199710180002,1997,10,18,India,New Delhi,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199710240001,1997,10,24,India,Bihar S,Assassination,Religious Figures/Institutions,Melee
+199710240002,1997,10,24,India,Srinager,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199710260001,1997,10,26,India,New Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199710260002,1997,10,26,India,New Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199710290001,1997,10,29,India,J+K,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199710290002,1997,10,29,India,J+K,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199710290003,1997,10,29,India,J+K,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199710290004,1997,10,29,India,Churachandpur D,Unknown,Private Citizens & Property,Unknown
+199710300001,1997,10,30,India,Phaizol Kuki,Armed Assault,Private Citizens & Property,Firearms
+199710310001,1997,10,31,India,Srunajar,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199710310002,1997,10,31,India,Srinagar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199711010001,1997,11,1,India,Ikou Bazar,Armed Assault,Government (General),Firearms
+199711010002,1997,11,1,India,Iqbalabad,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199711010003,1997,11,1,India,Srinagar,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199711010004,1997,11,1,India,Srinagar,Assassination,Private Citizens & Property,Firearms
+199711010005,1997,11,1,India,Srinagar,Assassination,Private Citizens & Property,Firearms
+199711020001,1997,11,2,India,Ikou,Armed Assault,Military,Firearms
+199711070007,1997,11,7,India,Raishyabari,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199711120001,1997,11,12,India,Bihar state,Armed Assault,Police,Incendiary
+199711130001,1997,11,13,India,Bihar state,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199711140001,1997,11,14,India,Bihar state,Unknown,Police,Unknown
+199711170001,1997,11,17,India,Bihar State,Armed Assault,Police,Firearms
+199711190007,1997,11,19,India,Hyderabad,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199711270001,1997,11,27,India,Bongaigaon,Armed Assault,Police,Firearms
+199711280001,1997,11,28,India,Assam State,Bombing/Explosion,Utilities,Explosives/Bombs/Dynamite
+199711280002,1997,11,28,India,Assam State,Bombing/Explosion,Utilities,Explosives/Bombs/Dynamite
+199711280003,1997,11,28,India,Assam State,Bombing/Explosion,Utilities,Explosives/Bombs/Dynamite
+199711290001,1997,11,29,India,Coimbatore,Armed Assault,Police,Melee
+199711290002,1997,11,29,India,Pulwama,Armed Assault,Terrorists/Non-State Militia,Firearms
+199711300001,1997,11,30,India,New Delhi,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199711300002,1997,11,30,India,New Delhi,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199711300003,1997,11,30,India,Coimbatore,Armed Assault,Business,Firearms
+199711300004,1997,11,30,India,Coimbatore,Unknown,Government (General),Unknown
+199712010001,1997,12,1,India,Bathe-Lakshmanpur V.,Armed Assault,Private Citizens & Property,Firearms
+199712040001,1997,12,4,India,Srinagar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199712040002,1997,12,4,India,Srinagar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199712050001,1997,12,5,India,Srinagar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199712050002,1997,12,5,India,Churchandpur,Armed Assault,Military,Firearms
+199712060001,1997,12,6,India,Banihal,Unknown,Police,Unknown
+199712060002,1997,12,6,India,Tichy/Thottipalayam/Thrissur,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199712060003,1997,12,6,India,Tichy/Thottipalayam/Thrissur,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199712060004,1997,12,6,India,Tichy/Thottipalayam/Thrissur,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199712080001,1997,12,8,India,Imphal,Bombing/Explosion,Unknown,Explosives/Bombs/Dynamite
+199712180001,1997,12,18,India,Barpetta D.,Armed Assault,Business,Firearms
+199712180002,1997,12,18,India,Manipur S.,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199712300001,1997,12,30,India,New Delhi,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199712300002,1997,12,30,India,Darrang D.,Unknown,Private Citizens & Property,Unknown
+199801090002,1998,1,9,India,New Delhi,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199801250005,1998,1,25,India,Wandhama,Armed Assault,Private Citizens & Property,Melee
+199802040001,1998,2,4,India,Assam,Armed Assault,Police,Firearms
+199802140004,1998,2,14,India,Coimbatore,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199802150005,1998,2,14,India,Coimbatore,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199802150006,1998,2,14,India,Coimbatore,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199802150007,1998,2,14,India,Coimbatore,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199802150008,1998,2,14,India,Coimbatore,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199802150009,1998,2,14,India,Coimbatore,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199802150010,1998,2,14,India,Coimbatore,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199802150011,1998,2,14,India,Coimbatore,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199802150012,1998,2,14,India,Coimbatore,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199802150013,1998,2,14,India,Coimbatore,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199802150014,1998,2,14,India,Coimbatore,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199802150015,1998,2,14,India,Coimbatore,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199802150016,1998,2,14,India,Coimbatore,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199802270001,1998,2,27,India,Mumbai,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199802270002,1998,2,27,India,Mumbai,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199802270003,1998,2,27,India,Virar,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199804180001,1998,4,18,India,Thub,Armed Assault,Private Citizens & Property,Firearms
+199804220004,1998,4,22,India,Barankot,Armed Assault,Private Citizens & Property,Firearms
+199805050002,1998,5,5,India,Surankot,Armed Assault,Private Citizens & Property,Firearms
+199805050003,1998,5,5,India,Dhakikot,Armed Assault,Private Citizens & Property,Firearms
+199806190001,1998,6,19,India,Chapnali,Armed Assault,Private Citizens & Property,Firearms
+199807170002,1998,7,17,India,Kokrajhar District,Armed Assault,Police,Firearms
+199807280004,1998,7,28,India,Channa,Armed Assault,Private Citizens & Property,Firearms
+199807280005,1998,7,28,India,Swaram,Armed Assault,Private Citizens & Property,Firearms
+199807290006,1998,7,29,India,Dhamdhama,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199807290007,1998,7,29,India,Mainaopuri,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199807290008,1998,7,29,India,Doimaguri,Armed Assault,Private Citizens & Property,Melee
+199808020007,1998,8,2,India,Amarpur,Armed Assault,Private Citizens & Property,Firearms
+199808030001,1998,8,3,India,Kalabanh,Armed Assault,Business,Firearms
+199808030002,1998,8,3,India,Satrandi,Armed Assault,Private Citizens & Property,Firearms
+199808030003,1998,8,3,India,Siala,Armed Assault,Private Citizens & Property,Firearms
+199808040002,1998,8,4,India,Srinagar,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199808040003,1998,8,4,India,Balmatkote,Armed Assault,Private Citizens & Property,Firearms
+199808040004,1998,8,4,India,Unknown,Armed Assault,Private Citizens & Property,Firearms
+199808090003,1998,8,9,India,Kuppuguda,Armed Assault,Police,Firearms
+199808240003,1998,8,24,India,Guwahati,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199809250001,1998,9,25,India,Saraikhola,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199809250003,1998,9,25,India,Sringar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199810060001,1998,10,6,India,Bangwani,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199810080001,1998,10,8,India,Chawmanu,Armed Assault,Violent Political Party,Firearms
+199810080003,1998,10,8,India,Tripura,Armed Assault,Violent Political Party,Melee
+199810080004,1998,10,8,India,Assam,Armed Assault,Private Citizens & Property,Firearms
+199810080005,1998,10,8,India,Dantewada District,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199810100001,1998,10,10,India,Tamahat,Armed Assault,Government (General),Firearms
+199810100002,1998,10,10,India,Sonitpur,Armed Assault,Private Citizens & Property,Firearms
+199810160005,1998,10,16,India,Genel,Armed Assault,Transportation,Firearms
+199810170002,1998,10,17,India,Kokrajhar District,Armed Assault,Private Citizens & Property,Firearms
+199810230002,1998,10,23,India,Safapura,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199811070002,1998,11,7,India,Patacharkuchi,Armed Assault,Police,Firearms
+199811190001,1998,11,19,India,Srinagar,Bombing/Explosion,Religious Figures/Institutions,Explosives/Bombs/Dynamite
+199811210002,1998,11,21,India,Anantnag,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199811240002,1998,11,24,India,Sriguhphara,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199811260001,1998,11,26,India,Tinsukia,Bombing/Explosion,Utilities,Explosives/Bombs/Dynamite
+199811270001,1998,11,27,India,Moranhat,Armed Assault,Police,Firearms
+199811270003,1998,11,27,India,Nalli,Bombing/Explosion,Utilities,Explosives/Bombs/Dynamite
+199811270004,1998,11,27,India,Darrang District,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199812180001,1998,12,18,India,New Delhi,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199812200001,1998,12,20,India,Guwahati,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199901040002,1999,1,4,India,Pattan,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199901230001,1999,1,23,India,Manoharpur,Armed Assault,Private Citizens & Property,Incendiary
+199901250001,1999,1,25,India,Allahabad,Unarmed Assault,Religious Figures/Institutions,Melee
+199902110002,1999,2,11,India,Narayanpur,Armed Assault,Private Citizens & Property,Firearms
+199902130001,1999,2,13,India,Thinkeu,Armed Assault,Military,Firearms
+199903030001,1999,3,3,India,Bhimpura,Armed Assault,Private Citizens & Property,Firearms
+199903030002,1999,3,3,India,Kurmol,Armed Assault,Military,Firearms
+199903130001,1999,3,13,India,Haflong,Armed Assault,Police,Firearms
+199903180006,1999,3,18,India,Sinari,Armed Assault,Private Citizens & Property,Firearms
+199903240003,1999,3,24,India,Unknown,Armed Assault,Police,Firearms
+199903270003,1999,3,27,India,Attamohanpara,Hostage Taking (Kidnapping),Private Citizens & Property,Firearms
+199904010004,1999,4,1,India,Tehsil Goal,Bombing/Explosion,Military,Firearms
+199904200002,1999,4,20,India,Rajauri,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199905060003,1999,5,5,India,Dadsara-Tral,Assassination,Government (General),Firearms
+199905100003,1999,5,10,India,Lasana,Armed Assault,Police,Firearms
+199905110001,1999,5,11,India,Hathikulai,Armed Assault,Police,Firearms
+199905120002,1999,5,12,India,Kargil District,Armed Assault,Military,Firearms
+199905150001,1999,5,15,India,Kupwara District,Assassination,Government (General),Firearms
+199905240001,1999,5,24,India,Velpur,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199905300004,1999,5,30,India,Chennai,Bombing/Explosion,Business,Explosives/Bombs/Dynamite
+199905300005,1999,5,30,India,Chennai,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199905300006,1999,5,30,India,Tiruchi,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199905300007,1999,5,30,India,Coimbatore,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199906030004,1999,6,3,India,Delhi,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199906090005,1999,6,9,India,Kangan,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199906120003,1999,6,12,India,Kupwara District,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199906120005,1999,6,12,India,Srinagar,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199906220008,1999,6,22,India,New Jalpaiguri,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199906260001,1999,6,26,India,Rajouri District,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199906280004,1999,6,28,India,Dholabari,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199906280005,1999,6,28,India,Morabachai,Unknown,Private Citizens & Property,Unknown
+199906290004,1999,6,29,India,Sangam,Armed Assault,Private Citizens & Property,Firearms
+199906300001,1999,6,30,India,Chandigarh,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199907060001,1999,7,6,India,Surankot,Armed Assault,Private Citizens & Property,Firearms
+199907070001,1999,7,7,India,Anantnag,Armed Assault,Private Citizens & Property,Firearms
+199907080001,1999,7,8,India,Poonch District,Armed Assault,Private Citizens & Property,Firearms
+199907130001,1999,7,13,India,Madar,Hostage Taking (Kidnapping),Military,Explosives/Bombs/Dynamite
+199907130003,1999,7,13,India,Bandipora,Armed Assault,Military,Firearms
+199907180001,1999,7,18,India,Badgam,Armed Assault,Police,Explosives/Bombs/Dynamite
+199907190001,1999,7,19,India,Lehota,Armed Assault,Police,Firearms
+199907190002,1999,7,19,India,Mandi,Armed Assault,Government (General),Firearms
+199907210001,1999,7,21,India,Baramulla,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199907210002,1999,7,21,India,Dadbugh,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199907220004,1999,7,22,India,Guwahati,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199907220005,1999,7,22,India,Guwahati,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199907240001,1999,7,24,India,Anantnag,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199907270002,1999,7,27,India,Karbi Anglong District,Armed Assault,Military,Firearms
+199907290008,1999,7,29,India,Humahama,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199908020004,1999,8,2,India,Kerala,Unarmed Assault,Religious Figures/Institutions,Chemical
+199908030001,1999,8,3,India,Guwahati,Hostage Taking (Kidnapping),Business,Firearms
+199908040007,1999,8,4,India,Guwahati,Hostage Taking (Kidnapping),Business,Firearms
+199908050006,1999,8,5,India,Kotkapura,Hostage Taking (Kidnapping),Private Citizens & Property,Firearms
+199908060002,1999,8,6,India,Check-Natnusa,Armed Assault,Military,Explosives/Bombs/Dynamite
+199908060004,1999,8,6,India,Kanchanchara,Hostage Taking (Kidnapping),NGO,Unknown
+199908070003,1999,8,7,India,Kupwara,Armed Assault,Military,Firearms
+199908070004,1999,8,7,India,Bijni,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199908070006,1999,8,7,India,Bijni,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199908080001,1999,8,8,India,Trehgam,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199908090005,1999,8,9,India,Salakati,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199908110002,1999,8,11,India,Sonitpur District,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199908140004,1999,8,14,India,Manasbal,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199908140005,1999,8,14,India,Valgam,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199908140006,1999,8,14,India,Magam,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199908140007,1999,8,14,India,Rajpora,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199908140008,1999,8,14,India,Devar-Lolab,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199908150001,1999,8,15,India,Chenani,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199908150002,1999,8,15,India,Chenani,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199908200001,1999,8,20,India,Cachar District,Hostage Taking (Kidnapping),Business,Firearms
+199908200002,1999,8,20,India,Nalbari District,Hostage Taking (Kidnapping),Business,Firearms
+199909060004,1999,9,6,India,Manu,Hostage Taking (Kidnapping),Government (General),Firearms
+199909090001,1999,9,9,India,Doda,Bombing/Explosion,Violent Political Party,Explosives/Bombs/Dynamite
+199909150001,1999,9,15,India,Tangmang,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199909160006,1999,9,16,India,Laudara,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199909250002,1999,9,25,India,Deepkarhar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199909250003,1999,9,25,India,Sursand District,Armed Assault,Violent Political Party,Firearms
+199909260005,1999,9,26,India,Pastoon,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199909260006,1999,9,26,India,Unknown,Armed Assault,Military,Firearms
+199909290001,1999,9,29,India,Srinagar,Armed Assault,Government (General),Explosives/Bombs/Dynamite
+199910020004,1999,10,2,India,Assam,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199910020005,1999,10,2,India,Calcutta,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199910020006,1999,10,2,India,Tinsukia District,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199910020007,1999,10,2,India,Kachugaon,Facility/Infrastructure Attack,Government (General),Unknown
+199910020008,1999,10,2,India,Henglep,Unknown,Military,Unknown
+199910020016,1999,10,2,India,Nagaon District,Assassination,Government (General),Firearms
+199910020017,1999,10,2,India,Kathalguri,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199910020018,1999,10,2,India,Tinsukia District,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199910030001,1999,10,3,India,Barpeta District,Armed Assault,Government (General),Firearms
+199910030002,1999,10,3,India,Dhalai District,Armed Assault,Military,Firearms
+199910030004,1999,10,3,India,Unknown,Armed Assault,Government (General),Firearms
+199910070001,1999,10,7,India,Srinagar,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199910230002,1999,10,23,India,Jammu,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199911030004,1999,11,3,India,Srinagar,Armed Assault,Military,Firearms
+199911110001,1999,11,11,India,Kandrori,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199911130003,1999,11,13,India,Kandrori,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199911140003,1999,11,14,India,Panchavati,Armed Assault,Private Citizens & Property,Firearms
+199911180001,1999,11,18,India,Loto,Armed Assault,Terrorists/Non-State Militia,Melee
+199911220002,1999,11,22,India,Bangdar,Armed Assault,Police,Firearms
+199911230002,1999,11,23,India,Srinagar,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199911250005,1999,11,25,India,Nehalpora Pattan,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199911270003,1999,11,27,India,Srinagar,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199911280005,1999,11,27,India,Bandipora,Armed Assault,Government (General),Firearms
+199911290005,1999,11,29,India,Phepima,Assassination,Government (General),Firearms
+199912060003,1999,12,6,India,Krishnanagar,Armed Assault,Private Citizens & Property,Firearms
+199912080002,1999,12,8,India,Siripur,Armed Assault,Private Citizens & Property,Firearms
+199912120002,1999,12,12,India,Rajampet,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199912150001,1999,12,15,India,Patan,Bombing/Explosion,Police,Explosives/Bombs/Dynamite
+199912150002,1999,12,15,India,Dungiwatcha,Bombing/Explosion,Military,Explosives/Bombs/Dynamite
+199912160001,1999,12,16,India,Kamarapally,Bombing/Explosion,Private Citizens & Property,Explosives/Bombs/Dynamite
+199912200001,1999,12,20,India,Nizamabad District,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199912220001,1999,12,22,India,Anantnag,Bombing/Explosion,Government (General),Explosives/Bombs/Dynamite
+199912280002,1999,12,28,India,Jammu,Bombing/Explosion,Transportation,Explosives/Bombs/Dynamite
+199912290001,1999,12,29,India,Srinagar,Armed Assault,Police,Explosives/Bombs/Dynamite

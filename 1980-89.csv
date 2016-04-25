@@ -1,0 +1,1233 @@
+eventid,iyear,imonth,iday,country_txt,provstate,city,attacktype1_txt,targtype1_txt,gname,weaptype1_txt
+198001010005,1980,1,1,India,,Manipur Imphal,Assassination,Government (General),Maoists,Unknown
+198001090004,1980,1,9,India,,Manipur,Armed Assault,Government (General),Maoists,Firearms
+198003210002,1980,3,21,India,,Chiaplant,Assassination,Educational Institution,Mizo National Front,Firearms
+198003210009,1980,3,21,India,,Tinzol,Armed Assault,NGO,Mizo National Front,Incendiary
+198004040001,1980,4,4,India,,Calcutta,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198004250006,1980,4,25,India,,New Delhi,Assassination,Private Citizens & Property,Unknown,Firearms
+198008270001,1980,8,27,India,,Tirupatur,Bombing/Explosion,Police,Naxalites,Explosives/Bombs/Dynamite
+198011080002,1980,11,8,India,,Assam,Bombing/Explosion,Utilities,Unknown,Explosives/Bombs/Dynamite
+198012130001,1980,12,13,India,,Assam,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198012190003,1980,12,19,India,,Assam,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198101150006,1981,1,15,India,,Manipur,Unknown,Police,Unknown,Unknown
+198101280002,1981,1,28,India,,Assam,Bombing/Explosion,Military,Anti-Immigrant Activists,Explosives/Bombs/Dynamite
+198102130003,1981,2,13,India,,Assam,Bombing/Explosion,Utilities,Anti-Immigrant Activists,Explosives/Bombs/Dynamite
+198103180008,1981,3,18,India,,Gauhati (Assam),Bombing/Explosion,Government (General),Unknown,Explosives/Bombs/Dynamite
+198104050001,1981,4,5,India,,Gavharti,Bombing/Explosion,Utilities,Unknown,Explosives/Bombs/Dynamite
+198104060001,1981,4,6,India,,"Jornat, Assam",Assassination,Government (General),Unknown,Explosives/Bombs/Dynamite
+198104270005,1981,4,27,India,,Nagaland,Assassination,Government (General),Insurgents,Firearms
+198106140001,1981,6,14,India,,Assam,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198107240003,1981,7,24,India,,Unknown,Bombing/Explosion,Transportation,Extremists,Explosives/Bombs/Dynamite
+198108150001,1981,8,15,India,,MAnipur,Bombing/Explosion,Private Citizens & Property,People's Liberation Army (India),Explosives/Bombs/Dynamite
+198108150002,1981,8,15,India,,Assam,Bombing/Explosion,Transportation,Dissident,Explosives/Bombs/Dynamite
+198109010007,1981,9,1,India,,Manipur,Unknown,Government (General),Unknown,Unknown
+198109150003,1981,9,15,India,,Mashhad,Assassination,Military,Unknown,Unknown
+198109290003,1981,9,29,India,,New Delhi- Srinagar,Hijacking,Airports & Aircraft,Sikh Extremists,Firearms
+198110160001,1981,10,16,India,,Chandigarh,Assassination,Government (General),Sikh Extremists,Firearms
+198111290002,1981,11,29,India,,Chandigarh (Punjab),Bombing/Explosion,Religious Figures/Institutions,Unknown,Explosives/Bombs/Dynamite
+198202190003,1982,2,19,India,,Manipur,Unknown,Military,Secessionists,Unknown
+198206040005,1982,6,4,India,,West Bengal,Unknown,Violent Political Party,Naxalites,Unknown
+198206090001,1982,6,9,India,,Gauhati,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198206140006,1982,6,14,India,,New Delhi,Assassination,Government (Diplomatic),Unknown,Firearms
+198206150001,1982,6,15,India,,Aijal (in Mizoram),Assassination,Government (General),Unknown,Firearms
+198206200004,1982,6,20,India,,Mizoram,Assassination,Unknown,Mizo National Front,Firearms
+198208200020,1982,8,20,India,,Jodhpur,Hijacking,Airports & Aircraft,Sikh Extremists,Firearms
+198208260004,1982,8,26,India,,Bombay,Assassination,Government (Diplomatic),Unknown,Firearms
+198210000012,1982,10,0,India,,Amritsar,Unknown,Government (General),Akali Dal Party,Unknown
+198210250009,1982,10,25,India,,Tipaimukh,Armed Assault,Police,Mizo National Front,Firearms
+198210260011,1982,10,26,India,,Amritsar,Bombing/Explosion,Religious Figures/Institutions,Unknown,Explosives/Bombs/Dynamite
+198211180002,1982,11,18,India,,New Delhi,Bombing/Explosion,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite
+198212100011,1982,12,10,India,,Bombay,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198301310002,1983,1,31,India,,Assam,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198302030002,1983,2,3,India,,New Dehli,Bombing/Explosion,Airports & Aircraft,Iranians,Explosives/Bombs/Dynamite
+198302030003,1983,2,3,India,,New Dehli,Bombing/Explosion,Airports & Aircraft,Iranians,Explosives/Bombs/Dynamite
+198302110002,1983,2,11,India,,New Delhi,Unknown,Government (Diplomatic),Unknown,Unknown
+198302150002,1983,2,15,India,,Gauhati,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198302150003,1983,2,15,India,,Assam State (Gauhati),Assassination,Government (General),Unknown,Unknown
+198303080002,1983,3,8,India,,New Delhi,Bombing/Explosion,Private Citizens & Property,All India Sikh Students Federation (AISSF),Explosives/Bombs/Dynamite
+198303080003,1983,3,8,India,,New Delhi,Bombing/Explosion,Transportation,All India Sikh Students Federation (AISSF),Explosives/Bombs/Dynamite
+198303150003,1983,3,15,India,,Assam,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198303150004,1983,3,15,India,,Gauhati,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198303210007,1983,3,21,India,,Punjab (Harshowl Village),Assassination,Religious Figures/Institutions,Unknown,Unknown
+198303210008,1983,3,21,India,,"Mothawala (Kapurthala Dist.), Punjab",Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198303210012,1983,3,21,India,,Punjab (at Quadian),Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198303300001,1983,3,30,India,,Punjab,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198303300002,1983,3,30,India,,Balto Bazar,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198303300003,1983,3,30,India,,Gauhati,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198304070001,1983,4,7,India,,Gauhati,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198304080001,1983,4,8,India,,Gauhati,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198304090011,1983,4,9,India,,Kampur,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198304090012,1983,4,9,India,,Gauhati,Bombing/Explosion,Maritime,Unknown,Explosives/Bombs/Dynamite
+198304250001,1983,4,25,India,,Amristar (Punjab),Assassination,Police,Sikh Extremists,Firearms
+198306260013,1983,6,26,India,,Sultanpuri Lodhi (Kapurthala District),Assassination,Religious Figures/Institutions,Sikh Extremists,Unknown
+198306270002,1983,6,27,India,,Jullundur,Bombing/Explosion,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198308150003,1983,8,15,India,,Punjab (Muktsar),Assassination,Police,Unknown,Firearms
+198309210002,1983,9,21,India,,Jullundur,Bombing/Explosion,Religious Figures/Institutions,Sikh Extremists,Explosives/Bombs/Dynamite
+198309210003,1983,9,21,India,,Ludhiana Dist,Assassination,Police,Sikh Extremists,Firearms
+198309210005,1983,9,21,India,,Amritsar,Unknown,Business,Sikh Extremists,Unknown
+198309210006,1983,9,21,India,,Amritsar,Unknown,Business,Sikh Extremists,Unknown
+198309230004,1983,9,23,India,,Amritsar,Assassination,Private Citizens & Property,Extremists,Firearms
+198309260001,1983,9,26,India,,Amritsar,Assassination,Police,Sikh Extremists,Firearms
+198310130002,1983,10,13,India,,Delhi,Bombing/Explosion,Business,Unknown,Explosives/Bombs/Dynamite
+198310130003,1983,10,13,India,,Delhi,Bombing/Explosion,Business,Unknown,Explosives/Bombs/Dynamite
+198310140002,1983,10,14,India,,New Delhi,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198310140004,1983,10,14,India,,Taran Taran,Assassination,Police,Unknown,Firearms
+198310150004,1983,10,15,India,,Chandigarh,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198310170001,1983,10,17,India,,Chandigarh,Bombing/Explosion,Police,Unknown,Explosives/Bombs/Dynamite
+198310170002,1983,10,17,India,,Chandigarh,Bombing/Explosion,Police,Unknown,Explosives/Bombs/Dynamite
+198310170003,1983,10,17,India,,Assam,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198310170004,1983,10,17,India,,Amritsar,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198310250002,1983,10,25,India,,New Delhi,Assassination,Government (Diplomatic),Unknown,Firearms
+198311070002,1983,11,7,India,,Assam,Bombing/Explosion,Transportation,Anti-Immigrant Activists,Explosives/Bombs/Dynamite
+198311070008,1983,11,7,India,,New Delhi,Unknown,Airports & Aircraft,Fedayeen Khalq (People's Commandos),Unknown
+198311150003,1983,11,15,India,,Gauhati,Bombing/Explosion,Police,Unknown,Explosives/Bombs/Dynamite
+198311180010,1983,11,18,India,,Punjab,Hostage Taking (Kidnapping),Transportation,Unknown,Firearms
+198311190001,1983,11,19,India,,Gauhati,Assassination,Government (General),Unknown,Firearms
+198311280006,1983,11,28,India,,Jullundur town,Assassination,Government (General),Unknown,Firearms
+198312200003,1983,12,20,India,,Punjab,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198402000001,1984,2,0,India,,Punjab,Bombing/Explosion,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198402000002,1984,2,0,India,,Punjab,Assassination,Private Citizens & Property,Sikh Extremists,Unknown
+198402010007,1984,2,1,India,,Tripura,Armed Assault,Military,Tripura National Volunteers (TNV),Unknown
+198402070003,1984,2,7,India,,"Dimapur, Nagaland",Assassination,Government (General),Naga People,Firearms
+198402150020,1984,2,15,India,,Punjab,Unknown,Police,Sikh Extremists,Unknown
+198402160009,1984,2,16,India,,Punjab,Assassination,Police,Unknown,Melee
+198402160010,1984,2,16,India,,Punjab,Armed Assault,Police,Unknown,Explosives/Bombs/Dynamite
+198402200008,1984,2,20,India,,Bhatinda town,Facility/Infrastructure Attack,Religious Figures/Institutions,Unknown,Incendiary
+198402200009,1984,2,20,India,,Bhatinda town,Facility/Infrastructure Attack,Religious Figures/Institutions,Unknown,Incendiary
+198402200010,1984,2,20,India,,Bhatinda town,Facility/Infrastructure Attack,Religious Figures/Institutions,Unknown,Incendiary
+198402210001,1984,2,21,India,,Amritsar,Bombing/Explosion,Police,Sikh Extremists,Explosives/Bombs/Dynamite
+198402210002,1984,2,21,India,,Hoshiarpur,Bombing/Explosion,Religious Figures/Institutions,Unknown,Explosives/Bombs/Dynamite
+198402260004,1984,2,26,India,,Pheowal village,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198402260005,1984,2,26,India,,Punjab,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198402290017,1984,2,29,India,,Amritsar,Bombing/Explosion,Religious Figures/Institutions,Unknown,Explosives/Bombs/Dynamite
+198403150008,1984,3,15,India,,Imphal (Manipur State),Unknown,Military,People's Liberation Army (India),Unknown
+198403230003,1984,3,23,India,,Punjab,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198403230005,1984,3,23,India,,Punjab (Zerozepur dist),Assassination,Religious Figures/Institutions,Sikh Extremists,Firearms
+198403250003,1984,3,25,India,,Punjab,Assassination,Private Citizens & Property,Unknown,Unknown
+198403280001,1984,3,28,India,,Punjab,Bombing/Explosion,Police,Unknown,Explosives/Bombs/Dynamite
+198403280007,1984,3,28,India,,New Delhi,Assassination,Government (General),Sikh Extremists,Firearms
+198403280008,1984,3,28,India,,Punjab,Assassination,Business,Unknown,Firearms
+198403300002,1984,3,30,India,,Amritsar,Assassination,Private Citizens & Property,Unknown,Firearms
+198403300003,1984,3,30,India,,Delhi,Assassination,Private Citizens & Property,Unknown,Unknown
+198403300004,1984,3,30,India,,Tripura (in Baramura),Armed Assault,Utilities,Tripura Nationalists,Firearms
+198404010007,1984,4,1,India,,Punjab,Bombing/Explosion,Religious Figures/Institutions,Unknown,Explosives/Bombs/Dynamite
+198404020001,1984,4,2,India,,Amritsar,Assassination,Government (General),Dishmish Regiment,Unknown
+198404030005,1984,4,3,India,,Chandigarh,Assassination,Government (General),Dishmish Regiment,Firearms
+198404040006,1984,4,4,India,,Punjab,Bombing/Explosion,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198404050013,1984,4,5,India,,Rajasthan,Unknown,Business,Sikh Extremists,Unknown
+198404070002,1984,4,7,India,,Punjab,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198404080002,1984,4,8,India,,Bhatinda,Bombing/Explosion,Religious Figures/Institutions,Unknown,Explosives/Bombs/Dynamite
+198404080003,1984,4,8,India,,Punjab,Bombing/Explosion,Religious Figures/Institutions,Sikh Extremists,Explosives/Bombs/Dynamite
+198404080005,1984,4,8,India,,Bhatinda,Assassination,Private Citizens & Property,Unknown,Firearms
+198404080009,1984,4,8,India,,Ropar,Facility/Infrastructure Attack,Educational Institution,Unknown,Incendiary
+198404110006,1984,4,11,India,,Rahon,Assassination,Business,Sikh Extremists,Firearms
+198404110007,1984,4,11,India,,Patiala,Assassination,Business,Unknown,Unknown
+198404110008,1984,4,11,India,,Amritsar,Assassination,Business,Sikh Extremists,Unknown
+198404110011,1984,4,11,India,,Punjab,Bombing/Explosion,Religious Figures/Institutions,Unknown,Explosives/Bombs/Dynamite
+198404110012,1984,4,11,India,,Punjab,Armed Assault,Transportation,Sikh Extremists,Incendiary
+198404110013,1984,4,11,India,,Amritsar,Armed Assault,Religious Figures/Institutions,Unknown,Firearms
+198404120001,1984,4,12,India,,Kalanour,Assassination,Journalists & Media,Sikh Extremists,Firearms
+198404140001,1984,4,14,India,,Amritsar,Assassination,Terrorists/Non-State Militia,Sikh Extremists,Firearms
+198404140002,1984,4,14,India,,Amritsar,Assassination,Terrorists/Non-State Militia,Sikh Extremists,Firearms
+198404150005,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150006,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150007,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150008,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150009,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150010,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150011,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150012,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150013,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150014,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150015,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150016,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150017,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150018,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150019,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150020,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150021,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150022,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150023,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150024,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150025,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150026,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150027,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150028,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150029,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150030,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150031,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150032,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150033,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150034,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150035,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150036,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150037,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150038,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150039,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150040,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150041,1984,4,15,India,,Punjab,Bombing/Explosion,Transportation,Dishmish Regiment,Firearms
+198404150042,1984,4,15,India,,Punjab,Facility/Infrastructure Attack,Government (General),Dishmish Regiment,Incendiary
+198404160008,1984,4,16,India,,Amritsar,Assassination,Terrorists/Non-State Militia,Sikh Extremists,Firearms
+198404160009,1984,4,16,India,,Amritsar,Assassination,Violent Political Party,Sikh Extremists,Unknown
+198404160010,1984,4,16,India,,Amritsar,Assassination,Religious Figures/Institutions,Unknown,Firearms
+198404170009,1984,4,17,India,,Bella village,Assassination,Private Citizens & Property,Sikh Extremists,Unknown
+198404170012,1984,4,17,India,,Chandigarh(Punjab),Assassination,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198404190004,1984,4,19,India,,Punjab,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198404190007,1984,4,19,India,,Ambala,Assassination,Police,Unknown,Firearms
+198404210006,1984,4,21,India,,northern India,Assassination,Terrorists/Non-State Militia,Sikh Extremists,Unknown
+198404210009,1984,4,21,India,,Northern India,Facility/Infrastructure Attack,Transportation,Sikh Extremists,Incendiary
+198404220003,1984,4,22,India,,Punjab (Jogiana),Assassination,Religious Figures/Institutions,Sikh Extremists,Firearms
+198404220010,1984,4,22,India,,Amarkot,Armed Assault,Business,Sikh Extremists,Firearms
+198404230008,1984,4,23,India,,Punjab,Assassination,Military,Unknown,Melee
+198404230014,1984,4,23,India,,Ferozepore,Unknown,Police,Unknown,Unknown
+198404240001,1984,4,24,India,,Punjab,Unknown,Police,Sikh Extremists,Unknown
+198404240002,1984,4,24,India,,Amritsar,Assassination,Religious Figures/Institutions,Sikh Extremists,Melee
+198404260009,1984,4,26,India,,Armitsar,Assassination,Business,Sikh Extremists,Firearms
+198404260010,1984,4,26,India,,Punjab,Assassination,Business,Unknown,Firearms
+198404300003,1984,4,30,India,,Punjab,Assassination,Police,Sikh Extremists,Firearms
+198405010014,1984,5,1,India,,Tripura state,Assassination,Police,Tripura National Volunteers (TNV),Firearms
+198405020003,1984,5,2,India,,Punjab,Assassination,Government (General),Unknown,Firearms
+198405050004,1984,5,5,India,,Haryana,Armed Assault,Transportation,Unknown,Firearms
+198405060005,1984,5,6,India,,Amritsar,Bombing/Explosion,Police,Sikh Extremists,Explosives/Bombs/Dynamite
+198405070001,1984,5,7,India,,Punjab's Zeroepur district,Assassination,Government (General),Sikh Extremists,Unknown
+198405100009,1984,5,10,India,,Amritsar,Assassination,Religious Figures/Institutions,Sikh Extremists,Firearms
+198405120006,1984,5,12,India,,Punjab,Assassination,Journalists & Media,Dishmish Regiment,Firearms
+198405130009,1984,5,13,India,,Punjab,Unknown,Transportation,Sikh Extremists,Unknown
+198405140002,1984,5,14,India,,unidentified,Bombing/Explosion,Business,Unknown,Explosives/Bombs/Dynamite
+198405140010,1984,5,14,India,,Amritsar,Assassination,Religious Figures/Institutions,Unknown,Firearms
+198405180007,1984,5,18,India,,Manipur,Bombing/Explosion,Business,People's Liberation Army (India),Unknown
+198405180008,1984,5,18,India,,Punjab,Assassination,Religious Figures/Institutions,Dishmish Regiment,Firearms
+198405180011,1984,5,18,India,,Punjab,Facility/Infrastructure Attack,Private Citizens & Property,Dishmish Regiment,Incendiary
+198405200001,1984,5,20,India,,Jammu town,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198405200003,1984,5,20,India,,Punjab,Assassination,Government (General),Unknown,Firearms
+198405210010,1984,5,21,India,,Zerozepore,Assassination,Police,Unknown,Firearms
+198405210012,1984,5,21,India,,township of Mansa,Assassination,Religious Figures/Institutions,Extremists,Unknown
+198405210013,1984,5,21,India,,Moga,Hijacking,Transportation,Sikh Extremists,Unknown
+198405220002,1984,5,22,India,,Amritsar,Bombing/Explosion,Police,Unknown,Explosives/Bombs/Dynamite
+198405230006,1984,5,23,India,,Punjab,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198405250006,1984,5,25,India,,Zerozpur,Assassination,Government (General),Sikh Extremists,Firearms
+198405290004,1984,5,29,India,,Punjab,Assassination,Military,Sikh Extremists,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+198405290008,1984,5,29,India,,Punjab,Facility/Infrastructure Attack,Government (General),Sikh Extremists,Incendiary
+198405290013,1984,5,29,India,,Punjab,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198405300004,1984,5,30,India,,Amritsar,Assassination,Government (General),Unknown,Firearms
+198405300005,1984,5,30,India,,Tarn Taran,Assassination,Police,Unknown,Firearms
+198405300008,1984,5,30,India,,Batala,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198406010002,1984,6,1,India,,Dhariwal,Armed Assault,Religious Figures/Institutions,Unknown,Firearms
+198406020002,1984,6,2,India,,Patiala Dist.,Assassination,Private Citizens & Property,Unknown,Unknown
+198406020003,1984,6,2,India,,Punjab Hoshiarpur,Assassination,Government (General),Unknown,Unknown
+198406020004,1984,6,2,India,,Lakhuwal village,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198406020005,1984,6,2,India,,Zhanewal,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198406150005,1984,6,15,India,,Tezpur,Bombing/Explosion,Business,Unknown,Explosives/Bombs/Dynamite
+198406150008,1984,6,15,India,,Punjab,Assassination,Religious Figures/Institutions,Sikh Extremists,Melee
+198406160003,1984,6,16,India,,Punjab,Assassination,Government (General),Sikh Extremists,Firearms
+198406210014,1984,6,21,India,,Haryana state,Bombing/Explosion,Business,Unknown,Unknown
+198406240009,1984,6,24,India,,Gurdaspur,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198406240010,1984,6,24,India,,Sootia,Assassination,Police,Unknown,Unknown
+198406240011,1984,6,24,India,,Tezpur town,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198406240014,1984,6,24,India,,Punjab,Assassination,Religious Figures/Institutions,Unknown,Melee
+198406240015,1984,6,24,India,,Batala,Assassination,Private Citizens & Property,Unknown,Firearms
+198406270006,1984,6,27,India,,Tezpur,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198407050010,1984,7,5,India,,en route from Srinagar to Delhi,Hijacking,Airports & Aircraft,All India Sikh Students Federation (AISSF),Firearms
+198407210003,1984,7,21,India,,Northern India,Facility/Infrastructure Attack,Unknown,Unknown,Sabotage Equipment
+198407210004,1984,7,21,India,,Ludhiana Dist.,Unknown,Police,Sikh Extremists,Unknown
+198408020003,1984,8,2,India,,Madras,Bombing/Explosion,Airports & Aircraft,Unknown,Explosives/Bombs/Dynamite
+198408080005,1984,8,8,India,,Punjab,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198408100005,1984,8,10,India,,Banglore- Mangalore flight,Hijacking,Airports & Aircraft,Unknown,Explosives/Bombs/Dynamite
+198408240005,1984,8,24,India,,en route from Chandigarh to Srinagar,Hijacking,Airports & Aircraft,Sikh Extremists,Melee
+198409000029,1984,9,0,India,,UNK,Armed Assault,Business,Sikh Extremists,Melee
+198409050017,1984,9,5,India,,Tripuna (at Subaisingh),Armed Assault,Transportation,Tripura National Volunteers (TNV),Melee
+198409120004,1984,9,12,India,,Jullundur,Bombing/Explosion,Business,Sikh Extremists,Explosives/Bombs/Dynamite
+198409120006,1984,9,12,India,,"Punjab (near Batala, 25 miles from Amritsar)",Hijacking,Transportation,Sikh Extremists,Firearms
+198410040021,1984,10,4,India,,Amritsar,Bombing/Explosion,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198410250001,1984,10,25,India,,Delhi,Bombing/Explosion,Business,Unknown,Explosives/Bombs/Dynamite
+198410310002,1984,10,31,India,,New Delhi,Assassination,Government (General),Sikh Extremists,Firearms
+198411270011,1984,11,27,India,,Bombay,Assassination,Government (General),Revolutionary Organization of Socialist Moslems,Firearms
+198412080002,1984,12,8,India,,Imphal,Assassination,Government (General),National Socialist Council of Nagaland,Unknown
+198412080003,1984,12,8,India,,Nalavdar District,Bombing/Explosion,Police,Extremists,Explosives/Bombs/Dynamite
+198502030005,1985,2,3,India,,Punjab (Bhatinda Dist.),Unknown,Religious Figures/Institutions,Unknown,Unknown
+198502050002,1985,2,5,India,,Tripura,Assassination,Private Citizens & Property,Tripura National Volunteers (TNV),Unknown
+198502050009,1985,2,5,India,,Bhrigudas Bari Village,Unknown,Private Citizens & Property,Tripura National Volunteers (TNV),Unknown
+198502050010,1985,2,5,India,,Madhaybrar,Assassination,Government (General),Tripura National Volunteers (TNV),Firearms
+198503240001,1985,3,24,India,,Chandigarh,Assassination,Government (General),Sikh Extremists,Unknown
+198503240008,1985,3,24,India,,Chandigarh,Assassination,Government (General),Sikh Extremists,Unknown
+198504080004,1985,4,8,India,,Chandigarh,Assassination,Police,Unknown,Unknown
+198504190001,1985,4,19,India,,Armitsar,Assassination,Government (General),Sikh Extremists,Firearms
+198504300006,1985,4,30,India,,Chandigarh,Bombing/Explosion,Religious Figures/Institutions,Sikh Extremists,Explosives/Bombs/Dynamite
+198505060001,1985,5,6,India,,Dhariwal-northern Punjob,Assassination,Government (General),Sikh Extremists,Unknown
+198505070001,1985,5,7,India,,Bhatinda,Assassination,Police,Unknown,Unknown
+198505100020,1985,5,10,India,,Uttar Pradesh State,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198505100021,1985,5,10,India,,Hisar,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198505100022,1985,5,10,India,,Chardigarh,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198505110001,1985,5,11,India,,New Delhi,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198505110002,1985,5,11,India,,New Delhi,Bombing/Explosion,Government (General),Sikh Extremists,Explosives/Bombs/Dynamite
+198505160052,1985,5,16,India,,Unknown,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198506040004,1985,6,4,India,,Hoshiarpur,Bombing/Explosion,Government (General),Unknown,Explosives/Bombs/Dynamite
+198506040005,1985,6,4,India,,Patiala,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198506040006,1985,6,4,India,,Gurdaspur,Unknown,Private Citizens & Property,Unknown,Unknown
+198506200020,1985,6,20,India,,Meerut 50mi NE of New Delhi,Assassination,Government (General),Unknown,Unknown
+198506220002,1985,6,22,India,,Ahmedabad,Bombing/Explosion,Unknown,Unknown,Explosives/Bombs/Dynamite
+198506280001,1985,6,28,India,,Manipur,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198506280002,1985,6,28,India,,Manipur,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198507300006,1985,7,30,India,,Punjab,Armed Assault,Religious Figures/Institutions,Akali Dal Party,Melee
+198508170003,1985,8,17,India,,Assam,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198508200010,1985,8,20,India,,Sherpur,Assassination,Government (General),Jarnail Khalsa,Firearms
+198509040011,1985,9,4,India,,New Delhi,Assassination,Government (General),Unknown,Unknown
+198509080001,1985,9,8,India,,Punjab,Assassination,Government (General),Unknown,Firearms
+198509220001,1985,9,22,India,,New Delhi,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198509230002,1985,9,23,India,,Batala,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198510210001,1985,10,21,India,,Punjab,Assassination,Government (General),Saffron Tigers,Firearms
+198510290002,1985,10,29,India,,Punjab,Assassination,Government (General),Unknown,Firearms
+198511080005,1985,11,8,India,,Punjab,Assassination,Private Citizens & Property,Unknown,Unknown
+198511080006,1985,11,8,India,,Unknown,Assassination,Police,Sikh Extremists,Unknown
+198511110006,1985,11,11,India,,Punjab,Assassination,Police,Sikh Extremists,Firearms
+198511220003,1985,11,22,India,,Punjab,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198511270003,1985,11,27,India,,Amritsar,Assassination,Religious Figures/Institutions,Sikh Extremists,Firearms
+198511280004,1985,11,28,India,,Punjab,Assassination,Police,Sikh Extremists,Firearms
+198601060006,1986,1,6,India,,Punjab,Assassination,Business,Unknown,Unknown
+198601060007,1986,1,6,India,,Amritsan,Armed Assault,Government (Diplomatic),Unknown,Melee
+198601060008,1986,1,6,India,,Jullundun District,Assassination,Unknown,Unknown,Unknown
+198601110005,1986,1,11,India,,Punjab,Assassination,NGO,Unknown,Unknown
+198601290002,1986,1,29,India,,Thiruvaiyaru,Bombing/Explosion,Transportation,Kisar Liberation Movement,Explosives/Bombs/Dynamite
+198602060007,1986,2,6,India,,Gumang Kalaveli (Punjab),Assassination,Business,Unknown,Firearms
+198602080002,1986,2,8,India,,Gurdaspur,Bombing/Explosion,Business,Sikh Extremists,Explosives/Bombs/Dynamite
+198602080005,1986,2,8,India,,Ferozepore,Armed Assault,Business,Unknown,Firearms
+198602170005,1986,2,17,India,,Tarn Taran,Assassination,Government (General),Sikh Extremists,Unknown
+198602190002,1986,2,19,India,,Batala,Unknown,Private Citizens & Property,Sikh Extremists,Unknown
+198603060003,1986,3,6,India,,Kapurthala (Punjab),Unknown,Private Citizens & Property,Sikh Extremists,Unknown
+198603060004,1986,3,6,India,,Amritsar,Armed Assault,Private Citizens & Property,Sikh Extremists,Unknown
+198603150002,1986,3,15,India,,Buttar,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198603190007,1986,3,19,India,,Taran Taran,Assassination,Police,Sikh Extremists,Firearms
+198603200004,1986,3,20,India,,South Delhi,Assassination,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198603240002,1986,3,24,India,,Batala,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198603250009,1986,3,25,India,,Tarn Taran,Assassination,Private Citizens & Property,Unknown,Unknown
+198603260026,1986,3,26,India,,Anandpur Saheb,Armed Assault,Private Citizens & Property,Sikh Extremists,Melee
+198603260027,1986,3,26,India,,Punjab,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198603260032,1986,3,26,India,,Ananpur,Assassination,Government (General),Sikh Extremists,Unknown
+198603270006,1986,3,27,India,,Gariala,Assassination,Government (General),Unknown,Firearms
+198603270008,1986,3,27,India,,Amritsan,Facility/Infrastructure Attack,Government (General),All India Sikh Students Federation (AISSF),Unknown
+198603280005,1986,3,28,India,,Ludhiana,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198603290006,1986,3,29,India,,Punjab,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198603290007,1986,3,29,India,,Jalandhar,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198604050005,1986,4,5,India,,Tripura,Armed Assault,Private Citizens & Property,Tribal Separatists,Firearms
+198604050008,1986,4,5,India,,Jullundur,Hostage Taking (Kidnapping),Government (General),Sikh Extremists,Firearms
+198604100002,1986,4,10,India,,Amritsar,Armed Assault,Transportation,Unknown,Firearms
+198604170008,1986,4,17,India,,Firozpur,Unknown,Police,Sikh Extremists,Unknown
+198604220004,1986,4,22,India,,Rani kere village,Assassination,Religious Figures/Institutions,Unknown,Unknown
+198604280002,1986,4,28,India,,Amritrar,Assassination,Government (General),Sikh Extremists,Firearms
+198605060007,1986,5,6,India,,Amritrar,Armed Assault,Educational Institution,Sikh Extremists,Firearms
+198605290008,1986,5,29,India,,Amritsar,Assassination,Religious Figures/Institutions,Unknown,Unknown
+198605300005,1986,5,30,India,,Anritsar,Armed Assault,Religious Figures/Institutions,Sikh Extremists,Firearms
+198606020009,1986,6,2,India,,Fatehgarh Churian,Assassination,Government (General),Sikh Extremists,Unknown
+198606040004,1986,6,4,India,,Punjab (Amritsar),Unknown,Business,All India Sikh Students Federation (AISSF),Unknown
+198606050005,1986,6,5,India,,Punjab,Assassination,Police,Unknown,Firearms
+198606060004,1986,6,6,India,,Punjab (Village of Chola Sahels),Armed Assault,Private Citizens & Property,Unknown,Firearms
+198606060005,1986,6,6,India,,Manipur,Bombing/Explosion,Police,Unknown,Explosives/Bombs/Dynamite
+198606060007,1986,6,6,India,,Patiala,Assassination,Private Citizens & Property,Unknown,Firearms
+198606060008,1986,6,6,India,,Ludhianna,Assassination,Private Citizens & Property,Unknown,Firearms
+198606080008,1986,6,8,India,,Amritsar,Armed Assault,Religious Figures/Institutions,Sikh Extremists,Firearms
+198606080012,1986,6,8,India,,Punjab,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198606080013,1986,6,8,India,,Amritrar,Assassination,Government (General),Sikh Extremists,Firearms
+198606200009,1986,6,20,India,,Amritsar,Armed Assault,Religious Figures/Institutions,Unknown,Firearms
+198606200010,1986,6,20,India,,Nakodar,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198606200012,1986,6,20,India,,Punjab,Assassination,Police,Unknown,Unknown
+198607010011,1986,7,1,India,,Jullundan (Punjab),Assassination,Private Citizens & Property,Sikh Extremists,Unknown
+198607030005,1986,7,3,India,,Punjab (Gulami village),Assassination,Private Citizens & Property,Sikh Extremists,Unknown
+198607150005,1986,7,15,India,,Punjab,Hostage Taking (Kidnapping),Police,Unknown,Unknown
+198607250006,1986,7,25,India,,Punjab,Armed Assault,Transportation,Sikh Extremists,Firearms
+198607270013,1986,7,27,India,,Punjab,Armed Assault,Private Citizens & Property,Sikh Extremists,Melee
+198607300006,1986,7,30,India,,Punjab,Assassination,Government (General),Unknown,Firearms
+198608060002,1986,8,6,India,,Delhi,Bombing/Explosion,Business,Unknown,Explosives/Bombs/Dynamite
+198608290008,1986,8,29,India,,Tripura,Armed Assault,Private Citizens & Property,Tripura National Volunteers (TNV),Unknown
+198609010009,1986,9,1,India,,Chandigarh,Assassination,Government (General),Sikh Extremists,Firearms
+198609210006,1986,9,21,India,,Chatala-Amritsar dist.,Assassination,Private Citizens & Property,Unknown,Unknown
+198609240005,1986,9,24,India,,Amritsar,Assassination,Police,Unknown,Firearms
+198609250005,1986,9,25,India,,Langeri,Assassination,Government (General),Sikh Extremists,Firearms
+198609290008,1986,9,29,India,,Jullundur,Unknown,Private Citizens & Property,Unknown,Unknown
+198609290009,1986,9,29,India,,Amritsar,Assassination,Government (General),Unknown,Unknown
+198610020010,1986,10,2,India,,New Delhi,Assassination,Government (General),Karamyit Singh,Firearms
+198610070004,1986,10,7,India,,Darmia-Avransabad Dist-Bihar,Unknown,Private Citizens & Property,Maoist Communist Center (MCC),Unknown
+198610160015,1986,10,16,India,,Uttar Pradesh,Armed Assault,Police,Unknown,Firearms
+198610180003,1986,10,18,India,,Punjab,Assassination,Religious Figures/Institutions,Unknown,Firearms
+198610190002,1986,10,19,India,,Punjab,Armed Assault,Private Citizens & Property,Terrorists,Firearms
+198610200004,1986,10,20,India,,New Delhi,Armed Assault,Unknown,Sikh Extremists,Firearms
+198610260003,1986,10,26,India,,Punjab,Armed Assault,Private Citizens & Property,Terrorists,Firearms
+198610280009,1986,10,28,India,,Punjab,Armed Assault,Private Citizens & Property,Terrorists,Firearms
+198610290005,1986,10,29,India,,New Delhi,Armed Assault,Unknown,Separatists,Firearms
+198610290006,1986,10,29,India,,Punjab,Unknown,Religious Figures/Institutions,Sikh Extremists,Unknown
+198611060007,1986,11,6,India,,New Delhi,Assassination,Government (General),Terrorists,Firearms
+198611130005,1986,11,13,India,,Nagaland,Unknown,Business,Insurgents,Unknown
+198611190013,1986,11,19,India,,New Delhi,Assassination,Private Citizens & Property,Sikh Extremists,Unknown
+198611200005,1986,11,20,India,,Punjab,Armed Assault,Private Citizens & Property,Terrorists,Firearms
+198611250001,1986,11,25,India,,Chandigarh,Assassination,Police,Sikh Extremists,Unknown
+198612010002,1986,12,1,India,,Punjab,Unknown,Private Citizens & Property,Terrorists,Unknown
+198612010003,1986,12,1,India,,Chandigarh,Armed Assault,Transportation,Sikh Extremists,Firearms
+198612020002,1986,12,2,India,,Amritear,Unknown,Transportation,Khalistan Liberation Force,Unknown
+198612040002,1986,12,4,India,,Kanpur,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198612050001,1986,12,5,India,,New Delhi,Bombing/Explosion,Religious Figures/Institutions,Unknown,Unknown
+198612050005,1986,12,5,India,,Kakrabari Colony,Unknown,Unknown,Tripura National Volunteers (TNV),Unknown
+198612110002,1986,12,11,India,,Madura,Bombing/Explosion,Government (General),Unknown,Unknown
+198612110003,1986,12,11,India,,Tamil Nadu,Bombing/Explosion,Transportation,Unknown,Unknown
+198612150003,1986,12,15,India,,Amritsar,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198612200001,1986,12,20,India,,Gurdaspeer District,Armed Assault,Private Citizens & Property,Terrorists,Firearms
+198612240003,1986,12,24,India,,Punjab,Armed Assault,Private Citizens & Property,Terrorists,Firearms
+198612250001,1986,12,25,India,,Faridkat,Bombing/Explosion,Transportation,Terrorists,Explosives/Bombs/Dynamite
+198612250004,1986,12,25,India,,Moga Subd,Armed Assault,Police,Terrorists,Firearms
+198612260006,1986,12,26,India,,Tripura,Assassination,Private Citizens & Property,Anti-Socials,Unknown
+198612270007,1986,12,27,India,,Punjab,Assassination,Government (General),Terrorists,Unknown
+198612270008,1986,12,27,India,,Gadhwala,Assassination,Unknown,Unknown,Firearms
+198612280002,1986,12,28,India,,Amritsar,Unknown,Business,Sikh Extremists,Unknown
+198612280003,1986,12,28,India,,New Delhi,Assassination,Unknown,Sikh Extremists,Firearms
+198612300001,1986,12,30,India,,Madras,Bombing/Explosion,Transportation,Unknown,Unknown
+198612310007,1986,12,31,India,,New Delhi,Assassination,Private Citizens & Property,Sikh Extremists,Unknown
+198701010001,1987,1,1,India,,New Delhi,Unknown,Police,Unknown,Unknown
+198701020001,1987,1,2,India,,Madras,Unknown,Transportation,Unknown,Unknown
+198701030001,1987,1,3,India,,Madras,Unknown,Transportation,Unknown,Unknown
+198701040007,1987,1,4,India,,New Delhi,Unknown,Airports & Aircraft,Unknown,Unknown
+198701070007,1987,1,7,India,,Bachelor,Assassination,Unknown,Gunmen,Unknown
+198701080006,1987,1,8,India,,New Delhi,Unknown,Police,Tamils,Unknown
+198701080012,1987,1,8,India,,Assam,Assassination,Government (General),Unknown,Firearms
+198701080013,1987,1,8,India,,Punjab,Assassination,Unknown,Terrorists,Firearms
+198701080014,1987,1,8,India,,Punjab,Assassination,Unknown,Terrorists,Firearms
+198701080015,1987,1,8,India,,Punjab,Assassination,Unknown,Terrorists,Firearms
+198701080016,1987,1,8,India,,Punjab,Assassination,Unknown,Terrorists,Firearms
+198701090007,1987,1,9,India,,Amritsar,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198701120003,1987,1,12,India,,Chandigarh,Assassination,Private Citizens & Property,Khalistan Commando Force,Firearms
+198701120004,1987,1,12,India,,New Delhi,Assassination,Private Citizens & Property,Khalistan Commando Force,Firearms
+198701120005,1987,1,12,India,,Delhi,Assassination,Police,Sikh Extremists,Unknown
+198701150017,1987,1,15,India,,Chandigarh,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198701150018,1987,1,15,India,,Punjab,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198701170002,1987,1,17,India,,Punjab,Assassination,Government (General),Unknown,Firearms
+198701190013,1987,1,19,India,,Tamil Nader (Madras),Unknown,Transportation,Unknown,Unknown
+198701250007,1987,1,25,India,,Chandigarh,Assassination,Government (General),Sikh Extremists,Firearms
+198701310002,1987,1,31,India,,Punjab,Armed Assault,Educational Institution,Terrorists,Firearms
+198702070001,1987,2,7,India,,Punjab,Unknown,Private Citizens & Property,Terrorists,Unknown
+198702090022,1987,2,9,India,,Punjab,Armed Assault,Police,Terrorists,Incendiary
+198702100003,1987,2,10,India,,Punjab,Armed Assault,Private Citizens & Property,Terrorists,Firearms
+198702160004,1987,2,16,India,,Punjab,Assassination,Violent Political Party,Terrorists,Firearms
+198702180005,1987,2,18,India,,Punjab,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198702280069,1987,2,28,India,,Punjab,Armed Assault,Private Citizens & Property,Terrorists,Firearms
+198703030001,1987,3,3,India,,Punjab,Armed Assault,Private Citizens & Property,Scooter Borne terrorists,Firearms
+198703030002,1987,3,3,India,,Punjab,Armed Assault,Private Citizens & Property,Scooter Borne terrorists,Firearms
+198703090011,1987,3,9,India,,Asritsar,Assassination,Religious Figures/Institutions,Unknown,Melee
+198703150006,1987,3,15,India,,Madras,Bombing/Explosion,Transportation,Tamils,Explosives/Bombs/Dynamite
+198704070001,1987,4,7,India,,Amritsar Dist.,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198704150003,1987,4,15,India,,New Delhi,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198704170009,1987,4,17,India,,Pakhokke,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198704270002,1987,4,27,India,,Gurdaspur District,Armed Assault,Military,Unknown,Firearms
+198705200016,1987,5,20,India,,Dakoha Village,Assassination,Police,Unknown,Firearms
+198706020002,1987,6,2,India,,Jullundhur,Bombing/Explosion,Business,Sikh Extremists,Explosives/Bombs/Dynamite
+198706030006,1987,6,3,India,,Tarsika,Armed Assault,Police,Sikh Extremists,Firearms
+198706030010,1987,6,3,India,,Armitsar,Assassination,Religious Figures/Institutions,Sikh Extremists,Firearms
+198706040015,1987,6,4,India,,Ludhiana,Assassination,Religious Figures/Institutions,Unknown,Firearms
+198706060002,1987,6,6,India,,New Delhi,Bombing/Explosion,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198706060003,1987,6,6,India,,New Delhi,Bombing/Explosion,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198706120003,1987,6,12,India,,New Delhi,Bombing/Explosion,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198706130012,1987,6,13,India,,New Delhi,Armed Assault,Government (General),Sikh Extremists,Firearms
+198706130013,1987,6,13,India,,Fariokot,Armed Assault,Police,Sikh Extremists,Firearms
+198706130016,1987,6,13,India,,New Delhi,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198706130017,1987,6,13,India,,New Delhi,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198706130018,1987,6,13,India,,Udhoke,Assassination,Religious Figures/Institutions,Sikh Extremists,Firearms
+198706140011,1987,6,14,India,,New Delhi,Assassination,Violent Political Party,Sikh Extremists,Firearms
+198706140012,1987,6,14,India,,Amritsar City,Assassination,Government (General),Sikh Extremists,Firearms
+198706140013,1987,6,14,India,,Amritsar City,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198706200002,1987,6,20,India,,Darjeeling,Bombing/Explosion,Violent Political Party,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198706200003,1987,6,20,India,,Darjeeling,Bombing/Explosion,Transportation,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198706200004,1987,6,20,India,,Darjeeling,Bombing/Explosion,Transportation,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198706200005,1987,6,20,India,,Darjeeling,Bombing/Explosion,Airports & Aircraft,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198706200006,1987,6,20,India,,Darjeeling,Bombing/Explosion,Government (General),Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198706200007,1987,6,20,India,,Darjeeling,Bombing/Explosion,Telecommunication,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198706200008,1987,6,20,India,,Darjeeling,Bombing/Explosion,Police,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198706200009,1987,6,20,India,,Darjeeling,Bombing/Explosion,Utilities,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198706200011,1987,6,20,India,,Darjeeling Area,Facility/Infrastructure Attack,Business,Gurkha National Liberation Front (GNLF),Firearms
+198706230002,1987,6,23,India,,Darjeeling,Facility/Infrastructure Attack,Educational Institution,Gurkha National Liberation Front (GNLF),Incendiary
+198706230003,1987,6,23,India,,Darjeeling,Facility/Infrastructure Attack,Educational Institution,Gurkha National Liberation Front (GNLF),Incendiary
+198706230004,1987,6,23,India,,Darjeeling,Facility/Infrastructure Attack,Educational Institution,Gurkha National Liberation Front (GNLF),Incendiary
+198706230005,1987,6,23,India,,Darjeeling,Facility/Infrastructure Attack,Educational Institution,Gurkha National Liberation Front (GNLF),Incendiary
+198706230006,1987,6,23,India,,Darjeeling,Facility/Infrastructure Attack,Business,Gurkha National Liberation Front (GNLF),Incendiary
+198706230007,1987,6,23,India,,Darjeeling,Armed Assault,Police,Gurkha National Liberation Front (GNLF),Firearms
+198706230008,1987,6,23,India,,Kurseong,Armed Assault,Government (General),Gurkha National Liberation Front (GNLF),Firearms
+198706230009,1987,6,23,India,,Kurseong,Armed Assault,Government (General),Gurkha National Liberation Front (GNLF),Firearms
+198706230013,1987,6,23,India,,Jahan Khelan,Assassination,Police,Sikh Extremists,Firearms
+198706230014,1987,6,23,India,,Ferozepore District,Assassination,Police,Sikh Extremists,Firearms
+198706230015,1987,6,23,India,,Haltabadla,Assassination,Business,Sikh Extremists,Firearms
+198706240014,1987,6,24,India,,Kurseong,Facility/Infrastructure Attack,Utilities,Gurkha National Liberation Front (GNLF),Firearms
+198707010007,1987,7,1,India,,Ajnala Town,Armed Assault,Religious Figures/Institutions,Sikh Extremists,Firearms
+198707060003,1987,7,6,India,,Chandigarh,Armed Assault,Transportation,Sikh Extremists,Firearms
+198707070004,1987,7,7,India,,Punjab State,Armed Assault,Transportation,Sikh Extremists,Firearms
+198707090007,1987,7,9,India,,Amritsar,Assassination,Government (General),Sikh Extremists,Firearms
+198707130015,1987,7,13,India,,Beas,Armed Assault,Government (General),Sikh Extremists,Firearms
+198707150010,1987,7,15,India,,Merrut,Bombing/Explosion,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198707150011,1987,7,15,India,,Maslee,Armed Assault,Private Citizens & Property,Tripura National Volunteers (TNV),Firearms
+198707160007,1987,7,16,India,,Ishan Para,Armed Assault,Police,Tripura National Volunteers (TNV),Firearms
+198707160008,1987,7,16,India,,Patiala District,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198707160009,1987,7,16,India,,Khanpur village,Unknown,Private Citizens & Property,Sikh Extremists,Unknown
+198707160014,1987,7,16,India,,Rampur Village,Assassination,Government (General),Sikh Extremists,Firearms
+198707250003,1987,7,25,India,,Wakanir,Assassination,Government (General),Unknown,Explosives/Bombs/Dynamite
+198707290003,1987,7,29,India,,Delhi,Bombing/Explosion,Government (General),Sikh Extremists,Explosives/Bombs/Dynamite
+198707290004,1987,7,29,India,,Delhi,Bombing/Explosion,Government (General),Sikh Extremists,Explosives/Bombs/Dynamite
+198707290006,1987,7,29,India,,Punjab State,Armed Assault,Police,Sikh Extremists,Firearms
+198707290008,1987,7,29,India,,Delhi,Assassination,Government (General),Sikh Extremists,Firearms
+198707290009,1987,7,29,India,,Delhi,Assassination,Government (General),Sikh Extremists,Firearms
+198707300007,1987,7,30,India,,Delhi,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198707300012,1987,7,30,India,,Delhi,Assassination,Violent Political Party,Sikh Extremists,Firearms
+198707300013,1987,7,30,India,,Delhi,Assassination,Violent Political Party,Sikh Extremists,Firearms
+198708060003,1987,8,6,India,,Amritsar,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198708060007,1987,8,6,India,,Jagdeo Kalan,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198708070002,1987,8,7,India,,Darjeeling,Bombing/Explosion,Business,Unknown,Explosives/Bombs/Dynamite
+198708070005,1987,8,7,India,,Calcutta,Bombing/Explosion,Police,Unknown,Explosives/Bombs/Dynamite
+198708090001,1987,8,9,India,,New Delhi,Bombing/Explosion,Government (General),Unknown,Explosives/Bombs/Dynamite
+198708090007,1987,8,9,India,,Baba Bakala,Assassination,Private Citizens & Property,Unknown,Firearms
+198708090008,1987,8,9,India,,Jabal,Assassination,Business,Unknown,Firearms
+198708090009,1987,8,9,India,,Anandpur Saheb,Assassination,Private Citizens & Property,Unknown,Melee
+198708140012,1987,8,14,India,,Lakhanwal,Assassination,Government (General),Sikh Extremists,Firearms
+198708180003,1987,8,18,India,,Mustapur,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198708190003,1987,8,19,India,,Phagwara,Bombing/Explosion,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198708190004,1987,8,19,India,,Amritsar District,Armed Assault,Police,Sikh Extremists,Firearms
+198708190005,1987,8,19,India,,Amritsar District,Armed Assault,Police,Sikh Extremists,Firearms
+198708240007,1987,8,24,India,,Ludhiana,Assassination,Government (General),Sikh Extremists,Firearms
+198708240008,1987,8,24,India,,Sriganganagar,Assassination,Police,Sikh Extremists,Firearms
+198708240009,1987,8,24,India,,Sriganganagar,Assassination,Police,Sikh Extremists,Firearms
+198708240010,1987,8,24,India,,Sriganganagar,Assassination,Police,Sikh Extremists,Firearms
+198708260009,1987,8,26,India,,Chandigarh,Armed Assault,Police,Sikh Extremists,Firearms
+198708290004,1987,8,29,India,,Fatehgarh Churian,Armed Assault,Military,Unknown,Firearms
+198708300005,1987,8,30,India,,Delhi,Armed Assault,Police,Khalistan Commando Force,Firearms
+198709060003,1987,9,6,India,,Gurdaspur District,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198709060008,1987,9,6,India,,Chogawan,Assassination,Police,Sikh Extremists,Firearms
+198709080001,1987,9,8,India,,Bhikwind,Armed Assault,Police,Sikh Extremists,Firearms
+198709080007,1987,9,8,India,,Palahi,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198709090007,1987,9,9,India,,Gurdaspur District,Bombing/Explosion,Police,Sikh Extremists,Explosives/Bombs/Dynamite
+198709160004,1987,9,16,India,,Bagha Purana,Unknown,Police,Sikh Extremists,Unknown
+198709170003,1987,9,17,India,,Amritsar,Armed Assault,Religious Figures/Institutions,Sikh Extremists,Firearms
+198709180010,1987,9,18,India,,Jullunder District,Armed Assault,Business,Sikh Extremists,Firearms
+198709180012,1987,9,18,India,,Indira Colony,Assassination,Business,Sikh Extremists,Firearms
+198709180013,1987,9,18,India,,Indira Colony,Assassination,Business,Sikh Extremists,Firearms
+198709180014,1987,9,18,India,,Vdhamsingh Nagar,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198709190005,1987,9,19,India,,Punjab State,Assassination,Private Citizens & Property,Sikh Extremists,Unknown
+198709280002,1987,9,28,India,,Alawalpur Village,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198709280003,1987,9,28,India,,Amritsar District,Assassination,Business,Sikh Extremists,Firearms
+198709300007,1987,9,30,India,,Masania,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198710020004,1987,10,2,India,,Ajnala,Armed Assault,Police,Sikh Extremists,Firearms
+198710070009,1987,10,7,India,,Punjab State,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198710070010,1987,10,7,India,,Punjab State,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198710070011,1987,10,7,India,,Punjab State,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198710070012,1987,10,7,India,,Punjab State,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198710070013,1987,10,7,India,,Punjab State,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198710070014,1987,10,7,India,,Punjab State,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198710070015,1987,10,7,India,,Punjab State,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198710070016,1987,10,7,India,,Punjab State,Assassination,Police,Sikh Extremists,Melee
+198710140005,1987,10,14,India,,Chandrashekhar,Armed Assault,Private Citizens & Property,Tripura National Volunteers (TNV),Firearms
+198710140006,1987,10,14,India,,Shinshin,Armed Assault,Private Citizens & Property,Tripura National Volunteers (TNV),Firearms
+198710150007,1987,10,15,India,,Rork,Assassination,Government (General),Sikh Extremists,Firearms
+198710150008,1987,10,15,India,,Kullar,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198710170003,1987,10,17,India,,Panduri Village,Armed Assault,Police,Sikh Extremists,Firearms
+198710170005,1987,10,17,India,,Dakoha Village,Assassination,Religious Figures/Institutions,Sikh Extremists,Melee
+198710180001,1987,10,18,India,,Jalota,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198710200016,1987,10,20,India,,New Delhi,Armed Assault,Police,Sikh Extremists,Firearms
+198710200017,1987,10,20,India,,Tripura State,Armed Assault,Private Citizens & Property,Tripura National Volunteers (TNV),Firearms
+198710200018,1987,10,20,India,,New Delhi,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198710200019,1987,10,20,India,,Delhi,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198710250009,1987,10,25,India,,Khalsanagar-basti,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198710250010,1987,10,25,India,,Jahandar Village,Assassination,Government (General),Sikh Extremists,Firearms
+198711010005,1987,11,1,India,,Badhni Kalan Village,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198711010006,1987,11,1,India,,Chawal,Armed Assault,Police,Sikh Extremists,Firearms
+198711150012,1987,11,15,India,,Devanchara,Armed Assault,Private Citizens & Property,Tripura National Volunteers (TNV),Melee
+198711170007,1987,11,17,India,,Amritsar District,Assassination,Religious Figures/Institutions,Unknown,Unknown
+198711170008,1987,11,17,India,,Rama,Assassination,Business,Unknown,Firearms
+198712070005,1987,12,7,India,,Ferozepore District,Assassination,Private Citizens & Property,Unknown,Firearms
+198712100005,1987,12,10,India,,Sarowal,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198712120012,1987,12,12,India,,Mirik,Armed Assault,Police,Gurkha National Liberation Front (GNLF),Firearms
+198712140007,1987,12,14,India,,Patiala,Assassination,Police,Sikh Extremists,Unknown
+198712160002,1987,12,16,India,,Khati,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198712160003,1987,12,16,India,,Vanala,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198712180003,1987,12,18,India,,Tvi Chakmabari,Armed Assault,Private Citizens & Property,Tripura National Volunteers (TNV),Firearms
+198712230002,1987,12,23,India,,Raibari,Armed Assault,Private Citizens & Property,Tripura National Volunteers (TNV),Firearms
+198712270003,1987,12,27,India,,Daren,Hostage Taking (Kidnapping),Police,Gurkha National Liberation Front (GNLF),Firearms
+198712270005,1987,12,27,India,,Panjora,Assassination,Private Citizens & Property,Unknown,Unknown
+198712310002,1987,12,31,India,,Deri,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198712310005,1987,12,31,India,,Punjab State,Assassination,Police,Khalistan Liberation Force,Firearms
+198801010014,1988,1,1,India,,Darjeeling,Bombing/Explosion,Police,Unknown,Firearms
+198801010015,1988,1,1,India,,Darjeeling,Bombing/Explosion,Police,Unknown,Firearms
+198801010016,1988,1,1,India,,Kalimpong,Armed Assault,Police,Unknown,Firearms
+198801010017,1988,1,1,India,,Baisi Munipara,Unknown,Private Citizens & Property,Tripura National Volunteers (TNV),Unknown
+198801010018,1988,1,1,India,,Cheemapat,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198801010019,1988,1,1,India,,Ambala City,Assassination,Government (General),Unknown,Firearms
+198801030008,1988,1,3,India,,Chalita Bankur,Armed Assault,Business,Tripura National Volunteers (TNV),Firearms
+198801070003,1988,1,7,India,,Mojawal,Unknown,Religious Figures/Institutions,Unknown,Unknown
+198801080001,1988,1,8,India,,Kurseong,Bombing/Explosion,Food or Water Supply,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198801080009,1988,1,8,India,,Ludhiana,Assassination,Police,Sikh Extremists,Firearms
+198801090005,1988,1,9,India,,Bulara,Assassination,Government (General),Unknown,Firearms
+198801090006,1988,1,9,India,,Ludhiana,Assassination,Government (General),Sikh Extremists,Firearms
+198801130009,1988,1,13,India,,Gurdaspur District,Assassination,Government (General),Sikh Extremists,Firearms
+198801130010,1988,1,13,India,,Amritsar District,Assassination,Business,Sikh Extremists,Firearms
+198801130011,1988,1,13,India,,Faridkot District,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198801140002,1988,1,14,India,,Tikkapur,Assassination,Business,Sikh Extremists,Firearms
+198801140003,1988,1,14,India,,Ba Jala,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198801150002,1988,1,15,India,,Kurseong,Armed Assault,Police,Gurkha National Liberation Front (GNLF),Firearms
+198801150003,1988,1,15,India,,Amritsar City,Assassination,Police,Sikh Extremists,Firearms
+198801160005,1988,1,16,India,,Satrah Kalan,Armed Assault,Police,Sikh Extremists,Firearms
+198801160006,1988,1,16,India,,Hoshiarpur District,Armed Assault,Police,Sikh Extremists,Firearms
+198801210005,1988,1,21,India,,Mand,Armed Assault,Police,Unknown,Firearms
+198801220002,1988,1,22,India,,Phaguri,Facility/Infrastructure Attack,Educational Institution,Gurkha National Liberation Front (GNLF),Incendiary
+198801220003,1988,1,22,India,,Singbuli,Facility/Infrastructure Attack,Educational Institution,Gurkha National Liberation Front (GNLF),Incendiary
+198801220008,1988,1,22,India,,Mongpu,Armed Assault,Police,Gurkha National Liberation Front (GNLF),Firearms
+198801220009,1988,1,22,India,,Deepsinghwalla,Assassination,Private Citizens & Property,Unknown,Firearms
+198801220010,1988,1,22,India,,Chandigarh,Unknown,Private Citizens & Property,Sikh Extremists,Unknown
+198801220011,1988,1,22,India,,Ludhiana,Assassination,Government (General),Unknown,Firearms
+198801220012,1988,1,22,India,,Bania,Assassination,Private Citizens & Property,Unknown,Firearms
+198801230001,1988,1,23,India,,Manochahal,Assassination,Private Citizens & Property,Unknown,Firearms
+198801240015,1988,1,24,India,,Dubricheda Village,Armed Assault,Private Citizens & Property,Tripura National Volunteers (TNV),Firearms
+198801240018,1988,1,24,India,,Penda,Assassination,Private Citizens & Property,Unknown,Firearms
+198801240019,1988,1,24,India,,Belh Majra,Assassination,Government (General),Unknown,Firearms
+198801260010,1988,1,26,India,,Kalachara,Assassination,Private Citizens & Property,Tripura National Volunteers (TNV),Firearms
+198801270008,1988,1,27,India,,Udhakay,Assassination,Private Citizens & Property,Unknown,Unknown
+198801270009,1988,1,27,India,,Mehma,Assassination,Government (General),Unknown,Firearms
+198801270010,1988,1,27,India,,Kuriwala Village,Assassination,Educational Institution,Unknown,Firearms
+198801290003,1988,1,29,India,,Rampurapull,Assassination,Police,Unknown,Firearms
+198801300003,1988,1,30,India,,Machuria Village,Armed Assault,Private Citizens & Property,Tripura National Volunteers (TNV),Firearms
+198801300004,1988,1,30,India,,Vadala Kalan,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198801300005,1988,1,30,India,,Batala,Armed Assault,Military,Sikh Extremists,Firearms
+198801300006,1988,1,30,India,,Chogbasta,Armed Assault,Private Citizens & Property,Tripura National Volunteers (TNV),Firearms
+198801300007,1988,1,30,India,,Gokulpar,Armed Assault,Private Citizens & Property,Tripura National Volunteers (TNV),Firearms
+198801300008,1988,1,30,India,,Thepaichurara,Armed Assault,Private Citizens & Property,Tripura National Volunteers (TNV),Firearms
+198801300009,1988,1,30,India,,Amritsar District,Assassination,Private Citizens & Property,Sikh Extremists,Unknown
+198801300010,1988,1,30,India,,Amritsar District,Assassination,Private Citizens & Property,Sikh Extremists,Unknown
+198801300011,1988,1,30,India,,Ghadiara,Assassination,Private Citizens & Property,Sikh Extremists,Unknown
+198801310003,1988,1,31,India,,Lohara,Armed Assault,Police,Sikh Extremists,Firearms
+198801310007,1988,1,31,India,,Rasulpur,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198801310008,1988,1,31,India,,Jahangir Kalan,Assassination,Military,Sikh Extremists,Unknown
+198801310009,1988,1,31,India,,Bundala,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198801310010,1988,1,31,India,,Bakhtapur,Assassination,Private Citizens & Property,Sikh Extremists,Unknown
+198802010006,1988,2,1,India,,Shantipara,Armed Assault,Private Citizens & Property,Tripura National Volunteers (TNV),Firearms
+198802010007,1988,2,1,India,,Nutan Bazar,Armed Assault,Private Citizens & Property,Tripura National Volunteers (TNV),Firearms
+198802050001,1988,2,5,India,,Satnala Village,Facility/Infrastructure Attack,Private Citizens & Property,Tripura National Volunteers (TNV),Incendiary
+198802050002,1988,2,5,India,,Satnala Village,Facility/Infrastructure Attack,Private Citizens & Property,Tripura National Volunteers (TNV),Incendiary
+198802050007,1988,2,5,India,,Satnala Village,Armed Assault,Private Citizens & Property,Tripura National Volunteers (TNV),Firearms
+198802070003,1988,2,7,India,,Bikki,Armed Assault,Police,Sikh Extremists,Firearms
+198802070004,1988,2,7,India,,Kheerawali Village,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198802070005,1988,2,7,India,,Toor Village,Assassination,Private Citizens & Property,Unknown,Firearms
+198802070006,1988,2,7,India,,Noharkaya Village,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198802070007,1988,2,7,India,,Valtoha Village,Assassination,Police,Unknown,Firearms
+198802090006,1988,2,9,India,,Sangrala,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198802090007,1988,2,9,India,,Bruj Kharon,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198802090008,1988,2,9,India,,Muchhal,Assassination,Private Citizens & Property,Sikh Extremists,Unknown
+198802120002,1988,2,12,India,,Kalimpong,Bombing/Explosion,Utilities,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198802120003,1988,2,12,India,,Kalimpong,Bombing/Explosion,Food or Water Supply,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198802120019,1988,2,12,India,,Darjeeling,Armed Assault,Police,Gurkha National Liberation Front (GNLF),Firearms
+198802120020,1988,2,12,India,,Darjeeling,Assassination,Government (General),Gurkha National Liberation Front (GNLF),Firearms
+198802170015,1988,2,17,India,,Kurseong,Armed Assault,Police,Gurkha National Liberation Front (GNLF),Firearms
+198802190012,1988,2,19,India,,Amritsar,Bombing/Explosion,Government (General),Unknown,Explosives/Bombs/Dynamite
+198802190013,1988,2,19,India,,Gurdspur,Bombing/Explosion,Government (General),Unknown,Explosives/Bombs/Dynamite
+198802190014,1988,2,19,India,,Patiala,Bombing/Explosion,Government (General),Unknown,Explosives/Bombs/Dynamite
+198802190015,1988,2,19,India,,Hoshiapur,Bombing/Explosion,Government (General),Unknown,Explosives/Bombs/Dynamite
+198802200001,1988,2,20,India,,Jullundur,Bombing/Explosion,Government (General),Unknown,Explosives/Bombs/Dynamite
+198802200002,1988,2,20,India,,Amritsar,Armed Assault,Transportation,Khalistan Liberation Force,Firearms
+198802200003,1988,2,20,India,,Sansara,Assassination,Private Citizens & Property,Khalistan Liberation Force,Unknown
+198802200004,1988,2,20,India,,Baini Gillan,Assassination,Private Citizens & Property,Khalistan Liberation Force,Firearms
+198802200005,1988,2,20,India,,Gurdaspur,Assassination,Business,Khalistan Liberation Force,Firearms
+198802210013,1988,2,21,India,,Jandiala,Armed Assault,Police,Unknown,Firearms
+198802220012,1988,2,22,India,,Rohini Valley,Armed Assault,Military,Gurkha National Liberation Front (GNLF),Firearms
+198802230020,1988,2,23,India,,Batala,Armed Assault,Police,Sikh Extremists,Firearms
+198802240025,1988,2,24,India,,Balachor,Assassination,Government (General),Unknown,Firearms
+198802240026,1988,2,24,India,,Amritsar,Assassination,Business,Unknown,Unknown
+198802240027,1988,2,24,India,,Gurdaspur District,Assassination,Business,Unknown,Unknown
+198802240028,1988,2,24,India,,Gurdaspur District,Assassination,Business,Unknown,Unknown
+198803030007,1988,3,3,India,,Karisari,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198803030008,1988,3,3,India,,Chabal,Armed Assault,Police,Unknown,Firearms
+198803030010,1988,3,3,India,,Buhuyan,Assassination,Private Citizens & Property,Unknown,Firearms
+198803030011,1988,3,3,India,,Mand,Assassination,Private Citizens & Property,Unknown,Unknown
+198803060013,1988,3,6,India,,Ratoka Village,Assassination,Business,Unknown,Unknown
+198803060014,1988,3,6,India,,Mirich Gogra Mahal,Assassination,Business,Unknown,Unknown
+198803060015,1988,3,6,India,,Sangrur District,Assassination,Police,Unknown,Unknown
+198803060016,1988,3,6,India,,Dhuri Town,Assassination,Police,Unknown,Unknown
+198803070009,1988,3,7,India,,Sakira Village,Assassination,Police,Unknown,Firearms
+198803080008,1988,3,8,India,,Punjab State,Assassination,Private Citizens & Property,Unknown,Firearms
+198803090004,1988,3,9,India,,Amritsar,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198803090005,1988,3,9,India,,Kapurthala District,Assassination,Private Citizens & Property,Unknown,Firearms
+198803090006,1988,3,9,India,,Amritsar,Assassination,Violent Political Party,Sikh Extremists,Firearms
+198803100004,1988,3,10,India,,Darjeeling,Bombing/Explosion,Educational Institution,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198803100005,1988,3,10,India,,Darjeeling,Bombing/Explosion,Educational Institution,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198803100012,1988,3,10,India,,Deriwal,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198803120005,1988,3,12,India,,Malanwala,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198803120007,1988,3,12,India,,Khalijian,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198803120008,1988,3,12,India,,Khajoura,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198803120009,1988,3,12,India,,Faridkot District,Assassination,Business,Sikh Extremists,Firearms
+198803130001,1988,3,13,India,,Kurseong,Armed Assault,Police,Gurkha National Liberation Front (GNLF),Firearms
+198803130002,1988,3,13,India,,Singamadi,Facility/Infrastructure Attack,Government (General),Gurkha National Liberation Front (GNLF),Firearms
+198803140008,1988,3,14,India,,Jhanger,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198803140009,1988,3,14,India,,Ludhiana District,Assassination,Police,Unknown,Unknown
+198803140010,1988,3,14,India,,Dallin,Assassination,Private Citizens & Property,Sikh Extremists,Unknown
+198803210011,1988,3,21,India,,Phagawara,Bombing/Explosion,Police,Sikh Extremists,Explosives/Bombs/Dynamite
+198803210012,1988,3,21,India,,Akbarpura,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198803210013,1988,3,21,India,,Hoshiarpur District,Armed Assault,Police,Unknown,Firearms
+198803220006,1988,3,22,India,,Todapur,Unknown,Police,Unknown,Unknown
+198803220007,1988,3,22,India,,Akbarpura,Assassination,Business,Unknown,Firearms
+198803230002,1988,3,23,India,,Jabalpur,Bombing/Explosion,Military,Khalistan Commando Force,Explosives/Bombs/Dynamite
+198803230009,1988,3,23,India,,Batticaloa,Bombing/Explosion,Military,Liberation Tigers of Tamil Eelam (LTTE),Explosives/Bombs/Dynamite
+198803250006,1988,3,25,India,,Amarkot,Armed Assault,Transportation,Unknown,Firearms
+198803250007,1988,3,25,India,,Delhi,Assassination,Airports & Aircraft,Organization of Arab Fedayeen Cells,Firearms
+198803270008,1988,3,27,India,,Manwal,Assassination,Private Citizens & Property,Unknown,Firearms
+198803270009,1988,3,27,India,,Chimabagh,Assassination,Police,Unknown,Unknown
+198803290018,1988,3,29,India,,Tanjeli,Armed Assault,Private Citizens & Property,Gurkha National Liberation Front (GNLF),Firearms
+198803290021,1988,3,29,India,,Kada Viohan,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198803300008,1988,3,30,India,,Gilbari,Assassination,Government (General),Unknown,Unknown
+198803310001,1988,3,31,India,,Ludhiana,Bombing/Explosion,Business,Sikh Extremists,Unknown
+198803310006,1988,3,31,India,,Amritsar,Assassination,Violent Political Party,Sikh Extremists,Explosives/Bombs/Dynamite
+198804010001,1988,4,1,India,,Kapurthala District,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198804010004,1988,4,1,India,,Bhagana,Armed Assault,Police,Unknown,Firearms
+198804010006,1988,4,1,India,,Pangota,Armed Assault,Private Citizens & Property,Khalistan Liberation Force,Firearms
+198804010007,1988,4,1,India,,Jodhan Nagri,Assassination,Private Citizens & Property,Unknown,Firearms
+198804010008,1988,4,1,India,,Ghagharvana,Assassination,Private Citizens & Property,Unknown,Firearms
+198804040004,1988,4,4,India,,Delhi,Facility/Infrastructure Attack,Government (Diplomatic),Unknown,Incendiary
+198804050003,1988,4,5,India,,Kohali,Armed Assault,Police,Unknown,Firearms
+198804050004,1988,4,5,India,,Kanpur,Assassination,Government (General),Unknown,Firearms
+198804070004,1988,4,7,India,,Udhonaugal,Assassination,Police,Unknown,Firearms
+198804070005,1988,4,7,India,,Rasulpur,Assassination,Business,Unknown,Firearms
+198804140005,1988,4,14,India,,Ferozepur Dist.,Assassination,Private Citizens & Property,Unknown,Firearms
+198804140006,1988,4,14,India,,Amritsar,Assassination,Violent Political Party,Unknown,Firearms
+198804160001,1988,4,16,India,,Darjeeling,Bombing/Explosion,Government (General),Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198804160002,1988,4,16,India,,Darjeeling,Bombing/Explosion,Transportation,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198804160006,1988,4,16,India,,Amritsar District,Armed Assault,Police,Unknown,Firearms
+198804180014,1988,4,18,India,,Bholi,Assassination,Educational Institution,Unknown,Firearms
+198804180015,1988,4,18,India,,Chakundal,Assassination,Police,Unknown,Firearms
+198804180016,1988,4,18,India,,Rania,Assassination,Violent Political Party,Unknown,Firearms
+198804190007,1988,4,19,India,,Tamenglong,Armed Assault,Military,National Socialist Council of Nagaland,Firearms
+198804220010,1988,4,22,India,,Sonda,Hostage Taking (Kidnapping),Violent Political Party,Gurkha National Liberation Front (GNLF),Firearms
+198804220012,1988,4,22,India,,Jullundur City,Assassination,Private Citizens & Property,Unknown,Firearms
+198804230002,1988,4,23,India,,Ajnala,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198804280010,1988,4,28,India,,Darjeeling,Assassination,Government (General),Gurkha National Liberation Front (GNLF),Firearms
+198804280011,1988,4,28,India,,Darjeeling,Assassination,Government (General),Gurkha National Liberation Front (GNLF),Firearms
+198805010023,1988,5,1,India,,Patiala,Armed Assault,Business,Sikh Extremists,Firearms
+198805010024,1988,5,1,India,,Dada,Armed Assault,Police,Unknown,Firearms
+198805020014,1988,5,2,India,,Chandigarh,Assassination,Government (General),Unknown,Firearms
+198805020023,1988,5,2,India,,Lalru,Armed Assault,Transportation,Unknown,Firearms
+198805030026,1988,5,3,India,,Karadwala,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198805060008,1988,5,6,India,,Ropar District,Assassination,Business,Unknown,Unknown
+198805060009,1988,5,6,India,,Sidhuwadona,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198805070007,1988,5,7,India,,Kalimpong,Bombing/Explosion,Police,Gurkha National Liberation Front (GNLF),Firearms
+198805070008,1988,5,7,India,,Panipat,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198805090001,1988,5,9,India,,New Delhi,Bombing/Explosion,Business,Unknown,Explosives/Bombs/Dynamite
+198805090002,1988,5,9,India,,Panipat,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198805150002,1988,5,15,India,,Kalimpong,Hostage Taking (Kidnapping),Private Citizens & Property,Unknown,Firearms
+198805150006,1988,5,15,India,,Parjeeling,Armed Assault,Police,Gurkha National Liberation Front (GNLF),Firearms
+198805160002,1988,5,16,India,,Amarkot,Armed Assault,Police,Unknown,Firearms
+198805160003,1988,5,16,India,,Parjeeling,Armed Assault,Police,Gurkha National Liberation Front (GNLF),Firearms
+198805170011,1988,5,17,India,,Ludhiana,Assassination,Religious Figures/Institutions,Sikh Extremists,Firearms
+198805180001,1988,5,18,India,,Darjeeling,Bombing/Explosion,Private Citizens & Property,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198805180002,1988,5,18,India,,Darjeeling,Bombing/Explosion,Private Citizens & Property,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198805180003,1988,5,18,India,,Darjeeling,Bombing/Explosion,Private Citizens & Property,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198805180006,1988,5,18,India,,Jullundur,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198805190005,1988,5,19,India,,Bhatinda,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198805200009,1988,5,20,India,,Tricomalee,Armed Assault,Religious Figures/Institutions,Liberation Tigers of Tamil Eelam (LTTE),Firearms
+198805210007,1988,5,21,India,,Gujarpur Dist.,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198805210010,1988,5,21,India,,Kotsukia,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198805220001,1988,5,22,India,,Ludhiana,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198805220005,1988,5,22,India,,Ajnala,Assassination,Private Citizens & Property,Unknown,Firearms
+198805220008,1988,5,22,India,,Bhatinda,Armed Assault,Transportation,Unknown,Firearms
+198805230008,1988,5,23,India,,Dhaliwal,Assassination,Private Citizens & Property,Unknown,Firearms
+198805230009,1988,5,23,India,,Sangrur District,Assassination,Business,Unknown,Firearms
+198805230010,1988,5,23,India,,Jullundur Dist.,Assassination,Government (General),Unknown,Firearms
+198805240006,1988,5,24,India,,Jalandhar,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198805240007,1988,5,24,India,,Bhatinda District,Assassination,Private Citizens & Property,Unknown,Firearms
+198805240009,1988,5,24,India,,Harike,Armed Assault,Police,Sikh Extremists,Firearms
+198805300001,1988,5,30,India,,Amditsar,Bombing/Explosion,Religious Figures/Institutions,Khalistan Liberation Force,Explosives/Bombs/Dynamite
+198805300002,1988,5,30,India,,Gurdasdur,Bombing/Explosion,Private Citizens & Property,Khalistan Liberation Force,Explosives/Bombs/Dynamite
+198805310002,1988,5,31,India,,New Delhi,Bombing/Explosion,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198805310003,1988,5,31,India,,New Delhi,Bombing/Explosion,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198806010016,1988,6,1,India,,Mudki,Armed Assault,Business,Unknown,Firearms
+198806040002,1988,6,4,India,,Sonepat,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198806040006,1988,6,4,India,,Hoshiapur,Assassination,Journalists & Media,Sikh Extremists,Firearms
+198806040007,1988,6,4,India,,Mathewal,Assassination,Business,Sikh Extremists,Firearms
+198806040010,1988,6,4,India,,Haryana,Armed Assault,Police,Sikh Extremists,Firearms
+198806050005,1988,6,5,India,,Darjeeling,Bombing/Explosion,Private Citizens & Property,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198806080007,1988,6,8,India,,Tinde,Bombing/Explosion,Police,Unknown,Explosives/Bombs/Dynamite
+198806110001,1988,6,11,India,,Bengal,Bombing/Explosion,Business,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198806140001,1988,6,14,India,,Moga,Bombing/Explosion,Police,Unknown,Explosives/Bombs/Dynamite
+198806140006,1988,6,14,India,,Khadur Saheb,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198806140007,1988,6,14,India,,Dhaurewal,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198806140008,1988,6,14,India,,Phagwara Town,Assassination,Government (General),Unknown,Firearms
+198806140009,1988,6,14,India,,Gaginangal,Assassination,Business,Unknown,Firearms
+198806140010,1988,6,14,India,,Cheemakhuddi,Assassination,Private Citizens & Property,Unknown,Firearms
+198806140017,1988,6,14,India,,Amritsar,Armed Assault,Police,Sikh Extremists,Melee
+198806160001,1988,6,16,India,,Sukhia Pokhri,Bombing/Explosion,Police,Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198806180001,1988,6,18,India,,Kurukshetra,Bombing/Explosion,Business,Sikh Extremists,Explosives/Bombs/Dynamite
+198806180005,1988,6,18,India,,Patiala District,Assassination,Police,Sikh Extremists,Unknown
+198806180008,1988,6,18,India,,Chandgarh,Armed Assault,Government (General),Sikh Extremists,Firearms
+198806200001,1988,6,20,India,,New Delhi,Bombing/Explosion,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198806200003,1988,6,20,India,,Pehwa,Armed Assault,Business,Sikh Extremists,Firearms
+198806210009,1988,6,21,India,,Amritsar,Bombing/Explosion,Business,Sikh Extremists,Explosives/Bombs/Dynamite
+198806220010,1988,6,22,India,,Guman,Assassination,Business,Unknown,Unknown
+198806220011,1988,6,22,India,,Rajumajra,Assassination,Private Citizens & Property,Unknown,Firearms
+198806220012,1988,6,22,India,,Rama Mandi,Assassination,Government (General),Unknown,Firearms
+198806220013,1988,6,22,India,,Kotla,Assassination,Violent Political Party,Unknown,Unknown
+198806220014,1988,6,22,India,,Maharashtra,Armed Assault,Police,Naxalites,Firearms
+198806230003,1988,6,23,India,,Ludhiana,Assassination,Police,Sikh Extremists,Firearms
+198806230005,1988,6,23,India,,Amritsar,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198806250003,1988,6,25,India,,Kurseong,Armed Assault,Police,Gurkha National Liberation Front (GNLF),Firearms
+198806270004,1988,6,27,India,,Balla,Assassination,Private Citizens & Property,Unknown,Firearms
+198806270005,1988,6,27,India,,Nalbari,Assassination,Private Citizens & Property,Unknown,Firearms
+198806280001,1988,6,28,India,,Saint Mery Basti,Armed Assault,Private Citizens & Property,Gurkha National Liberation Front (GNLF),Incendiary
+198806280002,1988,6,28,India,,Barpeta Road,Bombing/Explosion,Business,United Liberation Front of Assam (ULFA),Explosives/Bombs/Dynamite
+198806280006,1988,6,28,India,,Darjeeling,Assassination,Business,Gurkha National Liberation Front (GNLF),Firearms
+198806280007,1988,6,28,India,,Darjeeling,Assassination,Private Citizens & Property,Gurkha National Liberation Front (GNLF),Firearms
+198806280012,1988,6,28,India,,Ghariala,Armed Assault,Government (General),Unknown,Firearms
+198806280013,1988,6,28,India,,Kurseong,Armed Assault,Police,Gurkha National Liberation Front (GNLF),Firearms
+198807010002,1988,7,1,India,,Darjeeling,Bombing/Explosion,Government (General),Gurkha National Liberation Front (GNLF),Explosives/Bombs/Dynamite
+198807010010,1988,7,1,India,,Ropar,Hostage Taking (Kidnapping),Food or Water Supply,Sikh Extremists,Firearms
+198807020029,1988,7,2,India,,Virka,Assassination,Government (General),Unknown,Firearms
+198807020032,1988,7,2,India,,Sotha,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198807040002,1988,7,4,India,,Kishan Pura Village,Assassination,Private Citizens & Property,Unknown,Firearms
+198807040003,1988,7,4,India,,Village Shahpur,Assassination,Private Citizens & Property,Unknown,Unknown
+198807040004,1988,7,4,India,,Navawarian,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198807070004,1988,7,7,India,,Darjeeling,Assassination,Violent Political Party,Gurkha National Liberation Front (GNLF),Melee
+198807070010,1988,7,7,India,,Manipur,Armed Assault,Police,National Socialist Council of Nagaland,Firearms
+198807090005,1988,7,9,India,,Amritsar,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198807090006,1988,7,9,India,,Mithapur,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198807100001,1988,7,10,India,,Nakaon,Bombing/Explosion,Business,United Liberation Front of Assam (ULFA),Explosives/Bombs/Dynamite
+198807100002,1988,7,10,India,,Nakaon,Unknown,Business,United Liberation Front of Assam (ULFA),Unknown
+198807100003,1988,7,10,India,,Nowgong,Bombing/Explosion,Business,Unknown,Explosives/Bombs/Dynamite
+198807100004,1988,7,10,India,,Ramgarh,Assassination,Police,Unknown,Unknown
+198807100005,1988,7,10,India,,Meethapur,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198807100006,1988,7,10,India,,Takhtuchak,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198807110006,1988,7,11,India,,Urmartanda,Armed Assault,Police,Khalistan Commando Force,Firearms
+198807140001,1988,7,14,India,,Kalimpong Town,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198807150001,1988,7,15,India,,Ambala City,Armed Assault,Police,Unknown,Firearms
+198807160008,1988,7,16,India,,Jagraon,Assassination,Private Citizens & Property,Unknown,Firearms
+198807160013,1988,7,16,India,,Lamlai,Armed Assault,Police,People's Liberation Army (India),Firearms
+198807160014,1988,7,16,India,,Phera Ren,Armed Assault,Police,Unknown,Firearms
+198807170015,1988,7,17,India,,Chandigrarh,Armed Assault,Police,Unknown,Firearms
+198807220010,1988,7,22,India,,Maroor Village,Bombing/Explosion,Military,Unknown,Explosives/Bombs/Dynamite
+198807230002,1988,7,23,India,,Rurthakalam,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198807230003,1988,7,23,India,,Jalpaiguri District,Assassination,Government (General),Unknown,Unknown
+198807230005,1988,7,23,India,,Tarn Taran,Armed Assault,Police,Unknown,Firearms
+198807230006,1988,7,23,India,,Kalimpong,Armed Assault,Police,Gurkha National Liberation Front (GNLF),Firearms
+198807240002,1988,7,24,India,,Dalli,Assassination,Educational Institution,Unknown,Firearms
+198807250004,1988,7,25,India,,Ludhiana,Assassination,Religious Figures/Institutions,Sikh Extremists,Firearms
+198807300005,1988,7,30,India,,Navasar,Assassination,Government (General),Sikh Extremists,Firearms
+198807300006,1988,7,30,India,,Dhaini Basa Singh Village,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198807300007,1988,7,30,India,,Thathian,Assassination,Private Citizens & Property,Unknown,Firearms
+198807310002,1988,7,31,India,,Srinagar,Bombing/Explosion,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198807310003,1988,7,31,India,,Srinagar,Bombing/Explosion,Business,Sikh Extremists,Explosives/Bombs/Dynamite
+198807310007,1988,7,31,India,,Bhuli Karimpur,Assassination,Private Citizens & Property,Sikh Extremists,Unknown
+198807310008,1988,7,31,India,,Amarkot,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198807310009,1988,7,31,India,,Pundol,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198808010002,1988,8,1,India,,Nowgong,Bombing/Explosion,Business,Unknown,Explosives/Bombs/Dynamite
+198808010005,1988,8,1,India,,Tinsukhia,Assassination,Government (General),Unknown,Firearms
+198808020005,1988,8,2,India,,Sarhali Khord,Assassination,Terrorists/Non-State Militia,Sikh Extremists,Firearms
+198808030005,1988,8,3,India,,Nike,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198808030011,1988,8,3,India,,Patti,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198808040004,1988,8,4,India,,Ludhiana,Assassination,Government (General),Sikh Extremists,Unknown
+198808040005,1988,8,4,India,,Durgapur,Assassination,Police,Unknown,Firearms
+198808070001,1988,8,7,India,,Ludhiana,Bombing/Explosion,Educational Institution,Sikh Extremists,Explosives/Bombs/Dynamite
+198808070003,1988,8,7,India,,Malla,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198808090001,1988,8,9,India,,Imphal,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198808120003,1988,8,12,India,,Panchkula,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198808170011,1988,8,17,India,,Maltoha,Armed Assault,Military,Unknown,Firearms
+198808170012,1988,8,17,India,,Sundargarh,Armed Assault,Military,Unknown,Firearms
+198808170013,1988,8,17,India,,Maruwai,Armed Assault,Police,Sikh Extremists,Firearms
+198808190010,1988,8,19,India,,Babui,Assassination,Business,Sikh Extremists,Firearms
+198808190011,1988,8,19,India,,Gokkuwal,Assassination,Police,Sikh Extremists,Firearms
+198808190012,1988,8,19,India,,Pandorigolan,Assassination,Unknown,Sikh Extremists,Firearms
+198808190013,1988,8,19,India,,Billowan,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198808190014,1988,8,19,India,,Pandori,Armed Assault,Police,Sikh Extremists,Firearms
+198808220002,1988,8,22,India,,Batala,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198808220003,1988,8,22,India,,Timuwal,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198808250003,1988,8,25,India,,Rutian,Assassination,Government (General),Sikh Extremists,Firearms
+198808250004,1988,8,25,India,,Maisanpur,Assassination,Government (General),Sikh Extremists,Firearms
+198808250005,1988,8,25,India,,Tarn Taran,Assassination,Business,Sikh Extremists,Firearms
+198808250006,1988,8,25,India,,Matinda,Assassination,Business,Sikh Extremists,Firearms
+198808250009,1988,8,25,India,,Ahluwal,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198808270001,1988,8,27,India,,Ajnala,Bombing/Explosion,Business,Sikh Extremists,Explosives/Bombs/Dynamite
+198808270002,1988,8,27,India,,Amritsar District,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198808270021,1988,8,27,India,,Amtitsar District,Armed Assault,Police,Sikh Extremists,Firearms
+198808300006,1988,8,30,India,,Boo,Assassination,Police,Unknown,Firearms
+198808300008,1988,8,30,India,,Derakalan,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198808310005,1988,8,31,India,,Gurdaspur District,Assassination,Private Citizens & Property,Unknown,Firearms
+198808310006,1988,8,31,India,,Rooerwal,Bombing/Explosion,Police,Sikh Extremists,Explosives/Bombs/Dynamite
+198808310007,1988,8,31,India,,Amritsar District,Bombing/Explosion,Police,Sikh Extremists,Firearms
+198808310008,1988,8,31,India,,gurdaspur district,Armed Assault,Police,Unknown,Firearms
+198809010005,1988,9,1,India,,Kadian,Assassination,Private Citizens & Property,Unknown,Firearms
+198809010009,1988,9,1,India,,Gurdaspur district,Armed Assault,Police,Unknown,Firearms
+198809040003,1988,9,4,India,,Rajpura Town,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198809040004,1988,9,4,India,,Gurdaspur City,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198809050001,1988,9,5,India,,Mehadpur,Assassination,Military,Sikh Extremists,Unknown
+198809060005,1988,9,6,India,,Patti Town,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198809060008,1988,9,6,India,,Kathley,Assassination,Religious Figures/Institutions,Unknown,Firearms
+198809060009,1988,9,6,India,,Hashiapur District,Armed Assault,Police,Unknown,Firearms
+198809070002,1988,9,7,India,,Chandigarh,Bombing/Explosion,Educational Institution,Sikh Extremists,Explosives/Bombs/Dynamite
+198809070014,1988,9,7,India,,Rureasal,Armed Assault,Transportation,Sikh Extremists,Firearms
+198809080004,1988,9,8,India,,Atal,Assassination,Private Citizens & Property,Unknown,Firearms
+198809110003,1988,9,11,India,,Delhi,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198809110004,1988,9,11,India,,Delhi,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198809120002,1988,9,12,India,,New Delhi,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198809120003,1988,9,12,India,,New Delhi,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198809120015,1988,9,12,India,,Nathuchak,Armed Assault,Police,Unknown,Firearms
+198809130002,1988,9,13,India,,New Delhi,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198809130006,1988,9,13,India,,Sirhind,Armed Assault,Business,Sikh Extremists,Firearms
+198809150006,1988,9,15,India,,Ferozepore area,Armed Assault,Police,Khalistan Commando Force,Firearms
+198809190003,1988,9,19,India,,Chandigarh,Assassination,Violent Political Party,Sikh Extremists,Firearms
+198809240003,1988,9,24,India,,Amritsar,Armed Assault,Transportation,Sikh Extremists,Firearms
+198809260005,1988,9,26,India,,New Delhi,Assassination,Violent Political Party,Sikh Extremists,Firearms
+198809280011,1988,9,28,India,,Punniyaya,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198809300007,1988,9,30,India,,Dhulewal,Assassination,Religious Figures/Institutions,Unknown,Firearms
+198810010014,1988,10,1,India,,Karmuwal,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198810110011,1988,10,11,India,,Jaito,Assassination,Government (General),Sikh Extremists,Firearms
+198810130009,1988,10,13,India,,Ludhiana,Armed Assault,Police,Unknown,Firearms
+198810210011,1988,10,21,India,,Badnikurd,Assassination,Private Citizens & Property,Unknown,Firearms
+198810240018,1988,10,24,India,,Urmur Danda,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198810270001,1988,10,27,India,,Srinagar,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198810270002,1988,10,27,India,,Srinagar,Bombing/Explosion,Police,Muslim Militants,Explosives/Bombs/Dynamite
+198810270006,1988,10,27,India,,Srinagar,Armed Assault,Police,Muslim Militants,Firearms
+198810270007,1988,10,27,India,,Srinagar,Armed Assault,Business,Muslim Militants,Firearms
+198810270008,1988,10,27,India,,Srinagar,Armed Assault,Business,Muslim Militants,Firearms
+198810310001,1988,10,31,India,,Pathankot,Bombing/Explosion,Private Citizens & Property,Babbar Khalsa International (BKI),Explosives/Bombs/Dynamite
+198811010002,1988,11,1,India,,Jammu,Bombing/Explosion,Transportation,Babbar Khalsa International (BKI),Explosives/Bombs/Dynamite
+198811030001,1988,11,3,India,,Batala,Bombing/Explosion,Private Citizens & Property,Babbar Khalsa International (BKI),Explosives/Bombs/Dynamite
+198811030005,1988,11,3,India,,Gurjarpura,Armed Assault,Transportation,Unknown,Firearms
+198811030006,1988,11,3,India,,Amritsar,Armed Assault,Transportation,Unknown,Firearms
+198811040001,1988,11,4,India,,Pathankot,Bombing/Explosion,Transportation,Babbar Khalsa International (BKI),Explosives/Bombs/Dynamite
+198811050005,1988,11,5,India,,Ludhiana,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198811070002,1988,11,7,India,,Chandigarh,Assassination,Military,Unknown,Firearms
+198811150013,1988,11,15,India,,Ludhiana,Armed Assault,Police,Bhinderanwale Tiger Force of Khalistan (BTHK),Firearms
+198811200006,1988,11,20,India,,Jhugian,Armed Assault,Police,Unknown,Firearms
+198811200007,1988,11,20,India,,Sunderchak,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198811210005,1988,11,21,India,,Kamalawala,Assassination,Private Citizens & Property,Unknown,Firearms
+198811220011,1988,11,22,India,,Kaithal,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198811240002,1988,11,24,India,,Sunhpora,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198811290010,1988,11,29,India,,Ludhiana City,Assassination,Violent Political Party,Unknown,Firearms
+198811290015,1988,11,29,India,,Sarai Amanatkhan,Bombing/Explosion,Police,Unknown,Explosives/Bombs/Dynamite
+198812090006,1988,12,9,India,,Faridkot District,Assassination,Religious Figures/Institutions,Unknown,Firearms
+198812090007,1988,12,9,India,,Ropar District,Assassination,Police,Unknown,Firearms
+198812090008,1988,12,9,India,,Chitamla Village,Assassination,Religious Figures/Institutions,Unknown,Firearms
+198812100004,1988,12,10,India,,Sakoha,Armed Assault,Transportation,Unknown,Firearms
+198812100005,1988,12,10,India,,Srihargobindpur,Armed Assault,Police,Unknown,Firearms
+198812110010,1988,12,11,India,,Talwandi Suba,Armed Assault,Police,Unknown,Firearms
+198812250004,1988,12,25,India,,Armitsar,Hostage Taking (Kidnapping),Transportation,Sikh Extremists,Firearms
+198812250005,1988,12,25,India,,Makoo,Hostage Taking (Kidnapping),Transportation,Unknown,Firearms
+198812260002,1988,12,26,India,,Rasalpura,Assassination,Private Citizens & Property,Sikh Extremists,Unknown
+198812300002,1988,12,30,India,,Amritsar,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198812300003,1988,12,30,India,,Amritsar,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198812310008,1988,12,31,India,,Ludhiana,Assassination,Government (General),Sikh Extremists,Firearms
+198901010001,1989,1,1,India,,Batala,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198901010002,1989,1,1,India,,Malibigha,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198901010003,1989,1,1,India,,Firozapur village,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198901010004,1989,1,1,India,,Jahanabad Dist,Armed Assault,Private Citizens & Property,Naxalites,Firearms
+198901010005,1989,1,1,India,,Shekhawal,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198901010006,1989,1,1,India,,Chwindi devi,Bombing/Explosion,Religious Figures/Institutions,Sikh Extremists,Explosives/Bombs/Dynamite
+198901010007,1989,1,1,India,,Ghawanda devi,Bombing/Explosion,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198901060004,1989,1,6,India,,Ludhiana,Bombing/Explosion,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198901060005,1989,1,6,India,,Ludhiana,Bombing/Explosion,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198901070008,1989,1,7,India,,Baddowal,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198901070009,1989,1,7,India,,Saral Amanat Khan,Armed Assault,Business,Sikh Extremists,Firearms
+198901110001,1989,1,11,India,,Amritsar,Assassination,Government (General),Sikh Extremists,Melee
+198901110002,1989,1,11,India,,Atwal,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198901110003,1989,1,11,India,,Pujiawali,Assassination,Private Citizens & Property,Sikh Extremists,Melee
+198901120007,1989,1,12,India,,Batala,Armed Assault,Military,Khalistan Commando Force,Firearms
+198901150005,1989,1,15,India,,Kathunangal,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198901160003,1989,1,16,India,,Shankerdura,Bombing/Explosion,Military,Unknown,Explosives/Bombs/Dynamite
+198901160006,1989,1,16,India,,Fatehpur,Armed Assault,Police,Sikh Extremists,Firearms
+198901170005,1989,1,17,India,,Ludhiana,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198901210001,1989,1,21,India,,Amarkalan,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198901240001,1989,1,24,India,,Patiala district,Assassination,Private Citizens & Property,Unknown,Firearms
+198901240002,1989,1,24,India,,Santu Nangal,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198901240003,1989,1,24,India,,Bhantinda,Assassination,Government (General),Sikh Extremists,Firearms
+198901260001,1989,1,26,India,,Ropar,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198901260006,1989,1,26,India,,Punjab state,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198901300001,1989,1,30,India,,Hoshiardpur district,Assassination,Government (General),Sikh Extremists,Firearms
+198901300005,1989,1,30,India,,Wear Amritsar,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198902010001,1989,2,1,India,,Bhai Ladhu,Assassination,Private Citizens & Property,Khalistan Commando Force,Firearms
+198902010009,1989,2,1,India,,Rijatipet,Armed Assault,Police,Naxalites,Firearms
+198902020004,1989,2,2,India,,Adilabad District,Armed Assault,Police,People's War Group (PWG),Firearms
+198902040001,1989,2,4,India,,Chandigarh,Assassination,Private Citizens & Property,Sikh Extremists,Melee
+198902050001,1989,2,5,India,,Chandigarh,Assassination,Violent Political Party,Sikh Extremists,Firearms
+198902050008,1989,2,5,India,,Ferozepur District,Armed Assault,Military,Sikh Extremists,Firearms
+198902100001,1989,2,10,India,,Johal,Assassination,Private Citizens & Property,Unknown,Firearms
+198902100002,1989,2,10,India,,Hira,Assassination,Private Citizens & Property,Unknown,Firearms
+198902100007,1989,2,10,India,,sringagar,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198902100008,1989,2,10,India,,Dhaligaon,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198902130008,1989,2,13,India,,Imphal,Armed Assault,Police,People's Liberation Army (India),Firearms
+198902140001,1989,2,14,India,,Seapani,Assassination,Transportation,Bodo Militants,Firearms
+198902140010,1989,2,14,India,,Seapani,Hostage Taking (Kidnapping),Transportation,Bodo Militants,Firearms
+198902150001,1989,2,15,India,,Salakati,Assassination,Government (General),Bodo Militants,Firearms
+198902150002,1989,2,15,India,,Ahmadgarh,Assassination,Police,Unknown,Firearms
+198902150021,1989,2,15,India,,Loria Para,Armed Assault,Police,Bodo Militants,Firearms
+198902150022,1989,2,15,India,,Runikheta,Armed Assault,Government (General),Bodo Militants,Firearms
+198902160001,1989,2,16,India,,Ludhiana,Assassination,Business,Sikh Extremists,Firearms
+198902160006,1989,2,16,India,,Kala Afghana,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198902170003,1989,2,17,India,,Assam State,Bombing/Explosion,Transportation,Bodo Militants,Explosives/Bombs/Dynamite
+198902170004,1989,2,17,India,,Assam State,Bombing/Explosion,Transportation,Bodo Militants,Explosives/Bombs/Dynamite
+198902180001,1989,2,18,India,,Udalgiri,Assassination,Government (General),Bodo Militants,Unknown
+198902180002,1989,2,18,India,,Fakirgram,Unarmed Assault,Government (General),Bodo Militants,Other
+198902180004,1989,2,18,India,,Danktal,Bombing/Explosion,Transportation,Bodo Militants,Explosives/Bombs/Dynamite
+198902180005,1989,2,18,India,,Kokrajhar district,Assassination,Government (General),Bodo Militants,Explosives/Bombs/Dynamite
+198902180012,1989,2,18,India,,Bengtol,Unknown,Police,Bodo Militants,Unknown
+198902180013,1989,2,18,India,,Sidli,Unknown,Police,Bodo Militants,Unknown
+198902180014,1989,2,18,India,,Panbari,Unknown,Police,Bodo Militants,Unknown
+198902190001,1989,2,19,India,,Khera,Assassination,Private Citizens & Property,Khalistan Commando Force,Firearms
+198902190002,1989,2,19,India,,Talwandi Rai Dadoo,Assassination,Private Citizens & Property,Khalistan Commando Force,Firearms
+198902190007,1989,2,19,India,,Gossaigoan,Bombing/Explosion,Police,Bodo Militants,Explosives/Bombs/Dynamite
+198903040003,1989,3,4,India,,Amritstar district,Assassination,Police,Sikh Extremists,Firearms
+198903040004,1989,3,4,India,,Ludhiana District,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198903040015,1989,3,4,India,,Sonada,Armed Assault,Police,Gurkha National Liberation Front (GNLF),Firearms
+198903040016,1989,3,4,India,,Faridkot District,Armed Assault,Police,Sikh Extremists,Firearms
+198903040017,1989,3,4,India,,Jalandhar District,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198903050001,1989,3,5,India,,Jhabal,Assassination,Educational Institution,Sikh Extremists,Firearms
+198903050003,1989,3,5,India,,Assam state,Bombing/Explosion,Transportation,Bodo Militants,Explosives/Bombs/Dynamite
+198903050004,1989,3,5,India,,Udalgiri area,Bombing/Explosion,Transportation,Bodo Militants,Explosives/Bombs/Dynamite
+198903050007,1989,3,5,India,,Gugapir,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198903080001,1989,3,8,India,,Phagwara,Assassination,Government (General),Sikh Extremists,Firearms
+198903140002,1989,3,14,India,,Bongaigaon,Bombing/Explosion,Private Citizens & Property,Bodo Militants,Explosives/Bombs/Dynamite
+198903140003,1989,3,14,India,,Bongaigaon,Bombing/Explosion,Business,Bodo Militants,Explosives/Bombs/Dynamite
+198903140026,1989,3,14,India,,Kokrajhar,Armed Assault,Transportation,Bodo Militants,Firearms
+198903160003,1989,3,16,India,,Esuwagaon,Bombing/Explosion,Police,Bodo Militants,Explosives/Bombs/Dynamite
+198903160006,1989,3,16,India,,Kokrajhar District,Armed Assault,Police,Bodo Militants,Firearms
+198903170002,1989,3,17,India,,Srinagar,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198903170003,1989,3,17,India,,Tinsukia,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198903180001,1989,3,18,India,,Lakhne,Assassination,Private Citizens & Property,Unknown,Firearms
+198903180002,1989,3,18,India,,Gurdapur district,Assassination,Business,Unknown,Firearms
+198903190001,1989,3,19,India,,Sangrur District,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198903190002,1989,3,19,India,,Lakhana Village,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198903190006,1989,3,19,India,,Dhilwan Village,Assassination,Government (General),Khalistan Commando Force,Incendiary
+198903190007,1989,3,19,India,,udalgiri,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198903190013,1989,3,19,India,,Amritsar,Bombing/Explosion,Educational Institution,Khalistan Commando Force,Explosives/Bombs/Dynamite
+198903190014,1989,3,19,India,,Amritsar,Armed Assault,Police,Sikh Extremists,Firearms
+198903190015,1989,3,19,India,,Madhoke Village,Armed Assault,Police,Sikh Extremists,Firearms
+198903190016,1989,3,19,India,,Punjab State,Armed Assault,Police,Sikh Extremists,Firearms
+198903210015,1989,3,21,India,,Srinagar,Bombing/Explosion,Police,Unknown,Explosives/Bombs/Dynamite
+198903210016,1989,3,21,India,,Amritsar,Armed Assault,Police,Sikh Extremists,Firearms
+198903230001,1989,3,23,India,,Dhariwal Kalan,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198903250001,1989,3,25,India,,amritsar,Bombing/Explosion,Private Citizens & Property,Babbar Khalsa International (BKI),Explosives/Bombs/Dynamite
+198903250007,1989,3,25,India,,Hoshiapur District,Armed Assault,Police,Sikh Extremists,Firearms
+198903300001,1989,3,30,India,,Brahma Attari,Assassination,Private Citizens & Property,Unknown,Firearms
+198903300002,1989,3,30,India,,Ludhiana District,Assassination,Private Citizens & Property,Unknown,Firearms
+198903300006,1989,3,30,India,,Haryana,Armed Assault,Police,Unknown,Firearms
+198904030001,1989,4,3,India,,Jullundur District,Assassination,Private Citizens & Property,Unknown,Unknown
+198904030002,1989,4,3,India,,Ludhiansa,Assassination,Business,Unknown,Firearms
+198904070006,1989,4,7,India,,Jamphal,Armed Assault,Police,Unknown,Firearms
+198904070007,1989,4,7,India,,Srinagar,Armed Assault,Police,Unknown,Firearms
+198904070008,1989,4,7,India,,Srinagar,Armed Assault,Police,Unknown,Firearms
+198904140004,1989,4,14,India,,Srinagar,Bombing/Explosion,Government (General),Unknown,Explosives/Bombs/Dynamite
+198904140005,1989,4,14,India,,srinagar,Bombing/Explosion,Government (General),Unknown,Explosives/Bombs/Dynamite
+198904160003,1989,4,16,India,,bihar,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198904160004,1989,4,16,India,,uri,Bombing/Explosion,Military,Muslim Militants,Explosives/Bombs/Dynamite
+198904190001,1989,4,19,India,,Tarntaran,Assassination,Private Citizens & Property,Bhinderanwale Tiger Force of Khalistan (BTHK),Firearms
+198904190002,1989,4,19,India,,Kulian,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198904200014,1989,4,20,India,,Amritsar District,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198904200015,1989,4,20,India,,Guardaspur Dist,Hostage Taking (Kidnapping),Private Citizens & Property,Sikh Extremists,Firearms
+198904210007,1989,4,21,India,,Kokrajhar,Armed Assault,Police,Bodo Militants,Firearms
+198904220007,1989,4,22,India,,Kokrajhar,Bombing/Explosion,Police,Bodo Militants,Explosives/Bombs/Dynamite
+198904250001,1989,4,25,India,,Amritsar,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198904260007,1989,4,26,India,,Jammu,Armed Assault,Educational Institution,Sikh Extremists,Firearms
+198905010002,1989,5,1,India,,Dharamgarh,Assassination,Private Citizens & Property,Unknown,Firearms
+198905010009,1989,5,1,India,,assam state,Bombing/Explosion,Transportation,Bodo Militants,Explosives/Bombs/Dynamite
+198905050001,1989,5,5,India,,Ludhiana City,Assassination,Government (General),Unknown,Unknown
+198905060001,1989,5,6,India,,Ferozepore,Assassination,Government (General),Unknown,Firearms
+198905060002,1989,5,6,India,,Chitta Village,Assassination,Private Citizens & Property,Unknown,Firearms
+198905060011,1989,5,6,India,,Sohal,Armed Assault,Police,Khalistan Commando Force,Firearms
+198905060012,1989,5,6,India,,Bushertala,Armed Assault,Police,Khalistan Commando Force,Firearms
+198905090002,1989,5,9,India,,srinigar,Bombing/Explosion,Transportation,Muslim Militants,Explosives/Bombs/Dynamite
+198905090011,1989,5,9,India,,Gangarampur,Armed Assault,Transportation,Unknown,Firearms
+198905100001,1989,5,10,India,,Pulagahawella,Assassination,Educational Institution,Unknown,Firearms
+198905100002,1989,5,10,India,,Pulagahawella,Assassination,Educational Institution,Unknown,Firearms
+198905120007,1989,5,12,India,,Srinagar,Armed Assault,Tourists,Unknown,Firearms
+198905130002,1989,5,13,India,,Gothrai,Assassination,Business,Unknown,Firearms
+198905130003,1989,5,13,India,,Balarkalan,Assassination,Religious Figures/Institutions,Unknown,Firearms
+198905140001,1989,5,14,India,,Bahirkhedi,Assassination,Violent Political Party,Unknown,Firearms
+198905180006,1989,5,18,India,,Nakodar,Armed Assault,Police,Unknown,Firearms
+198905180007,1989,5,18,India,,Amritsar District,Armed Assault,Police,Unknown,Firearms
+198905190001,1989,5,19,India,,Kedymandi,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198905190002,1989,5,19,India,,Patiala,Assassination,Educational Institution,Unknown,Unknown
+198905200005,1989,5,20,India,,Chakania,Armed Assault,Violent Political Party,Unknown,Firearms
+198905230002,1989,5,23,India,,Masapur,Assassination,Unknown,Unknown,Firearms
+198905230003,1989,5,23,India,,Cheherta,Assassination,Unknown,Unknown,Firearms
+198905230004,1989,5,23,India,,Amritsar,Assassination,Business,Unknown,Firearms
+198905230009,1989,5,23,India,,Bachalor,Armed Assault,Police,Unknown,Firearms
+198905230010,1989,5,23,India,,Mehanwana,Armed Assault,Police,Unknown,Firearms
+198905300001,1989,5,30,India,,Kler Village,Assassination,Private Citizens & Property,Khalistan Commando Force,Firearms
+198905300002,1989,5,30,India,,Amritsar City,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198905300017,1989,5,30,India,,Amritsar District,Armed Assault,Police,Sikh Extremists,Firearms
+198905300018,1989,5,30,India,,Kaler,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198906010001,1989,6,1,India,,Amritsar,Assassination,Business,Sikh Extremists,Firearms
+198906010002,1989,6,1,India,,Mohali,Assassination,Journalists & Media,Sikh Extremists,Firearms
+198906040009,1989,6,4,India,,Samrawan,Armed Assault,Police,Unknown,Firearms
+198906060004,1989,6,6,India,,Punjab State,Armed Assault,Transportation,Unknown,Firearms
+198906060005,1989,6,6,India,,Punjab State,Hijacking,Transportation,Unknown,Firearms
+198906100001,1989,6,10,India,,Sudhpora,Bombing/Explosion,Police,Unknown,Explosives/Bombs/Dynamite
+198906120001,1989,6,12,India,,New Delhi,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198906170003,1989,6,17,India,,Ludhiana,Bombing/Explosion,Government (General),Unknown,Explosives/Bombs/Dynamite
+198906170004,1989,6,17,India,,Ludhiana,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198906170005,1989,6,17,India,,Amritsar District,Armed Assault,Police,Sikh Extremists,Firearms
+198906200004,1989,6,20,India,,Assam State,Bombing/Explosion,Transportation,Bodo Militants,Explosives/Bombs/Dynamite
+198906210001,1989,6,21,India,,Punjab State,Assassination,Military,Sikh Extremists,Firearms
+198906210002,1989,6,21,India,,Amritsar Area,Assassination,Business,Sikh Extremists,Firearms
+198906210003,1989,6,21,India,,Amritsar Area,Assassination,Religious Figures/Institutions,Sikh Extremists,Firearms
+198906210008,1989,6,21,India,,Mirakut,Armed Assault,Police,Sikh Extremists,Firearms
+198906250009,1989,6,25,India,,Moga,Armed Assault,Government (General),Khalistan Commando Force,Firearms
+198906260003,1989,6,26,India,,bardeta,Bombing/Explosion,Transportation,Bodo Militants,Explosives/Bombs/Dynamite
+198906270001,1989,6,27,India,,Chun,Assassination,Business,Unknown,Firearms
+198906270003,1989,6,27,India,,runikhata,Bombing/Explosion,Police,Bodo Militants,Explosives/Bombs/Dynamite
+198906280002,1989,6,28,India,,Ludhiana,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198906280003,1989,6,28,India,,Ludhiana,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198906280010,1989,6,28,India,,Kabipur,Armed Assault,Police,Unknown,Firearms
+198906290001,1989,6,29,India,,Raipur Rian,Assassination,Private Citizens & Property,Unknown,Firearms
+198906290006,1989,6,29,India,,gosaigon subdivision,Bombing/Explosion,Private Citizens & Property,Bodo Militants,Explosives/Bombs/Dynamite
+198906290013,1989,6,29,India,,Amritsar District,Hijacking,Transportation,Unknown,Firearms
+198907070014,1989,7,7,India,,Near Amritsar,Armed Assault,Police,Sikh Extremists,Firearms
+198907090001,1989,7,9,India,,Jullundur,Assassination,Private Citizens & Property,Unknown,Firearms
+198907090003,1989,7,9,India,,Punjab State,Armed Assault,Police,Unknown,Firearms
+198907090004,1989,7,9,India,,Guragaon,Armed Assault,Police,Sikh Extremists,Firearms
+198907110002,1989,7,11,India,,kokrajhar district,Bombing/Explosion,Police,Bodo Militants,Explosives/Bombs/Dynamite
+198907120006,1989,7,12,India,,srinagar,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198907130009,1989,7,13,India,,Srinagar,Armed Assault,Private Citizens & Property,Muslim Separatists,Firearms
+198907170003,1989,7,17,India,,Ludhiana,Bombing/Explosion,Business,Unknown,Explosives/Bombs/Dynamite
+198907170004,1989,7,17,India,,sinagar,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198907210001,1989,7,21,India,,Lokka,Assassination,Private Citizens & Property,Unknown,Firearms
+198907210002,1989,7,21,India,,Pahki,Assassination,Private Citizens & Property,Unknown,Firearms
+198907210004,1989,7,21,India,,srinagar,Bombing/Explosion,Tourists,Unknown,Explosives/Bombs/Dynamite
+198907210008,1989,7,21,India,,Kangraiyan,Armed Assault,Private Citizens & Property,Unknown,Firearms
+198907300012,1989,7,30,India,,Bartam,Armed Assault,Police,Bodo Militants,Firearms
+198907300013,1989,7,30,India,,Dakshin Kanengdesha,Armed Assault,Police,Bodo Militants,Firearms
+198908080001,1989,8,8,India,,Amritsar,Assassination,Violent Political Party,Sikh Extremists,Firearms
+198908080002,1989,8,8,India,,Hargobindpur,Assassination,Police,Sikh Extremists,Firearms
+198908080008,1989,8,8,India,,Jandiala County,Armed Assault,Police,Sikh Extremists,Firearms
+198908080009,1989,8,8,India,,Hargobindpur,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198908080010,1989,8,8,India,,Jammu,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198908090001,1989,8,9,India,,Yamunanagar,Assassination,Private Citizens & Property,Sikh Extremists,Unknown
+198908090002,1989,8,9,India,,Singhbitia,Assassination,Government (General),Bodo Militants,Firearms
+198908090005,1989,8,9,India,,karnal,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198908090009,1989,8,9,India,,Gujarpur,Unknown,Police,Sikh Extremists,Unknown
+198908110001,1989,8,11,India,,Patiali,Assassination,Government (General),Sikh Extremists,Firearms
+198908110002,1989,8,11,India,,Amritsar,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198908110008,1989,8,11,India,,udalgiri,Bombing/Explosion,Police,Unknown,Explosives/Bombs/Dynamite
+198908120001,1989,8,12,India,,Ferozepore District,Assassination,Violent Political Party,Unknown,Firearms
+198908120009,1989,8,12,India,,Vijaypura,Unknown,Police,Sikh Extremists,Unknown
+198908120010,1989,8,12,India,,Assam State,Bombing/Explosion,Police,Bodo Militants,Explosives/Bombs/Dynamite
+198908120011,1989,8,12,India,,Amritsar,Armed Assault,Military,Unknown,Firearms
+198908140008,1989,8,14,India,,Obuke,Armed Assault,Police,Unknown,Firearms
+198908140009,1989,8,14,India,,Kohali,Armed Assault,Police,Unknown,Firearms
+198908150002,1989,8,15,India,,srinigar,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198908150003,1989,8,15,India,,srinigar,Assassination,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198908150004,1989,8,15,India,,srinigar,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198908160004,1989,8,16,India,,srinigar,Facility/Infrastructure Attack,Business,Unknown,Incendiary
+198908160016,1989,8,16,India,,Anantnag Town,Bombing/Explosion,Police,Unknown,Explosives/Bombs/Dynamite
+198908160019,1989,8,16,India,,Mahmoobnagar Dist.,Hostage Taking (Kidnapping),Government (General),People's War Group (PWG),Firearms
+198908170001,1989,8,17,India,,Kuiripetha,Assassination,Government (General),Bodo Militants,Firearms
+198908170002,1989,8,17,India,,Patilia,Assassination,Police,Unknown,Firearms
+198908170006,1989,8,17,India,,kangan,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198908170007,1989,8,17,India,,srinigar,Bombing/Explosion,Religious Figures/Institutions,Unknown,Explosives/Bombs/Dynamite
+198908170008,1989,8,17,India,,srinigar,Bombing/Explosion,Transportation,Muslim Militants,Explosives/Bombs/Dynamite
+198908170009,1989,8,17,India,,guwahati,Bombing/Explosion,Business,Unknown,Explosives/Bombs/Dynamite
+198908170022,1989,8,17,India,,Srinigar,Armed Assault,Police,Muslim Militants,Firearms
+198908170024,1989,8,17,India,,Srinigar,Hijacking,Transportation,Muslim Militants,Explosives/Bombs/Dynamite
+198908180004,1989,8,18,India,,chintpurani,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198908180007,1989,8,18,India,,Amritsar District,Armed Assault,Police,Unknown,Firearms
+198908190003,1989,8,19,India,,Dusibandh,Armed Assault,Police,Unknown,Firearms
+198908200001,1989,8,20,India,,Badri Kalan,Assassination,Private Citizens & Property,Unknown,Firearms
+198908210001,1989,8,21,India,,Srinigar,Assassination,Government (General),Unknown,Firearms
+198908280010,1989,8,28,India,,Punjab State,Armed Assault,Transportation,Khalistan Commando Force,Firearms
+198908280014,1989,8,28,India,,Amritsar,Bombing/Explosion,Transportation,Sikh Extremists,Explosives/Bombs/Dynamite
+198908290002,1989,8,29,India,,sundaridia,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198908290012,1989,8,29,India,,Kabarwala,Armed Assault,Transportation,Sikh Extremists,Firearms
+198908290015,1989,8,29,India,,bairabil,Bombing/Explosion,Transportation,Bodo Militants,Explosives/Bombs/Dynamite
+198909010016,1989,9,1,India,,Jagtial,Bombing/Explosion,Private Citizens & Property,Naxalites,Explosives/Bombs/Dynamite
+198909080003,1989,9,8,India,,Jamuguri,Bombing/Explosion,Police,Bodo Militants,Explosives/Bombs/Dynamite
+198909080023,1989,9,8,India,,Sharinwala,Armed Assault,Police,Sikh Extremists,Firearms
+198909090024,1989,9,9,India,,Bokhajhuli,Armed Assault,Private Citizens & Property,Bodo Militants,Firearms
+198909100009,1989,9,10,India,,Gorkajuli,Armed Assault,Private Citizens & Property,Bodo Militants,Melee
+198909110001,1989,9,11,India,,Nabuke,Assassination,Private Citizens & Property,Unknown,Firearms
+198909110025,1989,9,11,India,,Golgoddam Village,Armed Assault,Police,People's War Group (PWG),Firearms
+198909110026,1989,9,11,India,,Jhuliwala,Armed Assault,Military,Unknown,Firearms
+198909120010,1989,9,12,India,,Dhreli,Armed Assault,Police,Unknown,Firearms
+198909140002,1989,9,14,India,,Srinigar,Assassination,Violent Political Party,Unknown,Firearms
+198909150001,1989,9,15,India,,Burala,Assassination,Private Citizens & Property,Unknown,Firearms
+198909150002,1989,9,15,India,,Mahmudpur,Assassination,Private Citizens & Property,Unknown,Firearms
+198909150003,1989,9,15,India,,Rasoolpur,Assassination,Private Citizens & Property,Sikh Extremists,Firearms
+198909150021,1989,9,15,India,,Jullundur,Armed Assault,Police,Sikh Extremists,Firearms
+198909150022,1989,9,15,India,,Makhu,Armed Assault,Police,Unknown,Firearms
+198909160001,1989,9,16,India,,Chang Village,Assassination,Police,Unknown,Firearms
+198909160012,1989,9,16,India,,Tarn Taran,Hostage Taking (Kidnapping),Police,Unknown,Firearms
+198909180002,1989,9,18,India,,Khangnadesian,Assassination,Violent Political Party,Unknown,Firearms
+198909180019,1989,9,18,India,,Srinigar,Bombing/Explosion,Police,Jammu and Kashmir Liberation Front,Explosives/Bombs/Dynamite
+198909230018,1989,9,23,India,,Sarzulgarh,Armed Assault,Police,Unknown,Firearms
+198909240005,1989,9,24,India,,ujani dam,Bombing/Explosion,Airports & Aircraft,Unknown,Explosives/Bombs/Dynamite
+198909290014,1989,9,29,India,,Jullandur District,Armed Assault,Police,Unknown,Firearms
+198909300003,1989,9,30,India,,khargone,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198909300004,1989,9,30,India,,Khargone,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198910020012,1989,10,2,India,,Kotta Gol Shah,Bombing/Explosion,Police,Unknown,Explosives/Bombs/Dynamite
+198910040001,1989,10,4,India,,Amritsan District,Assassination,Private Citizens & Property,Unknown,Firearms
+198910040007,1989,10,4,India,,Delhi,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198910040011,1989,10,4,India,,Ferozepore District,Armed Assault,Police,Unknown,Firearms
+198910040012,1989,10,4,India,,Amritsar District,Armed Assault,Police,Unknown,Firearms
+198910050001,1989,10,5,India,,Khandwala,Assassination,Private Citizens & Property,Unknown,Firearms
+198910050022,1989,10,5,India,,Rasulpar,Bombing/Explosion,Military,Unknown,Explosives/Bombs/Dynamite
+198910070010,1989,10,7,India,,Nalbari District,Armed Assault,Private Citizens & Property,Bodo Militants,Firearms
+198910080006,1989,10,8,India,,Nalbari,Armed Assault,Private Citizens & Property,Bodo Militants,Firearms
+198910080007,1989,10,8,India,,Mahisabari,Armed Assault,Government (General),Bodo Militants,Firearms
+198910080008,1989,10,8,India,,Bhoragaon,Armed Assault,Private Citizens & Property,Bodo Militants,Firearms
+198910100010,1989,10,10,India,,nalbari district,Bombing/Explosion,Police,Unknown,Explosives/Bombs/Dynamite
+198910100027,1989,10,10,India,,Gauhati,Bombing/Explosion,Police,Bodo Militants,Explosives/Bombs/Dynamite
+198910160001,1989,10,16,India,,Tarn Taran,Assassination,Business,Unknown,Firearms
+198910160002,1989,10,16,India,,Tarn Taran,Assassination,Police,Unknown,Firearms
+198910160006,1989,10,16,India,,srinigar,Bombing/Explosion,Private Citizens & Property,Kashmiri Militants,Explosives/Bombs/Dynamite
+198910160010,1989,10,16,India,,Amritsar,Armed Assault,Police,Unknown,Firearms
+198910200001,1989,10,20,India,,Calcutta,Assassination,Violent Political Party,Unknown,Firearms
+198910280020,1989,10,28,India,,Ratanhira,Armed Assault,Police,Unknown,Firearms
+198910290001,1989,10,29,India,,Chola,Assassination,Private Citizens & Property,Unknown,Firearms
+198911020009,1989,11,2,India,,new delhi,Bombing/Explosion,Private Citizens & Property,Sikh Extremists,Explosives/Bombs/Dynamite
+198911040001,1989,11,4,India,,Srinigar,Assassination,Government (General),Jammu and Kashmir Liberation Front,Firearms
+198911100005,1989,11,10,India,,srinigar,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198911100012,1989,11,10,India,,Patiala,Armed Assault,Educational Institution,Sikh Extremists,Firearms
+198911120001,1989,11,12,India,,Khasawal,Assassination,Business,Unknown,Firearms
+198911120011,1989,11,12,India,,Kohali,Armed Assault,Police,Unknown,Firearms
+198911120012,1989,11,12,India,,Ferozepur District,Armed Assault,Police,Unknown,Firearms
+198911180001,1989,11,18,India,,Punjab State,Assassination,Educational Institution,Sikh Extremists,Firearms
+198911180005,1989,11,18,India,,srinagar,Bombing/Explosion,Business,pro-pakistani militants,Explosives/Bombs/Dynamite
+198911180006,1989,11,18,India,,amritsar,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198911180007,1989,11,18,India,,anantnag,Bombing/Explosion,Government (General),pro-pakistani militants,Explosives/Bombs/Dynamite
+198911180008,1989,11,18,India,,amritsar,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198911180009,1989,11,18,India,,amritsar,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198911190001,1989,11,19,India,,Bihar State,Assassination,Violent Political Party,Unknown,Firearms
+198911190002,1989,11,19,India,,andhra pradesh state,Bombing/Explosion,Government (General),Unknown,Explosives/Bombs/Dynamite
+198911210001,1989,11,21,India,,Srinigar,Assassination,Business,Unknown,Firearms
+198911210002,1989,11,21,India,,Bangalore City,Assassination,Government (General),Unknown,Firearms
+198911210003,1989,11,21,India,,New Dheli,Assassination,Government (General),Sikh Extremists,Melee
+198911210004,1989,11,21,India,,Tripura State,Assassination,Government (General),Sikh Extremists,Explosives/Bombs/Dynamite
+198911210005,1989,11,21,India,,Jullunder,Assassination,Violent Political Party,Sikh Extremists,Firearms
+198911210009,1989,11,21,India,,tripura state,Bombing/Explosion,Government (General),Communist Party of India,Explosives/Bombs/Dynamite
+198911210010,1989,11,21,India,,kashmir state,Bombing/Explosion,Educational Institution,Unknown,Explosives/Bombs/Dynamite
+198911210011,1989,11,21,India,,kashmir state,Bombing/Explosion,Educational Institution,Unknown,Explosives/Bombs/Dynamite
+198911210012,1989,11,21,India,,kashmir state,Bombing/Explosion,Educational Institution,Unknown,Explosives/Bombs/Dynamite
+198911210013,1989,11,21,India,,kashmir state,Bombing/Explosion,Educational Institution,Unknown,Explosives/Bombs/Dynamite
+198911210014,1989,11,21,India,,kashmir state,Bombing/Explosion,Educational Institution,Unknown,Explosives/Bombs/Dynamite
+198911210015,1989,11,21,India,,nadu state,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198911210021,1989,11,21,India,,Amritsar District,Armed Assault,Military,Sikh Extremists,Firearms
+198911210022,1989,11,21,India,,Amritsar District,Armed Assault,Military,Sikh Extremists,Firearms
+198911210023,1989,11,21,India,,Punjab state,Armed Assault,Military,Unknown,Firearms
+198911230003,1989,11,23,India,,agartala,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198911250002,1989,11,25,India,,Mann,Assassination,Government (General),Unknown,Firearms
+198911250005,1989,11,25,India,,batala,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198912000002,1989,12,0,India,,Srinigar,Bombing/Explosion,Business,Allah's Tigers,Explosives/Bombs/Dynamite
+198912040003,1989,12,4,India,,Srinigar,Bombing/Explosion,Violent Political Party,Unknown,Explosives/Bombs/Dynamite
+198912080004,1989,12,8,India,,Srinigar,Hostage Taking (Kidnapping),Government (General),Jammu and Kashmir Liberation Front,Unknown
+198912100015,1989,12,10,India,,Ferozepore District,Armed Assault,Military,Unknown,Firearms
+198912110007,1989,12,11,India,,Dinanagar,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198912110008,1989,12,11,India,,srinigar,Bombing/Explosion,Airports & Aircraft,Unknown,Explosives/Bombs/Dynamite
+198912120003,1989,12,12,India,,srinigar,Bombing/Explosion,Transportation,Unknown,Explosives/Bombs/Dynamite
+198912120004,1989,12,12,India,,srinigar,Bombing/Explosion,Transportation,Jammu and Kashmir Liberation Front,Explosives/Bombs/Dynamite
+198912130006,1989,12,13,India,,Palliwalli,Armed Assault,Private Citizens & Property,Sikh Extremists,Firearms
+198912210002,1989,12,21,India,,srinigar,Bombing/Explosion,Business,Unknown,Explosives/Bombs/Dynamite
+198912210003,1989,12,21,India,,srinigr,Bombing/Explosion,Government (General),Unknown,Explosives/Bombs/Dynamite
+198912210004,1989,12,21,India,,Ludhiana,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198912230001,1989,12,23,India,,Ludhiana District,Assassination,Private Citizens & Property,Unknown,Firearms
+198912230007,1989,12,23,India,,Balia Village,Armed Assault,Police,Unknown,Firearms
+198912230009,1989,12,23,India,,Ramaduggu,Hostage Taking (Kidnapping),Government (General),Naxalites,Firearms
+198912260001,1989,12,26,India,,Sohara Village,Assassination,Police,Unknown,Firearms
+198912260009,1989,12,26,India,,Amritsar,Hostage Taking (Kidnapping),Private Citizens & Property,Unknown,Unknown
+198912260010,1989,12,26,India,,Suravaram,Hostage Taking (Kidnapping),Government (General),Naxalites,Firearms
+198912260011,1989,12,26,India,,Chevella Village,Hostage Taking (Kidnapping),Government (General),Unknown,Firearms
+198912270001,1989,12,27,India,,Anantnag,Assassination,Business,Unknown,Firearms
+198912270002,1989,12,27,India,,srinigar,Bombing/Explosion,Business,Unknown,Explosives/Bombs/Dynamite
+198912270003,1989,12,27,India,,srinigar,Bombing/Explosion,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite
+198912280004,1989,12,28,India,,Amritsar,Armed Assault,Police,Sikh Extremists,Firearms
+198912280005,1989,12,28,India,,Bhatinda,Hostage Taking (Kidnapping),Government (General),Sikh Extremists,Firearms
+198912300001,1989,12,30,India,,Srinigar,Assassination,Police,Unknown,Firearms
+198912300008,1989,12,30,India,,Akhrur,Armed Assault,Military,Unknown,Firearms
