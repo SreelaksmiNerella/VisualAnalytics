@@ -9,10 +9,10 @@ if (mysqli_connect_errno())
   }
 
   //replace csv file with $deacde.".csv"
-$handle = fopen("latestnews.csv", "r");
+$handle = fopen("latesttweets.csv", "r");
 // Read first (headers) record only)
 $data = fgetcsv($handle, 1000, ",");
-$sql= 'CREATE TABLE IF NOT EXISTS news(';
+$sql= 'CREATE TABLE IF NOT EXISTS tweet(';
 for($i=0;$i<count($data); $i++) {
 $sql .= $data[$i].' VARCHAR(50), ';
 }
@@ -31,7 +31,7 @@ if(!$res)
 fclose($handle);
 
 
-$query1  = "LOAD DATA INFILE 'latestnews.csv' INTO TABLE news FIELDS TERMINATED BY ','";
+$query1  = "LOAD DATA INFILE 'latesttweets.csv' INTO TABLE tweet FIELDS TERMINATED BY ','";
 $res1=mysql_query($query1);
 if(!$res1)
     {

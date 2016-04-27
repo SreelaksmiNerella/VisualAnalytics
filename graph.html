@@ -204,19 +204,7 @@
             <button class="btn btn-large">Select Criteria</button>
                             <button class="btn btn-large dropdown-toggle" data-toggle="dropdown"><span class="caret"></span></button>
                             <ul class="dropdown-menu" data-class= "criteria">
-                              <!--  <li data-value ="attacktype1_txt"><i class="fa-pie-chart "></i>Attack Type</a></li>
-                                <li data-value ="city"><i class="fa-pie-chart "></i>Cities</a></li>
-                                <li data-value ="gname"><i class="fa-pie-chart "></i>Terrorist Groups</a></li>
-                                <li data-value ="targtype1_txt"><i class="fa-pie-chart "></i>Target Type</a></li>
-                               <li data-value ="map_max_attack"><i class="halflings-icon white download-alt"></i>Map For Max Attacks</a></li>
-                                <li data-value =="india_map"><i class="halflings-icon white download-alt"></i> Map For Attacks</a></li>
-                                <li data-value ="india_map_target"><i class="halflings-icon white download-alt"></i> Map For Targets</a></li>-->
-                               <!-- <li data-value ="city-target"><i class="halflings-icon white download-alt"></i> City-Target</a></li>
-                                <li data-value ="city-attack"><i class="halflings-icon white download-alt"></i> City-Attack</a></li>
-                                <li data-value ="gname-attack"><i class="halflings-icon white download-alt"></i> Gname-Attack</a></li>
-                                <li data-value ="gname-location"><i class="halflings-icon white download-alt"></i> Gname-Location</a></li>-->
-                                
-                            </ul>
+                             </ul>
             </div>
             </div>
             
@@ -316,7 +304,7 @@
                 switch(type)
             {   
                 case "pie": servfile = "pie.php";loc = "pie.html"; 
-                if(decade=="news"||decade=="tweets")
+                if(decade=="news"||decade=="tweet")
                 {
                     $(".btn-group .dropdown-menu[data-class='criteria']").html('<li data-value ="attacktype1_txt"><i class="fa-pie-chart "></i>Attack Type</a></li><li data-value ="city"><i class="fa-pie-chart "></i>Cities</a></li><li data-value ="gname"><i class="fa-pie-chart "></i>Terrorist Groups</a></li>'
                                );
@@ -382,10 +370,10 @@
                 url: servfile, //Relative or absolute path to response.php file
                 data: data,
                 success: function(data) {
-                alert("Returned json: " + JSON.stringify(data));
+                //alert("Returned json: " + JSON.stringify(data));
 
                 data = JSON.stringify(data);
-                alert(data);
+                //alert(data);
                    //creates a base-64 encoded ASCII string
                  // data = btoa(data);
                    //save the encoded accout to web storage

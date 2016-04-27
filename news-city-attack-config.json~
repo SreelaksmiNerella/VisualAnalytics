@@ -1,7 +1,7 @@
 {
   "type": "network",
   "version": "1.0",
-  "data": "1970-79-city-attack-data.json",
+  "data": "news-city-attack-data.json",
   "logo": {
     "file": "",
     "link": "",

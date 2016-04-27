@@ -1,0 +1,40 @@
+source,target,weight
+bandits,Rai,2
+dissident,New Delhi,1
+dissident,Tral,2
+extremists,Rai,7
+extremists,Tral,2
+gunmen,Rai,4
+hizbul mujahideen,Srinagar,2
+indian mujahideen,New Delhi,8
+indian mujahideen,Rai,4
+indian mujahideen,Tral,2
+insurgents,Tral,2
+maoists,Rai,8
+maoists,Sukma district,3
+maoists,Tral,3
+militants,Guwahati,6
+militants,Rai,10
+militants,Sonitpur district,4
+militants,Srinagar,4
+muslim separatists,Rai,2
+muslims,Rai,14
+national democratic front of bodoland,Guwahati,4
+national democratic front of bodoland,Rai,4
+national democratic front of bodoland,Sonitpur district,4
+naxalites,Gaya district,2
+naxalites,New Delhi,2
+naxalites,Rai,6
+naxalites,Roro,2
+naxalites,Tral,2
+palestinians,Rai,1
+pattali makkal katchi,Rai,2
+people's liberation army,Rai,2
+separatists,Rai,6
+terrorists,New Delhi,4
+terrorists,Rai,8
+terrorists,Sopore,2
+terrorists,Srinagar,2
+terrorists,Tral,1
+youths,Srinagar,2
+youths,Tral,1

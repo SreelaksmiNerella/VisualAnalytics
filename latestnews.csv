@@ -1,165 +1,165 @@
-gname,attacktype1_txt,city
-japanese red army,hijacking,Unknown
-maoists,Unknown,Rai
-maoists,Unknown,Rai
-maoists,Unknown,Sukma district
-maoists,Unknown,Tral
-extremists,Unknown,Rai
-japanese red army,hijacking,Unknown
-maoists,Unknown,Rai
-maoists,Unknown,Sukma district
-maoists,Unknown,Tral
-maoists,Unknown,Rai
-extremists,Unknown,Rai
-naxalites,Unknown,Roro
-maoists,Unknown,Rai
-naxalites,Unknown,Rai
-naxalites,Unknown,Gaya district
-naxalites,Unknown,Rai
-naxalites,Unknown,New Delhi
-naxalites,Unknown,Tral
-naxalites,Unknown,Rai
-youths,bombing,Unknown
-palestinians,bombing,Unknown
-palestinians,bombing,Rai
-people's liberation army,Unknown,Rai
-muslims,Unknown,Rai
-muslims,Unknown,Rai
-national democratic front of bodoland,kidnapping,Sonitpur district
-national democratic front of bodoland,kidnapping,Rai
-militants,kidnapping,Sonitpur district
-militants,kidnapping,Rai
-national democratic front of bodoland,Unknown,Rai
-muslims,Unknown,Rai
-national democratic front of bodoland,Unknown,Guwahati
-militants,Unknown,Guwahati
-militants,Unknown,Guwahati
-national democratic front of bodoland,Unknown,Guwahati
-militants,Unknown,Guwahati
-national democratic front of bodoland,Unknown,Sonitpur district
-militants,Unknown,Sonitpur district
-dissident,Unknown,Tral
-extremists,Unknown,Tral
-insurgents,Unknown,Tral
-gunmen,bombing,Unknown
-muslims,bombing,Unknown
-militants,bombing,Unknown
-gunmen,Unknown,Rai
-gunmen,Unknown,Rai
-bandits,Unknown,Rai
-extremists,Unknown,Rai
-muslims,Unknown,Rai
-militants,Unknown,Rai
-muslims,Unknown,Rai
-extremists,Unknown,Rai
-muslims,Unknown,Rai
-terrorists,hijacking,Rai
-separatists,Unknown,Rai
-terrorists,Unknown,Rai
-muslim separatists,Unknown,Rai
-separatists,Unknown,Rai
-separatists,Unknown,Rai
-pattali makkal katchi,Unknown,Rai
-dissident,Unknown,New Delhi
-muslims,Unknown,Rai
-militants,Unknown,Rai
-terrorists,Unknown,Rai
-militants,Unknown,Rai
-terrorists,Unknown,Srinagar
-terrorists,Unknown,Sopore
-hizbul mujahideen,Unknown,Srinagar
-militants,Unknown,Srinagar
-indian mujahideen,bombing,Unknown
-muslims,bombing,Unknown
-terrorists,bombing,Unknown
-indian mujahideen,Unknown,New Delhi
-indian mujahideen,Unknown,New Delhi
-indian mujahideen,Unknown,Rai
-indian mujahideen,Unknown,New Delhi
-indian mujahideen,Unknown,Rai
-terrorists,Unknown,New Delhi
-terrorists,Unknown,Rai
-indian mujahideen,Unknown,New Delhi
-indian mujahideen,Unknown,Tral
-militants,Unknown,Rai
-terrorists,Unknown,New Delhi
-youths,Unknown,Srinagar
-militants,Unknown,Srinagar
-japanese\sred\sarmy,hijacking,Unknown
-maoists,Unknown,Rai
-maoists,Unknown,Sukma\sdistrict
-maoists,Unknown,Rai
-maoists,Unknown,Tral
-extremists,Unknown,Rai
-naxalites,Unknown,Roro
-maoists,Unknown,Rai
-naxalites,Unknown,Rai
-naxalites,Unknown,Gaya\sdistrict
-naxalites,Unknown,Rai
-naxalites,Unknown,Rai
-naxalites,Unknown,New\sDelhi
-naxalites,Unknown,Tral
-people's\sliberation\sarmy,Unknown,Rai
-muslims,Unknown,Rai
-muslims,Unknown,Rai
-youths,Unknown,Tral
-militants,kidnapping,Rai
-militants,kidnapping,Sonitpur\sdistrict
-national\sdemocratic\sfront\sof\sbodoland,kidnapping,Rai
-national\sdemocratic\sfront\sof\sbodoland,kidnapping,Sonitpur\sdistrict
-muslims,Unknown,Rai
-national\sdemocratic\sfront\sof\sbodoland,Unknown,Rai
-militants,Unknown,Guwahati
-national\sdemocratic\sfront\sof\sbodoland,Unknown,Guwahati
-militants,Unknown,Guwahati
-militants,Unknown,Guwahati
-national\sdemocratic\sfront\sof\sbodoland,Unknown,Guwahati
-militants,Unknown,Sonitpur\sdistrict
-national\sdemocratic\sfront\sof\sbodoland,Unknown,Sonitpur\sdistrict
-dissident,Unknown,Tral
-insurgents,Unknown,Tral
-extremists,Unknown,Tral
-militants,bombing,Unknown
-gunmen,bombing,Unknown
-muslims,bombing,Unknown
-gunmen,Unknown,Rai
-gunmen,Unknown,Rai
-bandits,Unknown,Rai
-extremists,Unknown,Rai
-militants,Unknown,Rai
-muslims,Unknown,Rai
-muslims,Unknown,Rai
-extremists,Unknown,Rai
-muslims,Unknown,Rai
-terrorists,hijacking,Rai
-separatists,Unknown,Rai
-terrorists,Unknown,Rai
-separatists,Unknown,Rai
-muslim\sseparatists,Unknown,Rai
-separatists,Unknown,Rai
-pattali\smakkal\skatchi,Unknown,Rai
-terrorists,Unknown,Tral
-militants,Unknown,Rai
-muslims,Unknown,Rai
-militants,Unknown,Rai
-terrorists,Unknown,Rai
-terrorists,Unknown,Srinagar
-terrorists,Unknown,Sopore
-militants,Unknown,Srinagar
-hizbul\smujahideen,Unknown,Srinagar
-indian\smujahideen,bombing,Unknown
-muslims,bombing,Unknown
-terrorists,bombing,Unknown
-indian\smujahideen,Unknown,New\sDelhi
-indian\smujahideen,Unknown,Rai
-indian\smujahideen,Unknown,New\sDelhi
-indian\smujahideen,Unknown,Rai
-indian\smujahideen,Unknown,New\sDelhi
-terrorists,Unknown,Rai
-terrorists,Unknown,New\sDelhi
-indian\smujahideen,Unknown,New\sDelhi
-indian\smujahideen,Unknown,Tral
-militants,Unknown,Rai
-terrorists,Unknown,New\sDelhi
-youths,Unknown,Srinagar
-militants,Unknown,Srinagar
+gname,attacktype1_txt,city,latitude,longitude
+japanese red army,hijacking,Unknown,,
+maoists,Unknown,Rai,,
+maoists,Unknown,Rai,,
+maoists,Unknown,Sukma district,,
+maoists,Unknown,Tral,,
+extremists,Unknown,Rai,,
+japanese red army,hijacking,Unknown,,
+maoists,Unknown,Rai,,
+maoists,Unknown,Sukma district,,
+maoists,Unknown,Tral,,
+maoists,Unknown,Rai,,
+extremists,Unknown,Rai,,
+naxalites,Unknown,Roro,,
+maoists,Unknown,Rai,,
+naxalites,Unknown,Rai,,
+naxalites,Unknown,Gaya district,,
+naxalites,Unknown,Rai,,
+naxalites,Unknown,New Delhi,,
+naxalites,Unknown,Tral,,
+naxalites,Unknown,Rai,,
+youths,bombing,Unknown,,
+palestinians,bombing,Unknown,,
+palestinians,bombing,Rai,,
+people's liberation army,Unknown,Rai,,
+muslims,Unknown,Rai,,
+muslims,Unknown,Rai,,
+national democratic front of bodoland,kidnapping,Sonitpur district,,
+national democratic front of bodoland,kidnapping,Rai,,
+militants,kidnapping,Sonitpur district,,
+militants,kidnapping,Rai,,
+national democratic front of bodoland,Unknown,Rai,,
+muslims,Unknown,Rai,,
+national democratic front of bodoland,Unknown,Guwahati,,
+militants,Unknown,Guwahati,,
+militants,Unknown,Guwahati,,
+national democratic front of bodoland,Unknown,Guwahati,,
+militants,Unknown,Guwahati,,
+national democratic front of bodoland,Unknown,Sonitpur district,,
+militants,Unknown,Sonitpur district,,
+dissident,Unknown,Tral,,
+extremists,Unknown,Tral,,
+insurgents,Unknown,Tral,,
+gunmen,bombing,Unknown,,
+muslims,bombing,Unknown,,
+militants,bombing,Unknown,,
+gunmen,Unknown,Rai,,
+gunmen,Unknown,Rai,,
+bandits,Unknown,Rai,,
+extremists,Unknown,Rai,,
+muslims,Unknown,Rai,,
+militants,Unknown,Rai,,
+muslims,Unknown,Rai,,
+extremists,Unknown,Rai,,
+muslims,Unknown,Rai,,
+terrorists,hijacking,Rai,,
+separatists,Unknown,Rai,,
+terrorists,Unknown,Rai,,
+muslim separatists,Unknown,Rai,,
+separatists,Unknown,Rai,,
+separatists,Unknown,Rai,,
+pattali makkal katchi,Unknown,Rai,,
+dissident,Unknown,New Delhi,,
+muslims,Unknown,Rai,,
+militants,Unknown,Rai,,
+terrorists,Unknown,Rai,,
+militants,Unknown,Rai,,
+terrorists,Unknown,Srinagar,,
+terrorists,Unknown,Sopore,,
+hizbul mujahideen,Unknown,Srinagar,,
+militants,Unknown,Srinagar,,
+indian mujahideen,bombing,Unknown,,
+muslims,bombing,Unknown,,
+terrorists,bombing,Unknown,,
+indian mujahideen,Unknown,New Delhi,,
+indian mujahideen,Unknown,New Delhi,,
+indian mujahideen,Unknown,Rai,,
+indian mujahideen,Unknown,New Delhi,,
+indian mujahideen,Unknown,Rai,,
+terrorists,Unknown,New Delhi,,
+terrorists,Unknown,Rai,,
+indian mujahideen,Unknown,New Delhi,,
+indian mujahideen,Unknown,Tral,,
+militants,Unknown,Rai,,
+terrorists,Unknown,New Delhi,,
+youths,Unknown,Srinagar,,
+militants,Unknown,Srinagar,,
+japanese red army,hijacking,Unknown,,
+maoists,Unknown,Rai,,
+maoists,Unknown,Sukma district,,
+maoists,Unknown,Rai,,
+maoists,Unknown,Tral,,
+extremists,Unknown,Rai,,
+naxalites,Unknown,Roro,,
+maoists,Unknown,Rai,,
+naxalites,Unknown,Rai,,
+naxalites,Unknown,Gaya district,,
+naxalites,Unknown,Rai,,
+naxalites,Unknown,Rai,,
+naxalites,Unknown,New Delhi,,
+naxalites,Unknown,Tral,,
+people's liberation army,Unknown,Rai,,
+muslims,Unknown,Rai,,
+muslims,Unknown,Rai,,
+youths,Unknown,Tral,,
+militants,kidnapping,Rai,,
+militants,kidnapping,Sonitpur district,,
+national democratic front of bodoland,kidnapping,Rai,,
+national democratic front of bodoland,kidnapping,Sonitpur district,,
+muslims,Unknown,Rai,,
+national democratic front of bodoland,Unknown,Rai,,
+militants,Unknown,Guwahati,,
+national democratic front of bodoland,Unknown,Guwahati,,
+militants,Unknown,Guwahati,,
+militants,Unknown,Guwahati,,
+national democratic front of bodoland,Unknown,Guwahati,,
+militants,Unknown,Sonitpur district,,
+national democratic front of bodoland,Unknown,Sonitpur district,,
+dissident,Unknown,Tral,,
+insurgents,Unknown,Tral,,
+extremists,Unknown,Tral,,
+militants,bombing,Unknown,,
+gunmen,bombing,Unknown,,
+muslims,bombing,Unknown,,
+gunmen,Unknown,Rai,,
+gunmen,Unknown,Rai,,
+bandits,Unknown,Rai,,
+extremists,Unknown,Rai,,
+militants,Unknown,Rai,,
+muslims,Unknown,Rai,,
+muslims,Unknown,Rai,,
+extremists,Unknown,Rai,,
+muslims,Unknown,Rai,,
+terrorists,hijacking,Rai,,
+separatists,Unknown,Rai,,
+terrorists,Unknown,Rai,,
+separatists,Unknown,Rai,,
+muslim separatists,Unknown,Rai,,
+separatists,Unknown,Rai,,
+pattali makkal katchi,Unknown,Rai,,
+terrorists,Unknown,Tral,,
+militants,Unknown,Rai,,
+muslims,Unknown,Rai,,
+militants,Unknown,Rai,,
+terrorists,Unknown,Rai,,
+terrorists,Unknown,Srinagar,,
+terrorists,Unknown,Sopore,,
+militants,Unknown,Srinagar,,
+hizbul mujahideen,Unknown,Srinagar,,
+indian mujahideen,bombing,Unknown,,
+muslims,bombing,Unknown,,
+terrorists,bombing,Unknown,,
+indian mujahideen,Unknown,New Delhi,,
+indian mujahideen,Unknown,Rai,,
+indian mujahideen,Unknown,New Delhi,,
+indian mujahideen,Unknown,Rai,,
+indian mujahideen,Unknown,New Delhi,,
+terrorists,Unknown,Rai,,
+terrorists,Unknown,New Delhi,,
+indian mujahideen,Unknown,New Delhi,,
+indian mujahideen,Unknown,Tral,,
+militants,Unknown,Rai,,
+terrorists,Unknown,New Delhi,,
+youths,Unknown,Srinagar,,
+militants,Unknown,Srinagar,,

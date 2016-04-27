@@ -1,0 +1,28 @@
+source,target,weight
+al fajr,assassination,1
+bandits,assassination,1
+bandits,bombing,1
+dissident,bombing,1
+extremists,assassination,1
+extremists,kidnapping,1
+gunmen,assassination,2
+indian mujahideen,kidnapping,1
+militants,assassination,1
+militants,bombing,4
+militants,hijacking,1
+miscreants,bombing,1
+muslims,assassination,5
+muslims,bombing,13
+muslims,hijacking,1
+muslims,kidnapping,2
+palestinians,bombing,6
+palestinians,kidnapping,1
+people's liberation army,kidnapping,1
+shiv sena,assassination,1
+terrorists,assassination,4
+terrorists,bombing,9
+terrorists,hijacking,1
+terrorists,kidnapping,4
+tribesmen,bombing,1
+youths,bombing,1
+youths,hijacking,1

@@ -1,0 +1,42 @@
+source,target,weight
+bandits,Rai,17
+bandits,Tral,1
+coordination committee,Rai,3
+dissident,New Delhi,1
+dissident,Rai,19
+dissident,Tral,6
+extremists,Arnia,2
+extremists,Rai,61
+extremists,Tral,5
+gunmen,Arnia,1
+gunmen,Rai,12
+gunmen,Tral,7
+indian mujahideen,Rai,4
+iranians,Rai,19
+iranians,Tral,4
+jamaat e islami,Rai,3
+jamaat e islami,Tral,4
+jammu and kashmir liberation front,Rai,1
+militants,Arnia,1
+militants,Rai,139
+militants,Tral,12
+miscreants,Rai,4
+muslims,Arnia,2
+muslims,New Delhi,1
+muslims,Rai,348
+muslims,Tral,29
+naxalites,Rai,1
+palestinians,Rai,122
+palestinians,Tral,8
+separatists,Rai,19
+separatists,Tral,2
+shiv sena,Arnia,1
+shiv sena,Rai,44
+shiv sena,Tral,3
+tamils,Rai,8
+terrorists,Arnia,2
+terrorists,Rai,256
+terrorists,Tral,14
+youths,New Delhi,1
+youths,Rai,76
+youths,Tral,7
